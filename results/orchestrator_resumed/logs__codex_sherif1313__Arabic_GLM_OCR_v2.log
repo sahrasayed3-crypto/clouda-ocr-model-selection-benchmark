@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "<server-root>/scripts/run_official.py", line 202, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "<server-root>/scripts/run_official.py", line 170, in main
+    engine = build_engine(entry, args, base_revision)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<server-root>/scripts/run_official.py", line 58, in build_engine
+    return HfVlmEngine(
+           ^^^^^^^^^^^^
+  File "<server-root>/benchmark/runners/hf_engine.py", line 86, in __init__
+    self.dtype = DTORCH[dtype]
+                 ~~~~~~^^^^^^^
+KeyError: 'auto'

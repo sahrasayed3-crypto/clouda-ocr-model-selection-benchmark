@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T10:50:40.669+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1604,
+    "width": 1175
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.6565656565656566,
+    "cer_raw": 0.6635514018691588,
+    "wer_normalized": 0.7340425531914894,
+    "wer_raw": 0.7340425531914894
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nمرف الفاء : -\n\n# شهيد إلادباء\n\nإلى القرار على ضيم نخفَّ إلى\nمنْ الذي قد تمنى وهو في طرف\nفأثر الموت تحت المرهفات على\nوراح بنزع منه الروح عن جسد\n\n# أين السعادة ؟\n\nلاك عنها وفي بطون الكهوف\nوما في الوجود من ككل شيء\nومضوا يطلبونه افاذا هم\nولاذا ظلمُهم ايلوح إليهم من بعيد على فم الفيلسوف\n\n= ١٠٦ =",
+  "page_id": "MISRAJ-0112",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nمرف الفاء : -\n\n# شهيد إلادباء\n\nإلى القرار على ضيم نخفَّ إلى\nمنْ الذي قد تمنى وهو في طرف\nفأثر الموت تحت المرهفات على\nوراح بنزع منه الروح عن جسد\n\n# أين السعادة ؟\n\nلاك عنها وفي بطون الكهوف\nوما في الوجود من ككل شيء\nومضوا يطلبونه افاذا هم\nولاذا ظلمُهم ايلوح إليهم من بعيد على فم الفيلسوف\n\n= ١٠٦ =",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T10:50:25.256+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,1 @@
+Create an Interactive Slide from the Lenses. Extract all the text from this image, preserving the original reading order.

@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "total_pages": 462,
+  "unique_page_ids": 462,
+  "misraj_pages": 400,
+  "kitab_reviewed_pages": 62,
+  "manifest_sha256": "053225b08d9e027f45085f120920b58af6d7adc4b149d74db50f0c289ca7ef40",
+  "problems": [],
+  "warnings": [
+    "MISRAJ-0109: no Arabic characters in ground truth"
+  ]
+}

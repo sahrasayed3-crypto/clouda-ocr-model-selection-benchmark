@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T06:19:00.911+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1654
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.8840756558877364,
+    "cer_raw": 0.8761737089201878,
+    "wer_normalized": 0.9763779527559056,
+    "wer_raw": 0.9763779527559056
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "Burn lecture 3 ✖ التعريف: نخر تجلطي (موت) للأنسجة بسبب عوامل فيزيائية أو كيميائية. ✖ المسببات: ١. جسدي - بداني: أ. حراري ١. مباشرة: اللهب ٢. غير مباشرة: تحرق / سلق (اغتسل بالماء الساخن) ب. كهربائي جـ. إشعاعي ٢. المادة الكيميائية: أ. القلويات ب. الأحماض ملحوظة: حرق بارد ✖ تصنيف الحرق: أ. حسب المدى: الصغرى: >١٠٪ متوسط: ١٠ - ٣٠٪ كبير: <٣٠٪ ب. حسب العمق: الدرجة الأولى: البشرة فقط (الطبقة الأولى) الدرجة الثانية: الطبقة الأولى + جزء من الطبقة الثانية (باطن الجلد) الدرجة الثالثة: كل الجلد ✖ كيف يضر الحرق الجسر؟ ١. زيادة النفاذية للشعيرات الدموية ٢. تبخر الماء - يؤدي إلى الجفاف الشديد ✖ المضاعفات: أ- الجهاز: ١. الجهاز التنفسي: الاختناق، تشنج الحنجرة، تشنج قصبي، فشل التنفس من النوع الثاني ٢. الجهاز الدوري: ✖ Definition: Coagulative necrosis of tissues due to physical or chemical agents. ✖ Etiology: ١. Physical: A. Thermal ١. Direct: flame ٢. Indirect: scald B. Electrical C. Radiation ٢. Chemical: A. Alkalis B. Acids N.B. cold burn ✖ Classification of burn: A. According to extent Minor: <10% Intermediate: 10 - 30% Major: >30% B. According to depth First degree: epidermis only Second degree: epidermis part of dermis Third degree: all skin ✖ How does burn harm the body? ١- Increased Capillary permeability ٢- Evaporation of water → severe dehydration ✖ Complications: A. Systemic: ١. Respiratory: Asphyxia, laryngospasm, bronchospasm, type 2 Respiratory failure ٢. C.V.S. Shock hypovolemic https://egynursology.blogspot.com ١ عدد أحمد لا تنسوني من صالح الدعاء ....",
+  "page_id": "KITAB-R-0053",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "Burn lecture 3 ✖  التعريف: نخر تجلطي (موت) للأنسجة بسبب عوامل فيزيائية أو كيميائية. ✖  المسببات: ١. جسدي - بداني: أ. حراري ١. مباشرة: اللهب ٢. غير مباشرة: تحرق / سلق (اغتسل بالماء الساخن) ب. كهربائي جـ. إشعاعي ٢. المادة الكيميائية: أ. القلويات ب. الأحماض ملحوظة: حرق بارد ✖  تصنيف الحرق: أ. حسب المدى: الصغرى: >١٠٪ متوسط: ١٠ - ٣٠٪ كبير: <٣٠٪ ب. حسب العمق: الدرجة الأولى: البشرة فقط (الطبقة الأولى) الدرجة الثانية: الطبقة الأولى + جزء من الطبقة الثانية (باطن الجلد) الدرجة الثالثة: كل الجلد ✖  كيف يضر الحرق الجسر؟ ١. زيادة النفاذية للشعيرات الدموية ٢. تبخر الماء - يؤدي إلى الجفاف الشديد ✖  المضاعفات: أ- الجهاز: ١. الجهاز التنفسي: الاختناق، تشنج الحنجرة، تشنج قصبي، فشل التنفس من النوع الثاني ٢. الجهاز الدوري: ✖  Definition: Coagulative necrosis of tissues due to physical or chemical agents. ✖  Etiology: ١. Physical: A. Thermal ١. Direct: flame ٢. Indirect: scald B. Electrical C. Radiation ٢. Chemical: A. Alkalis B. Acids N.B. cold burn ✖  Classification of burn: A. According to extent Minor: <10% Intermediate: 10 - 30% Major: >30% B. According to depth First degree: epidermis only Second degree: epidermis part of dermis Third degree: all skin ✖  How does burn harm the body? ١- Increased Capillary permeability ٢- Evaporation of water → severe dehydration ✖  Complications: A. Systemic: ١. Respiratory: Asphyxia, laryngospasm, bronchospasm, type 2 Respiratory failure ٢. C.V.S. Shock hypovolemic https://egynursology.blogspot.com ١  عدد أحمد لا تنسوني من صالح الدعاء ....",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T06:18:23.734+00:00",
+  "status": "PASS"
+}

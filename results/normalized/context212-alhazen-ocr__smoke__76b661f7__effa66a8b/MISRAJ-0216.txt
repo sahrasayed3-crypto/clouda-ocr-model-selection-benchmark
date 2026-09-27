@@ -1,0 +1,1 @@
+Create a detailed table of the physical book, creating a structured summary of the data from the book's page. The table should preserve the original meaning and context, with items listed in order of appearance.# SUMMARY R+F][limitations®

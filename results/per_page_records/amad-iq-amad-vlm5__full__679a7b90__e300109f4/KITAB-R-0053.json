@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T02:30:47.446+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1654
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.87248322147651,
+    "cer_raw": 0.8667840375586855,
+    "wer_normalized": 0.9606299212598425,
+    "wer_raw": 0.9606299212598425
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "Burn lecture 3\n* التعريف:\nنخر تجلطي (موت) للأنسجة بسبب عوامل فيزيائية\nأو كيميائية.\n* المسببات:\n١. جسدي - بدني:\nأ. حراري\n١. مباشرة: اللهب\n٢. غير مباشرة: تحرق / سلق (أغتسل بالماء الساخن)\nب. كهربائي\nج. إشعاعي\n٢. المادة الكيميائية :\nأ. القلويات\nب. الأحماض\nملحوظة : حرق بارد\n* تصنيف الحرق:\nأ. حسب المدى:\nالصغرى: <١٠٪\nمتوسط: ٣٠-١٠٪\nكبيري: >٣٠٪\nب. حسب العمق :\nالدرجة الأولى: البشرة فقط (الطبقة الاولى)\nالدرجة الثانية: الطبقة الاولي + جزء من الطبقة\nالثانية (باطن الجلد)\nالدرجة الثالثة: كل الجلد\n* كيف يضر الحرق الجسم؟\n١. زيادة النفاذية للشعيرات الدموية\n٢. تبخر الماء → يؤدي الي الجفاف الشديد\n* المضاعفات:\nأ- الجهاز:\n١. الجهاز التنفسي:\nالاختناق ، تشنج الحنجرة ، تشنج قصبي ، فشل\nالتنفس من النوع الثاني\n٢. الجهاز الدوري:\n* Definition:\nCoagulative necrosis of tissues due to physical\nor chemical agents.\n* Etiology:\n1. Physical:\nA. Thermal\n1. Direct: flame\n2. Indirect: scald\nB. Electrical\nC. Radiation\n2. Chemical:\nA. Alkalis\nB. Acids\nN.B. cold burn\n* Classification of burn:\nA. According to extent\nMinor:<10 %\nIntermediate: 10 - 30%\nMajor: >30%\nB. According to depth\nFirst degree: epidermis only\nSecond degree: epidermis part of dermis\nThird degree: all skin\n* How does burn harm the body?\n1- Increased Capillary permeability\n2- Evaporation of water → severe\ndehydration\n* Complications:\nA. Systemic:\n1. Respiratory:\nAsphyxia, laryngospasm, bronchospasm, type\n2 Respiratory failure\n2. C.V.S.\nShock hypovolemic\n١ https://egynursology.blogspot.com\nلا تنسونى من صالح الدعاء ....\nعلاء أحمد",
+  "page_id": "KITAB-R-0053",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "Burn lecture 3\n* التعريف:\nنخر تجلطي (موت) للأنسجة بسبب عوامل فيزيائية\nأو كيميائية.\n* المسببات:\n١. جسدي - بدني:\nأ. حراري\n١. مباشرة: اللهب\n٢. غير مباشرة: تحرق / سلق (أغتسل بالماء الساخن)\nب. كهربائي\nج. إشعاعي\n٢. المادة الكيميائية :\nأ. القلويات\nب. الأحماض\nملحوظة : حرق بارد\n* تصنيف الحرق:\nأ. حسب المدى:\nالصغرى: <١٠٪\nمتوسط: ٣٠-١٠٪\nكبيري: >٣٠٪\nب. حسب العمق :\nالدرجة الأولى: البشرة فقط (الطبقة الاولى)\nالدرجة الثانية: الطبقة الاولي + جزء من الطبقة\nالثانية (باطن الجلد)\nالدرجة الثالثة: كل الجلد\n* كيف يضر الحرق الجسم؟\n١. زيادة النفاذية للشعيرات الدموية\n٢. تبخر الماء → يؤدي الي الجفاف الشديد\n* المضاعفات:\nأ- الجهاز:\n١. الجهاز التنفسي:\nالاختناق ، تشنج الحنجرة ، تشنج قصبي ، فشل\nالتنفس من النوع الثاني\n٢. الجهاز الدوري:\n* Definition:\nCoagulative necrosis of tissues due to physical\nor chemical agents.\n* Etiology:\n1. Physical:\nA. Thermal\n1. Direct: flame\n2. Indirect: scald\nB. Electrical\nC. Radiation\n2. Chemical:\nA. Alkalis\nB. Acids\nN.B. cold burn\n* Classification of burn:\nA. According to extent\nMinor:<10 %\nIntermediate: 10 - 30%\nMajor: >30%\nB. According to depth\nFirst degree: epidermis only\nSecond degree: epidermis part of dermis\nThird degree: all skin\n* How does burn harm the body?\n1- Increased Capillary permeability\n2- Evaporation of water → severe\ndehydration\n* Complications:\nA. Systemic:\n1. Respiratory:\nAsphyxia, laryngospasm, bronchospasm, type\n2 Respiratory failure\n2. C.V.S.\nShock hypovolemic\n١ https://egynursology.blogspot.com\nلا تنسونى من صالح الدعاء ....\nعلاء أحمد",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T02:30:32.652+00:00",
+  "status": "PASS"
+}

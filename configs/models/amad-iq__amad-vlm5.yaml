@@ -1,0 +1,26 @@
+model_id: amad-iq/amad-vlm5
+pinned_revision: bb481308f8776cb7e6e5a12f2cca448ab528b89c
+revision_resolved_on: "2026-09-19"
+architecture: "Qwen2_5_VLForConditionalGeneration (model_type qwen2_5_vl, 7B: hidden 3584)"
+base_model: Qwen/Qwen2.5-VL-7B-Instruct
+processor_class: Qwen2_5_VLProcessor
+tokenizer_class: Qwen2Tokenizer
+required_transformers_version: ">=5.14.1 (config transformers_version=5.14.1)"
+required_custom_code: false
+recommended_dtype: bfloat16
+recommended_attention_backend: default (flash-attention-2 optional; not mandated by card)
+image_input_format: image via chat template content part; PNG supported
+documented_ocr_prompt: "Extract the text in the image. Give me the final text, nothing else."
+documented_ocr_prompt_source: model card quickstart code example
+generation_parameters:
+  max_new_tokens: 4096
+  do_sample: false
+  repetition_penalty: 1.05
+  source: model card code example
+special_stop_tokens: standard Qwen eos; output may contain <think>...</think> (plain text, not special tokens)
+expected_output_type: page transcription; thinking model - strip everything up to and including the LAST </think> before scoring
+license: apache-2.0
+license_notes: card YAML license field
+known_runtime_requirements: thinking-block post-processing (documented in card)
+estimated_vram_class: medium (~18-20 GB bf16, 7B-class)
+notes: Thinking model; same documented invocation and think-handling as amad-vlm6 (same lineage).

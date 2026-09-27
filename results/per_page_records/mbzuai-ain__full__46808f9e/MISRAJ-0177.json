@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T01:18:58.838+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1600,
+    "width": 1236
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.9254566882734236,
+    "cer_raw": 0.9256101146721553,
+    "wer_normalized": 0.9178082191780822,
+    "wer_raw": 0.9178082191780822
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "Modern Sport\nVol.21 No.2 ,2022\nPublished 30/06/2022\nOpen Access\n2. Nolte, LJ; Nowson, CA: Dyke, AC: (1997) \" Effect of dietary fat reduction and increased aerobic exercise on cardiovascular – risk factors. Clin – Exp – Pharmacol – Physiol ,24 (11) 901 – 3.",
+  "page_id": "MISRAJ-0177",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "Modern Sport\nVol.21 No.2 ,2022\nPublished 30/06/2022\nOpen Access\n2. Nolte, LJ; Nowson, CA: Dyke, AC: (1997) \" Effect of dietary fat reduction and increased aerobic exercise on cardiovascular – risk factors. Clin – Exp – Pharmacol – Physiol ,24 (11) 901 – 3.",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T01:18:55.742+00:00",
+  "status": "PASS"
+}

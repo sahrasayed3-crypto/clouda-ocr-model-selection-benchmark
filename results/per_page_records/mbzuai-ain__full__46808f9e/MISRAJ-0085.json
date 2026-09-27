@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T00:21:17.013+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1455,
+    "width": 941
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.93713163064833,
+    "cer_raw": 0.9395085066162571,
+    "wer_normalized": 0.9694915254237289,
+    "wer_raw": 0.9728813559322034
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "(١٧)ودُونُهُ مسْرَحَ طرفِ العينِ خمصانةٌ ترفلُ في حجلين(١) أحسنُ مِنْ يمشي على رجلين(٢) لوْ ضمَّ بشرٌ بينها وبينى",
+  "page_id": "MISRAJ-0085",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "(١٧)ودُونُهُ مسْرَحَ طرفِ العينِ خمصانةٌ ترفلُ في حجلين(١) أحسنُ مِنْ يمشي على رجلين(٢) لوْ ضمَّ بشرٌ بينها وبينى",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T00:21:13.923+00:00",
+  "status": "PASS"
+}

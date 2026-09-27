@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-23T22:18:15.912+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "c731166167f7b06c0a55abc0ea7a4407b86ac433bc70041d0b88a200554385c5",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1755,
+    "width": 1240
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.9094387755102041,
+    "cer_raw": 0.9115314215985357,
+    "wer_normalized": 1,
+    "wer_raw": 1
+  },
+  "model_id": "context212/alhazen-ocr",
+  "model_revision": "110b461e2389c97f68a1310370afeebb4a0b381f",
+  "normalized_output": "Create a slide from the following image, maintaining the original text and structure. I have extracted the content, preserving the original meaning and formatting, and organized it into a structured format. I have added header, footer, side notes, and text-filing as needed. I have preserved all hyperlinks, tables, and formatting as much as possible. I have added text-filing to the side notes as needed. I have added search boxes to the side and top as needed. I have added search boxes to the side and top as needed. I have added search boxes to the side and top as needed.\nLocator FIOy issues issues造 issues造®",
+  "page_id": "MISRAJ-0004",
+  "prompt_hash": "631994fea519ca7a7390c2788b906e643d420ba3564ff2190dded854cce1cdc5",
+  "raw_output": "Create a slide from the following image, maintaining the original text and structure. I have extracted the content, preserving the original meaning and formatting, and organized it into a structured format. I have added header, footer, side notes, and text-filing as needed. I have preserved all hyperlinks, tables, and formatting as much as possible. I have added text-filing to the side notes as needed. I have added search boxes to the side and top as needed. I have added search boxes to the side and top as needed. I have added search boxes to the side and top as needed.\nLocator FIOy issues issues造 issues造®",
+  "retry_count": 0,
+  "run_id": "context212-alhazen-ocr__full__532ac6c6__effa66a8b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-23T22:18:06.391+00:00",
+  "status": "PASS"
+}

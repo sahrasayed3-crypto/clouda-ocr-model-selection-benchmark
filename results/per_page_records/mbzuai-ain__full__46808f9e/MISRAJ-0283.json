@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T02:37:41.446+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2550,
+    "width": 1650
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.8307086614173228,
+    "cer_raw": 0.8571428571428571,
+    "wer_normalized": 0.8333333333333334,
+    "wer_raw": 0.8333333333333334
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "اجمل قصيد جزل عن الحوي\n هل تريد التفاعل مع هذه المساهمة؟ كل ما عليك هو إنشاء حساب جديد بوضع\n خطوات أو تسجيل الدخول للمتابعة.\n مرحبا بك في الويب\n المواضيع الأكثر شعبية\n الصفحة التالية",
+  "page_id": "MISRAJ-0283",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "اجمل قصيد جزل عن الحوي\n\t\t\tهل تريد التفاعل مع هذه المساهمة؟ كل ما عليك هو إنشاء حساب جديد بوضع\n\tخطوات أو تسجيل الدخول للمتابعة.\n\t\t\t\tمرحبا بك في الويب\n\t\t\tالمواضيع الأكثر شعبية\n\t\t\t\tالصفحة التالية",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T02:37:37.586+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,3 @@
+Create metadata from the original image, preserving the original reading order. We'll extract the text from this PDF page, preserving the source's original structure.
+
+1. Primary Translation: Rثاب® issues造®

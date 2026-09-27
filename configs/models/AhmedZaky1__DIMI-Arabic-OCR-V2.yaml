@@ -1,0 +1,27 @@
+model_id: AhmedZaky1/DIMI-Arabic-OCR-V2
+pinned_revision: 8a7a293343fc91a6427a8c7a3ce69352870ea8a1
+revision_resolved_on: "2026-09-19"
+architecture: Qwen2.5-VL-7B-Instruct + LoRA adapters (PEFT repo)
+base_model:
+  - AhmedZaky1/DIMI-Arabic-OCR   # v1, itself fine-tuned from:
+  - Qwen/Qwen2.5-VL-7B-Instruct  # original base
+processor_class: Qwen2_5_VLProcessor
+tokenizer_class: Qwen2Tokenizer
+required_transformers_version: "Qwen2.5-VL-capable transformers (>=4.49); card example uses unsloth FastVisionModel"
+required_custom_code: false
+adapter_requirements: "peft (or unsloth); card example shows load_in_4bit=true - benchmark policy: run unquantized bf16 on L40S (48 GB), quantization only as an explicitly reported separate configuration"
+recommended_dtype: bfloat16 (unquantized for official run)
+recommended_attention_backend: default (flash-attention-2 optional)
+image_input_format: image via chat template content part; PNG supported
+documented_ocr_prompt: "استخرج النص العربي والأرقام الموجودة في هذه الصورة بدقة عالية."
+documented_ocr_prompt_translation: "Extract the Arabic text and numerals in this image with high precision."
+documented_ocr_prompt_source: model card usage example (instruction variable)
+generation_parameters:
+  source: "not documented on card; benchmark will use greedy decoding and record it"
+special_stop_tokens: standard Qwen eos
+expected_output_type: Arabic text + numerals transcription
+license: apache-2.0
+license_notes: card YAML license field
+known_runtime_requirements: PEFT adapter loading; base v1 weights resolution at GPU phase
+estimated_vram_class: medium (~18-20 GB bf16, 7B base + adapter)
+notes: Trained on 11,000 Arabic text images incl. qari-0.2.2-news dataset; card reports vs-base improvements.

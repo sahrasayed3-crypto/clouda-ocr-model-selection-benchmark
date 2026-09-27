@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T00:22:27.864+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1063,
+    "width": 650
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.875,
+    "cer_raw": 0.8923913043478261,
+    "wer_normalized": 0.7272727272727273,
+    "wer_raw": 0.7272727272727273
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "136\n كيف تجذب اهتمام وتقدير الناس\n ١١٩\n فن الاهتمام\n ١٢١\n أفضل الشخصيات\n ١٢٣\n قيمتك محفوظة\n ١٢٥\n تستحق الاحترام\n ١٣٩\n نبذة عن الكاتب\n ١٣١\n المحتويات\n ***",
+  "page_id": "MISRAJ-0091",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "136\n\t\t\tكيف تجذب اهتمام وتقدير الناس\n\t\t\t\t١١٩\n\t\t\tفن الاهتمام\n\t\t\t\t١٢١\n\t\t\tأفضل الشخصيات\n\t\t\t\t١٢٣\n\t\t\tقيمتك محفوظة\n\t\t\t\t١٢٥\n\t\t\tتستحق الاحترام\n\t\t\t\t١٣٩\n\t\t\tنبذة عن الكاتب\n\t\t\t\t١٣١\n\t\t\tالمحتويات\n\t\t\t\t***",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T00:22:22.953+00:00",
+  "status": "PASS"
+}

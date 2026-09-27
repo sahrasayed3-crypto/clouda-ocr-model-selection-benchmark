@@ -1,0 +1,35 @@
+{
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "scope": "full",
+  "per_model": {
+    "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+    "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+    "run_state": "COMPLETE",
+    "total_pages": 462,
+    "successful_pages": 462,
+    "failed_pages": 0,
+    "failure_rate": 0,
+    "failure_breakdown": {
+      "FAIL": 0,
+      "INVALID_OUTPUT": 0,
+      "MODEL_LOAD_ERROR": 0,
+      "OOM": 0,
+      "TIMEOUT": 0
+    },
+    "mean_cer_raw": 2.1409988197882575,
+    "mean_wer_raw": 2.7318687094793597,
+    "mean_cer_normalized": 2.1633874501299935,
+    "mean_wer_normalized": 2.7284524847504508
+  },
+  "failures": {
+    "total_failures": 0,
+    "by_status": {
+      "FAIL": [],
+      "OOM": [],
+      "TIMEOUT": [],
+      "MODEL_LOAD_ERROR": [],
+      "INVALID_OUTPUT": []
+    },
+    "details": []
+  }
+}

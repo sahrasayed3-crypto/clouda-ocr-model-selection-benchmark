@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T04:11:00.339+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 875,
+    "width": 1241
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.1981981981981982,
+    "cer_raw": 0.20059880239520958,
+    "wer_normalized": 0.3157894736842105,
+    "wer_raw": 0.3157894736842105
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "مجلوبة من «https://ar.wikipedia.org/w/index.php?title=الشركة_الوطنية_الإيرانية_النفط&oldid=68542322»\nفي كومنز مواد ذات صلة بـ الشركة الوطنية الإيرانية النفط .\nمجلوبة من «https://ar.wikipedia.org/w/index.php?title=الشركة_الوطنية_الإيرانية_النفط&oldid=68542322»\npershina\n10",
+  "page_id": "MISRAJ-0287",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "مجلوبة من «https://ar.wikipedia.org/w/index.php?title=الشركة_الوطنية_الإيرانية_النفط&oldid=68542322»\nفي كومنز مواد ذات صلة بـ الشركة الوطنية الإيرانية النفط .\nمجلوبة من «https://ar.wikipedia.org/w/index.php?title=الشركة_الوطنية_الإيرانية_النفط&oldid=68542322»\npershina\n10",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T04:10:57.345+00:00",
+  "status": "PASS"
+}

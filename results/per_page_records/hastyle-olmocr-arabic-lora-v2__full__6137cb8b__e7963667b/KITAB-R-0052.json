@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T08:31:35.239+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1653
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.611878453038674,
+    "cer_raw": 0.7115384615384616,
+    "wer_normalized": 0.4603174603174603,
+    "wer_raw": 0.4603174603174603
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n<table>\n <tr>\n <th>التحقيق</th>\n <th>تاريخ التسليم</th>\n <th>الخطوة</th>\n </tr>\n <tr>\n <td></td>\n <td></td>\n <td>.1</td>\n </tr>\n <tr>\n <td></td>\n <td></td>\n <td>.2</td>\n </tr>\n <tr>\n <td></td>\n <td></td>\n <td>.3</td>\n </tr>\n <tr>\n <td></td>\n <td></td>\n <td>.4</td>\n </tr>\n <tr>\n <td></td>\n <td></td>\n <td>.5</td>\n </tr>\n <tr>\n <td></td>\n <td></td>\n <td>.6</td>\n </tr>\n</table>\n\n![Our 6 Step Process](page_0_0_768_768.png)\n\nتمهيد\n\n- سؤال البحث (واضح - محدد -مفهوم-وقادر على الإجابة عليه)\n\n![1](page_0_0_768_768.png)",
+  "page_id": "KITAB-R-0052",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n<table>\n  <tr>\n    <th>التحقيق</th>\n    <th>تاريخ التسليم</th>\n    <th>الخطوة</th>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td>.1</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td>.2</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td>.3</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td>.4</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td>.5</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td>.6</td>\n  </tr>\n</table>\n\n![Our 6 Step Process](page_0_0_768_768.png)\n\nتمهيد\n\n- سؤال البحث (واضح - محدد -مفهوم-وقادر على الإجابة عليه)\n\n![1](page_0_0_768_768.png)",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T08:31:10.616+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T00:59:50.876+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1600,
+    "width": 1236
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.5699047619047619,
+    "cer_raw": 0.576360225140713,
+    "wer_normalized": 0.6016260162601627,
+    "wer_raw": 0.6016260162601627
+  },
+  "model_id": "amad-iq/amad-vlm6",
+  "model_revision": "7daf90cd5e5706173e159c88ca4e6dc2475a485e",
+  "normalized_output": "Modern Sport\nVol.21 No.1 , 2022\nP-ISSN: 1992-0091\nE-ISSN: 2708-3454\nPublished 31/03/2022\nOpen Access\n4- الخاتمة\nاستنتجت الباحثتان:\n1. بناء مقياس انماط الاشراف التربوي للمشرفين في\nمديريةات تربية المنطقة الجنوبية .\n2. يعد المقياس الحالي اداة لمكتف عن المستوى الايجابي من\nانماط الاشراف التربوي وبكافة محاوره .\nوتوصي الباحثتان ب:\n1. استعمال هذه المقياس بالمعديريات التربية في العراق كافة .\n2. اجراء دراسات مشابهة لمقیاس (انماط الاشراف التربوي)\nوبكافة محاورة للاستفادة من هذه الدراسة .\nReferences:\n1.Al-Mahdi, S Majdi; 2019educational research\nmethods,( Cairo, Arab Thought House,).\n2.Abu Hatab Fouad , Sadiq Amal ;\n2010,Research Methods and Statistical\nAnalysis Methods, Cairo, Anglo-Egyptian\nLibrary,\n3.Wuhayb Abdul Razzaq ; 2006,Building a\nmeasure of psychological compatibility among\nthe advanced players for some individualism in\nIraq, Master's thesis, College of Physical\nEducation and Sports Sciences, University of\nDiyala, .\nيوضح مقياس انعام الاشراف التربوي بصورته النهائية\nجامعة بغداد\nكلية التربية الرياضية للبنات\nالدراسات العليا / الماجستير\nعزيزي المشرف ...................................................... المحترم.\nفي كلية ................................................................. جامعة بغداد.\n-1- بين بديل مقياس انماط الاشراف التربوي يتكون من عبارات لكل منها خمسة إجابات (بدائل) كل إجابة منها تمثل\nرأيك عن مضمونها.\n2- أن إجاباتك هي لأغراض البحث العلمي فقط وستحظى بسرية تامة .\n3- أرجو عدم إجابة العبارات بأكثر من خيار واحد في الفقرة المحددة.\n4- أرجو عدم إهمال إجابة أي عبارة من الفقرات لكون ذلك سيؤثر سلباً على آرائك.\nطالبة الماجستير\nالمشرفة\n114\nModern Sport | https://jcopew.uobaghdad.edu.iq/\n4. Al-Samarrai N Bassem , Al-Baldawi\nTariq ; 1987,Building a scale of attitudes\ntowards the teaching profession, The Arab\nJournal of Educational Research, Vol 57, Is 20.\n5. Sisalem Rudat , others ; 2007,Educational supervision in Palestine, p1,\nAfaq Library, Gaza, .\n6.Tafesh Mahmoud ; 1988,Issues of educational\nsupervision, Gaza Publishing House, Gaza, .\n7.Thfir Namous Al-taiee ; 2021,The role of the\nspecialized supervisor in developing the\nteaching skills of physical education teachers in\nsecondary schools affiliated to the Diyala\nEducation Directorate, Modern Sports ,Vol 20 , no 4 ,\nhttps://doi.org/10.54702/msj.2021.20.4.0010\n8.Hamed M Zakir and Al-Ashryfi I Riyadh ; 2021,A proposed vision of the role of the\nEducational Supervisor specialized in the\ndevelopment of education teachers Sports in\nMosul during the Koruna pandemic from their\npoint of view , Modern Sports ,Vol 20 , no 4 ,\nhttps://jcopew.uobaghdad.edu.iq/index.php/spor\nt/article/view/724\nوقات الفرح\nوالسلامة والمراعاة للآباء",
+  "page_id": "MISRAJ-0184",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "Modern Sport\nVol.21 No.1 , 2022\nP-ISSN: 1992-0091\nE-ISSN: 2708-3454\nPublished 31/03/2022\nOpen Access\n4- الخاتمة\nاستنتجت الباحثتان:\n1. بناء مقياس انماط الاشراف التربوي للمشرفين في\nمديريةات تربية المنطقة الجنوبية .\n2. يعد المقياس الحالي اداة لمكتف عن المستوى الايجابي من\nانماط الاشراف التربوي وبكافة محاوره .\nوتوصي الباحثتان ب:\n1. استعمال هذه المقياس بالمعديريات التربية في العراق كافة .\n2. اجراء دراسات مشابهة لمقیاس (انماط الاشراف التربوي)\nوبكافة محاورة للاستفادة من هذه الدراسة .\nReferences:\n1.Al-Mahdi, S Majdi; 2019educational research\nmethods,( Cairo, Arab Thought House,).\n2.Abu Hatab Fouad , Sadiq Amal ;\n2010,Research Methods and Statistical\nAnalysis Methods, Cairo, Anglo-Egyptian\nLibrary,\n3.Wuhayb Abdul Razzaq ; 2006,Building a\nmeasure of psychological compatibility among\nthe advanced players for some individualism in\nIraq, Master's thesis, College of Physical\nEducation and Sports Sciences, University of\nDiyala, .\nيوضح مقياس انعام الاشراف التربوي بصورته النهائية\nجامعة بغداد\nكلية التربية الرياضية للبنات\nالدراسات العليا / الماجستير\nعزيزي المشرف ...................................................... المحترم.\nفي كلية ................................................................. جامعة بغداد.\n-1- بين بديل مقياس انماط الاشراف التربوي يتكون من عبارات لكل منها خمسة إجابات (بدائل) كل إجابة منها تمثل\nرأيك عن مضمونها.\n2- أن إجاباتك هي لأغراض البحث العلمي فقط وستحظى بسرية تامة .\n3- أرجو عدم إجابة العبارات بأكثر من خيار واحد في الفقرة المحددة.\n4- أرجو عدم إهمال إجابة أي عبارة من الفقرات لكون ذلك سيؤثر سلباً على آرائك.\nطالبة الماجستير\nالمشرفة\n114\nModern Sport | https://jcopew.uobaghdad.edu.iq/\n4. Al-Samarrai N Bassem , Al-Baldawi\nTariq ; 1987,Building a scale of attitudes\ntowards the teaching profession, The Arab\nJournal of Educational Research, Vol 57, Is 20.\n5. Sisalem Rudat , others ; 2007,Educational supervision in Palestine, p1,\nAfaq Library, Gaza, .\n6.Tafesh Mahmoud ; 1988,Issues of educational\nsupervision, Gaza Publishing House, Gaza, .\n7.Thfir Namous Al-taiee ; 2021,The role of the\nspecialized supervisor in developing the\nteaching skills of physical education teachers in\nsecondary schools affiliated to the Diyala\nEducation Directorate, Modern Sports ,Vol 20 , no 4 ,\nhttps://doi.org/10.54702/msj.2021.20.4.0010\n8.Hamed M Zakir and Al-Ashryfi I Riyadh ; 2021,A proposed vision of the role of the\nEducational Supervisor specialized in the\ndevelopment of education teachers Sports in\nMosul during the Koruna pandemic from their\npoint of view , Modern Sports ,Vol 20 , no 4 ,\nhttps://jcopew.uobaghdad.edu.iq/index.php/spor\nt/article/view/724\nوقات الفرح\nوالسلامة والمراعاة للآباء",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm6__full__7ae0bd41__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T00:59:29.491+00:00",
+  "status": "PASS"
+}

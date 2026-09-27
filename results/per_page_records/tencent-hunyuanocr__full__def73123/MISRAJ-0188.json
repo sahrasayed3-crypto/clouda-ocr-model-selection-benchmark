@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-19T22:29:44.076+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "d91de23a12429d2f406f5d90fb243b53851241d203ac77544ed263a17d33fc96",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1600,
+    "width": 1236
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.8788927335640139,
+    "cer_raw": 0.8788927335640139,
+    "wer_normalized": 0.9260204081632653,
+    "wer_raw": 0.9260204081632653
+  },
+  "model_id": "tencent/HunyuanOCR",
+  "model_revision": "47644ecc4fc854efa4f505155158831f36773ee4",
+  "normalized_output": "Education, 479th Edition, Baghdad, House of Books and Documents.\n\n3Brian Mackenzie; (2005), 101. Performance Evaluation Test. London EC1V 7EP'\n\n4Fadhil kamil and tamara sabah; (2018), effectiveness of proposed teaching curriculum in Acquiring and keeping basic skills high serve in Badminton and physical and functional Indications, modern sport, Vol.17, No.1, https://jcopew.uobaghdad.edu.iq/index.php/port/article/view/6\n\n5Hassan Nouri Tarish and (others); (2016), special exercises using rubber ropes and their effect on some physical and kinematic variables, partial time and distance running 100m for ages 14-15 years, Modern Sport, Volume 15, Issue 1, https://jcopew.uobaghdad.edu.iq/index.php/port/article/view/89/83\n\n6Nabila Abdel Rahman (et al.); (1986), Science related to field and track competitions, Cairo, Dar Al Maaref.\n\n7Omosguard Bo;(1999), physical training for badminton, edited by boys, timdholadt, Denmark holing beak publisher, AIS.\n\n8Sareeh Abd al-Karim al-Fadhli; (2010), Biomechanics applications in sports training and motor performance, 1st edition, Amman, Dar Degla.\n\n9Sareeh Abdel Karim Al-Fadhli; (2020), Encyclopaedia of the Application of Mechanical Laws in Sports Sciences, 1st Edition, Cairo, AlKitab Center for Publishing.\n\n## :الخاتمة\n\nاستنتجات الباحثتان مايلي:\n\n1كانت للتدريبات المستخدمة الاثر الايجابي في تحسن القابليات اللاهوائية الخاصة في فعالية عدو 400 متر حرة.\n\n2.ان التدريبات بتحديد السرعة الحرجة والقدرة الميكانيكية ساهم بشكل كبير في تطوير للإنجاز ركض 400 متر حرة شباب.\n\n3.ان تطور عينة البحث خلال استخدام تدريبات السرعة الحرجة والقدرة الميكانيكية ادى الى تطوير القابليات اللاهوائية مما ادى الى تقليل زمن الانجاز للفعالية عدو 400 متر حرة.\n\n4.ان استخدام الاحمال التدريبية وفق تحديد المدة الزمنية للسرعة الحرجة والقدرة الميكانيكية وتنظيم اوقات الجهد والراحة له تأثير في تطوير متغيرات القابليات اللاهوائية الخاصة بعدو 400 م مر حرة.\n\n## لذلك توصي الباحثتان:\n\n1.يمكن تطبيق اجراءات البحث مع باقي الفئات العمرية والمسابقات الأخرى للألعاب القوى لمعرفة مدى جدوى هذه التدريبات في تطوير الانجاز.\n\n2.الاهتمام بتطوير القابليات البدنية لدى لاعبين بما يتناسب مع قدراتهم وفناتهم العمرية ولكلا الجنسين.\n\n3.التقدم والاستمرار بأجراء التدريبات بتحديد السرعة الحرجة والقدرة الميكانيكية مع مراعاة القوى الأخرى لغرض تقليل الفجوة بين الارقام العالمية المحفقة والرقم العراقي.\n\n4.اجراء دراسات على فعاليات واللعاب اخرى تستخدم تدريبات السرعة الحرجة والقدرة الميكانيكية\n\n## References:\n\n1Abdul Rahman Abdul Hamid Zaher; (2000), Physiology of Jumping and Jumping Competitions, 1st Edition, Cairo, Book Center for Publishing.\n\n2Ali Salman Abdul-Tarifi; (2013), Applied Tests in Physical - Kinetic - Skilled Physical",
+  "page_id": "MISRAJ-0188",
+  "prompt_hash": "16f15a15a1eb51817cd30c2dbf607e77a9f67eec41448526aab5aeb87f2311d4",
+  "raw_output": "Education, 479th Edition, Baghdad, House of Books and Documents.\n\n3Brian Mackenzie; (2005), 101. Performance Evaluation Test. London EC1V 7EP'\n\n4Fadhil kamil and tamara sabah; (2018), effectiveness of proposed teaching curriculum in Acquiring and keeping basic skills high serve in Badminton and physical and functional Indications, modern sport, Vol.17, No.1, https://jcopew.uobaghdad.edu.iq/index.php/port/article/view/6\n\n5Hassan Nouri Tarish and (others); (2016), special exercises using rubber ropes and their effect on some physical and kinematic variables, partial time and distance running 100m for ages 14-15 years, Modern Sport, Volume 15, Issue 1, https://jcopew.uobaghdad.edu.iq/index.php/port/article/view/89/83\n\n6Nabila Abdel Rahman (et al.); (1986), Science related to field and track competitions, Cairo, Dar Al Maaref.\n\n7Omosguard Bo;(1999), physical training for badminton, edited by boys, timdholadt, Denmark holing beak publisher, AIS.\n\n8Sareeh Abd al-Karim al-Fadhli; (2010), Biomechanics applications in sports training and motor performance, 1st edition, Amman, Dar Degla.\n\n9Sareeh Abdel Karim Al-Fadhli; (2020), Encyclopaedia of the Application of Mechanical Laws in Sports Sciences, 1st Edition, Cairo, AlKitab Center for Publishing.\n\n## :الخاتمة\n\nاستنتجات الباحثتان مايلي:\n\n1كانت للتدريبات المستخدمة الاثر الايجابي في تحسن القابليات اللاهوائية الخاصة في فعالية عدو 400 متر حرة.\n\n2.ان التدريبات بتحديد السرعة الحرجة والقدرة الميكانيكية ساهم بشكل كبير في تطوير للإنجاز ركض 400 متر حرة شباب.\n\n3.ان تطور عينة البحث خلال استخدام تدريبات السرعة الحرجة والقدرة الميكانيكية ادى الى تطوير القابليات اللاهوائية مما ادى الى تقليل زمن الانجاز للفعالية عدو 400 متر حرة.\n\n4.ان استخدام الاحمال التدريبية وفق تحديد المدة الزمنية للسرعة الحرجة والقدرة الميكانيكية وتنظيم اوقات الجهد والراحة له تأثير في تطوير متغيرات القابليات اللاهوائية الخاصة بعدو 400 م مر حرة.\n\n## لذلك توصي الباحثتان:\n\n1.يمكن تطبيق اجراءات البحث مع باقي الفئات العمرية والمسابقات الأخرى للألعاب القوى لمعرفة مدى جدوى هذه التدريبات في تطوير الانجاز.\n\n2.الاهتمام بتطوير القابليات البدنية لدى لاعبين بما يتناسب مع قدراتهم وفناتهم العمرية ولكلا الجنسين.\n\n3.التقدم والاستمرار بأجراء التدريبات بتحديد السرعة الحرجة والقدرة الميكانيكية مع مراعاة القوى الأخرى لغرض تقليل الفجوة بين الارقام العالمية المحفقة والرقم العراقي.\n\n4.اجراء دراسات على فعاليات واللعاب اخرى تستخدم تدريبات السرعة الحرجة والقدرة الميكانيكية\n\n## References:\n\n1Abdul Rahman Abdul Hamid Zaher; (2000), Physiology of Jumping and Jumping Competitions, 1st Edition, Cairo, Book Center for Publishing.\n\n2Ali Salman Abdul-Tarifi; (2013), Applied Tests in Physical - Kinetic - Skilled Physical",
+  "retry_count": 0,
+  "run_id": "tencent-hunyuanocr__full__def73123",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-19T22:29:23.928+00:00",
+  "status": "PASS"
+}

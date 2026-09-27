@@ -1,0 +1,1 @@
+Create a study guide for the chapter "Burn" from an e-book. Extract all the text from this page, preserving the original reading order.

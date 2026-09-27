@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T01:36:10.267+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 875,
+    "width": 1241
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.05952380952380952,
+    "cer_raw": 0.06692913385826772,
+    "wer_normalized": 0.21951219512195122,
+    "wer_raw": 0.24390243902439024
+  },
+  "model_id": "amad-iq/amad-vlm6",
+  "model_revision": "7daf90cd5e5706173e159c88ca4e6dc2475a485e",
+  "normalized_output": "الأسئلة المتداولة عن Samsung الهواتف المحمولة. تعرّف على المزيد عن \"عند إنشاء توقيع للبريد الإلكتروني،\nتظهر لي نافذة مثبتقة عن الحجم الزائد. ماذا يجب أن أفعل؟\" من خلال دعم .Samsung Bluetooth*\nكيف يمكنني إدراج بطاقة SIM بجهاز Galaxy Zoom SM-C1010 ؟",
+  "page_id": "MISRAJ-0293",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "الأسئلة المتداولة عن Samsung الهواتف المحمولة. تعرّف على المزيد عن \"عند إنشاء توقيع للبريد الإلكتروني،\nتظهر لي نافذة مثبتقة عن الحجم الزائد. ماذا يجب أن أفعل؟\" من خلال دعم .Samsung Bluetooth*\nكيف يمكنني إدراج بطاقة SIM بجهاز Galaxy Zoom SM-C1010 ؟",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm6__full__7ae0bd41__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T01:36:07.828+00:00",
+  "status": "PASS"
+}

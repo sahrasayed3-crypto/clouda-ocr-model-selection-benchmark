@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T08:09:07.988+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2200,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.44146767617938265,
+    "cer_raw": 0.4560791157649796,
+    "wer_normalized": 0.46543778801843316,
+    "wer_raw": 0.46543778801843316
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n<table>\n <tr>\n <th>التكاليف</th>\n <th>المصدر</th>\n <th>البند</th>\n </tr>\n <tr>\n <td></td>\n <td>تمويل ذاتي</td>\n <td>منحة</td>\n </tr>\n <tr>\n <td colspan=\"3\">المعدات والأجهزة</td>\n </tr>\n <tr>\n <td colspan=\"3\">المصروفات السابقة للتشغيل</td>\n </tr>\n <tr>\n <td colspan=\"3\">المواد الخام لانطلاق المشروع</td>\n </tr>\n <tr>\n <td colspan=\"3\">أول دفعة من ايجار المحل</td>\n </tr>\n <tr>\n <td colspan=\"3\">تكاليف تأسيسية أخرى</td>\n </tr>\n <tr>\n <td colspan=\"3\">المجموع</td>\n </tr>\n</table>\n\n* قد يتم دفع أجرة المحل لأول ست أشهر، أو سنة، أو حسب الاتفاق مع صاحب المحل؛ لذا يتم احتساب الدفعة الأولى في التكاليف التأسيسية بغض النظر عن الفترة التي يشملها الإيجار.\n\n** تكاليف تأسيسية أخرى من الممكن أن تشمل حجز السيرفر، تكلفة إنشاء حساب على مواقع البيع الإلكترونية أو أي تكاليف أخرى برصده لها مبلغ في بداية المشروع ولا تندرج تحت البند الموضحة في الجدول أعلاه.\n\n## 4.2 التكاليف الثابتة والمتغيرة\n\n<table>\n <tr>\n <th>التكاليف المتغيرة</th>\n <th>التكاليف الثابتة</th>\n </tr>\n <tr>\n <td>التكاليف</td>\n <td>البند</td>\n </tr>\n <tr>\n <td>0</td>\n <td>0</td>\n </tr>\n <tr>\n <td>المجموع</td>\n <td>المجموع</td>\n </tr>\n</table>\n\nتم تصميم واعداد النموذج بواسطة : أحمد عاشور\nAh.ashour232@gmail.com",
+  "page_id": "KITAB-R-0020",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n<table>\n  <tr>\n    <th>التكاليف</th>\n    <th>المصدر</th>\n    <th>البند</th>\n  </tr>\n  <tr>\n    <td></td>\n    <td>تمويل ذاتي</td>\n    <td>منحة</td>\n  </tr>\n  <tr>\n    <td colspan=\"3\">المعدات والأجهزة</td>\n  </tr>\n  <tr>\n    <td colspan=\"3\">المصروفات السابقة للتشغيل</td>\n  </tr>\n  <tr>\n    <td colspan=\"3\">المواد الخام لانطلاق المشروع</td>\n  </tr>\n  <tr>\n    <td colspan=\"3\">أول دفعة من ايجار المحل</td>\n  </tr>\n  <tr>\n    <td colspan=\"3\">تكاليف تأسيسية أخرى</td>\n  </tr>\n  <tr>\n    <td colspan=\"3\">المجموع</td>\n  </tr>\n</table>\n\n* قد يتم دفع أجرة المحل لأول ست أشهر، أو سنة، أو حسب الاتفاق مع صاحب المحل؛ لذا يتم احتساب الدفعة الأولى في التكاليف التأسيسية بغض النظر عن الفترة التي يشملها الإيجار.\n\n** تكاليف تأسيسية أخرى من الممكن أن تشمل حجز السيرفر، تكلفة إنشاء حساب على مواقع البيع الإلكترونية أو أي تكاليف أخرى برصده لها مبلغ في بداية المشروع ولا تندرج تحت البند الموضحة في الجدول أعلاه.\n\n## 4.2 التكاليف الثابتة والمتغيرة\n\n<table>\n  <tr>\n    <th>التكاليف المتغيرة</th>\n    <th>التكاليف الثابتة</th>\n  </tr>\n  <tr>\n    <td>التكاليف</td>\n    <td>البند</td>\n  </tr>\n  <tr>\n    <td>0</td>\n    <td>0</td>\n  </tr>\n  <tr>\n    <td>المجموع</td>\n    <td>المجموع</td>\n  </tr>\n</table>\n\nتم تصميم واعداد النموذج بواسطة : أحمد عاشور\nAh.ashour232@gmail.com",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T08:08:08.703+00:00",
+  "status": "PASS"
+}

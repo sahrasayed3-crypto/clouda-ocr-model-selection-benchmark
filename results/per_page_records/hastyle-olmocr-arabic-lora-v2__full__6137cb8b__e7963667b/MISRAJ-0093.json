@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T10:40:12.730+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1650,
+    "width": 1275
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.34553775743707094,
+    "cer_raw": 0.34553775743707094,
+    "wer_normalized": 0.31343283582089554,
+    "wer_raw": 0.31343283582089554
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nقالتها بنبرة مازحة أدهشته ولكنه عقد حاجبيه سائلاً\nبتوجس بدلاً من ان يضحك\n\n- أتشاهدين الكثير من السلسلات؟\n\n- لا.. هذا الأسلوب نتبعه في عائلتي.. لا نسمح لأي أحد\nبالاقتراب دون أن يكون من مستوانا الاجتماعي.. نحن\nعائلة حقيرة إلى حدٍ ما\n\nقالت جملتها الأخيرة مبتسمة ابتسامة ألمت فكيها ونغزت\nقلبه.. وضع كوبه على الطاولة التي تفصل بينهما واقترب\nمنها سائلاً بجدية\n\nروائع الروايات الرومانسية\n470",
+  "page_id": "MISRAJ-0093",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nقالتها بنبرة مازحة أدهشته ولكنه عقد حاجبيه سائلاً\nبتوجس بدلاً من ان يضحك\n\n- أتشاهدين الكثير من السلسلات؟\n\n- لا.. هذا الأسلوب نتبعه في عائلتي.. لا نسمح لأي أحد\nبالاقتراب دون أن يكون من مستوانا الاجتماعي.. نحن\nعائلة حقيرة إلى حدٍ ما\n\nقالت جملتها الأخيرة مبتسمة ابتسامة ألمت فكيها ونغزت\nقلبه.. وضع كوبه على الطاولة التي تفصل بينهما واقترب\nمنها سائلاً بجدية\n\nروائع الروايات الرومانسية\n470",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T10:39:53.951+00:00",
+  "status": "PASS"
+}

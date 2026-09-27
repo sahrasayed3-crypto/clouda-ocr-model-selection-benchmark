@@ -1,0 +1,73 @@
+{
+  "run_id": "loay-arabic-ocr-deepseek-ocr-2__smoke__2dc3d4a0",
+  "scope": "smoke",
+  "per_model": {
+    "model_id": "loay/Arabic-OCR-DeepSeek-OCR-2",
+    "run_id": "loay-arabic-ocr-deepseek-ocr-2__smoke__2dc3d4a0",
+    "run_state": "COMPLETE",
+    "total_pages": 5,
+    "successful_pages": 0,
+    "failed_pages": 5,
+    "failure_rate": 1,
+    "failure_breakdown": {
+      "FAIL": 0,
+      "INVALID_OUTPUT": 0,
+      "MODEL_LOAD_ERROR": 5,
+      "OOM": 0,
+      "TIMEOUT": 0
+    }
+  },
+  "failures": {
+    "total_failures": 5,
+    "by_status": {
+      "FAIL": [],
+      "OOM": [],
+      "TIMEOUT": [],
+      "MODEL_LOAD_ERROR": [
+        "KITAB-R-0002",
+        "MISRAJ-0084",
+        "MISRAJ-0166",
+        "MISRAJ-0185",
+        "MISRAJ-0216"
+      ],
+      "INVALID_OUTPUT": []
+    },
+    "details": [
+      {
+        "page_id": "KITAB-R-0002",
+        "status": "MODEL_LOAD_ERROR",
+        "exception_type": "StrictDataclassFieldValidationError",
+        "exception_message": "Validation error for field 'kv_lora_rank':\n    TypeError: Field 'kv_lora_rank' expected int, got NoneType (value: None)",
+        "retry_count": 0
+      },
+      {
+        "page_id": "MISRAJ-0084",
+        "status": "MODEL_LOAD_ERROR",
+        "exception_type": "StrictDataclassFieldValidationError",
+        "exception_message": "Validation error for field 'kv_lora_rank':\n    TypeError: Field 'kv_lora_rank' expected int, got NoneType (value: None)",
+        "retry_count": 0
+      },
+      {
+        "page_id": "MISRAJ-0166",
+        "status": "MODEL_LOAD_ERROR",
+        "exception_type": "StrictDataclassFieldValidationError",
+        "exception_message": "Validation error for field 'kv_lora_rank':\n    TypeError: Field 'kv_lora_rank' expected int, got NoneType (value: None)",
+        "retry_count": 0
+      },
+      {
+        "page_id": "MISRAJ-0185",
+        "status": "MODEL_LOAD_ERROR",
+        "exception_type": "StrictDataclassFieldValidationError",
+        "exception_message": "Validation error for field 'kv_lora_rank':\n    TypeError: Field 'kv_lora_rank' expected int, got NoneType (value: None)",
+        "retry_count": 0
+      },
+      {
+        "page_id": "MISRAJ-0216",
+        "status": "MODEL_LOAD_ERROR",
+        "exception_type": "StrictDataclassFieldValidationError",
+        "exception_message": "Validation error for field 'kv_lora_rank':\n    TypeError: Field 'kv_lora_rank' expected int, got NoneType (value: None)",
+        "retry_count": 0
+      }
+    ]
+  }
+}

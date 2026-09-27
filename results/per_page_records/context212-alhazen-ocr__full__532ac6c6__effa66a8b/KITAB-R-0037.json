@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-23T21:54:36.119+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "c731166167f7b06c0a55abc0ea7a4407b86ac433bc70041d0b88a200554385c5",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2017,
+    "width": 1430
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.891597510373444,
+    "cer_raw": 0.8911917098445595,
+    "wer_normalized": 0.9971590909090909,
+    "wer_raw": 0.9971590909090909
+  },
+  "model_id": "context212/alhazen-ocr",
+  "model_revision": "110b461e2389c97f68a1310370afeebb4a0b381f",
+  "normalized_output": "Create a structured summary of the following content, extracting all information and presenting it in a readable format. The primary goal is to understand the original context and meaning, preserving the source's wording and context. I have analyzed the source, identified the text's sections, and extracted the content, reconstructing it in a logical order. I have also preserved all of the original formatting, including language, fit, and presentation. I have re-ordered the sections to maintain the original document's flow, creating a new visual structure. I have added a header, preserved the text's original meaning, and added a text-translation. I have added a summary, create a table of contents, and add a chain-of-citations to help you follow the original text's logic. I have not add or remove any text, only re-organize it. I have preserved all of the text's original meaning and context, with a detailed analysis of the text's linguistic features. I have preserved all of the text's original meaning and context, with a detailed analysis of the text's linguistic features.\nKEY: Rثابeyond-fy]xE]xEfiy issues issues issues生物 issues issues issues issues生物 issues BIO issues ım®",
+  "page_id": "KITAB-R-0037",
+  "prompt_hash": "631994fea519ca7a7390c2788b906e643d420ba3564ff2190dded854cce1cdc5",
+  "raw_output": "Create a structured summary of the following content, extracting all information and presenting it in a readable format. The primary goal is to understand the original context and meaning, preserving the source's wording and context. I have analyzed the source, identified the text's sections, and extracted the content, reconstructing it in a logical order. I have also preserved all of the original formatting, including language, fit, and presentation. I have re-ordered the sections to maintain the original document's flow, creating a new visual structure. I have added a header, preserved the text's original meaning, and added a text-translation. I have added a summary, create a table of contents, and add a chain-of-citations to help you follow the original text's logic. I have not add or remove any text, only re-organize it. I have preserved all of the text's original meaning and context, with a detailed analysis of the text's linguistic features. I have preserved all of the text's original meaning and context, with a detailed analysis of the text's linguistic features.\nKEY: Rثابeyond-fy]xE]xEfiy issues issues issues生物 issues issues issues issues生物 issues BIO issues  ım®",
+  "retry_count": 0,
+  "run_id": "context212-alhazen-ocr__full__532ac6c6__effa66a8b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-23T21:54:19.424+00:00",
+  "status": "PASS"
+}

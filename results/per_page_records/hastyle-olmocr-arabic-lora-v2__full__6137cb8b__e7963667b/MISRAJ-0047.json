@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T09:46:14.830+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1600,
+    "width": 1132
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.3597692862292718,
+    "cer_raw": 0.3597692862292718,
+    "wer_normalized": 0.5411255411255411,
+    "wer_raw": 0.5411255411255411
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nاعترفت الإلهة ثيث هي إلهه الولادة لأطفال الإلهة والملوك (1)، ويشتق اسمها Tnn.t من tni بمعنى \"الأرض المرتفعة\" (2)، وأتصل اسمها بالإله ثاتن إله مصر السفلي وصاحب نظرية الخلق في منف (3)، وقد صورت على هيئة امرأة ترتدي غطاء الرأس النمس أحيانا أو ريشتين حلزويتين متقاسطعتين في أقصى طرفيهما أحيانا أخرى (4).\n\nثالثوثر أرمنت الأول يتكون من زوج وزوجتيه، ولكن دراسة بعض الكتل المنقوشة في معبد أرمنت المتهم والذي يرجع بناءه إلى عهد الملك \"امممحات الأول\"، أوجدت هذه الدراسة احتمال أن أيونيت-ثيث الإلهة واحدة باسم مزدوج وتقترح أو الإهتين مندمجتين تحت اسم واحد وحينئذ يكون ثنائيًا مقدسًا وليس ثالوثًا ومن هذه الكتل، كتلة يظهر فيها إلهه واقفه وبجانبها يقف أحد الملوك ونجد أن هذه الإلهة قد صورت في هذا التتش كالإلهة واحدة واستخدم لها ضمير الفرد، ولكنها باسم مزدوج وعلى هذه الكتل نجد السطرتين التاليين على الترتيب:\n\n![image-0.jpeg](page_0_0_1007_158.jpeg)\n\nTwny.t tnn.t ink mwt.k\n\n\"قول بواسطة أيونيت-ثيث أنا أمك\"\n\nm irtt pn nt\n\n\"أنا أرضعتك هذا اللبن الذي (من صدري) ....\" (6)\n\nDerchian –Urtel ,op.cit.,p.8.\nWb. V. 374,1 ;Derchian –Urtel ,op.cit.,p.76.\nBrugsch ,Religion und Mythologie des alter Aegypter, Leipzig 1885 ,p.316.\nMond, R.& Myers, op. cit., p. 169,pl. XCIX,3.\n\n(1) ولعل هذا يفسر اتخاذها رمز وهو عبارة عن رحم بقرة.\n(2) Wb. V. 374,1 ;Derchian –Urtel ,op.cit.,p.76.\n(3) Brugsch ,Religion und Mythologie des alter Aegypter, Leipzig 1885 ,p.316.\n(4) فانسو دوما: المرجع السابق،ص. 48.\n(5)",
+  "page_id": "MISRAJ-0047",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nاعترفت الإلهة ثيث هي إلهه الولادة لأطفال الإلهة والملوك (1)، ويشتق اسمها Tnn.t من tni بمعنى \"الأرض المرتفعة\" (2)، وأتصل اسمها بالإله ثاتن إله مصر السفلي وصاحب نظرية الخلق في منف (3)، وقد صورت على هيئة امرأة ترتدي غطاء الرأس النمس أحيانا أو ريشتين حلزويتين متقاسطعتين في أقصى طرفيهما أحيانا أخرى (4).\n\nثالثوثر أرمنت الأول يتكون من زوج وزوجتيه، ولكن دراسة بعض الكتل المنقوشة في معبد أرمنت المتهم والذي يرجع بناءه إلى عهد الملك \"امممحات الأول\"، أوجدت هذه الدراسة احتمال أن أيونيت-ثيث الإلهة واحدة باسم مزدوج وتقترح أو الإهتين مندمجتين تحت اسم واحد وحينئذ يكون ثنائيًا مقدسًا وليس ثالوثًا ومن هذه الكتل، كتلة يظهر فيها إلهه واقفه وبجانبها يقف أحد الملوك ونجد أن هذه الإلهة قد صورت في هذا التتش كالإلهة واحدة واستخدم لها ضمير الفرد، ولكنها باسم مزدوج وعلى هذه الكتل نجد السطرتين التاليين على الترتيب:\n\n![image-0.jpeg](page_0_0_1007_158.jpeg)\n\nTwny.t tnn.t ink mwt.k\n\n\"قول بواسطة أيونيت-ثيث أنا أمك\"\n\nm irtt pn nt\n\n\"أنا أرضعتك هذا اللبن الذي (من صدري) ....\" (6)\n\nDerchian –Urtel ,op.cit.,p.8.\nWb. V. 374,1 ;Derchian –Urtel ,op.cit.,p.76.\nBrugsch ,Religion und Mythologie des alter Aegypter, Leipzig 1885 ,p.316.\nMond, R.& Myers, op. cit., p. 169,pl. XCIX,3.\n\n(1) ولعل هذا يفسر اتخاذها رمز وهو عبارة عن رحم بقرة.\n(2) Wb. V. 374,1 ;Derchian –Urtel ,op.cit.,p.76.\n(3) Brugsch ,Religion und Mythologie des alter Aegypter, Leipzig 1885 ,p.316.\n(4) فانسو دوما: المرجع السابق،ص. 48.\n(5)",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T09:45:21.984+00:00",
+  "status": "PASS"
+}

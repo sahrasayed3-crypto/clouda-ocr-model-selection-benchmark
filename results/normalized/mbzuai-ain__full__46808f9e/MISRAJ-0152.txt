@@ -1,0 +1,6 @@
+Math - 12 Advanced - Term 3
+ أوراق عمل الفصل الثالث - 24-2023 - مادة الرياضيات
+ الشرح والحلول على موقع الأكاديمية https://www.manasra.academy
+ أوجد
+ $${\int_1^2}{\frac{\sqrt{x^2-4}}{x^2}}dx\;,\;x\geq2$$
+ $${\int_2^3}{\frac{2}{\sqrt{x^2-4}}}dx\;,\;x\geq2$$

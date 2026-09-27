@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T01:19:43.695+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1600,
+    "width": 1236
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.8955507970497264,
+    "cer_raw": 0.8953626634958383,
+    "wer_normalized": 0.9310897435897436,
+    "wer_raw": 0.9310897435897436
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "Modern Sport\nVol.21, No.3, 2022\nPublished 30/09/2022\nOpen Access\n\nDOI: https://doi.org/10.54702/msj.2022.21.3.0128\nتأثير الرسوم المتحركة في تطوير بعض القدرات الادراكية الحس-حركية والبدنية لدى اطفال طيف التوحد\nعمر(6-7) سنوات\nجناد ماجد احمد 1 ، نهاد محمد علوان 2\n1\\ كلية التربية البدنية وعلوم الرياضة للبنات / جامعة بغداد\n2\\Physical Education and Sport Sciences college for women, University of Baghdad\nالبريد الالكتروني: 1\\ janadmajid@gmail.com , 2\\ nuhad_71@yahoo.com\nReceived: 01/08/2022, Accepted: 16/09/2022\n\nThis work is licensed under a Creative Commons Attribution 4.0 International License.",
+  "page_id": "MISRAJ-0181",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "Modern Sport\nVol.21, No.3, 2022\nPublished 30/09/2022\nOpen Access\n\nDOI: https://doi.org/10.54702/msj.2022.21.3.0128\nتأثير الرسوم المتحركة في تطوير بعض القدرات الادراكية الحس-حركية والبدنية لدى اطفال طيف التوحد\nعمر(6-7) سنوات\nجناد ماجد احمد 1 ، نهاد محمد علوان 2\n1\\ كلية التربية البدنية وعلوم الرياضة للبنات / جامعة بغداد\n2\\Physical Education and Sport Sciences college for women, University of Baghdad\nالبريد الالكتروني: 1\\ janadmajid@gmail.com , 2\\ nuhad_71@yahoo.com\nReceived: 01/08/2022, Accepted: 16/09/2022\n\nThis work is licensed under a Creative Commons Attribution 4.0 International License.",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T01:19:34.452+00:00",
+  "status": "PASS"
+}

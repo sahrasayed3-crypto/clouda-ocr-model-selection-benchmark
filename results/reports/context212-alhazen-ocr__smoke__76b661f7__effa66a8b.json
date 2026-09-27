@@ -1,0 +1,35 @@
+{
+  "run_id": "context212-alhazen-ocr__smoke__76b661f7__effa66a8b",
+  "scope": "smoke",
+  "per_model": {
+    "model_id": "context212/alhazen-ocr",
+    "run_id": "context212-alhazen-ocr__smoke__76b661f7__effa66a8b",
+    "run_state": "COMPLETE",
+    "total_pages": 5,
+    "successful_pages": 5,
+    "failed_pages": 0,
+    "failure_rate": 0,
+    "failure_breakdown": {
+      "FAIL": 0,
+      "INVALID_OUTPUT": 0,
+      "MODEL_LOAD_ERROR": 0,
+      "OOM": 0,
+      "TIMEOUT": 0
+    },
+    "mean_cer_raw": 1.2683811751649094,
+    "mean_wer_raw": 1.0242299794661192,
+    "mean_cer_normalized": 1.2664108786964179,
+    "mean_wer_normalized": 1.0242299794661192
+  },
+  "failures": {
+    "total_failures": 0,
+    "by_status": {
+      "FAIL": [],
+      "OOM": [],
+      "TIMEOUT": [],
+      "MODEL_LOAD_ERROR": [],
+      "INVALID_OUTPUT": []
+    },
+    "details": []
+  }
+}

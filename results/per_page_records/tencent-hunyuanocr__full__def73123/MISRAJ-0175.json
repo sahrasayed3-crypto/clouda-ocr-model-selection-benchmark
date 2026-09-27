@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-19T22:18:35.164+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "d91de23a12429d2f406f5d90fb243b53851241d203ac77544ed263a17d33fc96",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2263,
+    "width": 1600
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.4176904176904177,
+    "cer_raw": 0.4176904176904177,
+    "wer_normalized": 0.4909090909090909,
+    "wer_raw": 0.4909090909090909
+  },
+  "model_id": "tencent/HunyuanOCR",
+  "model_revision": "47644ecc4fc854efa4f505155158831f36773ee4",
+  "normalized_output": "# أمثال العرب\n\nمن أمثال العرب: النار تحت الرماد\n\nيقال: (النار تحت الرماد)\n\nيعني يظن الإنسان أن هذه المسألة صحيحة، فإذا فتش عنها وعرف مأخذها وجد أنها على نار حارقة لمخالفتها للأدلة.\n\n[المصدر: شرح التعريفات الشرعية للأحكام الخمسة الأصولية]",
+  "page_id": "MISRAJ-0175",
+  "prompt_hash": "16f15a15a1eb51817cd30c2dbf607e77a9f67eec41448526aab5aeb87f2311d4",
+  "raw_output": "# أمثال العرب\n\nمن أمثال العرب: النار تحت الرماد\n\nيقال: (النار تحت الرماد)\n\nيعني يظن الإنسان أن هذه المسألة صحيحة، فإذا فتش عنها وعرف مأخذها وجد أنها على نار حارقة لمخالفتها للأدلة.\n\n[المصدر: شرح التعريفات الشرعية للأحكام الخمسة الأصولية]",
+  "retry_count": 0,
+  "run_id": "tencent-hunyuanocr__full__def73123",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-19T22:18:32.440+00:00",
+  "status": "PASS"
+}

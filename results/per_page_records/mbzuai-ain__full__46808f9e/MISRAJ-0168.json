@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T01:16:37.473+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2263,
+    "width": 1600
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.9844020797227037,
+    "cer_raw": 0.9845094664371773,
+    "wer_normalized": 0.9944289693593314,
+    "wer_raw": 0.9944289693593314
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "الشيخ صالحُ بْن عبد الله العُصْيْمِي",
+  "page_id": "MISRAJ-0168",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "الشيخ صالحُ بْن عبد الله العُصْيْمِي",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T01:16:36.004+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T06:18:23.678+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1653
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.7044198895027625,
+    "cer_raw": 0.7060439560439561,
+    "wer_normalized": 0.8095238095238095,
+    "wer_raw": 0.8095238095238095
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "التحقيق تاريخ التسليم الخطوة 1 2 3 4 5 6 تمهد سؤال البحث (واضح - محدد - مفهوم - وقادر على الإجابة عليه) .......................................................................................................................",
+  "page_id": "KITAB-R-0052",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "التحقيق تاريخ التسليم الخطوة 1 2 3 4 5 6 تمهد سؤال البحث (واضح - محدد - مفهوم - وقادر على الإجابة عليه) .......................................................................................................................",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T06:18:19.423+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T01:17:58.240+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2550,
+    "width": 1650
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.1695059625212947,
+    "cer_raw": 0.14623655913978495,
+    "wer_normalized": 0.54375,
+    "wer_raw": 0.54375
+  },
+  "model_id": "amad-iq/amad-vlm6",
+  "model_revision": "7daf90cd5e5706173e159c88ca4e6dc2475a485e",
+  "normalized_output": "<table>\n <thead>\n <tr>\n <th></th>\n <th></th>\n <th></th>\n <th></th>\n <th></th>\n </tr>\n <tr>\n <th>الموضوع</th>\n <th>كاتب الموضوع</th>\n <th>المنتدى</th>\n <th>الردود</th>\n <th>آخر مشاركة</th>\n </tr>\n </thead>\n <tbody>\n <tr>\n <td>الليمون والعسل وقاية من الأنفلونزا</td>\n <td>أميرة الورد</td>\n <td>الطب والحياة</td>\n <td>6</td>\n <td>PM 03:23 03-02-2013</td>\n </tr>\n <tr>\n <td>وقاية وعلاج بطعم البرتقال</td>\n <td>أميرة الورد</td>\n <td>الطب والحياة</td>\n <td>5</td>\n <td>AM 02:40 02-17-2012</td>\n </tr>\n <tr>\n <td>الأفوكادو وقاية من الأمراض</td>\n <td>أميرة الورد</td>\n <td>الطب والحياة</td>\n <td>8</td>\n <td>PM 11:18 10-24-2010</td>\n </tr>\n <tr>\n <td>دراسة: الحشيش يعرض المراهقين للأمراض العقلية اليوم- الوكالات قالت دراسة جديدة إن تعاطي المراهقين للحشيش والماريجوانا قد يضعهم في خطر الإصابة بالأمراض العقلية الخطيرة مثل انفصام الشخصية والهلوسة وا</td>\n <td>مساعد سالم</td>\n <td>الطب والحياة</td>\n <td>2</td>\n <td>PM 09:19 03-14-2010</td>\n </tr>\n <tr>\n <td>دراسة توصي بتعديل حمية مرضى السكري</td>\n <td>د. ماجد ال غريب</td>\n <td>الطب والحياة</td>\n <td>9</td>\n <td>PM 08:22 12-24-2008</td>\n </tr>\n </tbody>\n</table>",
+  "page_id": "MISRAJ-0235",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th></th>\n      <th></th>\n      <th></th>\n      <th></th>\n    </tr>\n    <tr>\n      <th>الموضوع</th>\n      <th>كاتب الموضوع</th>\n      <th>المنتدى</th>\n      <th>الردود</th>\n      <th>آخر مشاركة</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>الليمون والعسل وقاية من الأنفلونزا</td>\n      <td>أميرة الورد</td>\n      <td>الطب والحياة</td>\n      <td>6</td>\n      <td>PM 03:23 03-02-2013</td>\n    </tr>\n    <tr>\n      <td>وقاية وعلاج بطعم البرتقال</td>\n      <td>أميرة الورد</td>\n      <td>الطب والحياة</td>\n      <td>5</td>\n      <td>AM 02:40 02-17-2012</td>\n    </tr>\n    <tr>\n      <td>الأفوكادو وقاية من الأمراض</td>\n      <td>أميرة الورد</td>\n      <td>الطب والحياة</td>\n      <td>8</td>\n      <td>PM 11:18 10-24-2010</td>\n    </tr>\n    <tr>\n      <td>دراسة: الحشيش يعرض المراهقين للأمراض العقلية اليوم- الوكالات قالت دراسة جديدة إن تعاطي المراهقين للحشيش والماريجوانا قد يضعهم في خطر الإصابة بالأمراض العقلية الخطيرة مثل انفصام الشخصية والهلوسة وا</td>\n      <td>مساعد سالم</td>\n      <td>الطب والحياة</td>\n      <td>2</td>\n      <td>PM 09:19 03-14-2010</td>\n    </tr>\n    <tr>\n      <td>دراسة توصي بتعديل حمية مرضى السكري</td>\n      <td>د. ماجد ال غريب</td>\n      <td>الطب والحياة</td>\n      <td>9</td>\n      <td>PM 08:22 12-24-2008</td>\n    </tr>\n  </tbody>\n</table>",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm6__full__7ae0bd41__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T01:17:42.786+00:00",
+  "status": "PASS"
+}

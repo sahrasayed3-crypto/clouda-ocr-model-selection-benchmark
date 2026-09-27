@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T01:19:49.280+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "c731166167f7b06c0a55abc0ea7a4407b86ac433bc70041d0b88a200554385c5",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1653,
+    "width": 1167
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 1.2715736040609138,
+    "cer_raw": 1.254606365159129,
+    "wer_normalized": 1.8162162162162163,
+    "wer_raw": 1.8162162162162163
+  },
+  "model_id": "context212/alhazen-ocr",
+  "model_revision": "110b461e2389c97f68a1310370afeebb4a0b381f",
+  "normalized_output": "We have a new understanding of the concept of 'calm' in religious texts. In the Quran, the term 'calm' is used to describe the spiritual and moral state of the soul, which is the basis for the concept of 'spiritual calm' in Islamic thought. This new understanding of 'calm' is not just a passive state of mind, but an active and dynamic process of spiritual development. It is a state of being that is in constant interaction with the divine, and it is the foundation for all aspects of Islamic spirituality. This new understanding of 'calm' is not just a metaphor, but a lived reality that is central to the Islamic worldview. It is a state of being that is characterized by a deep sense of awe, reverence, and humility for the divine, and it is the basis for all aspects of Islamic life, from prayer and meditation to art and literature. In this new understanding, 'calm' is not just a state of mind, but a way of being in the world, a way of living in harmony with the divine, and a way of experiencing the beauty and wonder of the universe. We can see this new understanding of 'calm' in the Quran, in the teachings of the Islamic mystics, in the art and literature of the Islamic world, and in the lives of the saints and mystics of Islam. This new understanding of 'calm' is not just a metaphor, but a lived reality that is central to the Islamic worldview. It is a state of being that is characterized by a deep sense of awe, reverence, and humility for the divine, and it is the basis for all aspects of Islamic life, from prayer and meditation to art and literature. In this new understanding, 'calm' is not just a state of mind, but a way of living in harmony with the divine, and a way of experiencing the beauty and wonder of the universe. We can see this new understanding of 'calm' in the Quran, in the teachings of the Islamic mystics, in the art and literature of the Islamic world, and in the lives of the saints and mystics of Islam.",
+  "page_id": "MISRAJ-0101",
+  "prompt_hash": "631994fea519ca7a7390c2788b906e643d420ba3564ff2190dded854cce1cdc5",
+  "raw_output": "We have a new understanding of the concept of 'calm' in religious texts. In the Quran, the term 'calm' is used to describe the spiritual and moral state of the soul, which is the basis for the concept of 'spiritual calm' in Islamic thought. This new understanding of 'calm' is not just a passive state of mind, but an active and dynamic process of spiritual development. It is a state of being that is in constant interaction with the divine, and it is the foundation for all aspects of Islamic spirituality. This new understanding of 'calm' is not just a metaphor, but a lived reality that is central to the Islamic worldview. It is a state of being that is characterized by a deep sense of awe, reverence, and humility for the divine, and it is the basis for all aspects of Islamic life, from prayer and meditation to art and literature. In this new understanding, 'calm' is not just a state of mind, but a way of being in the world, a way of living in harmony with the divine, and a way of experiencing the beauty and wonder of the universe. We can see this new understanding of 'calm' in the Quran, in the teachings of the Islamic mystics, in the art and literature of the Islamic world, and in the lives of the saints and mystics of Islam. This new understanding of 'calm' is not just a metaphor, but a lived reality that is central to the Islamic worldview. It is a state of being that is characterized by a deep sense of awe, reverence, and humility for the divine, and it is the basis for all aspects of Islamic life, from prayer and meditation to art and literature. In this new understanding, 'calm' is not just a state of mind, but a way of living in harmony with the divine, and a way of experiencing the beauty and wonder of the universe. We can see this new understanding of 'calm' in the Quran, in the teachings of the Islamic mystics, in the art and literature of the Islamic world, and in the lives of the saints and mystics of Islam.",
+  "retry_count": 0,
+  "run_id": "context212-alhazen-ocr__full__532ac6c6__effa66a8b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T01:19:13.169+00:00",
+  "status": "PASS"
+}

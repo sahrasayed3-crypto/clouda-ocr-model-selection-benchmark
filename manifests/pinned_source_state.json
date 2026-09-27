@@ -1,0 +1,14 @@
+{
+  "dococr": {
+    "dataset": "Misraj/Misraj-DocOCR",
+    "revision": "7177bf70f77ce259890d6af0bef53f18faf26ec9",
+    "expected_rows": 400,
+    "selection": "rows 0-399 of pinned train split (parquet order)"
+  },
+  "kitab_reviewed": {
+    "dataset": "Misraj/KITAB_pdf_to_markdown_reviewed",
+    "revision": "8890d721c660cd027839bc8bc48634552fe7aec6",
+    "expected_rows": 62,
+    "selection": "rows 0-61 of pinned train split (parquet order)"
+  }
+}

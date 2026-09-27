@@ -1,0 +1,35 @@
+{
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__smoke__30cc9f79__e4ce1736c",
+  "scope": "smoke",
+  "per_model": {
+    "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+    "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__smoke__30cc9f79__e4ce1736c",
+    "run_state": "COMPLETE",
+    "total_pages": 5,
+    "successful_pages": 5,
+    "failed_pages": 0,
+    "failure_rate": 0,
+    "failure_breakdown": {
+      "FAIL": 0,
+      "INVALID_OUTPUT": 0,
+      "MODEL_LOAD_ERROR": 0,
+      "OOM": 0,
+      "TIMEOUT": 0
+    },
+    "mean_cer_raw": 1.1807566373265561,
+    "mean_wer_raw": 3.2791910436768035,
+    "mean_cer_normalized": 1.435116006100488,
+    "mean_wer_normalized": 3.2719081305115374
+  },
+  "failures": {
+    "total_failures": 0,
+    "by_status": {
+      "FAIL": [],
+      "OOM": [],
+      "TIMEOUT": [],
+      "MODEL_LOAD_ERROR": [],
+      "INVALID_OUTPUT": []
+    },
+    "details": []
+  }
+}

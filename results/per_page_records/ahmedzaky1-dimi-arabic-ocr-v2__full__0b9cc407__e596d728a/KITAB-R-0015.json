@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T07:48:42.149+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1500,
+    "width": 2000
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.28798842257597684,
+    "cer_raw": 0.29004329004329005,
+    "wer_normalized": 0.3523809523809524,
+    "wer_raw": 0.3523809523809524
+  },
+  "model_id": "AhmedZaky1/DIMI-Arabic-OCR-V2",
+  "model_revision": "8a7a293343fc91a6427a8c7a3ce69352870ea8a1",
+  "normalized_output": "أنواع التجارة الإلكترونية Business to Consumers التوزيع المباشر و هي تتم بين المنتج او الموزع و المستهلك النهائي للبضاعة ويتم السداد فيهاً من خلال كروت الائتمان او الحسابات الرقمية. Business to Business التجارة بين الشركات يتم التعامل فيها بين شركتين من قطاع الأعمال كما يتم السداد من خلال التحويل المباشر او الحسابات الرقمية او البنوك الالكترونية. Government to Consumer التجارة من الحكومة لألفراد تتيح للحكومة التعامل مع المستهلك مباشرة, مثل: تجديد رخصة السيارات Government to Business التجارة من الحكومة للشركات تتيح للحكومة التعامل مع الشركات مثل: نظام السجل التجاري للشركات و اشراف الحكومة على شركات التأمين Networks and Communication Department",
+  "page_id": "KITAB-R-0015",
+  "prompt_hash": "1a01c6a2e324aea55bbe84b519f619bbd06bb6fc4e435e9f51f478712de22b7c",
+  "raw_output": "أنواع التجارة الإلكترونية Business to Consumers التوزيع المباشر و هي تتم بين المنتج او الموزع و المستهلك النهائي للبضاعة ويتم السداد فيهاً من خلال كروت الائتمان او الحسابات الرقمية. Business to Business التجارة بين الشركات يتم التعامل فيها بين شركتين من قطاع الأعمال كما يتم السداد من خلال التحويل المباشر او الحسابات الرقمية او البنوك الالكترونية. Government to Consumer التجارة من الحكومة لألفراد تتيح للحكومة التعامل مع المستهلك مباشرة, مثل: تجديد رخصة السيارات Government to Business التجارة من الحكومة للشركات تتيح للحكومة التعامل مع الشركات مثل: نظام السجل التجاري للشركات و اشراف الحكومة على شركات التأمين Networks and Communication Department",
+  "retry_count": 0,
+  "run_id": "ahmedzaky1-dimi-arabic-ocr-v2__full__0b9cc407__e596d728a",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T07:48:28.820+00:00",
+  "status": "PASS"
+}

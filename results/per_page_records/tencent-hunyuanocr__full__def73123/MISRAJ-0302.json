@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-19T22:56:39.008+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "d91de23a12429d2f406f5d90fb243b53851241d203ac77544ed263a17d33fc96",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2140,
+    "width": 1326
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.2755102040816326,
+    "cer_raw": 0.2993421052631579,
+    "wer_normalized": 0.36363636363636365,
+    "wer_raw": 0.38636363636363635
+  },
+  "model_id": "tencent/HunyuanOCR",
+  "model_revision": "47644ecc4fc854efa4f505155158831f36773ee4",
+  "normalized_output": "\"لاف بايس\" ( بالاخليزية :\nLove Bites)، في أغنية بالاد لفرقة الهارد روك البريطانية ديف ليبارد من ألبومها لعام 1987 هستيريا . والأغنية المنفردة الوحيدة لديف ليبارد التي وصلت للمرتبة الأول على لاحظة بيلبورد هووت 100 حتى اليوم.",
+  "page_id": "MISRAJ-0302",
+  "prompt_hash": "16f15a15a1eb51817cd30c2dbf607e77a9f67eec41448526aab5aeb87f2311d4",
+  "raw_output": "\"لاف بايس\" ( بالاخليزية :\nLove Bites)، في أغنية بالاد لفرقة الهارد روك البريطانية ديف ليبارد من ألبومها لعام 1987 هستيريا . والأغنية المنفردة الوحيدة لديف ليبارد التي وصلت للمرتبة الأول على لاحظة بيلبورد هووت 100 حتى اليوم.",
+  "retry_count": 0,
+  "run_id": "tencent-hunyuanocr__full__def73123",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-19T22:56:36.534+00:00",
+  "status": "PASS"
+}

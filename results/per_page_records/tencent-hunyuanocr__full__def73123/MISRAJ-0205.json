@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-19T22:33:56.416+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "d91de23a12429d2f406f5d90fb243b53851241d203ac77544ed263a17d33fc96",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1754,
+    "width": 1241
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.31023316062176165,
+    "cer_raw": 0.41240478781284007,
+    "wer_normalized": 0.7361702127659574,
+    "wer_raw": 0.7361702127659574
+  },
+  "model_id": "tencent/HunyuanOCR",
+  "model_revision": "47644ecc4fc854efa4f505155158831f36773ee4",
+  "normalized_output": "<table><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>الموضوع</td><td>كاتب الموضوع</td><td>المتنـدي</td><td>مشاركات</td><td>آخر مشاركة</td></tr><tr><td>ال رمــمة الله \" علي سعيد معيض ال عطاء القرني في مدينة تبول</td><td>علي بن قحمان القرني</td><td>قسم الوفيات والتعازي</td><td>1</td><td>01:36 02-18-2021 PM</td></tr><tr><td>ال رمــة الله والدة \" محمد ضيف الله علي السعيد القرني في مدينة تبول</td><td>علي بن قحمان القرني</td><td>قسم الوفيات والتعازي</td><td>1</td><td>04:51 10-18-2020 PM</td></tr><tr><td>ال رمــة الله \" احمد عبدالله القرني \" بن عبثان في مدينة الرياض</td><td>علي بن قحمان القرني</td><td>قسم الوفيات والتعازي</td><td>1</td><td>10:14 09-13-2020 PM</td></tr><tr><td>ال رمــة الله \" جودالله بن حامد بن طيسان القرني في مدينة تبول</td><td>علي بن قحمان القرني</td><td>قسم الوفيات والتعازي</td><td>1</td><td>07:00 12-28-2019 AM</td></tr><tr><td>ال رمــة الله \" عوض بن عبدالله القرني\" بن عبثان في مدينة الرياض</td><td>علي بن قحمان القرني</td><td>قسم الوفيات والتعازي</td><td>1</td><td>09:31 07-01-2018 PM</td></tr></table>\n\nLinkBack\n\nLinkBack URL LinkBack URL\n\nAbout LinkBacks About LinkBacks\n\nBookmark & Share\n\nTweet this thread Tweet this thread",
+  "page_id": "MISRAJ-0205",
+  "prompt_hash": "16f15a15a1eb51817cd30c2dbf607e77a9f67eec41448526aab5aeb87f2311d4",
+  "raw_output": "<table><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>الموضوع</td><td>كاتب الموضوع</td><td>المتنـدي</td><td>مشاركات</td><td>آخر مشاركة</td></tr><tr><td>ال رمــمة الله \" علي سعيد معيض ال عطاء القرني في مدينة تبول</td><td>علي بن قحمان القرني</td><td>قسم الوفيات والتعازي</td><td>1</td><td>01:36 02-18-2021 PM</td></tr><tr><td>ال رمــة الله والدة \" محمد ضيف الله علي السعيد القرني في مدينة تبول</td><td>علي بن قحمان القرني</td><td>قسم الوفيات والتعازي</td><td>1</td><td>04:51 10-18-2020 PM</td></tr><tr><td>ال رمــة الله \" احمد عبدالله القرني \" بن عبثان في مدينة الرياض</td><td>علي بن قحمان القرني</td><td>قسم الوفيات والتعازي</td><td>1</td><td>10:14 09-13-2020 PM</td></tr><tr><td>ال رمــة الله \" جودالله بن حامد بن طيسان القرني في مدينة تبول</td><td>علي بن قحمان القرني</td><td>قسم الوفيات والتعازي</td><td>1</td><td>07:00 12-28-2019 AM</td></tr><tr><td>ال رمــة الله \" عوض بن عبدالله القرني\" بن عبثان في مدينة الرياض</td><td>علي بن قحمان القرني</td><td>قسم الوفيات والتعازي</td><td>1</td><td>09:31 07-01-2018 PM</td></tr></table>\n\nLinkBack\n\nLinkBack URL LinkBack URL\n\nAbout LinkBacks About LinkBacks\n\nBookmark & Share\n\nTweet this thread Tweet this thread",
+  "retry_count": 0,
+  "run_id": "tencent-hunyuanocr__full__def73123",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-19T22:33:44.579+00:00",
+  "status": "PASS"
+}

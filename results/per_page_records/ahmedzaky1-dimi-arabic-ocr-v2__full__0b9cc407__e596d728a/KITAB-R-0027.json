@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T08:27:13.304+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1500,
+    "width": 2000
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.44299674267100975,
+    "cer_raw": 0.44516129032258067,
+    "wer_normalized": 0.5411764705882353,
+    "wer_raw": 0.5411764705882353
+  },
+  "model_id": "AhmedZaky1/DIMI-Arabic-OCR-V2",
+  "model_revision": "8a7a293343fc91a6427a8c7a3ce69352870ea8a1",
+  "normalized_output": "الارتباط والانحدار الخطي البسيط & Simple Linear Regression • الجدول التالي يوضح أنواع الارتباط واتجاه العلاقة وشكل الانتشار لكل نوع المعنى قيمة معامل الارتباط +1 ارتباط طردي تام من 0.70 إلى 0.99 ارتباط طردي قوي من 0.50 إلى 0.69 ارتباط طردي متوسط من 0.01 إلى 0.49 ارتباط طردي ضعيف لا يوجد ارتباط 0 • وما قبل عن الارتباط الطردي ينطبق على الارتباط العكسي مع عكس الاشارة",
+  "page_id": "KITAB-R-0027",
+  "prompt_hash": "1a01c6a2e324aea55bbe84b519f619bbd06bb6fc4e435e9f51f478712de22b7c",
+  "raw_output": "الارتباط والانحدار الخطي البسيط & Simple Linear Regression • الجدول التالي يوضح أنواع الارتباط واتجاه العلاقة وشكل الانتشار لكل نوع المعنى قيمة معامل الارتباط +1 ارتباط طردي تام من 0.70 إلى 0.99 ارتباط طردي قوي من 0.50 إلى 0.69 ارتباط طردي متوسط من 0.01 إلى 0.49 ارتباط طردي ضعيف لا يوجد ارتباط 0 • وما قبل عن الارتباط الطردي ينطبق على الارتباط العكسي مع عكس الاشارة",
+  "retry_count": 0,
+  "run_id": "ahmedzaky1-dimi-arabic-ocr-v2__full__0b9cc407__e596d728a",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T08:27:00.494+00:00",
+  "status": "PASS"
+}

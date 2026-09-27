@@ -1,0 +1,12 @@
+---
+primary_language: en
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+Best friends are people who like us very much and treat us nicely. They laugh when we are funny. They like to see us do well. They try never to hurt us.
+
+You might find your best friend right in your own family!
+
+Who is your best friend?

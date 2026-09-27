@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T02:38:18.018+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 761,
+    "width": 588
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.3178294573643411,
+    "cer_raw": 0.3178294573643411,
+    "wer_normalized": 0.39473684210526316,
+    "wer_raw": 0.39473684210526316
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "حشوة مستطيلة من مادة الفاشاني الأزرق في أعلى بوابة جامع سان باشا من العهد\nالعشاني في ساحة باب الجابية بدمشق، وهي مزخرفة بالأرزهار والنباتات.\n(بعدسة المؤلف صيف عام ١٩٩٦)\n- ٢٥٧ -\nرصف الصورة الاسلسلية ١٧",
+  "page_id": "MISRAJ-0015",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "حشوة مستطيلة من مادة الفاشاني الأزرق في أعلى بوابة جامع سان باشا من العهد\nالعشاني في ساحة باب الجابية بدمشق، وهي مزخرفة بالأرزهار والنباتات.\n(بعدسة المؤلف صيف عام ١٩٩٦)\n- ٢٥٧ -\nرصف الصورة الاسلسلية ١٧",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T02:38:06.100+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-23T23:27:47.334+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1754,
+    "width": 1241
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.6198347107438017,
+    "cer_raw": 0.6198347107438017,
+    "wer_normalized": 0.5555555555555556,
+    "wer_raw": 0.5555555555555556
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "عارضـة أزياء عراقية على خلفية تاريخية . وزارة الثقافة والإعلام ، جمهورية العراق ، عرض للأزياء النسوية (بغداد : دار الأزياء العراقية ، 1981) ، 3 .",
+  "page_id": "MISRAJ-0024",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "عارضـة أزياء عراقية على خلفية تاريخية . وزارة الثقافة والإعلام ، جمهورية العراق ، عرض للأزياء النسوية (بغداد : دار الأزياء العراقية ، 1981) ، 3 .",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-23T23:27:44.771+00:00",
+  "status": "PASS"
+}

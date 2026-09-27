@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T00:58:24.711+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1654
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.4336917562724014,
+    "cer_raw": 0.4377224199288256,
+    "wer_normalized": 0.34146341463414637,
+    "wer_raw": 0.34146341463414637
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "مجلة الأستاذ\nالعدد50 لسنة 2015م- 1437هـ\nلوحة (ش) فم حيوان الجاموس وهو يلتقط الحشائش المتنوعة\nلوحة (ص) احد المشاحيف الجميلة لصياد سمك متمرس\nلوحة ( ض) مقطع لكوخ من القصب\n479",
+  "page_id": "MISRAJ-0142",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "مجلة الأستاذ\nالعدد50 لسنة 2015م- 1437هـ\nلوحة (ش) فم حيوان الجاموس وهو يلتقط الحشائش المتنوعة\nلوحة (ص) احد المشاحيف الجميلة لصياد سمك متمرس\nلوحة ( ض) مقطع لكوخ من القصب\n479",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T00:58:20.405+00:00",
+  "status": "PASS"
+}

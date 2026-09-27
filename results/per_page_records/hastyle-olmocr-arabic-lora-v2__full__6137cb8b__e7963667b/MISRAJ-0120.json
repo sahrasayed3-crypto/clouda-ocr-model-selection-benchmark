@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T10:56:40.965+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2070,
+    "width": 1439
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.814749000444247,
+    "cer_raw": 0.814749000444247,
+    "wer_normalized": 0.8710462287104623,
+    "wer_raw": 0.8710462287104623
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: fr\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n61\n\nH. Kh. III, 441\nnomme l'auteur Ibrahîm b. Mu'ammad al-Hâlâbi † 956.\n\nCf. H. Kh. III, 441.\n\nC'est la risâla de Mulla Hûsrûn † 885, dont parle H. Kh. III, 455. Cf. aussi Aumer, N° 884,9.\n\n8) Réfutation du N° 7. Premiers mots: quelques avertissements ont été donnés au sujet des héritages en faveur des enfants légitimes et des héritiers légitimes. Les héritiers légitimes ont été désignés comme tels dans les textes légaux.\n\n9) Autres remarques sur le N° 7.\n\n245.\n\nN° 2987. — Contient:\n\nPar al-Samarkandi; cf. plus haut N° 76.\n\nComposé par ordre d'un certain Ali Pâsâ par un auteur, qui ne se nomme pas. C'est un abrégé de théologie dogmatique et de jurisprudence.\n\nPremiers mots: Héritage des héritiers légitimes. Comme le dit le texte, les héritiers légitimes ont été désignés comme tels dans les textes légaux. Les héritiers légitimes ont été désignés comme tels dans les textes légaux.\n\nUn petit traité sur la foi par Jabja b. Bakr al-Hanafi. Premiers mots: Héritage des héritiers légitimes. Comme le dit le texte, les héritiers légitimes ont été désignés comme tels dans les textes légaux. Les héritiers légitimes ont été désignés comme tels dans les textes légaux.\n\nDivisé en 3 chapitres: Héritage des héritiers légitimes. Comme le dit le texte, les héritiers légitimes ont été désignés comme tels dans les textes légaux. Les héritiers légitimes ont été désignés comme tels dans les textes légaux.\n\nCatalogue Paris. N° 1287,1.\n\n246.\n\nN° 3481. — Contient:\n\n1) Un abrégé intitulé qui n'est pas identique avec celui, qui est attribué à Abû Hanîfa. Premiers mots: Aumé Arshdna allah Waïâk ane Wajib sur kâll Meklf an yelm an allah wâhd fi minkh xâlq al-amâr bâmsra Par Saif-al-Hakk Abu'-1-Mu'in (2) Héritage des héritiers légitimes. Comme le dit le texte, les héritiers légitimes ont été désignés comme tels dans les textes légaux. Les héritiers légitimes ont été désignés comme tels dans les textes légaux.\n\n1) Un abrégé intitulé qui n'est pas identique avec celui, qui est attribué à Abû Hanîfa. Premiers mots: Aumé Arshdna allah Waïâk ane Wajib sur kâll Meklf an yelm an allah wâhd fi minkh xâlq al-amâr bâmsra Par Saif-al-Hakk Abu'-1-Mu'in (2) Héritage des héritiers légitimes. Comme le dit le texte, les héritiers légitimes ont été désignés comme tels dans les textes légaux. Les héritiers légitimes ont été désignés comme tels dans les textes légaux.",
+  "page_id": "MISRAJ-0120",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: fr\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n61\n\nH. Kh. III, 441\nnomme l'auteur Ibrahîm b. Mu'ammad al-Hâlâbi † 956.\n\nCf. H. Kh. III, 441.\n\nC'est la risâla de Mulla Hûsrûn † 885, dont parle H. Kh. III, 455. Cf. aussi Aumer, N° 884,9.\n\n8) Réfutation du N° 7. Premiers mots: quelques avertissements ont été donnés au sujet des héritages en faveur des enfants légitimes et des héritiers légitimes. Les héritiers légitimes ont été désignés comme tels dans les textes légaux.\n\n9) Autres remarques sur le N° 7.\n\n245.\n\nN° 2987. — Contient:\n\nPar al-Samarkandi; cf. plus haut N° 76.\n\nComposé par ordre d'un certain Ali Pâsâ par un auteur, qui ne se nomme pas. C'est un abrégé de théologie dogmatique et de jurisprudence.\n\nPremiers mots: Héritage des héritiers légitimes. Comme le dit le texte, les héritiers légitimes ont été désignés comme tels dans les textes légaux. Les héritiers légitimes ont été désignés comme tels dans les textes légaux.\n\nUn petit traité sur la foi par Jabja b. Bakr al-Hanafi. Premiers mots: Héritage des héritiers légitimes. Comme le dit le texte, les héritiers légitimes ont été désignés comme tels dans les textes légaux. Les héritiers légitimes ont été désignés comme tels dans les textes légaux.\n\nDivisé en 3 chapitres: Héritage des héritiers légitimes. Comme le dit le texte, les héritiers légitimes ont été désignés comme tels dans les textes légaux. Les héritiers légitimes ont été désignés comme tels dans les textes légaux.\n\nCatalogue Paris. N° 1287,1.\n\n246.\n\nN° 3481. — Contient:\n\n1) Un abrégé intitulé qui n'est pas identique avec celui, qui est attribué à Abû Hanîfa. Premiers mots: Aumé Arshdna allah Waïâk ane Wajib sur kâll Meklf an yelm an allah wâhd fi minkh xâlq al-amâr bâmsra Par Saif-al-Hakk Abu'-1-Mu'in (2) Héritage des héritiers légitimes. Comme le dit le texte, les héritiers légitimes ont été désignés comme tels dans les textes légaux. Les héritiers légitimes ont été désignés comme tels dans les textes légaux.\n\n1) Un abrégé intitulé qui n'est pas identique avec celui, qui est attribué à Abû Hanîfa. Premiers mots: Aumé Arshdna allah Waïâk ane Wajib sur kâll Meklf an yelm an allah wâhd fi minkh xâlq al-amâr bâmsra Par Saif-al-Hakk Abu'-1-Mu'in (2) Héritage des héritiers légitimes. Comme le dit le texte, les héritiers légitimes ont été désignés comme tels dans les textes légaux. Les héritiers légitimes ont été désignés comme tels dans les textes légaux.",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T10:55:21.902+00:00",
+  "status": "PASS"
+}

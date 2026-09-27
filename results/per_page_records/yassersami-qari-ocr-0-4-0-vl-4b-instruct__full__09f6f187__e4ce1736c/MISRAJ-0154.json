@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T08:56:25.460+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2000,
+    "width": 1500
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.7318489835430784,
+    "cer_raw": 0.7318489835430784,
+    "wer_normalized": 0.7829457364341085,
+    "wer_raw": 0.7829457364341085
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "صف: 1 / ............... اسمي : .................................................. هيا يا صغيري للكتب سلاسل الأعداد: 1 هيا يا صغيري عد ثم حوط العدد الصحيح : Count the pictures and circle the correct number. 11 7 8 15 19 15 16 18 20 8 12 10 8 9 20 17 Copyright © Turtlediary.com. All rights reserved www.turtlediary.com",
+  "page_id": "MISRAJ-0154",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "صف: 1 / ............... اسمي : .................................................. هيا يا صغيري للكتب سلاسل الأعداد: 1 هيا يا صغيري عد ثم حوط العدد الصحيح : Count the pictures and circle the correct number. 11 7 8 15 19 15 16 18 20 8 12 10 8 9 20 17 Copyright © Turtlediary.com. All rights reserved www.turtlediary.com",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T08:56:17.383+00:00",
+  "status": "PASS"
+}

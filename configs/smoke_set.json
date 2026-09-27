@@ -1,0 +1,37 @@
+{
+  "smoke_set_version": 1,
+  "frozen_on": "2026-09-19",
+  "selection_method": "Pages were chosen by inspecting actual page content (ground-truth statistics + direct visual inspection of every image) against the five difficulty classes required by the protocol. Pages are fixed across all models and remain part of the official 462-page benchmark.",
+  "pages": [
+    {
+      "page_id": "MISRAJ-0166",
+      "selection_reason": "Clean Arabic text: born-digital-style printed religious text with full diacritics, headers, and inline colored emphasis; moderate length (2184 GT chars).",
+      "source_dataset": "Misraj/Misraj-DocOCR",
+      "difficulty_characteristics": "clean print; heavy diacritics; inline color emphasis; single column"
+    },
+    {
+      "page_id": "KITAB-R-0002",
+      "selection_reason": "Medium-quality scan: scanned administrative cover form with bilingual (Arabic/French) letterheads, stamps, handwritten signature overlap, and form fields.",
+      "source_dataset": "Misraj/KITAB_pdf_to_markdown_reviewed",
+      "difficulty_characteristics": "scanner noise; stamps and signature over text; bilingual headers; form layout"
+    },
+    {
+      "page_id": "MISRAJ-0084",
+      "selection_reason": "Difficult/low-resolution scan: dense table-of-contents page at only 483x712 px with dot leaders and Arabic-Indic numerals; longest GT (5562 chars) on the smallest image in the benchmark.",
+      "source_dataset": "Misraj/Misraj-DocOCR",
+      "difficulty_characteristics": "very low resolution relative to content; dot leaders; dense vertical list; Arabic-Indic page numbers"
+    },
+    {
+      "page_id": "MISRAJ-0216",
+      "selection_reason": "Complex layout: four separate data tables on a colored gradient background plus centered prose below.",
+      "source_dataset": "Misraj/Misraj-DocOCR",
+      "difficulty_characteristics": "multiple tables; colored background; no grid lines in upper tables; mixed numeric/text cells"
+    },
+    {
+      "page_id": "MISRAJ-0185",
+      "selection_reason": "Representative benchmark page: dense two-column academic article mixing running text, two multi-row tables with percentage figures, and Latin-script headers/footers.",
+      "source_dataset": "Misraj/Misraj-DocOCR",
+      "difficulty_characteristics": "two-column flow; interleaved tables and prose; mixed Arabic/Latin; percentages and Arabic-Indic digits"
+    }
+  ]
+}

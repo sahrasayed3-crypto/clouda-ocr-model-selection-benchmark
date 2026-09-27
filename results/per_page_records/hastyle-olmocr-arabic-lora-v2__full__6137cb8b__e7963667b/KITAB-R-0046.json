@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T08:29:21.539+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2200,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.3380035026269702,
+    "cer_raw": 0.3362369337979094,
+    "wer_normalized": 0.5,
+    "wer_raw": 0.5
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n# التحليل البياني للمضاعف (في اقتصاد قطاعين)\n\nالتوازن عند نقطة ٧ حيث مستوى الدخل التوازي 1000 وحدة\n\n- نقدية\n\nقرر رجال الأعمال زيادة حجم الاستثمار بمقدار 100\n\n- اننتقلت دالة الاستثمار إلى أعلى عند \\( I_2 \\)\n\n- بالتالي اننتقلت دالة الإنفاق الكلي إلى \\( AE_2 \\)\n\n- يصبح التوازن الجديد عند الدخل \\( Y = 1500 \\)\n\n- وهكذا فالزيادة الأولية في الاستثمار بمقدار 100 أدت إلى زيادة الدخل بمقدار 500\n\n- قيمة المضاعف\n\n\\[\n\\frac{\\Delta Y}{\\Delta I} = \\frac{500}{100} = 5\n\\]\n\n- تتوقع نفس النتيجة في حالة تخفيض الاستثمار بمقدار ١٠٠ حيث ينخفض الدخل بمقدار ٥٠٠ وحدة نقدية\n\n٧\ndrNabil.org\nأ.د. نبيل صلاح العربي",
+  "page_id": "KITAB-R-0046",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n# التحليل البياني للمضاعف (في اقتصاد قطاعين)\n\nالتوازن عند نقطة ٧ حيث مستوى الدخل التوازي 1000 وحدة\n\n- نقدية\n\nقرر رجال الأعمال زيادة حجم الاستثمار بمقدار 100\n\n- اننتقلت دالة الاستثمار إلى أعلى عند \\( I_2 \\)\n\n- بالتالي اننتقلت دالة الإنفاق الكلي إلى \\( AE_2 \\)\n\n- يصبح التوازن الجديد عند الدخل \\( Y = 1500 \\)\n\n- وهكذا فالزيادة الأولية في الاستثمار بمقدار 100 أدت إلى زيادة الدخل بمقدار 500\n\n- قيمة المضاعف\n\n\\[\n\\frac{\\Delta Y}{\\Delta I} = \\frac{500}{100} = 5\n\\]\n\n- تتوقع نفس النتيجة في حالة تخفيض الاستثمار بمقدار ١٠٠ حيث ينخفض الدخل بمقدار ٥٠٠ وحدة نقدية\n\n٧\ndrNabil.org\nأ.د. نبيل صلاح العربي",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T08:28:57.237+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T06:17:07.693+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1500,
+    "width": 2000
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.19613259668508287,
+    "cer_raw": 0.20273972602739726,
+    "wer_normalized": 0.29850746268656714,
+    "wer_raw": 0.29850746268656714
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "نظریات العرض ٢ ارتفاع الأجور أو ارتفاع أسعار مستلزمات الإنتاج يؤدي إلى زيادة تكاليف الإنتاج ينتقل العرض الكلي إلى جهة اليسار من AS1 إلى AS2 يتحقق التوازن عند النقطة N2 مما يترتب عليه نقص مستوى الناتج من Y1 إلى Y2، ومن ثم، تزداد البطالة ويرتفع المستوى العام للأسعار من P1 إلى P2 أي يزداد معدل التضخم.",
+  "page_id": "KITAB-R-0045",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "نظریات العرض ٢ ارتفاع الأجور أو ارتفاع أسعار مستلزمات الإنتاج يؤدي إلى زيادة تكاليف الإنتاج ينتقل العرض الكلي إلى جهة اليسار من AS1 إلى AS2 يتحقق التوازن عند النقطة N2 مما يترتب عليه نقص مستوى الناتج من Y1 إلى Y2، ومن ثم، تزداد البطالة ويرتفع المستوى العام للأسعار من P1 إلى P2 أي يزداد معدل التضخم.",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T06:16:59.851+00:00",
+  "status": "PASS"
+}

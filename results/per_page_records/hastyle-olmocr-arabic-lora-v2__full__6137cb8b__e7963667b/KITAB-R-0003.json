@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T07:40:13.101+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2334,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.2706766917293233,
+    "cer_raw": 0.2701688555347092,
+    "wer_normalized": 0.33962264150943394,
+    "wer_raw": 0.33962264150943394
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nالجمهورية الجزائرية الديمقراطية الشعبية\nRépublique Algérienne Démocratique et Populaire\nوزارة التعليم العالي والبحث العلمي\nMinistère de l'Enseignement Supérieur et de la Recherche Scientifique\nجامعة الشهيد حمّة لخضر - الوادي\nUniversité Echahid Hamma Lakhdar-El Oued\nكلية العلوم الاقتصادية والتجارية وعلوم التسيير\nالمجلس العلمي للكلية\n\nالرقم: 295 / م.ع/ ك عام تابع ت/ 2021\nالسوادي في: 2021/06/02\n\n# شهادة اعتماد مطبوعة\n\nيشهد رئيس المجلس العلمي لكلية العلوم الاقتصادية والتجارية وعلوم التسيير بجامعة الشهيد حمّة لخضر الوادي على أن:\n\nد/ حزة بالي ... أستاذ محاضر أ\n\nقدم للمجلس العلمي للكلية عن طريق اللجنة العلمية لقسم علوم التسيير مطبوعة علمية بعنوان: محاضرات في مقياس تاريخ الفكر الاقتصادي موجهة لطلبة السنة الثانية علوم اقتصادية.\n\nوبعد التقارير الايجابية المقدمة من طرف لجنة القراءة والتحكيم، فإنه يتم اعتماد المطبوعة وتعتبر محكمة علميا.\n\nUniversité Echahid Hamma Lakhdar - El-Oued\n\nرئيس المجلس العلمي",
+  "page_id": "KITAB-R-0003",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nالجمهورية الجزائرية الديمقراطية الشعبية\nRépublique Algérienne Démocratique et Populaire\nوزارة التعليم العالي والبحث العلمي\nMinistère de l'Enseignement Supérieur et de la Recherche Scientifique\nجامعة الشهيد حمّة لخضر - الوادي\nUniversité Echahid Hamma Lakhdar-El Oued\nكلية العلوم الاقتصادية والتجارية وعلوم التسيير\nالمجلس العلمي للكلية\n\nالرقم: 295 / م.ع/ ك عام تابع ت/ 2021\nالسوادي في: 2021/06/02\n\n# شهادة اعتماد مطبوعة\n\nيشهد رئيس المجلس العلمي لكلية العلوم الاقتصادية والتجارية وعلوم التسيير بجامعة الشهيد حمّة لخضر الوادي على أن:\n\nد/ حزة بالي ... أستاذ محاضر أ\n\nقدم للمجلس العلمي للكلية عن طريق اللجنة العلمية لقسم علوم التسيير مطبوعة علمية بعنوان: محاضرات في مقياس تاريخ الفكر الاقتصادي موجهة لطلبة السنة الثانية علوم اقتصادية.\n\nوبعد التقارير الايجابية المقدمة من طرف لجنة القراءة والتحكيم، فإنه يتم اعتماد المطبوعة وتعتبر محكمة علميا.\n\nUniversité Echahid Hamma Lakhdar - El-Oued\n\nرئيس المجلس العلمي",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T07:39:44.480+00:00",
+  "status": "PASS"
+}

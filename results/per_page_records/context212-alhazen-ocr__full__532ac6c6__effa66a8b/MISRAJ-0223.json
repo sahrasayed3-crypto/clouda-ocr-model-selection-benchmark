@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T04:57:40.518+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "c731166167f7b06c0a55abc0ea7a4407b86ac433bc70041d0b88a200554385c5",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1275,
+    "width": 1650
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.9148199445983379,
+    "cer_raw": 0.9138525155065472,
+    "wer_normalized": 1,
+    "wer_raw": 1
+  },
+  "model_id": "context212/alhazen-ocr",
+  "model_revision": "110b461e2389c97f68a1310370afeebb4a0b381f",
+  "normalized_output": "ججUNE issues® issues®有®limitations®有金® issues issues````® issues````® Playopyy®」 playofysoft®有® issues issues````® issues````® Play issues````® Playbot」 playofysoft® issues issues````® Playbot issues````® Playbot」 playofysoft® Playbot」有® issues issues````® Playbot issues````® Playbot」有金 issues issues````® issues issues````® Playbot issues````® issues issues````® issues issues````® 金金 issues issues````® issues issues````® issues issues````® issues issues````不一定® playofysoft® playofysoft® play issues issues````COM」有金 limitations® Playbot issues issues````COM® httpillosyldy issues造® Play issues issues```` issue issues```` issue issues```` issue```` issue```` issue```` issue```` issue```` issue```` issue```` issues cellUNEUNE``® issues lightbot」 play issues```` issue```` issue```` issue```` 有金 issues issues```` issue```` issue```` issue````」有 issues issues```` issue```` issue```` issue```` issue````」有 issues造」有金 limitations® Playbot issues造® Playrl.com issues造」",
+  "page_id": "MISRAJ-0223",
+  "prompt_hash": "631994fea519ca7a7390c2788b906e643d420ba3564ff2190dded854cce1cdc5",
+  "raw_output": "ججUNE issues® issues®有®limitations®有金® issues issues````® issues````® Playopyy®」 playofysoft®有® issues issues````® issues````® Play issues````® Playbot」 playofysoft® issues issues````® Playbot issues````® Playbot」 playofysoft® Playbot」有® issues issues````® Playbot issues````® Playbot」有金 issues issues````® issues issues````® Playbot issues````® issues issues````® issues issues````®  金金 issues issues````® issues issues````® issues issues````® issues issues````不一定® playofysoft® playofysoft® play issues issues````COM」有金 limitations® Playbot issues issues````COM® httpillosyldy issues造® Play issues issues```` issue issues```` issue issues```` issue```` issue```` issue```` issue```` issue```` issue```` issue````  issues cellUNEUNE``® issues lightbot」 play issues```` issue```` issue```` issue````  有金 issues issues```` issue```` issue```` issue````」有 issues issues```` issue```` issue```` issue```` issue````」有 issues造」有金 limitations® Playbot issues造® Playrl.com issues造」",
+  "retry_count": 0,
+  "run_id": "context212-alhazen-ocr__full__532ac6c6__effa66a8b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T04:57:20.427+00:00",
+  "status": "PASS"
+}

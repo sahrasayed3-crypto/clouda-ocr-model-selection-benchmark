@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T03:54:13.295+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1754,
+    "width": 1241
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.14660831509846828,
+    "cer_raw": 0.33698030634573306,
+    "wer_normalized": 0.25,
+    "wer_raw": 0.25
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "المدن و المحافظات\n فوائد خدمات مكافحة الحشرات للمنازل والشركات في مكة\n تابعنا على منصات التواصل الاجتماعي\n شركات تنظيف\n .\n شركات نقل اثاث\n .\n شركات مكافحة حشرات\n .\n شركات كشف تسربات\n .\n شركات مواصلات\n .\n المدن و المحافظات\n شركات نقل عفش بالرياض\n .\n شركات تنظيف بالرياض\n .\n دليل شركات مكافحة الحشرات بالرياض\n .\n دليل شركات عزل خزانات بالرياض\n .\n دليل شركات كشف تسربات المياه بالرياض\n .\n صيانة و غسيل مكيفات بالرياض\n .\n جلي بلاط و جلي رخام بالرياض",
+  "page_id": "MISRAJ-0347",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "المدن و المحافظات\n\t\t\tفوائد خدمات مكافحة الحشرات للمنازل والشركات في مكة\n\t\t\t\tتابعنا على منصات التواصل الاجتماعي\n\t\t\t\t\tشركات تنظيف\n\t\t\t.\n\t\t\t\t\tشركات نقل اثاث\n\t\t\t.\n\t\t\t\t\tشركات مكافحة حشرات\n\t\t\t.\n\t\t\t\t\tشركات كشف تسربات\n\t\t\t.\n\t\t\t\t\tشركات مواصلات\n\t\t\t.\n\t\t\t\tالمدن و المحافظات\n\t\t\t\t\tشركات نقل عفش بالرياض\n\t\t\t\t.\n\t\t\t\t\tشركات تنظيف بالرياض\n\t\t\t\t.\n\t\t\t\t\tدليل شركات مكافحة الحشرات بالرياض\n\t\t\t\t.\n\t\t\t\t\tدليل شركات عزل خزانات بالرياض\n\t\t\t\t.\n\t\t\t\t\tدليل شركات كشف تسربات المياه بالرياض\n\t\t\t\t.\n\t\t\t\t\tصيانة و غسيل مكيفات بالرياض\n\t\t\t\t.\n\t\t\t\t\tجلي بلاط و جلي رخام بالرياض",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T03:54:04.896+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T00:45:10.237+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2373,
+    "width": 1671
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 1.7737556561085972,
+    "cer_raw": 1.7657657657657657,
+    "wer_normalized": 2.4782608695652173,
+    "wer_raw": 2.4782608695652173
+  },
+  "model_id": "amad-iq/amad-vlm6",
+  "model_revision": "7daf90cd5e5706173e159c88ca4e6dc2475a485e",
+  "normalized_output": "أوقاف\nالإدارة العامة للأوقاف\nGeneral Directorate of Endowments\nمحجوز\nReserved\nوزارة الثقافة والفنون والتربية\nعلى الفرج الدائم\nيَسْدِي مَرَاكِبَ قَطْرٍ سَكّلَ عَائِلَة\nومرايتك على كل هامه\nوالجنايات والقاصرين\nQatar Society for Rehabilitation of Special Needs\nالجمعية القطرية لتأهيل ذوي الاحتياجات الخاصة\nالجمعية القطرية\nللتأهيل في الإستجابة المصحبة\nQatar society\nFor Rehabilitation of Special\n20\nالعدد الثالث عشر | محرم 1434هـ | نوفمير 2012م\nأوقافنا\n21",
+  "page_id": "MISRAJ-0139",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "أوقاف\nالإدارة العامة للأوقاف\nGeneral Directorate of Endowments\nمحجوز\nReserved\nوزارة الثقافة والفنون والتربية\nعلى الفرج الدائم\nيَسْدِي مَرَاكِبَ قَطْرٍ سَكّلَ عَائِلَة\nومرايتك على كل هامه\nوالجنايات والقاصرين\nQatar Society for Rehabilitation of Special Needs\nالجمعية القطرية لتأهيل ذوي الاحتياجات الخاصة\nالجمعية القطرية\nللتأهيل في الإستجابة المصحبة\nQatar society\nFor Rehabilitation of Special\n20\nالعدد الثالث عشر | محرم 1434هـ | نوفمير 2012م\nأوقافنا\n21",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm6__full__7ae0bd41__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T00:45:04.584+00:00",
+  "status": "PASS"
+}

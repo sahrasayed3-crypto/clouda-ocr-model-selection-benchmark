@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T00:32:55.075+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1653,
+    "width": 1167
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.09644670050761421,
+    "cer_raw": 0.11139028475711893,
+    "wer_normalized": 0.14594594594594595,
+    "wer_raw": 0.14594594594594595
+  },
+  "model_id": "amad-iq/amad-vlm6",
+  "model_revision": "7daf90cd5e5706173e159c88ca4e6dc2475a485e",
+  "normalized_output": "... في أيَّامِ نَحِسَاتٍ ...\nin days of calamity,\nmeans, consecutive days.\nسبْعَ ليَالٍ وَتَمَنِيَّةُ أيَّامِ حُسُوما\nseven nights and eight days in succession, (69: 7)\nThis is like the Ayah:\nفى يَوْمٍ نَحْسٍ مُسْتَمِرٍّ\non a day of calamity, continuous, (54:19)\ni.e., the punishment began on a day which was of evil omen for them, and this evil omen continued for them,\nسبْعَ ليَالٍ وَتَمَنِيَّةُ أيَّامِ حُسُوما\nseven nights and eight days in succession, (69:7)\nuntil they were destroyed, every last one of them, and their humiliation in this world was joined to their punishment in the Hereafter.\nAllah says:\n... لنتذيقهم عذاب الخزي في الحياة الدنيا ولعذاب الآخرة أخرى ...\nthat We might give them a taste of disgracing torment in this present worldly life. But surely the torment of the Hereafter will be more disgracing.\nmeaning, more humiliating for them.\n... وَهُمْ لا يُنصَرُونَ (١٦)\nand they will never be helped.\nmeans, in the Hereafter, just as they were never helped in this world, and they had no one who could protect them from Allah or save them from His punishment.\n22",
+  "page_id": "MISRAJ-0101",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "... في أيَّامِ نَحِسَاتٍ ...\nin days of calamity,\nmeans, consecutive days.\nسبْعَ ليَالٍ وَتَمَنِيَّةُ أيَّامِ حُسُوما\nseven nights and eight days in succession, (69: 7)\nThis is like the Ayah:\nفى يَوْمٍ نَحْسٍ مُسْتَمِرٍّ\non a day of calamity, continuous, (54:19)\ni.e., the punishment began on a day which was of evil omen for them, and this evil omen continued for them,\nسبْعَ ليَالٍ وَتَمَنِيَّةُ أيَّامِ حُسُوما\nseven nights and eight days in succession, (69:7)\nuntil they were destroyed, every last one of them, and their humiliation in this world was joined to their punishment in the Hereafter.\nAllah says:\n... لنتذيقهم عذاب الخزي في الحياة الدنيا ولعذاب الآخرة أخرى ...\nthat We might give them a taste of disgracing torment in this present worldly life. But surely the torment of the Hereafter will be more disgracing.\nmeaning, more humiliating for them.\n... وَهُمْ لا يُنصَرُونَ (١٦)\nand they will never be helped.\nmeans, in the Hereafter, just as they were never helped in this world, and they had no one who could protect them from Allah or save them from His punishment.\n22",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm6__full__7ae0bd41__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T00:32:46.047+00:00",
+  "status": "PASS"
+}

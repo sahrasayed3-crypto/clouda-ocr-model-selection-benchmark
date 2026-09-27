@@ -1,0 +1,22 @@
+{
+  "completed_at": "2026-09-24T07:35:57.033+00:00",
+  "dtype": null,
+  "exception_message": "Unrecognized processing class in unsloth/DeepSeek-OCR-2. Can't instantiate a processor, a tokenizer, an image processor, a video processor or a feature extractor for this model. Make sure the repository contains the files of at least one of those processing classes.",
+  "exception_type": "ValueError",
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": null,
+  "gpu_uuid_if_available": null,
+  "input_dimensions": null,
+  "is_dry_run": false,
+  "model_id": "loay/Arabic-OCR-DeepSeek-OCR-2",
+  "model_revision": "3b279774135bf21835e2bfe6071663f5da227e1c",
+  "normalized_output": null,
+  "page_id": "KITAB-R-0049",
+  "prompt_hash": "93c5ea18849336f71fb8f613178290b30e94c2d8f8018398db2a09d90ff78ed4",
+  "raw_output": null,
+  "retry_count": 0,
+  "run_id": "loay-arabic-ocr-deepseek-ocr-2__full__a997b4e1__e1488d635",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T07:35:57.033+00:00",
+  "status": "MODEL_LOAD_ERROR"
+}

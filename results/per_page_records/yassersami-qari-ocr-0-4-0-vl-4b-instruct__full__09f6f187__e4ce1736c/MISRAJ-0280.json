@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T13:10:10.311+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1270,
+    "width": 1801
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.24029126213592233,
+    "cer_raw": 0.24029126213592233,
+    "wer_normalized": 0.19008264462809918,
+    "wer_raw": 0.19008264462809918
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "يصنف على أنه من أفضل البرامج لتحميل مقاطع الفيديو بجودة عالية. نحن نبحث دائمًا عن تلك البرامج الأمنة التي تضمن لنا السلامة في الاستخدام. يذهب الكثير من الناس لتنزيل البرنامج بسبب التسهيلات التي يوفرها لإرضاء المستخدم عنها ومشاركتها بين أصدقائه وغيرهم. قم بتنزيل SnapTube Yellow قم بتنزيل مقاطع الفيديو من Facebook, YouTube و YouTube Snap Tube ، لتنزيل مقاطع الفيديو من ، والموسيقى من جميع المواقع وتطبيقات التواصل الاجتماعي. نعم ، للجوال ، وكذلك تنزيل مقاطع الفيديو من Facebook ، عبر برنامج SnapTube ، أو ما يسميه بعض المستخدمين Snaptube. YouTube Downloader هو مجرد أداة وبرنامج سهل الاستخدام لتنزيل مقطع فيديو من YouTube. نبذة تعريفية قصيره عن تحديث تطبيق سناب تيوب اخر اصدار 2024",
+  "page_id": "MISRAJ-0280",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "يصنف على أنه من أفضل البرامج لتحميل مقاطع الفيديو بجودة عالية. نحن نبحث دائمًا عن تلك البرامج الأمنة التي تضمن لنا السلامة في الاستخدام. يذهب الكثير من الناس لتنزيل البرنامج بسبب التسهيلات التي يوفرها لإرضاء المستخدم عنها ومشاركتها بين أصدقائه وغيرهم. قم بتنزيل SnapTube Yellow قم بتنزيل مقاطع الفيديو من Facebook, YouTube و YouTube Snap Tube ، لتنزيل مقاطع الفيديو من ، والموسيقى من جميع المواقع وتطبيقات التواصل الاجتماعي. نعم ، للجوال ، وكذلك تنزيل مقاطع الفيديو من Facebook ، عبر برنامج SnapTube ، أو ما يسميه بعض المستخدمين Snaptube. YouTube Downloader هو مجرد أداة وبرنامج سهل الاستخدام لتنزيل مقطع فيديو من YouTube. نبذة تعريفية قصيره عن تحديث تطبيق سناب تيوب اخر اصدار 2024",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T13:09:54.300+00:00",
+  "status": "PASS"
+}

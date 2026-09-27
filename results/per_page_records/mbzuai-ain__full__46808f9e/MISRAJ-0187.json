@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T01:28:11.535+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1600,
+    "width": 1236
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.5961139896373057,
+    "cer_raw": 0.62004662004662,
+    "wer_normalized": 0.6784565916398714,
+    "wer_raw": 0.6784565916398714
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "4- الخاتمة:1-4 أستنتجت الباحثتان\n بان للمؤشرات البيوميكانيكية أهمية كبيرة في فعالية دفع الثقل ذوي الاعاقة\n فئة (f40) ومؤثرة على الانجاز النهائي فيها.وأن لسرعة وطول خطوة قدم الأرتكاز علاقة أرتباط طردية مع الأنجاز النهائي.وأن لزمن خطوة قدم الأرتكاز علاقة أرتباط عكسية مع الأنجاز المتحقق.و لاتوجد علاقة أرتباط بين زاوية الأسناد وزاوية الدفع وزاوية أتجاه القدم الخلفية\n مع الأنجاز المتحقق للاعبي دفع الثقل ذوي الاعاقة فئة (f40).\n 2-4 توصي الباحثتان:التأكيد على المدربين واللاعبين استعمال نتائج الدراسة الحالية خلال\n التدريب والاستفادة منها لجميع فعاليات الرمي.و التأكيد على أستعمال التحليل الحركي العلم الذي يكشف نقاط الضغف والقوة\n وتحديدها بصورة دقيقة.والتأكيد على تخصيص التدريب للتمارين البدنية المشابهة للكتكك (الأداء الفني)\n خصوصاً في الفعاليات التي تعتمد على القدرات البدنية والمتغيرات الميكانيكية\n بشكل مباشر مما يؤثر في الانجاز النهائي. واجراء دراسة مشابهه على فعاليات أخرى\n ومن أهمها رمي القرص ورمي الرمح.\n References:1- Wajih Mahjoub; (1985)، Kinesiology, Volume 1, Mosul University\n printing press.\n 2- Saeb Attia Al-Obaidi and Samir Muslat Al-Hashimi; (1991)، Applied Biomechanics,\n Dar Al-Kutub for Printing and Publishing, University of Mosul.\n \n 3- Reda. Kadham K; (2011)، Find in education and science curricula psychology, Baghdad,\n Al Nuaimi.\n \n 4- International Law of Athletics IAAF; (2019)، Competition Rules, translated by the\n Development Center for Athletics in Cairo.\n \n 5- Iman sabeeh hussien; (2002)، An Analytical Study of Some Biomechanical Variabele in\n the 200 m Run – Curve and Their Relevance to Performance. thesis unpublished\n doctorate, University Baghdad, College of Physical Education.",
+  "page_id": "MISRAJ-0187",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "4- الخاتمة:1-4 أستنتجت الباحثتان\n\t\t\t\t\t\tبان للمؤشرات البيوميكانيكية أهمية كبيرة في فعالية دفع الثقل ذوي الاعاقة\n\t\t\t\t\t\tفئة (f40) ومؤثرة على الانجاز النهائي فيها.وأن لسرعة وطول خطوة قدم الأرتكاز علاقة أرتباط طردية مع الأنجاز النهائي.وأن لزمن خطوة قدم الأرتكاز علاقة أرتباط عكسية مع الأنجاز المتحقق.و لاتوجد علاقة أرتباط بين زاوية الأسناد وزاوية الدفع وزاوية أتجاه القدم الخلفية\n\t\t\t\t\t\tمع الأنجاز المتحقق للاعبي دفع الثقل ذوي الاعاقة فئة (f40).\n\t\t\t\t2-4 توصي الباحثتان:التأكيد على المدربين واللاعبين استعمال نتائج الدراسة الحالية خلال\n\t\t\t\t\t\tالتدريب والاستفادة منها لجميع فعاليات الرمي.و التأكيد على أستعمال التحليل الحركي العلم الذي يكشف نقاط الضغف والقوة\n\t\t\t\t\t\tوتحديدها بصورة دقيقة.والتأكيد على تخصيص التدريب للتمارين البدنية المشابهة للكتكك (الأداء الفني)\n\t\t\t\t\t\tخصوصاً في الفعاليات التي تعتمد على القدرات البدنية والمتغيرات الميكانيكية\n\t\t\t\t\t\tبشكل مباشر مما يؤثر في الانجاز النهائي. واجراء دراسة مشابهه على فعاليات أخرى\n\t\t\t\t\t\tومن أهمها رمي القرص ورمي الرمح.\n\t\t\t\tReferences:1- Wajih Mahjoub; (1985)، Kinesiology, Volume 1, Mosul University\n\t\t\t\t\t\tprinting press.\n\t\t\t2- Saeb Attia Al-Obaidi and Samir Muslat Al-Hashimi; (1991)، Applied Biomechanics,\n\t\t\t\t\tDar Al-Kutub for Printing and Publishing, University of Mosul.\n\t\t\t\t\n\t\t\t3- Reda. Kadham K; (2011)، Find in education and science curricula psychology, Baghdad,\n\t\t\t\t\tAl Nuaimi.\n\t\t\t\t\n\t\t\t4- International Law of Athletics IAAF; (2019)، Competition Rules, translated by the\n\t\t\t\t\tDevelopment Center for Athletics in Cairo.\n\t\t\t\t\n\t\t\t5- Iman sabeeh hussien; (2002)، An Analytical Study of Some Biomechanical Variabele in\n\t\t\t\t\tthe 200 m Run – Curve and Their Relevance to Performance. thesis unpublished\n\t\t\t\t\tdoctorate, University Baghdad, College of Physical Education.",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T01:27:48.673+00:00",
+  "status": "PASS"
+}

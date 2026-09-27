@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T07:42:28.464+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1653
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.11343075852470424,
+    "cer_raw": 0.11396803335649756,
+    "wer_normalized": 0.19402985074626866,
+    "wer_raw": 0.19402985074626866
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n- معاذ الشرفاوي الجزائري، تاريخ الفكر الاقتصادي، منشورات الجامعة الافتراضية السورية، سوريا، 2020.\n- منهل مطر، ذيب شوتر، رضوان وليد العمار، النقد والبنوك، الطبعة الأولى، مؤسسة آلاء للطباعة والنشر، عمان، الأردن، 1996.\n- نجلاء عبد الحميد راتب، الاقتصاد والمجتمع، مطبعة رياض، دمشق.\n- هوشيار معروف، التحليل الاقتصادي الكلي، دار صفاء للنشر والتوزيع، عمان، الأردن، 2005.\n- وليد عبد الرحمان الرومي، مبادئ علم الاقتصاد السياسي، مطبعة النجاح الجديدة، الدار البيضاء، المغرب، 1996.\n\n## 2. المراجع باللغة الأجنبية:\n\n- Eric Bosserelle, **Dynamique économique: Croissance, Crise, Cycles, 2e édition**, Gualino, Paris, 2010.\n- Dominique Guellec, Pierre Palle, *Les nouvelles théories de la croissance*, La Découverte, Paris, 2003.\n- Sabine Mage, *Les nouvelles théories de la croissance*, Les Cahiers française N:323, 2004.\n- Rostow.W.W, *The stages of economic growth: A Non-Communist Manifesto*, Cambridge University Press, 1960.\n- Seema Narayan, Nadia Doytch, Tri Tung Nguyen, Karl Kluegel, *Trade of Goods and Services and Risk Sharing Ability in International Equity Markets: Are these Substitutes or Complements?*, International Review of Economics and Finance, Volume: 45, 2016.\n- WORLD TRADE ORGANIZATION, The WTO and Trade Economics: Theory and Policy, WTO E-Learning – Copyright © August 2012.",
+  "page_id": "KITAB-R-0005",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n- معاذ الشرفاوي الجزائري، تاريخ الفكر الاقتصادي، منشورات الجامعة الافتراضية السورية، سوريا، 2020.\n- منهل مطر، ذيب شوتر، رضوان وليد العمار، النقد والبنوك، الطبعة الأولى، مؤسسة آلاء للطباعة والنشر، عمان، الأردن، 1996.\n- نجلاء عبد الحميد راتب، الاقتصاد والمجتمع، مطبعة رياض، دمشق.\n- هوشيار معروف، التحليل الاقتصادي الكلي، دار صفاء للنشر والتوزيع، عمان، الأردن، 2005.\n- وليد عبد الرحمان الرومي، مبادئ علم الاقتصاد السياسي، مطبعة النجاح الجديدة، الدار البيضاء، المغرب، 1996.\n\n## 2. المراجع باللغة الأجنبية:\n\n- Eric Bosserelle, **Dynamique économique: Croissance, Crise, Cycles, 2e édition**, Gualino, Paris, 2010.\n- Dominique Guellec, Pierre Palle, *Les nouvelles théories de la croissance*, La Découverte, Paris, 2003.\n- Sabine Mage, *Les nouvelles théories de la croissance*, Les Cahiers française N:323, 2004.\n- Rostow.W.W, *The stages of economic growth: A Non-Communist Manifesto*, Cambridge University Press, 1960.\n- Seema Narayan, Nadia Doytch, Tri Tung Nguyen, Karl Kluegel, *Trade of Goods and Services and Risk Sharing Ability in International Equity Markets: Are these Substitutes or Complements?*, International Review of Economics and Finance, Volume: 45, 2016.\n- WORLD TRADE ORGANIZATION, The WTO and Trade Economics: Theory and Policy, WTO E-Learning – Copyright © August 2012.",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T07:41:52.446+00:00",
+  "status": "PASS"
+}

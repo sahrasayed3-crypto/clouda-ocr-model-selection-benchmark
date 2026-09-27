@@ -1,0 +1,23 @@
+model_id: loay/Arabic-OCR-DeepSeek-OCR-2
+pinned_revision: 3b279774135bf21835e2bfe6071663f5da227e1c
+revision_resolved_on: "2026-09-19"
+architecture: DeepseekOCR2ForCausalLM (model_type DeepseekOCR2; merged bf16 3B model, LoRA merged back into base)
+base_model: unsloth/DeepSeek-OCR-2
+processor_class: UNRESOLVED (no preprocessor_config.json in repo; DeepSeek-OCR processor - resolve exact class at GPU load)
+tokenizer_class: LlamaTokenizerFast
+required_transformers_version: "UNRESOLVED (config carries no transformers_version; DeepseekOCR2 model type requires a recent/custom-capable transformers - confirm at smoke test)"
+required_custom_code: "possibly (DeepseekOCR2 model type support in transformers must be verified; DeepSeek-OCR repos ship custom modeling code)"
+recommended_dtype: "bfloat16 (card: native bfloat16; config torch_dtype float16)"
+recommended_attention_backend: "flash-attention-2 (card: trained/served with FA2 on H100)"
+image_input_format: "high-resolution dynamic multi-patch cropping (card: crop_mode=True) - handle large pages without downscaling"
+documented_ocr_prompt: "Free OCR"
+documented_ocr_prompt_source: "model card: 'Fine-tuning Task: Arabic OCR, specialized for the Free OCR instruction.' Exact terminal punctuation (Free OCR / Free OCR.) to be confirmed at smoke test against the DeepSeek-OCR convention before official scoring."
+generation_parameters:
+  source: "not documented on card; benchmark will use greedy decoding and record it"
+special_stop_tokens: per generation_config (verify at load)
+expected_output_type: "structured transcription with layout analysis (card: OCR + structural layout analysis; trained on structured transcriptions)"
+license: apache-2.0
+license_notes: card YAML license field
+known_runtime_requirements: multi-patch high-res pipeline; verify transformers support for DeepseekOCR2
+estimated_vram_class: low-medium (~8-12 GB bf16, 3B + high-res vision patches)
+notes: "Merged model (no adapter loading needed). Training data: 35,921 Arabic scanned-book images with Gemini-2-Flash-generated transcriptions."

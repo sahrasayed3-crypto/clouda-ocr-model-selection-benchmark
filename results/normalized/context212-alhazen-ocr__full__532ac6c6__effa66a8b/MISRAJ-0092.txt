@@ -1,0 +1,3 @@
+We have solved the following problems step-by-step. We will extract all the text from this image, preserving the original reading order. We'll work from top to bottom, left to right, using optical character recognition (OCR) on the image, with automatic extraction and correction.
+
+- Lifting's light, cellouchy, cellouchy, metokar® cell生物金® cell C++ close, 造金造 issues造®造

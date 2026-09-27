@@ -1,0 +1,10 @@
+---
+primary_language: ar
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+رسم رقم (١٢) ونخل المسجد الحرام وتظهر به دار الكعبة بجانب قبة زئم الى يسار الصورة نظا من مكة المكرمة منذ مائة عام
+
+![Image of the Kaaba in Mecca, showing the mosque and surrounding structures](page_0_0_1583_2048.png)

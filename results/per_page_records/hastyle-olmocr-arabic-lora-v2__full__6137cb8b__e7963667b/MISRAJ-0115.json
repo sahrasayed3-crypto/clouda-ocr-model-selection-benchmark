@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T10:52:10.548+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 4109,
+    "width": 2609
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.698,
+    "cer_raw": 0.698,
+    "wer_normalized": 0.7534246575342466,
+    "wer_raw": 0.7534246575342466
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nفيأة... أشعل نفسه وأحدث انفجاراً ضخماً...\nكثيفة تكفي لإتلاف نصف المدينة!!\nتحوّل الآن إلى مادة دهنية\nقامات العناصر جميعها...\nوعاد \"مخلوق الماء\" إلى حالته السابقة!!\nطالما هزّ \"سوبرمان\" بالقنابل الذرية ... وذلك عندما كان يملك قوته الجبّارة الكاملة، أما اتّن فقد صعوب وفقد وعيه...\nوهجم الأعداء على \"سوبرمان\" الضعيف ثانية والشرّ ينبعث من عيونهم ليتمموا الهمة التي من أجلها أوجدوه أملاك...\n![Page 1 image](page_0_0_2048_1365.png)",
+  "page_id": "MISRAJ-0115",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nفيأة... أشعل نفسه وأحدث انفجاراً ضخماً...\nكثيفة تكفي لإتلاف نصف المدينة!!\nتحوّل الآن إلى مادة دهنية\nقامات العناصر جميعها...\nوعاد \"مخلوق الماء\" إلى حالته السابقة!!\nطالما هزّ \"سوبرمان\" بالقنابل الذرية ... وذلك عندما كان يملك قوته الجبّارة الكاملة، أما اتّن فقد صعوب وفقد وعيه...\nوهجم الأعداء على \"سوبرمان\" الضعيف ثانية والشرّ ينبعث من عيونهم ليتمموا الهمة التي من أجلها أوجدوه أملاك...\n![Page 1 image](page_0_0_2048_1365.png)",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T10:51:46.048+00:00",
+  "status": "PASS"
+}

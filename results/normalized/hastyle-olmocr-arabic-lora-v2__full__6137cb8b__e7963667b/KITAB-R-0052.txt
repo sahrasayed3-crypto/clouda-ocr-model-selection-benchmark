@@ -1,0 +1,52 @@
+---
+primary_language: ar
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+<table>
+ <tr>
+ <th>التحقيق</th>
+ <th>تاريخ التسليم</th>
+ <th>الخطوة</th>
+ </tr>
+ <tr>
+ <td></td>
+ <td></td>
+ <td>.1</td>
+ </tr>
+ <tr>
+ <td></td>
+ <td></td>
+ <td>.2</td>
+ </tr>
+ <tr>
+ <td></td>
+ <td></td>
+ <td>.3</td>
+ </tr>
+ <tr>
+ <td></td>
+ <td></td>
+ <td>.4</td>
+ </tr>
+ <tr>
+ <td></td>
+ <td></td>
+ <td>.5</td>
+ </tr>
+ <tr>
+ <td></td>
+ <td></td>
+ <td>.6</td>
+ </tr>
+</table>
+
+![Our 6 Step Process](page_0_0_768_768.png)
+
+تمهيد
+
+- سؤال البحث (واضح - محدد -مفهوم-وقادر على الإجابة عليه)
+
+![1](page_0_0_768_768.png)

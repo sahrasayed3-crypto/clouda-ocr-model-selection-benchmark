@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T04:13:59.535+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 875,
+    "width": 1241
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.3055555555555556,
+    "cer_raw": 0.3110236220472441,
+    "wer_normalized": 0.3902439024390244,
+    "wer_raw": 0.4146341463414634
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "الأسئلة المتداولة عن Samsung الهواتف المحمولة. تظهر لي نافذة مثبتة عن الحجم الزائد. ماذا يجب أن أفعل؟ من خلال دعم Bluetooth*\nكيف يمكنني إدراج بطاقة SIM بجهاز Galaxy Zoom SM-C1010",
+  "page_id": "MISRAJ-0293",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "الأسئلة المتداولة عن Samsung الهواتف المحمولة. تظهر لي نافذة مثبتة عن الحجم الزائد. ماذا يجب أن أفعل؟ من خلال دعم Bluetooth*\nكيف يمكنني إدراج بطاقة SIM بجهاز Galaxy Zoom SM-C1010",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T04:13:48.111+00:00",
+  "status": "PASS"
+}

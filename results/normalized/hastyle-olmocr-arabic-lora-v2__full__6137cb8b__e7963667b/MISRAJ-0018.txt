@@ -1,0 +1,12 @@
+---
+primary_language: ar
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+![Photo of an ancient amphitheater](page_324_617_1017_579.png)
+
+شكل رقم (١٣): مسرح إبيداوروس، القرن الرابع. تصوير هاسيا.
+
+417

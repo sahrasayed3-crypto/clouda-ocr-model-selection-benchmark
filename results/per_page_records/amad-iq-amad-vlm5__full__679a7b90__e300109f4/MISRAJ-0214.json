@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T03:42:28.955+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2550,
+    "width": 1650
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.20972644376899696,
+    "cer_raw": 0.21686746987951808,
+    "wer_normalized": 0.32653061224489793,
+    "wer_raw": 0.32653061224489793
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "مكان المنشأ: تشجيانغ، الصين (البر الرئيسي)\nالاتصال عبر الإنترنت\nجولة في المعمل\nسياسة الخصوصية | الصين جيد جودة قماش تصفية الغبار المزود.\n.dustfiltercloth.com. All Rights Reserved 2024 - 2014 ©\nرقم المبنى 2,709 غرفة hongjie tiancheng ، منطقة jiang gan\nتريد معرفة المزيد عنا؟ فقط اتصل بنا\n8",
+  "page_id": "MISRAJ-0214",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "مكان المنشأ: تشجيانغ، الصين (البر الرئيسي)\nالاتصال عبر الإنترنت\nجولة في المعمل\nسياسة الخصوصية | الصين جيد جودة قماش تصفية الغبار المزود.\n.dustfiltercloth.com. All Rights Reserved 2024 - 2014 ©\nرقم المبنى 2,709 غرفة hongjie tiancheng ، منطقة jiang gan\nتريد معرفة المزيد عنا؟ فقط اتصل بنا\n8",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T03:42:24.778+00:00",
+  "status": "PASS"
+}

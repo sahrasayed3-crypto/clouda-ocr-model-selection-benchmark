@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T01:57:28.904+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2550,
+    "width": 1650
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.7866212449674822,
+    "cer_raw": 0.793124246079614,
+    "wer_normalized": 0.8263598326359832,
+    "wer_raw": 0.8263598326359832
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "maxfashion 60% كود خصم ماكس 2024 كوبونات لكل المنتجات\n <code>maxfashion 60%</code> كود خصم ماكس 2024 كوبونات لكل المنتجات\n ===<hr/><strong>اكواد خصم ماكس فاشون 2023</strong><br/>كود خصم ماكس الجديد من أحدث الكوبونات المتاحة على موقع نادي الكوبونات الآن، يتم تحديثه من وقت لآخر لتشجيعك على التسوق وشراء المنتجات من داخل الموقع، اشتري الآن كل المنتجات التي تلبي كافة احتياجاتك- بأسعار لا تقبل المنافسة مع كوبون خصم ماكس 80% .<br/><br/><table border=\"1\" style=\"font-family: Arial; font-size: 18px; color: rgb(255, 255, 255); width: 100%; text-align: center;\"><tbody><tr><td style=\"background-color: rgb(105, 49, 19); height: 40px;\">كود خصم ماكس</td><td style=\"background-color: rgb(105, 49, 19); height: 40px;\">CLUB</td></tr><tr><td style=\"background-color: rgb(191, 158, 120); height: 40px;\">كوبون خصم ماكس فاشون</td><td style=\"background-color: rgb(191, 158, 120); height: 40px;\">MX34</td></tr><tr><td style=\"background-color: rgb(105, 49, 19); height: 40px;\">قسيمة شراء ماكس</td><td style=\"background-color: rgb(105, 49, 19); height: 40px;\">CLUB</td></tr><tr><td style=\"background-color: rgb(191, 158, 120); height: 40px;\">كود ماكس السعودية</td><td style=\"background-color: rgb(191, 158, 120); height: 40px;\">MX34</td></tr></tbody></table><br/><strong>كوبون ماكس فاشون خصم 40% على مختلف الأحذية</strong><br/><br/>كود خصم ماكس فاشون <code>(MX34)</code> 30% خصم على جميع المنتجات<br/><br/>• كوبون خصم ماكس فاشون <code>(CLUB)</code> تخفيض قوي يصل إلى 60% على الملابس الرجالية<br/><br/>• كوبون خصم ماكس فاشون <code>(CLUB)</code> تخفيض يصل إلى 20%<br/><br/>• كود خصم ماكس فاشون <code>(CLUB)</code> استمتع بالخصم الفوري 30% عند استخدام الرمز؟<br/><br/>أشترك الآن ولا تفوَّت أحدث الكوبونات",
+  "page_id": "MISRAJ-0230",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "maxfashion 60% كود خصم ماكس 2024 كوبونات لكل المنتجات\n\t\t\t\t<code>maxfashion 60%</code> كود خصم ماكس 2024 كوبونات لكل\t\t\t\tالمنتجات\n\t\t\t===<hr/><strong>اكواد خصم ماكس فاشون 2023</strong><br/>كود خصم ماكس الجديد من أحدث الكوبونات المتاحة على موقع نادي\t\t\t\tالكوبونات الآن، يتم تحديثه من وقت لآخر لتشجيعك على التسوق وشراء المنتجات من داخل\t\t\t\tالموقع، اشتري الآن كل المنتجات التي تلبي كافة احتياجاتك- بأسعار لا تقبل المنافسة مع\t\t\t\tكوبون خصم ماكس 80% .<br/><br/><table border=\"1\" style=\"font-family: Arial; font-size: 18px; color: rgb(255, 255, 255); width: 100%; text-align: center;\"><tbody><tr><td style=\"background-color: rgb(105, 49, 19); height: 40px;\">كود خصم ماكس</td><td style=\"background-color: rgb(105, 49, 19); height: 40px;\">CLUB</td></tr><tr><td style=\"background-color: rgb(191, 158, 120); height: 40px;\">كوبون خصم ماكس فاشون</td><td style=\"background-color: rgb(191, 158, 120); height: 40px;\">MX34</td></tr><tr><td style=\"background-color: rgb(105, 49, 19); height: 40px;\">قسيمة شراء ماكس</td><td style=\"background-color: rgb(105, 49, 19); height: 40px;\">CLUB</td></tr><tr><td style=\"background-color: rgb(191, 158, 120); height: 40px;\">كود ماكس السعودية</td><td style=\"background-color: rgb(191, 158, 120); height: 40px;\">MX34</td></tr></tbody></table><br/><strong>كوبون ماكس فاشون خصم 40% على مختلف الأحذية</strong><br/><br/>كود خصم ماكس فاشون <code>(MX34)</code> 30% خصم على جميع المنتجات<br/><br/>• كوبون خصم ماكس فاشون <code>(CLUB)</code> تخفيض قوي يصل إلى 60% على الملابس\t\t\t\tالرجالية<br/><br/>• كوبون خصم ماكس فاشون <code>(CLUB)</code> تخفيض يصل إلى 20%<br/><br/>• كود خصم ماكس فاشون <code>(CLUB)</code> استمتع بالخصم الفوري 30% عند استخدام\t\t\t\tالرمز؟<br/><br/>أشترك الآن ولا تفوَّت أحدث الكوبونات",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T01:57:02.634+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,14 @@
+---
+primary_language: ar
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+المحاضرة الثامنة والتاسعة
+
+الإحصاء الحيوي
+Biostatistics
+
+الارتباط والانحدار الخطي البسيط
+Correlation & Simple Linear Regression

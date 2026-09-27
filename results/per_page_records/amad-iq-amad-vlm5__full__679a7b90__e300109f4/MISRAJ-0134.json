@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T03:13:37.117+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 3900,
+    "width": 2759
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.5597416576964478,
+    "cer_raw": 0.5757261410788381,
+    "wer_normalized": 0.675,
+    "wer_raw": 0.675
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "الفصل الدراسي الاول\nwww.zakrooly.com\nConnect Plus\nWho am I?\n(29-27) P. (5) Part (5)\nصورة\nglue\nصمع\nمقص\nscissors\nfriends\nأصدقاء\ncolor\nيلون\ntree\nشجرة\nVocabulary: (SB)\nيعرض\ncut\nيقطع / يقص\nshow\nورق\nstick\nبلصق\npaper\n10\nالكتب ذاكه ولي في البحث وانضم لجهودات ذاكه ولي\nمن رياضه الاطفال للصف الثالث الاعدادي\n74\nWho am I? Unit (2) Meet my family\nهذا العمل حصرى على موقع ذاكرولى التعليمى ويسمح بمشاركته فقط ولا يسمح بتداوله على أي مواقع أخرى\nللمزيد من أعمالنا الحصرية تفضل بزيارة موقعنا الالكتروني من هنا https://www.zakrooly.com\nموقـع ذاكرولى التعليمى\nالصف الاول الابتدائي\nكتاب الباهر\nالم\namx\nام\n٢+٢\n9\nD\nm\n2\nذاكرولي\nwww.zakrooly.com",
+  "page_id": "MISRAJ-0134",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "الفصل الدراسي الاول\nwww.zakrooly.com\nConnect Plus\nWho am I?\n(29-27) P. (5) Part (5)\nصورة\nglue\nصمع\nمقص\nscissors\nfriends\nأصدقاء\ncolor\nيلون\ntree\nشجرة\nVocabulary: (SB)\nيعرض\ncut\nيقطع / يقص\nshow\nورق\nstick\nبلصق\npaper\n10\nالكتب ذاكه ولي في البحث وانضم لجهودات ذاكه ولي\nمن رياضه الاطفال للصف الثالث الاعدادي\n74\nWho am I? Unit (2) Meet my family\nهذا العمل حصرى على موقع ذاكرولى التعليمى ويسمح بمشاركته فقط ولا يسمح بتداوله على أي مواقع أخرى\nللمزيد من أعمالنا الحصرية تفضل بزيارة موقعنا الالكتروني من هنا https://www.zakrooly.com\nموقـع ذاكرولى التعليمى\nالصف الاول الابتدائي\nكتاب الباهر\nالم\namx\nام\n٢+٢\n9\nD\nm\n2\nذاكرولي\nwww.zakrooly.com",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T03:13:26.128+00:00",
+  "status": "PASS"
+}

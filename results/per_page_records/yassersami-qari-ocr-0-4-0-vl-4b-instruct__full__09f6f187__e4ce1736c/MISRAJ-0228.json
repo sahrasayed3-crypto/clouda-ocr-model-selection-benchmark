@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T10:29:15.762+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1241,
+    "width": 875
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.1491395793499044,
+    "cer_raw": 0.15399239543726237,
+    "wer_normalized": 0.13580246913580246,
+    "wer_raw": 0.13580246913580246
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "ماذا تفعل عندما لا يعمل GPS بشكل صحيح على جهاز Android المحمول * كيفية الاستخدام سقط جهازي مني في الماء Samsung الأسئلة الشائعة حول أجهزة المحمولة. تعرف على المزيد حول ما يجب فعله إذا سقطت جهازك منك في الماء مع Samsung Support. * كيفية الاستخدام كيفية استكشاف مشكلات تحديث البرامج وإصلاحها Samsung الأسئلة الشائعة حول أجهزة المحمولة. تعرف على المزيد حول كيفية استكشاف مشكلات تحديث البرامج وإصلاحها مع Samsung Support. * كيفية الاستخدام كيفية إعادة تشغيل جهاز Galaxy عند التجمد",
+  "page_id": "MISRAJ-0228",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "ماذا تفعل عندما لا يعمل GPS بشكل صحيح على جهاز Android المحمول * كيفية الاستخدام سقط جهازي مني في الماء Samsung الأسئلة الشائعة حول أجهزة المحمولة. تعرف على المزيد حول ما يجب فعله إذا سقطت جهازك منك في الماء مع Samsung Support. * كيفية الاستخدام كيفية استكشاف مشكلات تحديث البرامج وإصلاحها Samsung الأسئلة الشائعة حول أجهزة المحمولة. تعرف على المزيد حول كيفية استكشاف مشكلات تحديث البرامج وإصلاحها مع Samsung Support. * كيفية الاستخدام كيفية إعادة تشغيل جهاز Galaxy عند التجمد",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T10:29:06.047+00:00",
+  "status": "PASS"
+}

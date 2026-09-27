@@ -1,0 +1,35 @@
+{
+  "run_id": "tencent-hunyuanocr__smoke__30200dc6",
+  "scope": "smoke",
+  "per_model": {
+    "model_id": "tencent/HunyuanOCR",
+    "run_id": "tencent-hunyuanocr__smoke__30200dc6",
+    "run_state": "COMPLETE",
+    "total_pages": 5,
+    "successful_pages": 5,
+    "failed_pages": 0,
+    "failure_rate": 0,
+    "failure_breakdown": {
+      "FAIL": 0,
+      "INVALID_OUTPUT": 0,
+      "MODEL_LOAD_ERROR": 0,
+      "OOM": 0,
+      "TIMEOUT": 0
+    },
+    "mean_cer_raw": 0.4592740977364909,
+    "mean_wer_raw": 0.6645875999632727,
+    "mean_cer_normalized": 0.419831696869973,
+    "mean_wer_normalized": 0.6645875999632727
+  },
+  "failures": {
+    "total_failures": 0,
+    "by_status": {
+      "FAIL": [],
+      "OOM": [],
+      "TIMEOUT": [],
+      "MODEL_LOAD_ERROR": [],
+      "INVALID_OUTPUT": []
+    },
+    "details": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "scope": "full",
+  "per_model": {
+    "model_id": "amad-iq/amad-vlm5",
+    "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+    "run_state": "COMPLETE",
+    "total_pages": 462,
+    "successful_pages": 462,
+    "failed_pages": 0,
+    "failure_rate": 0,
+    "failure_breakdown": {
+      "FAIL": 0,
+      "INVALID_OUTPUT": 0,
+      "MODEL_LOAD_ERROR": 0,
+      "OOM": 0,
+      "TIMEOUT": 0
+    },
+    "mean_cer_raw": 1.0497891403045019,
+    "mean_wer_raw": 0.5442225419285867,
+    "mean_cer_normalized": 0.4062280215211916,
+    "mean_wer_normalized": 0.5425301299290904
+  },
+  "failures": {
+    "total_failures": 0,
+    "by_status": {
+      "FAIL": [],
+      "OOM": [],
+      "TIMEOUT": [],
+      "MODEL_LOAD_ERROR": [],
+      "INVALID_OUTPUT": []
+    },
+    "details": []
+  }
+}

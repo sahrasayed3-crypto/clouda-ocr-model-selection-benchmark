@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-19T22:07:36.074+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "d91de23a12429d2f406f5d90fb243b53851241d203ac77544ed263a17d33fc96",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1654
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.4323189926547744,
+    "cer_raw": 0.4323189926547744,
+    "wer_normalized": 0.6571428571428571,
+    "wer_raw": 0.6571428571428571
+  },
+  "model_id": "tencent/HunyuanOCR",
+  "model_revision": "47644ecc4fc854efa4f505155158831f36773ee4",
+  "normalized_output": "HARVEST PRIVATE SCHOOL\n\nP.O.BOX:4328\n\nRas Al Khaimah,United Arab Emirates\n\nClasse:-----صف خامس-------\n\nSubject:-------تربية وطنية-------\n\nLesson------الدرس الأول------\n\nVision of the school :To be the best choice for any parent who seeks to achieve the best educational service for his/ her children\n\nالسؤال الخامس\n\nصنف كل من الظواهر الجغرافية الأتية وفق للجدول :\n\n(ليوا - الدواسر الحجاز نجد - الحميض )\n\n<table><tr><td>نبات طبيعي</td><td>واحات</td><td>أودية</td><td>هضاب</td><td>جبال</td></tr><tr><td>الحميض</td><td>ليوا</td><td>الدواسر</td><td>نجد</td><td>الحجاز</td></tr><tr><td></td><td>من</td><td>هذا الملف</td><td>تم</td><td></td></tr></table>",
+  "page_id": "MISRAJ-0150",
+  "prompt_hash": "16f15a15a1eb51817cd30c2dbf607e77a9f67eec41448526aab5aeb87f2311d4",
+  "raw_output": "HARVEST PRIVATE SCHOOL\n\nP.O.BOX:4328\n\nRas Al Khaimah,United Arab Emirates\n\nClasse:-----صف خامس-------\n\nSubject:-------تربية وطنية-------\n\nLesson------الدرس الأول------\n\nVision of the school :To be the best choice for any parent who seeks to achieve the best educational service for his/ her children\n\nالسؤال الخامس\n\nصنف كل من الظواهر الجغرافية الأتية وفق للجدول :\n\n(ليوا - الدواسر الحجاز نجد - الحميض )\n\n<table><tr><td>نبات طبيعي</td><td>واحات</td><td>أودية</td><td>هضاب</td><td>جبال</td></tr><tr><td>الحميض</td><td>ليوا</td><td>الدواسر</td><td>نجد</td><td>الحجاز</td></tr><tr><td></td><td>من</td><td>هذا الملف</td><td>تم</td><td></td></tr></table>",
+  "retry_count": 0,
+  "run_id": "tencent-hunyuanocr__full__def73123",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-19T22:07:29.838+00:00",
+  "status": "PASS"
+}

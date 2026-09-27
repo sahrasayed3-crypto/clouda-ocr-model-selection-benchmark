@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T04:06:26.877+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1241,
+    "width": 1754
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.6375366568914956,
+    "cer_raw": 0.6657908565423016,
+    "wer_normalized": 0.7566371681415929,
+    "wer_raw": 0.7566371681415929
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "البرنامج\n\nMaster of Business Administration/Management (MBA in Management)\n\nMaster of Arts in German as a Foreign Language (MA DaF)\n\nMaster of Science in Spatial Planning\n\nMaster of Science in Computer Engineering\n\nMaster of Science in Environmental and Renewable Energy Engineering\n\nMaster of Science in Engineering Management\n\nكلية إدارة الأعمال/ الدراسات العليا\n\nبرنامج ماجستير إدارة الأعمال/ الدراسة العليا\n\nبرنامج ماجستير إدارة الأعمال/ التسويق (MBA in Marketing)\n\nكلية الإنسانيات التطبيقية واللغات\n\nكلية هندسة العمارة والبيئة المبنية\n\nبرنامج ماجستير الحفاظ المعماري\n\nكلية الهندسة الكهربائية وتكنولوجيا المعلومات\n\nبرنامج ماجستير هندسة الحاسوب\n\nبرنامج ماجستير هندسة نظم المؤسسات (بالتعاون مع جامعة الأميره سمية للเทคโนโลยيا)\n\nكلية هندسة الموارد الطبيعية وإدارتها\n\nبرنامج ماجستير هندسة البيئة والطاقة المستجذدة\n\nMaster of Science in Humanitarian WaSH\n\nبرنامج الماجستير في المياه والصرف الصحي والصحة العامة في القطاع الإنساني (Water, Sanitation and hygiene)\n\nكلية العلوم التقنية التطبيقية\n\nبرنامج ماجستير الإدارة الهندسية",
+  "page_id": "MISRAJ-0274",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "البرنامج\n\nMaster of Business Administration/Management (MBA in Management)\n\nMaster of Arts in German as a Foreign Language (MA DaF)\n\nMaster of Science in Spatial Planning\n\nMaster of Science in Computer Engineering\n\nMaster of Science in Environmental and Renewable Energy Engineering\n\nMaster of Science in Engineering Management\n\nكلية إدارة الأعمال/ الدراسات العليا\n\nبرنامج ماجستير إدارة الأعمال/ الدراسة العليا\n\nبرنامج ماجستير إدارة الأعمال/ التسويق (MBA in Marketing)\n\nكلية الإنسانيات التطبيقية واللغات\n\nكلية هندسة العمارة والبيئة المبنية\n\nبرنامج ماجستير الحفاظ المعماري\n\nكلية الهندسة الكهربائية وتكنولوجيا المعلومات\n\nبرنامج ماجستير هندسة الحاسوب\n\nبرنامج ماجستير هندسة نظم المؤسسات (بالتعاون مع جامعة الأميره سمية للเทคโนโลยيا)\n\nكلية هندسة الموارد الطبيعية وإدارتها\n\nبرنامج ماجستير هندسة البيئة والطاقة المستجذدة\n\nMaster of Science in Humanitarian WaSH\n\nبرنامج الماجستير في المياه والصرف الصحي والصحة العامة في القطاع الإنساني (Water, Sanitation and hygiene)\n\nكلية العلوم التقنية التطبيقية\n\nبرنامج ماجستير الإدارة الهندسية",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T04:06:14.627+00:00",
+  "status": "PASS"
+}

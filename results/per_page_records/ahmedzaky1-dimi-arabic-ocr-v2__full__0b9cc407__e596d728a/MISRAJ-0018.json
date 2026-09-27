@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T09:36:25.956+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1403,
+    "width": 951
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.5855855855855856,
+    "cer_raw": 0.5855855855855856,
+    "wer_normalized": 0.8333333333333334,
+    "wer_raw": 0.8333333333333334
+  },
+  "model_id": "AhmedZaky1/DIMI-Arabic-OCR-V2",
+  "model_revision": "8a7a293343fc91a6427a8c7a3ce69352870ea8a1",
+  "normalized_output": "شَكْل رقم (١٣) : مسرح إِيبِدَاورُوس، القَرن الرابع. تصوِير هاسِيا. 417",
+  "page_id": "MISRAJ-0018",
+  "prompt_hash": "1a01c6a2e324aea55bbe84b519f619bbd06bb6fc4e435e9f51f478712de22b7c",
+  "raw_output": "شَكْل رقم (١٣) : مسرح إِيبِدَاورُوس، القَرن الرابع. تصوِير هاسِيا. 417",
+  "retry_count": 0,
+  "run_id": "ahmedzaky1-dimi-arabic-ocr-v2__full__0b9cc407__e596d728a",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T09:36:22.294+00:00",
+  "status": "PASS"
+}

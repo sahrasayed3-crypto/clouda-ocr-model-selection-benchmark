@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T00:07:56.479+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1600,
+    "width": 1132
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.9501432664756447,
+    "cer_raw": 0.9501432664756447,
+    "wer_normalized": 0.9633251833740831,
+    "wer_raw": 0.9633251833740831
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "وفي غالبية الأحوال التي نناقش فيها هوية هؤلاء الرواة لذي غالبيتهم ليسوا عربا خلصا مدعوى",
+  "page_id": "MISRAJ-0070",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "وفي غالبية الأحوال التي نناقش فيها هوية هؤلاء الرواة لذي غالبيتهم ليسوا عربا خلصا مدعوى",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T00:07:54.884+00:00",
+  "status": "PASS"
+}

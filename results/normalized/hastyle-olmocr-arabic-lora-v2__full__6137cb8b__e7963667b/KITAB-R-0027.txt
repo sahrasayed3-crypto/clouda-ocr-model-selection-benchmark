@@ -1,0 +1,40 @@
+---
+primary_language: ar
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+الارتباط والانحدار الخطي البسيط & Correlation
+Simple Linear Regression
+
+- الجدول التالي يوضح أنواع الارتباط واتجاه العلاقة وشكل الانتشار لكل نوع
+
+<table>
+ <tr>
+ <th>المعني</th>
+ <th>قيمة معامل الارتباط</th>
+ </tr>
+ <tr>
+ <td>ارتباط طردي تام</td>
+ <td>+1</td>
+ </tr>
+ <tr>
+ <td>ارتباط طردي قوي</td>
+ <td>0.99 من 0.70 إلى</td>
+ </tr>
+ <tr>
+ <td>ارتباط طردي متوسط</td>
+ <td>0.69 من 0.50 إلى</td>
+ </tr>
+ <tr>
+ <td>ارتباط طردي ضعيف</td>
+ <td>0.49 من 0.01 إلى</td>
+ </tr>
+ <tr>
+ <td>لا يوجد ارتباط</td>
+ <td>0</td>
+ </tr>
+</table>
+
+- وما قبل عن الارتباط الطردي ينطبق على الارتباط العكسي مع عكس الاشارة

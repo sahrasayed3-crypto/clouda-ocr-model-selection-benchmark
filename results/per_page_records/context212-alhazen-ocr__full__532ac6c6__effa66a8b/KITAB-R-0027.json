@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-23T21:53:16.373+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "c731166167f7b06c0a55abc0ea7a4407b86ac433bc70041d0b88a200554385c5",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1500,
+    "width": 2000
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 1.1872964169381108,
+    "cer_raw": 1.1758064516129032,
+    "wer_normalized": 1.4705882352941178,
+    "wer_raw": 1.4705882352941178
+  },
+  "model_id": "context212/alhazen-ocr",
+  "model_revision": "110b461e2389c97f68a1310370afeebb4a0b381f",
+  "normalized_output": "Create a new slide for the presentation. The header should be \"Affinity & Correlation\" with the following content: \"The relationship between two variables is called correlation. In statistics, we use the correlation coefficient to measure the strength of the relationship between two variables. We can use the correlation coefficient to determine if two variables are related or if they are independent. We can also use the correlation coefficient to determine the direction of the relationship between two variables. We can use the correlation coefficient to determine the strength of the relationship between two variables. We can use the correlation coefficient to determine the strength of the relationship between two variables. We can use the correlation coefficient to determine the strength of the relationship between two variables.\"",
+  "page_id": "KITAB-R-0027",
+  "prompt_hash": "631994fea519ca7a7390c2788b906e643d420ba3564ff2190dded854cce1cdc5",
+  "raw_output": "Create a new slide for the presentation. The header should be \"Affinity & Correlation\" with the following content: \"The relationship between two variables is called correlation. In statistics, we use the correlation coefficient to measure the strength of the relationship between two variables. We can use the correlation coefficient to determine if two variables are related or if they are independent. We can also use the correlation coefficient to determine the direction of the relationship between two variables. We can use the correlation coefficient to determine the strength of the relationship between two variables. We can use the correlation coefficient to determine the strength of the relationship between two variables. We can use the correlation coefficient to determine the strength of the relationship between two variables.\"",
+  "retry_count": 0,
+  "run_id": "context212-alhazen-ocr__full__532ac6c6__effa66a8b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-23T21:53:06.448+00:00",
+  "status": "PASS"
+}

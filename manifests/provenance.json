@@ -1,0 +1,46 @@
+{
+  "recorded_at": "2026-09-19",
+  "note": "Machine-readable provenance for the official Primary Benchmark (462 pages). Licenses are quoted exactly as published in each dataset's Hugging Face dataset card at the pinned revision. Nothing is inferred.",
+  "sources": [
+    {
+      "canonical_name": "Misraj-DocOCR",
+      "repository": "https://huggingface.co/datasets/Misraj/Misraj-DocOCR",
+      "repository_id": "Misraj/Misraj-DocOCR",
+      "pinned_revision": "7177bf70f77ce259890d6af0bef53f18faf26ec9",
+      "revision_resolved_on": "2026-09-19",
+      "last_modified_at_pin": "2025-10-12T13:04:44+00:00",
+      "selected_split": "train",
+      "selected_rows": "0-399 (all rows, parquet shard order at pinned revision)",
+      "selected_page_count": 400,
+      "stable_ids": "per-row `uuid` column (verified unique across all 400 rows); mapped to MISRAJ-0001..MISRAJ-0400",
+      "license_as_published": "apache-2.0",
+      "license_source": "dataset card YAML `license:` field at pinned revision",
+      "attribution_requirements": "Apache-2.0: retain copyright/license notices; dataset card lists no additional attribution requirements",
+      "usage_restrictions": "None stated beyond Apache-2.0. UNRESOLVED(none-required-per-card): card does not name a preferred citation explicitly beyond the arXiv reference (arXiv:2509.18174).",
+      "provenance_notes": "Fine-grained Arabic document OCR dataset with structure-preserving markdown ground truth. Downloaded as parquet shards at the pinned revision; page images exported byte-identically (PNG). 1 page (MISRAJ-0109) contains English textbook content - authentic dataset composition, retained unaltered."
+    },
+    {
+      "canonical_name": "KITAB PDF to Markdown (Reviewed)",
+      "repository": "https://huggingface.co/datasets/Misraj/KITAB_pdf_to_markdown_reviewed",
+      "repository_id": "Misraj/KITAB_pdf_to_markdown_reviewed",
+      "pinned_revision": "8890d721c660cd027839bc8bc48634552fe7aec6",
+      "revision_resolved_on": "2026-09-19",
+      "last_modified_at_pin": "2025-09-24T10:32:44+00:00",
+      "selected_split": "train",
+      "selected_rows": "0-61 (all rows, parquet order at pinned revision)",
+      "selected_page_count": 62,
+      "stable_ids": "no stable-id column in schema; rows identified by pinned-revision row index; mapped to KITAB-R-0001..KITAB-R-0062",
+      "license_as_published": "apache-2.0",
+      "license_source": "dataset card YAML `license:` field at pinned revision",
+      "attribution_requirements": "Apache-2.0: retain copyright/license notices; dataset card lists no additional attribution requirements",
+      "usage_restrictions": "None stated beyond Apache-2.0. UNRESOLVED(none-required-per-card): card does not name a preferred citation explicitly beyond the arXiv reference (arXiv:2509.18174).",
+      "provenance_notes": "Human-reviewed KITAB PDF-to-markdown pages. This is the reviewed equivalent source for the 62-page KITAB portion named in the benchmark protocol; the prompt's alternate name 'Misraj/KITAB' resolves to this repository. Downloaded as a single parquet shard at the pinned revision; images exported byte-identically (PNG)."
+    }
+  ],
+  "explicitly_excluded": [
+    {
+      "repository_id": "loay/arabic-ocr-synthetic-scans-faker-300k",
+      "reason": "Excluded from the official Primary Benchmark by protocol. Reserved for a possible future, separate robustness track."
+    }
+  ]
+}

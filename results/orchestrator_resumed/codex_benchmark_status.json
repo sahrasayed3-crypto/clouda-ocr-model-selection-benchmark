@@ -1,0 +1,36 @@
+{
+  "owner_pid": 41040,
+  "started_at": "2026-09-24T07:35:50Z",
+  "models": {
+    "AhmedZaky1/DIMI-Arabic-OCR-V2": {
+      "status": "FAILED",
+      "pid": 41042,
+      "log": "<server-root>/outputs/orchestrator/logs/codex_AhmedZaky1__DIMI_Arabic_OCR_V2.log",
+      "returncode": -15,
+      "finished_at": "2026-09-24T11:03:11Z"
+    },
+    "hastyle/olmOCR-arabic-lora-v2": {
+      "status": "FAILED",
+      "pid": 41043,
+      "log": "<server-root>/outputs/orchestrator/logs/codex_hastyle__olmOCR_arabic_lora_v2.log",
+      "returncode": -15,
+      "finished_at": "2026-09-24T11:03:11Z"
+    },
+    "loay/Arabic-OCR-DeepSeek-OCR-2": {
+      "status": "FAILED",
+      "pid": 41044,
+      "log": "<server-root>/outputs/orchestrator/logs/codex_loay__Arabic_OCR_DeepSeek_OCR_2.log",
+      "returncode": 1,
+      "finished_at": "2026-09-24T07:36:00Z"
+    },
+    "sherif1313/Arabic-GLM-OCR-v2": {
+      "status": "FAILED",
+      "pid": 41045,
+      "log": "<server-root>/outputs/orchestrator/logs/codex_sherif1313__Arabic_GLM_OCR_v2.log",
+      "returncode": 1,
+      "finished_at": "2026-09-24T07:36:00Z"
+    }
+  },
+  "timing_class": "CONTENDED_NON_CANONICAL",
+  "finished_at": "2026-09-24T11:03:21Z"
+}

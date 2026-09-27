@@ -1,0 +1,31 @@
+صفى: $ \backslash 1 $.....
+
+اسمى :......
+
+هيا يا صغيري لنكتب سلاسل الأعداد:
+
+<table><tr><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+
+هيا يا صغيري عد ثم حوط العدد الصحيح :
+
+البناني الإسامية
+
+Count the pictures and circle the correct number.
+
+(69,468),(483,571)
+
+<table><tr><td>11</td><td>7</td></tr></table>
+
+(511,467),(937,573)
+
+<table><tr><td>19</td><td>15</td></tr></table>
+
+(514,589),(934,694)
+
+<table><tr><td>20</td><td>8</td></tr></table>
+
+(515,713),(931,817)
+
+<table><tr><td>8</td><td>9</td></tr></table>
+
+(513,836),(933,939)

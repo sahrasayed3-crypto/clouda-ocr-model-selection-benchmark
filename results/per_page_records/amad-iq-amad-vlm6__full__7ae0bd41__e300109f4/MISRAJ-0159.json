@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T00:49:04.649+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2126,
+    "width": 1572
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 1.1799729364005414,
+    "cer_raw": 1.1770972037283622,
+    "wer_normalized": 1.2241379310344827,
+    "wer_raw": 1.2241379310344827
+  },
+  "model_id": "amad-iq/amad-vlm6",
+  "model_revision": "7daf90cd5e5706173e159c88ca4e6dc2475a485e",
+  "normalized_output": "محطة الفضاء الدولية:\n• محطة الفضاء الدولية كبيرة بحجم ملعب كرة قدم. معظم المساحة تشغله الألواح الشمسية والتي هي طويلة جدًّا حوالي (110) متر.\n• المحطة تكمل دورة كاملة حول الأرض كل (90) دقيقة، لذا فان رواد الفضاء في المحطة يرون (16) شروق وغروب للشمس في اليوم الواحد.\n• تبلغ سرعة دوران المحطة (28,000) كم في الساعة.\n• وزن المحطة: (420,000) .Kg\n• بعد المحطة عن الأرض: (390) Km.\n• تم بناء محطة الفضاء الدولية سنة 1998م، بموجب تعاون دولي بقيادة الولايات المتحدة وجمهورية روسيا الاتحادية، وهم الشريكيين الرئيسيين، وبتمويل من كندا واليابان و(10) دول أوربية، وبلغت تكلفتها (100) مليار يورو.\n\nInternational Space Station (ISS).\nRussian modules:\nUS modules:\n1 Docking port\nUnity Module\n2 Docking- and cargo port\nQuartz Airlock\n3 Zarya Control Module\nHarmony Node\n4 Multipurpose Laboratory Module\n5 Destiny Laboratory\n6 Zvezda Service Module\nStructure\n7 Pirs Docking Port\nSolar Panels\nCanadian module:\nEuropean module:\n1 Canadian-Canadarm-2,\nmobile servicing system\nJapanese modules:\n15 Kibo Research Module\n15 Kibo Outer Research\nPlatform\nCrew Sleep\nCompartment\nGaleley table\nAirflow vent\nWaste Management\nCompartment\nSmoke\ndetector\nDocking\nport\nCamera, Camera\nVaca Ergometer\nCaution and Warning panel\nClock and Mousere\n150's orbit around Earth.\nIt orbits at an altitude of\napproximately 350 kilometers\nabove the surface of the\nEarth, travelling at an average\nspeed of 28,000 kilometers\nper hour, completing\n15.7 orbits per day.\n143\nستوق الطبع © حقوقها لوزارة التربية والتعليم - دولة الإمارات العربية المتحدة",
+  "page_id": "MISRAJ-0159",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "محطة الفضاء الدولية:\n• محطة الفضاء الدولية كبيرة بحجم ملعب كرة قدم. معظم المساحة تشغله الألواح الشمسية والتي هي طويلة جدًّا حوالي (110) متر.\n• المحطة تكمل دورة كاملة حول الأرض كل (90) دقيقة، لذا فان رواد الفضاء في المحطة يرون (16) شروق وغروب للشمس في اليوم الواحد.\n• تبلغ سرعة دوران المحطة (28,000) كم في الساعة.\n• وزن المحطة: (420,000) .Kg\n• بعد المحطة عن الأرض: (390) Km.\n• تم بناء محطة الفضاء الدولية سنة 1998م، بموجب تعاون دولي بقيادة الولايات المتحدة وجمهورية روسيا الاتحادية، وهم الشريكيين الرئيسيين، وبتمويل من كندا واليابان و(10) دول أوربية، وبلغت تكلفتها (100) مليار يورو.\n\nInternational Space Station (ISS).\nRussian modules:\nUS modules:\n1 Docking port\nUnity Module\n2 Docking- and cargo port\nQuartz Airlock\n3 Zarya Control Module\nHarmony Node\n4 Multipurpose Laboratory Module\n5 Destiny Laboratory\n6 Zvezda Service Module\nStructure\n7 Pirs Docking Port\nSolar Panels\nCanadian module:\nEuropean module:\n1 Canadian-Canadarm-2,\nmobile servicing system\nJapanese modules:\n15 Kibo Research Module\n15 Kibo Outer Research\nPlatform\nCrew Sleep\nCompartment\nGaleley table\nAirflow vent\nWaste Management\nCompartment\nSmoke\ndetector\nDocking\nport\nCamera, Camera\nVaca Ergometer\nCaution and Warning panel\nClock and Mousere\n150's orbit around Earth.\nIt orbits at an altitude of\napproximately 350 kilometers\nabove the surface of the\nEarth, travelling at an average\nspeed of 28,000 kilometers\nper hour, completing\n15.7 orbits per day.\n143\nستوق الطبع © حقوقها لوزارة التربية والتعليم - دولة الإمارات العربية المتحدة",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm6__full__7ae0bd41__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T00:48:52.187+00:00",
+  "status": "PASS"
+}

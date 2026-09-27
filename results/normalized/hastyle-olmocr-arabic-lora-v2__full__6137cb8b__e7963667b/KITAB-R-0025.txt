@@ -1,0 +1,13 @@
+---
+primary_language: ar
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+الارتباط والانحدار الخطي البسيط & Correlation & Simple Linear Regression
+
+- الإرتباط هو تعيين طبيعة وقوة العلاقة بين متغيرين
+- معامل الإرتباط correlation coeficient هو مؤشر هذه العلاقة
+- اذا كان لدينا متغيران، المتغير X وهو متغير يتم تحديده من قبل الباحث أو الشخص ويسمى بالمتغير المستقل independent variable
+- يرافق المتغير X المتغير Y ويسمى بالمتغير التابع dependent variable وهو متغير تابع لأن نتبيجته غير محددة وتعتمد على قيم المتغير المستقل.

@@ -1,0 +1,22 @@
+run_id: loay-arabic-ocr-deepseek-ocr-2__smoke__2dc3d4a0
+model:  loay/Arabic-OCR-DeepSeek-OCR-2 @ 3b279774135bf21835e2bfe6071663f5da227e1c
+prompt: Free OCR
+statuses: {"MODEL_LOAD_ERROR": 5}
+report -> <server-root>/outputs/reports/loay-arabic-ocr-deepseek-ocr-2__smoke__2dc3d4a0.json
+per-model: {
+  "model_id": "loay/Arabic-OCR-DeepSeek-OCR-2",
+  "run_id": "loay-arabic-ocr-deepseek-ocr-2__smoke__2dc3d4a0",
+  "run_state": "COMPLETE",
+  "total_pages": 5,
+  "successful_pages": 0,
+  "failed_pages": 5,
+  "failure_rate": 1.0,
+  "failure_breakdown": {
+    "FAIL": 0,
+    "INVALID_OUTPUT": 0,
+    "MODEL_LOAD_ERROR": 5,
+    "OOM": 0,
+    "TIMEOUT": 0
+  },
+  "runtime": "<redacted: out of scope>"
+}

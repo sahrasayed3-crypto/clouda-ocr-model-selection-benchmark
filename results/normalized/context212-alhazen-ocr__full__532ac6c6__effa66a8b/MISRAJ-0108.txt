@@ -1,0 +1,16 @@
+Create an annotation snapshot of the original slide, preserving the image's layout. We'll extract the text from the source, maintaining the original reading order and positioning.
+
+We'll work from the top of the page, reading line by line, and extract the text, placing it in a structured format. We'll extract all the text, preserving the original meaning and context, and reconstruct it in a readable format.
+
+1. We'll identify the main headings from the image, which appear to be the title and the contents. We'll extract the text from the headings and delimiters.
+2. We'll extract the text from the image, preserving the original reading order. We'll use text-alignment to reconstruct the layout.
+
+We'll now process the image, extracting the text in order.
+
+- We'll extract the text from the image, preserving the original reading order.
+- We'll identify the main headings, which are the titles of the sections.
+- We'll extract the text from the sidebars, which are notes or captions.
+
+We'll process the image, extracting the text in order. We'll extract the text from the image, preserving the original reading order. We'll extract the text from the sidebars, which are notes or captions.
+
+- Rtl celloparodey®® cell-Climar® cell造 issues造 issues造® close deltsbotyemi® car Limited® bio-floody issues®造 issues造® soft® lightopyx] car Limited® bio-floody® play design® close Cario cell造 issues造® play design® bio-flood® soft® light cell造® soft® house Limited® close delturn® soft® issues® play design® play ط\Bridge® play 造 issues造® play 造 issues造® play 造 issues造® soft® cell\Component® close Cario cell造® close delturn® soft® house Limited®.com® bio-flood® close delturn® soft® light建设 cell造® play 造 issues造® bio-feyond® play ط issues造® play 造 issues造® soft® issues造® soft® house Limited® close delturn® play soft® issues造® Playbot cell car cell car cell car soft® issues造® play ط issues造® light建设® play SM.com®.com®

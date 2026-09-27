@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T02:24:49.514+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2100,
+    "width": 1275
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.2217573221757322,
+    "cer_raw": 0.28451882845188287,
+    "wer_normalized": 0.4358974358974359,
+    "wer_raw": 0.4358974358974359
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "يسلموووو بسووم ع المروور العسل والله يبارك بعمرك\n يسلمووو بسووم ع المروور العسل\n والله يبارك بعمرك يا عمري\n يسلمووو الظفيري ع المروور الحلووو\n والشكر لـ مروورك العطر.\n أهَّلٌ شَيٌّ اتاني أبلغ :)\n أَلْفِ شَكْرٍ مِنْ ثَانِيهِ \"بسووم/الظفيري\"\n يـYOU",
+  "page_id": "MISRAJ-0272",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "يسلموووو بسووم ع المروور العسل والله يبارك بعمرك\n\t\t\t\tيسلمووو بسووم ع المروور العسل\n\t\t\tوالله يبارك بعمرك يا عمري\n\t\t\t\tيسلمووو الظفيري ع المروور الحلووو\n\t\t\tوالشكر لـ مروورك العطر.\n\t\t\t\tأهَّلٌ شَيٌّ اتاني أبلغ :)\n\t\t\tأَلْفِ شَكْرٍ مِنْ ثَانِيهِ \"بسووم/الظفيري\"\n\t\t\t\tيـYOU",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T02:24:43.218+00:00",
+  "status": "PASS"
+}

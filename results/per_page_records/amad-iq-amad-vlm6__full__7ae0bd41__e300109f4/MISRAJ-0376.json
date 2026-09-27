@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T02:08:45.513+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1241,
+    "width": 875
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.3890063424947146,
+    "cer_raw": 0.3890063424947146,
+    "wer_normalized": 0.4268292682926829,
+    "wer_raw": 0.4268292682926829
+  },
+  "model_id": "amad-iq/amad-vlm6",
+  "model_revision": "7daf90cd5e5706173e159c88ca4e6dc2475a485e",
+  "normalized_output": "أمر مقبول؟ Fortnite هل شراء حسابات .3\nلقد .لا، ليس من المقبول شراء أو بيع حسابات\nتم بالفعل إخبار مطوري اللعبة بعدم القيام بمثل هذه\n•الأنشطة\nهل يمكنك نقل سكنتات .4 Fortnite؟\nالخاصة بك إلى حسابات Fortnite يمكنك نقل واجهات\n• مختلفة عن طريق دمجها\nالحسابات؟ Fortnite هل تحظر لعبة .5\nفسيتم، نعم، إذا قمت بانتهاك أي من سياسات\nحظر حسابك من المنصة. نقترح عليك عدم القيام بأي من هذه\n•وحسابها الأنشطة التي تقتصر على\nما هي لعبة فورتنايت؟",
+  "page_id": "MISRAJ-0376",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "أمر مقبول؟ Fortnite هل شراء حسابات .3\nلقد .لا، ليس من المقبول شراء أو بيع حسابات\nتم بالفعل إخبار مطوري اللعبة بعدم القيام بمثل هذه\n•الأنشطة\nهل يمكنك نقل سكنتات .4 Fortnite؟\nالخاصة بك إلى حسابات Fortnite يمكنك نقل واجهات\n• مختلفة عن طريق دمجها\nالحسابات؟ Fortnite هل تحظر لعبة .5\nفسيتم، نعم، إذا قمت بانتهاك أي من سياسات\nحظر حسابك من المنصة. نقترح عليك عدم القيام بأي من هذه\n•وحسابها الأنشطة التي تقتصر على\nما هي لعبة فورتنايت؟",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm6__full__7ae0bd41__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T02:08:41.437+00:00",
+  "status": "PASS"
+}

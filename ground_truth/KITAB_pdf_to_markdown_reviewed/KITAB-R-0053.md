@@ -1,0 +1,96 @@
+
+**Burn lecture 3**
+
+<table>
+<tr>
+<td>
+
+**Definition:**
+* Coagulative necrosis of tissues due to physical or chemical agents.
+
+**Etiology:**
+1. **Physical:**
+   A. Thermal
+   1. Direct: flame
+   2. Indirect: scald
+B. Electrical
+C. Radiation
+
+2. **Chemical:**
+   A. Alkalis
+   B. Acids
+
+N.B. cold burn
+
+**Classification of burn:**
+A. According to extent
+    * Minor:<10 %
+    * Intermediate: 10 – 30%
+    * Major: >30%
+
+B. According to depth
+    * First degree: epidermis only
+    * Second degree: epidermis part of dermis
+    * Third degree: all skin
+
+**How does burn harm the body?**
+1- Increased Capillary permeiability
+2- Evaporation of water → severe dehydration
+
+**Complications:**
+A. Systemic:
+1. **Respiratory:**
+   Asphyxia, laryngospasm, bronchospasm, type 2 Respiratory failure
+2. C.V.S.
+   Shock hypovolemic
+
+</td>
+<td>
+
+**التعريف:**
+* نخر تجلطي (موت) للأنسجة بسبب عوامل فيزيائية أو كيميائية.
+
+**المسببات:**
+1. جسدي - بدني:
+   أ. حراري
+   ١. مباشرة: اللهب
+   ٢. غير مباشرة: تحرق / سلق (أغتسل بالماء الساخن)
+
+ب. كهربائي
+ج. إشعاعي
+
+٢. المادة الكيميائية:
+   أ. القلويات
+   ب. الأحماض
+
+**ملحوظة: حرق بارد**
+
+**تصنيف الحرق:**
+أ. حسب المدى:
+    * الصغرى:> ١٠٪
+    * متوسط: ١٠ - ٣٠٪
+    * كبيري:> ٣٠٪
+
+ب. حسب العمق:
+    * الدرجة الأولى: البشرة فقط (الطبقة الأولي)
+    * الدرجة الثانية: الطبقة الأولي + جزء من الطبقة الثانية (باطن الجلد)
+    * الدرجة الثالثة: كل الجلد
+
+**كيف يضر الحرق الجسم؟**
+١. زيادة النفاذية للشعيرات الدموية
+٢. تبخر الماء ← يؤدي الي الجفاف الشديد
+
+**المضاعفات:**
+أ- الجهاز:
+١. الجهاز التنفسي:
+    * الاختناق ، تشنج الحنجرة ، تشنج قصبي ، فشل التنفس من النوع الثاني
+
+٢. الجهاز الدوري:
+
+</td>
+</tr>
+</table>
+
+لا تنسونى من صالح الدعاء....
+علاء أحمد
+https://egynursology.blogspot.com

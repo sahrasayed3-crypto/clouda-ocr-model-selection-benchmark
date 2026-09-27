@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-23T22:15:21.030+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "c731166167f7b06c0a55abc0ea7a4407b86ac433bc70041d0b88a200554385c5",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1654
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.899815157116451,
+    "cer_raw": 0.8998891762098263,
+    "wer_normalized": 0.9883381924198251,
+    "wer_raw": 0.9883381924198251
+  },
+  "model_id": "context212/alhazen-ocr",
+  "model_revision": "110b461e2389c97f68a1310370afeebb4a0b381f",
+  "normalized_output": "Create a study guide for first aid, covering the principles and treatment of burns. You need to understand the causes, symptoms, and how to manage them effectively. This guide is designed to help you prepare for a medical emergency, with detailed explanations and practical steps. It includes a comprehensive list of medical terms and their definitions, as well as a step-by-step guide for treating burns. You will also learn about the correct use of medications, fluid therapy, and the proper use of medical devices.",
+  "page_id": "KITAB-R-0054",
+  "prompt_hash": "631994fea519ca7a7390c2788b906e643d420ba3564ff2190dded854cce1cdc5",
+  "raw_output": "Create a study guide for first aid, covering the principles and treatment of burns. You need to understand the causes, symptoms, and how to manage them effectively. This guide is designed to help you prepare for a medical emergency, with detailed explanations and practical steps. It includes a comprehensive list of medical terms and their definitions, as well as a step-by-step guide for treating burns. You will also learn about the correct use of medications, fluid therapy, and the proper use of medical devices.",
+  "retry_count": 0,
+  "run_id": "context212-alhazen-ocr__full__532ac6c6__effa66a8b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-23T22:15:14.234+00:00",
+  "status": "PASS"
+}

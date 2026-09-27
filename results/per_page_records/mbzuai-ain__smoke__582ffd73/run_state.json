@@ -1,0 +1,26 @@
+{
+  "config_hash": "582ffd734f3b79639087bd672e5903d20fffbae376ca94e1a6356e58e41f0a03",
+  "created_at": "2026-09-23T22:29:03.961+00:00",
+  "generation_parameters": {
+    "max_new_tokens": 2048
+  },
+  "is_dry_run": false,
+  "manifest_sha256": "053225b08d9e027f45085f120920b58af6d7adc4b149d74db50f0c289ca7ef40",
+  "max_retries": 0,
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "page_ids": [
+    "MISRAJ-0166",
+    "KITAB-R-0002",
+    "MISRAJ-0084",
+    "MISRAJ-0216",
+    "MISRAJ-0185"
+  ],
+  "prompt": "Extract all text from the image.",
+  "retry_policy": [
+    "OOM",
+    "TIMEOUT"
+  ],
+  "run_id": "mbzuai-ain__smoke__582ffd73",
+  "timeout_seconds": null
+}

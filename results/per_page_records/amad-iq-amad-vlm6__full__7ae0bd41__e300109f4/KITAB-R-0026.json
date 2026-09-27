@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T00:01:47.481+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1500,
+    "width": 2000
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.17582417582417584,
+    "cer_raw": 0.175054704595186,
+    "wer_normalized": 0.36507936507936506,
+    "wer_raw": 0.36507936507936506
+  },
+  "model_id": "amad-iq/amad-vlm6",
+  "model_revision": "7daf90cd5e5706173e159c88ca4e6dc2475a485e",
+  "normalized_output": "الارتباط والانحدار الخطي البسيط & Correlation\nSimple Linear Regression\nأنواع الارتباط\nالارتباط الموجب (الطردي) Positive correlation : اذا تغير أحد المتغيرين X\nأو Y فإن المتغير الآخر يتبعه بنفس الاتجاه.\nالإرتباط السالب (العكسي) Negative correlation : إذا تغير أحد المتغيرين X\nأو Y فإن المتغير الآخر يتبعه بالاتجاه المضاد.\nشكل الانتشار الخاص بالارتباط الموجب (الطردي)\nx\nشكل الانتشار الخاص بالارتباط السالب (العكسي)\nx",
+  "page_id": "KITAB-R-0026",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "الارتباط والانحدار الخطي البسيط & Correlation\nSimple Linear Regression\nأنواع الارتباط\nالارتباط الموجب (الطردي) Positive correlation : اذا تغير أحد المتغيرين X\nأو Y فإن المتغير الآخر يتبعه بنفس الاتجاه.\nالإرتباط السالب (العكسي) Negative correlation : إذا تغير أحد المتغيرين X\nأو Y فإن المتغير الآخر يتبعه بالاتجاه المضاد.\nشكل الانتشار الخاص بالارتباط الموجب (الطردي)\nx\nشكل الانتشار الخاص بالارتباط السالب (العكسي)\nx",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm6__full__7ae0bd41__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T00:01:43.165+00:00",
+  "status": "PASS"
+}

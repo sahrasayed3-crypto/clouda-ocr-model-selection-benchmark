@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T10:38:57.156+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1407,
+    "width": 925
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.46844106463878327,
+    "cer_raw": 0.5801232665639445,
+    "wer_normalized": 0.6458333333333334,
+    "wer_raw": 0.6595744680851063
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nفهرس أطراف مسنده الإمام أبي حنيفة\n\n393\n\n<table>\n <tr>\n <th>طرف الحديث</th>\n <th>رقم الحديث</th>\n <th>الراوي</th>\n <th>ج / ص</th>\n </tr>\n <tr>\n <td>يُحْرِمُ مِنَ الرَّضَاعِ مَا يَحْرُمُ مِنَ النَّسَبِ</td>\n <td>285</td>\n <td>علي بن أبي طالب</td>\n <td>15/5</td>\n </tr>\n <tr>\n <td>يُخْرِجُ اللهُ تَعَالَى مِنَ التَّأَرِ مِنْ أَهْلِ الإِيمَانِ بِشَفَاعَةِ مُحَمَّدٍ</td>\n <td>23</td>\n <td>جابر بن عبدالله</td>\n <td>223/1</td>\n </tr>\n <tr>\n <td>يُخْرِجُ اللهُ قَوْمًا مِنَ المُوَحِدِينَ مِنَ التَّأَرِ يَذْخُلُ قَوْمٌ مِنْ أَهْلِ الإِيمَانِ يَوْمَ الْقِيَامَةِ التَّأَرِ</td>\n <td>24</td>\n <td>حديقة</td>\n <td>244/1</td>\n </tr>\n <tr>\n <td>يَدْرُسُ الإِسْلاَمُ كَمَا يَدْرُسُ وَشْيُ الْقُوبِ</td>\n <td>27</td>\n <td>ابن عباس</td>\n <td>258/1</td>\n </tr>\n <tr>\n <td>يَقْتُلُ المُحْرِمُ الْقَآرَةِ</td>\n <td>12</td>\n <td>حديقة</td>\n <td>180/1</td>\n </tr>\n <tr>\n <td>يَقُولُ اللهُ: كُلُّ عَمَلِ ابْنِ آدَمَ لَهُ</td>\n <td>239</td>\n <td>ابن عمر</td>\n <td>179/4</td>\n </tr>\n <tr>\n <td>يَمْسَحُ الشَّافِرِ عَلَى الْحُمَيْنِ يَهْلُ أَهْلُ الْمَدِينَةِ مِنْ ذِي الْخَلِيفَةِ</td>\n <td>67</td>\n <td>أبو هريرة</td>\n <td>439/3</td>\n </tr>\n <tr>\n <td></td>\n <td>220</td>\n <td>علي بن أبي طالب</td>\n <td>44/2</td>\n </tr>\n <tr>\n <td></td>\n <td>220</td>\n <td>ابن عمر</td>\n <td>77/4</td>\n </tr>\n</table>\n\n١٢٣",
+  "page_id": "MISRAJ-0089",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nفهرس أطراف مسنده الإمام أبي حنيفة\n\n393\n\n<table>\n  <tr>\n    <th>طرف الحديث</th>\n    <th>رقم الحديث</th>\n    <th>الراوي</th>\n    <th>ج / ص</th>\n  </tr>\n  <tr>\n    <td>يُحْرِمُ مِنَ الرَّضَاعِ مَا يَحْرُمُ مِنَ النَّسَبِ</td>\n    <td>285</td>\n    <td>علي بن أبي طالب</td>\n    <td>15/5</td>\n  </tr>\n  <tr>\n    <td>يُخْرِجُ اللهُ تَعَالَى مِنَ التَّأَرِ مِنْ أَهْلِ الإِيمَانِ بِشَفَاعَةِ مُحَمَّدٍ</td>\n    <td>23</td>\n    <td>جابر بن عبدالله</td>\n    <td>223/1</td>\n  </tr>\n  <tr>\n    <td>يُخْرِجُ اللهُ قَوْمًا مِنَ المُوَحِدِينَ مِنَ التَّأَرِ يَذْخُلُ قَوْمٌ مِنْ أَهْلِ الإِيمَانِ يَوْمَ الْقِيَامَةِ التَّأَرِ</td>\n    <td>24</td>\n    <td>حديقة</td>\n    <td>244/1</td>\n  </tr>\n  <tr>\n    <td>يَدْرُسُ الإِسْلاَمُ كَمَا يَدْرُسُ وَشْيُ الْقُوبِ</td>\n    <td>27</td>\n    <td>ابن عباس</td>\n    <td>258/1</td>\n  </tr>\n  <tr>\n    <td>يَقْتُلُ المُحْرِمُ الْقَآرَةِ</td>\n    <td>12</td>\n    <td>حديقة</td>\n    <td>180/1</td>\n  </tr>\n  <tr>\n    <td>يَقُولُ اللهُ: كُلُّ عَمَلِ ابْنِ آدَمَ لَهُ</td>\n    <td>239</td>\n    <td>ابن عمر</td>\n    <td>179/4</td>\n  </tr>\n  <tr>\n    <td>يَمْسَحُ الشَّافِرِ عَلَى الْحُمَيْنِ يَهْلُ أَهْلُ الْمَدِينَةِ مِنْ ذِي الْخَلِيفَةِ</td>\n    <td>67</td>\n    <td>أبو هريرة</td>\n    <td>439/3</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>220</td>\n    <td>علي بن أبي طالب</td>\n    <td>44/2</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>220</td>\n    <td>ابن عمر</td>\n    <td>77/4</td>\n  </tr>\n</table>\n\n١٢٣",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T10:37:35.218+00:00",
+  "status": "PASS"
+}

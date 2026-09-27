@@ -1,0 +1,23 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+run_id: loay-arabic-ocr-deepseek-ocr-2__full__a997b4e1__e1488d635
+model:  loay/Arabic-OCR-DeepSeek-OCR-2 @ 3b279774135bf21835e2bfe6071663f5da227e1c
+prompt: Free OCR
+statuses: {"MODEL_LOAD_ERROR": 462}
+report -> <server-root>/outputs/reports/loay-arabic-ocr-deepseek-ocr-2__full__a997b4e1__e1488d635.json
+per-model: {
+  "model_id": "loay/Arabic-OCR-DeepSeek-OCR-2",
+  "run_id": "loay-arabic-ocr-deepseek-ocr-2__full__a997b4e1__e1488d635",
+  "run_state": "COMPLETE",
+  "total_pages": 462,
+  "successful_pages": 0,
+  "failed_pages": 462,
+  "failure_rate": 1.0,
+  "failure_breakdown": {
+    "FAIL": 0,
+    "INVALID_OUTPUT": 0,
+    "MODEL_LOAD_ERROR": 462,
+    "OOM": 0,
+    "TIMEOUT": 0
+  },
+  "runtime": "<redacted: out of scope>"
+}

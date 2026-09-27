@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T08:29:47.497+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 3900,
+    "width": 2759
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.49730893433799783,
+    "cer_raw": 0.5155601659751037,
+    "wer_normalized": 0.5083333333333333,
+    "wer_raw": 0.5083333333333333
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "www.zakrooly.com Connect Plus الفصل الدراسي الأول Who am I? Part (5) P. (27 - 29) scissors مقص glue صمغ picture صورة friends أصدقاء color يلون tree شجرة Vocabulary: (SB) cut يقطع / يقص show يعرض stick يلصق paper ورق أكتب ذاكرولي في البحث وانضم لجروبات ذاكرولي من رياض الأطفال للصف الثالث الابتدائي 74 Who am I? Unit (2) Meet my family هذا العمل حصري على موقع ذاكرولي التعليمي ويسمح بمشاركته فقط ولا يسمح بتداوله على أي مواقع أخرى للمزيد من أعمالنا الحصرية تفضل بزيارة موقعنا الإلكتروني من هنا https://www.zakrooly.com كتاب الباهر موقع ذاكرولي التعليمي الصف الأول الابتدائي",
+  "page_id": "MISRAJ-0134",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "www.zakrooly.com Connect Plus الفصل الدراسي الأول Who am I? Part (5) P. (27 - 29) scissors مقص glue صمغ picture صورة friends أصدقاء color يلون tree شجرة Vocabulary: (SB) cut يقطع / يقص show يعرض stick يلصق paper ورق أكتب ذاكرولي في البحث وانضم لجروبات ذاكرولي من رياض الأطفال للصف الثالث الابتدائي 74 Who am I? Unit (2) Meet my family هذا العمل حصري على موقع ذاكرولي التعليمي ويسمح بمشاركته فقط ولا يسمح بتداوله على أي مواقع أخرى للمزيد من أعمالنا الحصرية تفضل بزيارة موقعنا الإلكتروني من هنا https://www.zakrooly.com كتاب الباهر موقع ذاكرولي التعليمي الصف الأول الابتدائي",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T08:29:32.108+00:00",
+  "status": "PASS"
+}

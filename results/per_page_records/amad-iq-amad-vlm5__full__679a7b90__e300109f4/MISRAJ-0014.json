@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T02:38:06.096+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1285,
+    "width": 1004
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.4649122807017544,
+    "cer_raw": 0.4649122807017544,
+    "wer_normalized": 0.42857142857142855,
+    "wer_raw": 0.42857142857142855
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "الابن محمد في سنته الأولى في لندن، في صيف عام ١٣٩٧ هـ/١٩٧٧ م.\n٥٨٠",
+  "page_id": "MISRAJ-0014",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "الابن محمد في سنته الأولى في لندن، في صيف عام ١٣٩٧ هـ/١٩٧٧ م.\n٥٨٠",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T02:37:57.448+00:00",
+  "status": "PASS"
+}

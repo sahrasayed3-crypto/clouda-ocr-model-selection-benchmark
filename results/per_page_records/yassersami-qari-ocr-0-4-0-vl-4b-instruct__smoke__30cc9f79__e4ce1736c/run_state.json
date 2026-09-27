@@ -1,0 +1,26 @@
+{
+  "config_hash": "30cc9f7971515df2a09b84e95080ec0f4daa0128a3669ec69b11c0d248386698",
+  "created_at": "2026-09-20T04:51:56.297+00:00",
+  "generation_parameters": {
+    "max_new_tokens": 8192
+  },
+  "is_dry_run": false,
+  "manifest_sha256": "053225b08d9e027f45085f120920b58af6d7adc4b149d74db50f0c289ca7ef40",
+  "max_retries": 0,
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "page_ids": [
+    "MISRAJ-0166",
+    "KITAB-R-0002",
+    "MISRAJ-0084",
+    "MISRAJ-0216",
+    "MISRAJ-0185"
+  ],
+  "prompt": "Free OCR.",
+  "retry_policy": [
+    "OOM",
+    "TIMEOUT"
+  ],
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__smoke__30cc9f79__e4ce1736c",
+  "timeout_seconds": null
+}

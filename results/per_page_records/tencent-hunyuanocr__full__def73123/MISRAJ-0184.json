@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-19T22:26:54.640+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "d91de23a12429d2f406f5d90fb243b53851241d203ac77544ed263a17d33fc96",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1600,
+    "width": 1236
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.6899047619047619,
+    "cer_raw": 0.6881801125703565,
+    "wer_normalized": 0.7588075880758808,
+    "wer_raw": 0.7588075880758808
+  },
+  "model_id": "tencent/HunyuanOCR",
+  "model_revision": "47644ecc4fc854efa4f505155158831f36773ee4",
+  "normalized_output": "4. Al-Samarrai N Bassem , Al-Baldawi Tariq ; 1987,Building a scale of attitudes towards the teaching profession, The Arab Journal of Educational Research, Vol 57, Is 20.\n\n5. Sisalem Rudat , others ; 2007,Educational supervision in Palestine, p1, Afaq Library, Gaza, .\n\n6.Tafesh Mahmoud ; 1988,Issues of educational supervision, Gaza Publishing House, Gaza, .\n\n7.Thfir Namous Al-taiee ; 2021,The role of the specialized supervisor in developing the teaching skills of physical education teachers in secondary schools affiliated to the Diyala Education Directorate, Modern Sports ,Vol 20 , no 4 , https://doi.org/10.54702/msj.2021.20.4.0010\n\n8.Hamed M Zakir and Al-Ashryfi I Riyad ; 2021,A proposed vision of the role of the Educational Supervisor specialized in the development of education teachers Sports in Mosul during the Koruna pandemic from their point of view , Modern Sports ,Vol 20 , no 4 , https://jcopew.uobaghdad.edu.iq/index.php/spor/t/article/view/724\n\n# 4الخاتمة\nاستنتجت الباحثتان:\n\n1.بناء مقياس انماط الاشراف التربوي للمشرفي التربوبين في مديريات تربية المنطقة الجنوبية.\n\n2.يعد المقياس الحالي اداة للكشف عن المستوى الايجابي من انماط الاشراف التربوي وبكافة محاوره.\n\nوتوصي الباحثتان ب:\n\n1.استعمال هذه المقياس بالمديريات التربية في العراق كافة.\n\n2.اجراء دراسات مشابهة لمقياس (انماط الاشراف التربوي) وبكافة محاورة للاستفادة من هذه الدراسة.\n\n## References:\n\n1.Al-Mahdi, S Majdi; 2019educational research methods,( Cairo, Arab Thought House,).\n\n2.Abu Hatab Fouad , Sadiq Amal ; 2010,Research Methods and Statistical Analysis Methods, Cairo, Anglo-Egyptian Library,\n\n3.Wuhayb Abdul Razzaq ; 2006,Building a measure of psychological compatibility among the advanced players for some individualism in Iraq, Master's thesis, College of Physical Education and Sports Sciences, University of Diyala, .\n\n## يوضح مقياس انمام الاشراف التربوي بصورته النهائية\n\nجامعة بغداد\n\nكلية التربية الرياضية للبنات\n\nالدراسات العليا / الماجستير\n\nعزيزي المشرف......................... المحترم-\n\nفي كلية............................. جامعة بغداد.\n\n1بين يدلي مقياس انماط الاشراف التربوي يتكون من عبارات لكل منها خمسة إجابات (بدائل) كل إجابة منها تمثل رأيك عن مضمونها.\n\n2أن إجاباتك هي لأعراض البحث العلمي فقط وستحظى بسرية تامة.\n\n3أرجو عدم إجابة العبارات بأكثر من خيار واحد في الفقرة المحددة.\n\n4أرجو عدم إهمال إجابة إي عبارة من الفقرات لكون ذلك سيؤثر سلباً على آرائك.\n\n## طالبة الماجستير\n\n## المشرفة",
+  "page_id": "MISRAJ-0184",
+  "prompt_hash": "16f15a15a1eb51817cd30c2dbf607e77a9f67eec41448526aab5aeb87f2311d4",
+  "raw_output": "4. Al-Samarrai N Bassem , Al-Baldawi Tariq ; 1987,Building a scale of attitudes towards the teaching profession, The Arab Journal of Educational Research, Vol 57, Is 20.\n\n5. Sisalem Rudat , others ; 2007,Educational supervision in Palestine, p1, Afaq Library, Gaza, .\n\n6.Tafesh Mahmoud ; 1988,Issues of educational supervision, Gaza Publishing House, Gaza, .\n\n7.Thfir Namous Al-taiee ; 2021,The role of the specialized supervisor in developing the teaching skills of physical education teachers in secondary schools affiliated to the Diyala Education Directorate, Modern Sports ,Vol 20 , no 4 , https://doi.org/10.54702/msj.2021.20.4.0010\n\n8.Hamed M Zakir and Al-Ashryfi I Riyad ; 2021,A proposed vision of the role of the Educational Supervisor specialized in the development of education teachers Sports in Mosul during the Koruna pandemic from their point of view , Modern Sports ,Vol 20 , no 4 , https://jcopew.uobaghdad.edu.iq/index.php/spor/t/article/view/724\n\n# 4الخاتمة\nاستنتجت الباحثتان:\n\n1.بناء مقياس انماط الاشراف التربوي للمشرفي التربوبين في مديريات تربية المنطقة الجنوبية.\n\n2.يعد المقياس الحالي اداة للكشف عن المستوى الايجابي من انماط الاشراف التربوي وبكافة محاوره.\n\nوتوصي الباحثتان ب:\n\n1.استعمال هذه المقياس بالمديريات التربية في العراق كافة.\n\n2.اجراء دراسات مشابهة لمقياس (انماط الاشراف التربوي) وبكافة محاورة للاستفادة من هذه الدراسة.\n\n## References:\n\n1.Al-Mahdi, S Majdi; 2019educational research methods,( Cairo, Arab Thought House,).\n\n2.Abu Hatab Fouad , Sadiq Amal ; 2010,Research Methods and Statistical Analysis Methods, Cairo, Anglo-Egyptian Library,\n\n3.Wuhayb Abdul Razzaq ; 2006,Building a measure of psychological compatibility among the advanced players for some individualism in Iraq, Master's thesis, College of Physical Education and Sports Sciences, University of Diyala, .\n\n## يوضح مقياس انمام الاشراف التربوي بصورته النهائية\n\nجامعة بغداد\n\nكلية التربية الرياضية للبنات\n\nالدراسات العليا / الماجستير\n\nعزيزي المشرف......................... المحترم-\n\nفي كلية............................. جامعة بغداد.\n\n1بين يدلي مقياس انماط الاشراف التربوي يتكون من عبارات لكل منها خمسة إجابات (بدائل) كل إجابة منها تمثل رأيك عن مضمونها.\n\n2أن إجاباتك هي لأعراض البحث العلمي فقط وستحظى بسرية تامة.\n\n3أرجو عدم إجابة العبارات بأكثر من خيار واحد في الفقرة المحددة.\n\n4أرجو عدم إهمال إجابة إي عبارة من الفقرات لكون ذلك سيؤثر سلباً على آرائك.\n\n## طالبة الماجستير\n\n## المشرفة",
+  "retry_count": 0,
+  "run_id": "tencent-hunyuanocr__full__def73123",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-19T22:26:36.707+00:00",
+  "status": "PASS"
+}

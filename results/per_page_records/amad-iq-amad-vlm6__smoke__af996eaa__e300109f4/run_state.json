@@ -1,0 +1,28 @@
+{
+  "config_hash": "af996eaa9f78dbd90fdeb3364e1766baaa728a5eb3404b4b58fb95c9f9d342ed",
+  "created_at": "2026-09-19T23:52:14.607+00:00",
+  "generation_parameters": {
+    "do_sample": false,
+    "max_new_tokens": 4096,
+    "repetition_penalty": 1.05
+  },
+  "is_dry_run": false,
+  "manifest_sha256": "053225b08d9e027f45085f120920b58af6d7adc4b149d74db50f0c289ca7ef40",
+  "max_retries": 0,
+  "model_id": "amad-iq/amad-vlm6",
+  "model_revision": "7daf90cd5e5706173e159c88ca4e6dc2475a485e",
+  "page_ids": [
+    "MISRAJ-0166",
+    "KITAB-R-0002",
+    "MISRAJ-0084",
+    "MISRAJ-0216",
+    "MISRAJ-0185"
+  ],
+  "prompt": "Extract the text in the image. Give me the final text, nothing else.",
+  "retry_policy": [
+    "OOM",
+    "TIMEOUT"
+  ],
+  "run_id": "amad-iq-amad-vlm6__smoke__af996eaa__e300109f4",
+  "timeout_seconds": null
+}

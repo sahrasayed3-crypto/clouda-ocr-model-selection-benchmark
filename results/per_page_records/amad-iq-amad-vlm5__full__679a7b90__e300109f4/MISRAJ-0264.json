@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T03:59:11.440+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 926,
+    "width": 1268
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.2975206611570248,
+    "cer_raw": 0.2975206611570248,
+    "wer_normalized": 0.4909090909090909,
+    "wer_raw": 0.4909090909090909
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "<ol>\n<li>04/12 أكثر من 485,000 عامل مطلوب في كندا</li>\n<li>04/12 مباريات لتوظيف 11 أستاذا محاضرا</li>\n<li>04/12 مرشحي المؤسسة الوطنية للمتاحف</li>\n<li>03/12 مرشحي توظيف 117 منصبا بسوس ماسة</li>\n<li>03/12 توظيف 10 مشغلي آلات القطع بكندا</li>\n<li>03/12 مباراة توظيف 03 أساتذة محاضرين</li>\n<li>03/12 مباراة توظيف مهندس نظم المعلومات الجغرافية</li>\n<li>03/12 مباراة توظيف 06 تقنيين من الدرجة الثالثة</li>\n</ol>\n\n175",
+  "page_id": "MISRAJ-0264",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "<ol>\n<li>04/12 أكثر من 485,000 عامل مطلوب في كندا</li>\n<li>04/12 مباريات لتوظيف 11 أستاذا محاضرا</li>\n<li>04/12 مرشحي المؤسسة الوطنية للمتاحف</li>\n<li>03/12 مرشحي توظيف 117 منصبا بسوس ماسة</li>\n<li>03/12 توظيف 10 مشغلي آلات القطع بكندا</li>\n<li>03/12 مباراة توظيف 03 أساتذة محاضرين</li>\n<li>03/12 مباراة توظيف مهندس نظم المعلومات الجغرافية</li>\n<li>03/12 مباراة توظيف 06 تقنيين من الدرجة الثالثة</li>\n</ol>\n\n175",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T03:59:06.180+00:00",
+  "status": "PASS"
+}

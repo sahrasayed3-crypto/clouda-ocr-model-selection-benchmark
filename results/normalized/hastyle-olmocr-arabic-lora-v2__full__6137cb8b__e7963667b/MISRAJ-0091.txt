@@ -1,0 +1,26 @@
+---
+primary_language: ar
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+كيف تجذب اهتمام وتقدير الناس
+
+136
+
+فن الاهتمام ... 119
+
+أفضل الشخصيات ... 121
+
+قيمتك محفوظة ... 123
+
+ تستحق الاحترام ... 125
+
+نبذة عن الكاتب ... 129
+
+المحتويات ... 131
+
+***
+
+![Cover image](page_0_0_768_496.png)

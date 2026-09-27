@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T01:56:45.241+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1355,
+    "width": 2167
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.1553398058252427,
+    "cer_raw": 0.2297734627831715,
+    "wer_normalized": 0.1111111111111111,
+    "wer_raw": 0.1111111111111111
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "اغتيال البطل الشهيد محمد داؤد عبدالله ركا\n اغتيالات مناضلي الثورة الأرترية\n اغتيال البطل الشهيد محمد داؤد عبدالله ركا\n بقلم الأستاذ: صالح عبدالله عجيل - كاتب وناشط سياسي إرتري\n أشعر بألم في داخلي وبالاختناق تتقطع أنفاسي من جراء الظلم الممنهج\n تخطيطاً وتنفيذاً ضد شعبنا",
+  "page_id": "MISRAJ-0227",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "اغتيال البطل الشهيد محمد داؤد عبدالله ركا\n\t\t\t\t\t\t\tاغتيالات مناضلي الثورة الأرترية\n\t\t\t\t\t\t\tاغتيال البطل الشهيد محمد داؤد عبدالله ركا\n\t\t\t\t\t\t\tبقلم الأستاذ: صالح عبدالله عجيل - كاتب وناشط سياسي إرتري\n\t\t\t\t\t\t\tأشعر بألم في داخلي وبالاختناق تتقطع أنفاسي من جراء الظلم الممنهج\n\t\t\t\t\t\t\tتخطيطاً وتنفيذاً ضد شعبنا",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T01:56:40.206+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T01:09:35.793+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1754,
+    "width": 1241
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.18329015544041452,
+    "cer_raw": 0.16104461371055495,
+    "wer_normalized": 0.5063829787234042,
+    "wer_raw": 0.5063829787234042
+  },
+  "model_id": "amad-iq/amad-vlm6",
+  "model_revision": "7daf90cd5e5706173e159c88ca4e6dc2475a485e",
+  "normalized_output": "<table>\n <thead>\n <tr>\n <th></th>\n <th></th>\n <th></th>\n <th></th>\n <th></th>\n </tr>\n <tr>\n <th>الموضوع</th>\n <th>كاتب الموضوع</th>\n <th>المنتدى</th>\n <th>مشاركات</th>\n <th>آخر مشاركة</th>\n </tr>\n </thead>\n <tbody>\n <tr>\n <td>الى رحمة الله \" علي سعيد<br>معيض ال عطاء القرني\" <br>في مدينة تبوك</td>\n <td>علي بن قحمان القرني</td>\n <td>قسم الوفيات والتعازي</td>\n <td>1</td>\n <td>01:36 02-18-2021<br>PM</td>\n </tr>\n <tr>\n <td>الى رحمة الله والدة \" <br>محمد ضيف الله علي ال <br>سعيد القرني\" في مدينة <br>تبوك</td>\n <td>علي بن قحمان القرني</td>\n <td>قسم الوفيات والتعازي</td>\n <td>1</td>\n <td>04:51 10-18-2020<br>PM</td>\n </tr>\n <tr>\n <td>الى رحمة الله \" احمد <br>عبدالله القرني \" بن <br>عبثان\" في مدينة الرياض</td>\n <td>علي بن قحمان القرني</td>\n <td>قسم الوفيات والتعازي</td>\n <td>1</td>\n <td>10:14 09-13-2020<br>PM</td>\n </tr>\n <tr>\n <td>الى رحمة الله \"جودالله بن <br>حامد بن طيبان القرني \" <br>في مدينة تبوك</td>\n <td>علي بن قحمان القرني</td>\n <td>قسم الوفيات والتعازي</td>\n <td>1</td>\n <td>07:00 12-28-2019<br>AM</td>\n </tr>\n <tr>\n <td>الى رحمة الله \"عوض بن <br>عبدالله القرني \"بن عبثان <br>\" في مدينة الرياض</td>\n <td>علي بن قحمان القرني</td>\n <td>قسم الوفيات والتعازي</td>\n <td>1</td>\n <td>09:31 07-01-2018<br>PM</td>\n </tr>\n </tbody>\n</table>\n\n<table>\n <tbody>\n <tr>\n <td colspan=\"2\"></td>\n </tr>\n <tr>\n <td colspan=\"2\">LinkBack</td>\n </tr>\n <tr>\n <td colspan=\"2\">LinkBack URL LinkBack URL</td>\n </tr>\n <tr>\n <td colspan=\"2\">About LinkBacks About LinkBacks</td>\n </tr>\n <tr>\n <td colspan=\"2\">Bookmark &amp; Share</td>\n </tr>\n <tr>\n <td colspan=\"2\">Tweet this thread Tweet this thread</td>\n </tr>\n </tbody>\n</table>",
+  "page_id": "MISRAJ-0205",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th></th>\n      <th></th>\n      <th></th>\n      <th></th>\n    </tr>\n    <tr>\n      <th>الموضوع</th>\n      <th>كاتب الموضوع</th>\n      <th>المنتدى</th>\n      <th>مشاركات</th>\n      <th>آخر مشاركة</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>الى رحمة الله \" علي سعيد<br>معيض ال عطاء القرني\" <br>في مدينة تبوك</td>\n      <td>علي بن قحمان القرني</td>\n      <td>قسم الوفيات والتعازي</td>\n      <td>1</td>\n      <td>01:36 02-18-2021<br>PM</td>\n    </tr>\n    <tr>\n      <td>الى رحمة الله والدة \" <br>محمد ضيف الله علي ال <br>سعيد القرني\" في مدينة <br>تبوك</td>\n      <td>علي بن قحمان القرني</td>\n      <td>قسم الوفيات والتعازي</td>\n      <td>1</td>\n      <td>04:51 10-18-2020<br>PM</td>\n    </tr>\n    <tr>\n      <td>الى رحمة الله \" احمد <br>عبدالله القرني \" بن <br>عبثان\" في مدينة الرياض</td>\n      <td>علي بن قحمان القرني</td>\n      <td>قسم الوفيات والتعازي</td>\n      <td>1</td>\n      <td>10:14 09-13-2020<br>PM</td>\n    </tr>\n    <tr>\n      <td>الى رحمة الله \"جودالله بن <br>حامد بن طيبان القرني \" <br>في مدينة تبوك</td>\n      <td>علي بن قحمان القرني</td>\n      <td>قسم الوفيات والتعازي</td>\n      <td>1</td>\n      <td>07:00 12-28-2019<br>AM</td>\n    </tr>\n    <tr>\n      <td>الى رحمة الله \"عوض بن <br>عبدالله القرني \"بن عبثان <br>\" في مدينة الرياض</td>\n      <td>علي بن قحمان القرني</td>\n      <td>قسم الوفيات والتعازي</td>\n      <td>1</td>\n      <td>09:31 07-01-2018<br>PM</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <tbody>\n    <tr>\n      <td colspan=\"2\"></td>\n    </tr>\n    <tr>\n      <td colspan=\"2\">LinkBack</td>\n    </tr>\n    <tr>\n      <td colspan=\"2\">LinkBack URL LinkBack URL</td>\n    </tr>\n    <tr>\n      <td colspan=\"2\">About LinkBacks About LinkBacks</td>\n    </tr>\n    <tr>\n      <td colspan=\"2\">Bookmark &amp; Share</td>\n    </tr>\n    <tr>\n      <td colspan=\"2\">Tweet this thread Tweet this thread</td>\n    </tr>\n  </tbody>\n</table>",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm6__full__7ae0bd41__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T01:09:16.486+00:00",
+  "status": "PASS"
+}

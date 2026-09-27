@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T00:36:21.186+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2070,
+    "width": 1439
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.17370057752110174,
+    "cer_raw": 0.17370057752110174,
+    "wer_normalized": 0.31386861313868614,
+    "wer_raw": 0.31386861313868614
+  },
+  "model_id": "amad-iq/amad-vlm6",
+  "model_revision": "7daf90cd5e5706173e159c88ca4e6dc2475a485e",
+  "normalized_output": "- 61 -\nH. Kh. III, 441 رسالة مسمح لمحمد حلبى الشهير بابن فقارى (مهارى ou) 5\nnomme l'auteur Ibrahim b. Muhammad al-Halabi + 956.\nCf. H. Kh. III, 441. رسالة مسمح لجوى زاده 6\nالحمد لله الذى احكم احكام الشرع Premiers mots: الرسالة الخسووية فى الولاء 7\nC'est la risâla de Mulla Husron + 885, dont parle H. Kh. III, 455. Cf. aussi\nAumer, N° 884,9.\n8) Réfutation du N° 7. Premiers mots: بعض الفضلاء فى مسئلة الارث بالولاء نسب فيها عتاء الزمان الى الضلال\n9) Autres remarques sur le N° 7.\n245.\nNº 2987. - Contient:\nPar al-Samarkandi; cf. plus\nكتاب البستان [= بستان العارفين] (1\nhaut N° 76.\nهدية المهتديين (2)\nComposé par ordre d'un certain Ali Pâsâ par un auteur,\nqui ne se nomme pas. C'est un abrégé de théologie dogmatique et de jurisprudence.\nPremiers mots: الحمد لله الذى جعل العلوم الشرعية ميراث العلماء من الاببياء .... .\nفانّ من صرفت عنفوان العمر العزيز فى دعواته .... اعنى الوزير .... على باشا ....\nقد التممس من هذا الفقير الحقير ان اكتب فى اسمه الشريف ..... رسالة مشتملة من اصول\nالاسلام والدين على زيادة عقايد اهل الحقّ واليقين ومن الفروع على ما يكون (? ) الكافر من\nفى عقائد (1, قسم 2 L'ouvrage est divisé en 2 المسلمین والمسلم من الكافرين الضالّین الخ\nفى الفروع 2 اهل السنة\n3) Un petit traité sur la foi par Jahja b. Bakr al-Hanafi. Premiers\nالحمد لله المتوحّد بازلّىّ الوجود والذات .... أما بعدَ فيقول يحيى بن بكر الحنفى: mots:\n.... . لما اتفق منى تاليف مختصر بالفارسية فى بيان اعتقاد وانتشر ذلك بين طالبيه\nبالاجتهاد سئل منى جماعة من الطلبة والخلان ان اكتب مسائله عربياً فصيحا ليسهل\nفى (2 فى مسايل الاعتقاد (1\nDivisé en 3 chapitres : حفظه للمبتدئين من الاخوان\nفى مسايل كتاب الاستحسان مما يكثر اليها احتياج (3 مسايل الغاظ الكفر وكلمة الارقداد\nLe même peut-être à Paris, Catalogue Paris. N° 1287,1.\n246.\nNº 3481. - Contient:\n1) Un abrégé intitulé qui n'est pas identique avec celui, qui est\nattribué à Abû Hanîfa. Premiers mots: اعلم ارشدنا الله واياك انه وجب على كل\nمكلف أن يعلم أن الله واحد فى ملكه خلق العالم بأمره\nPar Saif-al-Hakk Abu'-l-Mu'in (?). Premiers mots:\nالحمد لله الذى (sic) ذى الجلال والاكرام .... قال الشبيح ..... سيف الحق ابو المعين\nأبو سفى (sic) رحمه الله عليه اعلموا انى اعتقد معرفة الله تعالى والتوحيد واقول بان الله\nواحد فرد قديم ازلى وانه صمد لا شريك له ولا مثل الم",
+  "page_id": "MISRAJ-0120",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "- 61 -\nH. Kh. III, 441 رسالة مسمح لمحمد حلبى الشهير بابن فقارى (مهارى ou) 5\nnomme l'auteur Ibrahim b. Muhammad al-Halabi + 956.\nCf. H. Kh. III, 441. رسالة مسمح لجوى زاده 6\nالحمد لله الذى احكم احكام الشرع Premiers mots: الرسالة الخسووية فى الولاء 7\nC'est la risâla de Mulla Husron + 885, dont parle H. Kh. III, 455. Cf. aussi\nAumer, N° 884,9.\n8) Réfutation du N° 7. Premiers mots: بعض الفضلاء فى مسئلة الارث بالولاء نسب فيها عتاء الزمان الى الضلال\n9) Autres remarques sur le N° 7.\n245.\nNº 2987. - Contient:\nPar al-Samarkandi; cf. plus\nكتاب البستان [= بستان العارفين] (1\nhaut N° 76.\nهدية المهتديين (2)\nComposé par ordre d'un certain Ali Pâsâ par un auteur,\nqui ne se nomme pas. C'est un abrégé de théologie dogmatique et de jurisprudence.\nPremiers mots: الحمد لله الذى جعل العلوم الشرعية ميراث العلماء من الاببياء .... .\nفانّ من صرفت عنفوان العمر العزيز فى دعواته .... اعنى الوزير .... على باشا ....\nقد التممس من هذا الفقير الحقير ان اكتب فى اسمه الشريف ..... رسالة مشتملة من اصول\nالاسلام والدين على زيادة عقايد اهل الحقّ واليقين ومن الفروع على ما يكون (? ) الكافر من\nفى عقائد (1, قسم 2 L'ouvrage est divisé en 2 المسلمین والمسلم من الكافرين الضالّین الخ\nفى الفروع 2 اهل السنة\n3) Un petit traité sur la foi par Jahja b. Bakr al-Hanafi. Premiers\nالحمد لله المتوحّد بازلّىّ الوجود والذات .... أما بعدَ فيقول يحيى بن بكر الحنفى: mots:\n.... . لما اتفق منى تاليف مختصر بالفارسية فى بيان اعتقاد وانتشر ذلك بين طالبيه\nبالاجتهاد سئل منى جماعة من الطلبة والخلان ان اكتب مسائله عربياً فصيحا ليسهل\nفى (2 فى مسايل الاعتقاد (1\nDivisé en 3 chapitres : حفظه للمبتدئين من الاخوان\nفى مسايل كتاب الاستحسان مما يكثر اليها احتياج (3 مسايل الغاظ الكفر وكلمة الارقداد\nLe même peut-être à Paris, Catalogue Paris. N° 1287,1.\n246.\nNº 3481. - Contient:\n1) Un abrégé intitulé qui n'est pas identique avec celui, qui est\nattribué à Abû Hanîfa. Premiers mots: اعلم ارشدنا الله واياك انه وجب على كل\nمكلف أن يعلم أن الله واحد فى ملكه خلق العالم بأمره\nPar Saif-al-Hakk Abu'-l-Mu'in (?). Premiers mots:\nالحمد لله الذى (sic) ذى الجلال والاكرام .... قال الشبيح ..... سيف الحق ابو المعين\nأبو سفى (sic) رحمه الله عليه اعلموا انى اعتقد معرفة الله تعالى والتوحيد واقول بان الله\nواحد فرد قديم ازلى وانه صمد لا شريك له ولا مثل الم",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm6__full__7ae0bd41__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T00:35:59.309+00:00",
+  "status": "PASS"
+}

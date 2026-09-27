@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-23T22:15:34.212+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "c731166167f7b06c0a55abc0ea7a4407b86ac433bc70041d0b88a200554385c5",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1654
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.9115973741794311,
+    "cer_raw": 0.9116746829908177,
+    "wer_normalized": 0.9979674796747967,
+    "wer_raw": 0.9979674796747967
+  },
+  "model_id": "context212/alhazen-ocr",
+  "model_revision": "110b461e2389c97f68a1310370afeebb4a0b381f",
+  "normalized_output": "Create a cell from the following JSON, preserving the original order of appearance. Extract all text from this image, preserving the golden-flecked pattern. Identify the header, cell, and every run-off text, preserving the original meaning. Identify the table of contents.Extract all the text from this slide, preserving the original reading order. 机械当造 issues issues BIOxsoft®",
+  "page_id": "KITAB-R-0060",
+  "prompt_hash": "631994fea519ca7a7390c2788b906e643d420ba3564ff2190dded854cce1cdc5",
+  "raw_output": "Create a cell from the following JSON, preserving the original order of appearance. Extract all text from this image, preserving the golden-flecked pattern. Identify the header, cell, and every run-off text, preserving the original meaning. Identify the table of contents.Extract all the text from this slide, preserving the original reading order.  机械当造 issues issues BIOxsoft®",
+  "retry_count": 0,
+  "run_id": "context212-alhazen-ocr__full__532ac6c6__effa66a8b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-23T22:15:28.677+00:00",
+  "status": "PASS"
+}

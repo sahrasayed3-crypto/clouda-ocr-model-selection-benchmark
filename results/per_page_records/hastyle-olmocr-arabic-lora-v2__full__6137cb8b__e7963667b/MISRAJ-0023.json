@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T09:22:44.309+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 905,
+    "width": 650
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.8948484848484849,
+    "cer_raw": 0.8948484848484849,
+    "wer_normalized": 0.5546218487394958,
+    "wer_raw": 0.5546218487394958
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n١٢٧٦\nالصحابة والصحية وشیهات حول عدالة الصحابة وضبطهم عرض ونقد\n\n٣١٦\nسيديو\n\n٢٧٤\nطه حسين\n\n٢٣٥\nعبدالرحمن بن ملجم\n\n٤٣٢\nعبدالغني بن سعيد الأزدي\n\n٢٣١\nعبدالله بن إباض\n\n٥٢٩\nعبدالله بن الزبير\n\n٢٣٠\nعبدالله بن الصفار\n\n٢٥٩\nعبدالله بن حزة\n\n٢٣٧\nعلي بن إبراهيم القمي\n\n٦٢١\nعلي بن محمد بن أبي القاسم\n\n٢٦٤\nعمرو بن يحر الجاحظ\n\n٢٥٠\nغوستاف لوبون\n\n٣٢٦\nفنسنك\n\n٣١٨\nقاسم أمين\n\n٢٧٥\nكارل بروكلمان\n\n٣٢٤\nكرانوفا بول\n\n٣٢٣\nكلود كاهين\n\n٣٢٣\nاللورد كروم\n\n٧١٥\nمحمد أسد\n\n٢٠٥\nمحمد الأمين الشنقيطي\n\n٦٥٧\nمحمد بن الحسن بن دريد",
+  "page_id": "MISRAJ-0023",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n١٢٧٦\nالصحابة والصحية وشیهات حول عدالة الصحابة وضبطهم عرض ونقد\n\n٣١٦\nسيديو\n\n٢٧٤\nطه حسين\n\n٢٣٥\nعبدالرحمن بن ملجم\n\n٤٣٢\nعبدالغني بن سعيد الأزدي\n\n٢٣١\nعبدالله بن إباض\n\n٥٢٩\nعبدالله بن الزبير\n\n٢٣٠\nعبدالله بن الصفار\n\n٢٥٩\nعبدالله بن حزة\n\n٢٣٧\nعلي بن إبراهيم القمي\n\n٦٢١\nعلي بن محمد بن أبي القاسم\n\n٢٦٤\nعمرو بن يحر الجاحظ\n\n٢٥٠\nغوستاف لوبون\n\n٣٢٦\nفنسنك\n\n٣١٨\nقاسم أمين\n\n٢٧٥\nكارل بروكلمان\n\n٣٢٤\nكرانوفا بول\n\n٣٢٣\nكلود كاهين\n\n٣٢٣\nاللورد كروم\n\n٧١٥\nمحمد أسد\n\n٢٠٥\nمحمد الأمين الشنقيطي\n\n٦٥٧\nمحمد بن الحسن بن دريد",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T09:22:14.825+00:00",
+  "status": "PASS"
+}

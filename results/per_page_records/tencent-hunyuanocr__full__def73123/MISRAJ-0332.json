@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-19T23:10:56.849+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "d91de23a12429d2f406f5d90fb243b53851241d203ac77544ed263a17d33fc96",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2550,
+    "width": 1650
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.10923482849604221,
+    "cer_raw": 0.11484006292606187,
+    "wer_normalized": 0.18211920529801323,
+    "wer_raw": 0.18211920529801323
+  },
+  "model_id": "tencent/HunyuanOCR",
+  "model_revision": "47644ecc4fc854efa4f505155158831f36773ee4",
+  "normalized_output": "الأسئلة الشائعة حول حافظ على ساعة الذكية Samsung تعرف على كيفية استبدال Galaxy Earbud Tips بسهولة من خلال دليلنا الشامل.\n\nالصوت\n\nGalaxy Buds : ماذا نفعل إذا لم نتمكن من سماع أي شيء أثناء المكالمة؟\n\nFAQ to learn what to do when there is no sound in Samsung buds during the call\n\nالصوت\n\nهماك ضوضاء ثابتة موجودة في سماعة الأذن من سامسونج.\n\nأسئلة شائعة حول سبب ظهور ضوضاء ثابتة في سماعات الأذن من سامسونج.\n\nتطبيقات سامسونج\n\nاستخدم تطبيق Samsung Find لمشاركة موقعك مع أصدقائك وطفلك وعائلتك وجهات الاتصال الأخرى\n\nتعرف على كيفية استخدام تطبيق Samsung Find لمشاركة موقعك مع الأصدقاء والعائلة وجهات الاتصال الأخرى.\n\nتطبيقات سامسونج\n\nاستخدم تطبيق Samsung Find لتحديد موقع الجهاز المفقود\n\nالأسئلة الشائعة حول حافظ على ساعة الذكية تعمل بأفضل حال.\n\nكيفية الاستخدام\n\nكيفية استخدام وضع التوفير الطاقة على Galaxy Watch\n\nأسئلة شائعة حول كيفية استخدام وضع توفير الطاقة على Galaxy Watch.\n\nالإعداد\n\nاستخدم الأوضاع الصامتة على Samsung Galaxy Watch\n\nاكتشف كيفية استخدام الأوضاع الصامتة المختلفة على ساعة Galaxy الخاصة بك.\n\nالبطارية\n\nحول الشحن اللاسلكي لساعة Galaxy Watch Ultra وعميزات مشاركة الطاقة اللاسلكية Watch7 و\n\nاكتشف كيف تغير التصميم في ساعة Watch7 و Galaxy Watch Ultra من قدرة الجهاز على الشحن لاسلكيا.\n\nكيفية الاستخدام\n\nمميزات زر السرعة على ساعة Galaxy Watch Ultra\n\nالأسئلة الشائعة حول مميزات زر السرعة على ساعة Galaxy Watch Ultra\n\nكيفية الاستخدام\n\nكيفية استخدام خاتم Galaxy\n\nتعرف على المزيد حول خاتم Galaxy وميزاته.\n\nتطبيقات سامسونج\n\nعرض عدد خطواتك في Samsung Health\n\nتعرف على كيفية استخدام أجهزة Galaxy لتتبع عدد خطواتك في تطبيق Samsung Health.\n\nكيفية الاستخدام\n\nاستخدم مراقبة النوم من Samsung Health Fit و\n\nتعرف على كيفية استخدام ميزة مراقبة النوم في تطبيق Samsung Health واحصل على نوم أفضل أثناء الليل.\n\nترقية البرامج\n\nكيفية تحديث البرامج والتطبيقات على Samsung Galaxy Watch",
+  "page_id": "MISRAJ-0332",
+  "prompt_hash": "16f15a15a1eb51817cd30c2dbf607e77a9f67eec41448526aab5aeb87f2311d4",
+  "raw_output": "الأسئلة الشائعة حول حافظ على ساعة الذكية Samsung تعرف على كيفية استبدال Galaxy Earbud Tips بسهولة من خلال دليلنا الشامل.\n\nالصوت\n\nGalaxy Buds : ماذا نفعل إذا لم نتمكن من سماع أي شيء أثناء المكالمة؟\n\nFAQ to learn what to do when there is no sound in Samsung buds during the call\n\nالصوت\n\nهماك ضوضاء ثابتة موجودة في سماعة الأذن من سامسونج.\n\nأسئلة شائعة حول سبب ظهور ضوضاء ثابتة في سماعات الأذن من سامسونج.\n\nتطبيقات سامسونج\n\nاستخدم تطبيق Samsung Find لمشاركة موقعك مع أصدقائك وطفلك وعائلتك وجهات الاتصال الأخرى\n\nتعرف على كيفية استخدام تطبيق Samsung Find لمشاركة موقعك مع الأصدقاء والعائلة وجهات الاتصال الأخرى.\n\nتطبيقات سامسونج\n\nاستخدم تطبيق Samsung Find لتحديد موقع الجهاز المفقود\n\nالأسئلة الشائعة حول حافظ على ساعة الذكية تعمل بأفضل حال.\n\nكيفية الاستخدام\n\nكيفية استخدام وضع التوفير الطاقة على Galaxy Watch\n\nأسئلة شائعة حول كيفية استخدام وضع توفير الطاقة على Galaxy Watch.\n\nالإعداد\n\nاستخدم الأوضاع الصامتة على Samsung Galaxy Watch\n\nاكتشف كيفية استخدام الأوضاع الصامتة المختلفة على ساعة Galaxy الخاصة بك.\n\nالبطارية\n\nحول الشحن اللاسلكي لساعة Galaxy Watch Ultra وعميزات مشاركة الطاقة اللاسلكية Watch7 و\n\nاكتشف كيف تغير التصميم في ساعة Watch7 و Galaxy Watch Ultra من قدرة الجهاز على الشحن لاسلكيا.\n\nكيفية الاستخدام\n\nمميزات زر السرعة على ساعة Galaxy Watch Ultra\n\nالأسئلة الشائعة حول مميزات زر السرعة على ساعة Galaxy Watch Ultra\n\nكيفية الاستخدام\n\nكيفية استخدام خاتم Galaxy\n\nتعرف على المزيد حول خاتم Galaxy وميزاته.\n\nتطبيقات سامسونج\n\nعرض عدد خطواتك في Samsung Health\n\nتعرف على كيفية استخدام أجهزة Galaxy لتتبع عدد خطواتك في تطبيق Samsung Health.\n\nكيفية الاستخدام\n\nاستخدم مراقبة النوم من Samsung Health Fit و\n\nتعرف على كيفية استخدام ميزة مراقبة النوم في تطبيق Samsung Health واحصل على نوم أفضل أثناء الليل.\n\nترقية البرامج\n\nكيفية تحديث البرامج والتطبيقات على Samsung Galaxy Watch",
+  "retry_count": 0,
+  "run_id": "tencent-hunyuanocr__full__def73123",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-19T23:10:40.471+00:00",
+  "status": "PASS"
+}

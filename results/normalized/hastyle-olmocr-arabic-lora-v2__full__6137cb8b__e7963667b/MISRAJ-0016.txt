@@ -1,0 +1,14 @@
+---
+primary_language: ar
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+![صورة](page_0_0_1583_2048.png)
+
+خالتي الصغرى نعمت، نزحت سنة 1948 من القدس مع زوجها وأولادها الثلاثة الى مصر.
+
+بيت جدي سنة 1987
+
+![صورة](page_0_0_1583_2048.png)

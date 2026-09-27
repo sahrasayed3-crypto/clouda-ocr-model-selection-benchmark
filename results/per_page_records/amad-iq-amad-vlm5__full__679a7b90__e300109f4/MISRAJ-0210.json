@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T03:41:30.912+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1816,
+    "width": 1313
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.2064516129032258,
+    "cer_raw": 0.2064516129032258,
+    "wer_normalized": 0.25925925925925924,
+    "wer_raw": 0.25925925925925924
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "دخل السابق روني هيلمان في رعاية المسنين في اتحاد كرة القدم الأميركي السابق\nكم كانت أوليفيا نيوتن جون تستحق عندما ماتت؟\nلماذا قد تتعرف على شقيق الكسندر دادابو\n• شقيق أوبن ويلسون\n• نموذج تايسون\n• شد الوجه دنيس كويد\n• نادي كيري راسل ميكي ماوس\n• kpop جراحة التجميل\n\n5",
+  "page_id": "MISRAJ-0210",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "دخل السابق روني هيلمان في رعاية المسنين في اتحاد كرة القدم الأميركي السابق\nكم كانت أوليفيا نيوتن جون تستحق عندما ماتت؟\nلماذا قد تتعرف على شقيق الكسندر دادابو\n• شقيق أوبن ويلسون\n• نموذج تايسون\n• شد الوجه دنيس كويد\n• نادي كيري راسل ميكي ماوس\n• kpop جراحة التجميل\n\n5",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T03:41:27.642+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T07:39:15.532+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1653
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.4872448979591837,
+    "cer_raw": 0.4873096446700508,
+    "wer_normalized": 0.6071428571428571,
+    "wer_raw": 0.6071428571428571
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nوزارة التعليم العالي والبحث العلمي\nجامعة الشهيد حمه لخضر - الوادي\nكلية العلوم الاقتصادية والتجارية وعلوم التسيير\n\nمطبوعة بعنوان:\n\nمحاضرات في مقياس تاريخ الفكر الاقتصادي\n\nمقدمة لطلبة سنة ثانية علوم اقتصادية شعبة العلوم الاقتصادية\n\nإعداد الدكتور : بالي حمزة\n\nالسنة الجامعية: 2021/2020",
+  "page_id": "KITAB-R-0001",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nوزارة التعليم العالي والبحث العلمي\nجامعة الشهيد حمه لخضر - الوادي\nكلية العلوم الاقتصادية والتجارية وعلوم التسيير\n\nمطبوعة بعنوان:\n\nمحاضرات في مقياس تاريخ الفكر الاقتصادي\n\nمقدمة لطلبة سنة ثانية علوم اقتصادية شعبة العلوم الاقتصادية\n\nإعداد الدكتور : بالي حمزة\n\nالسنة الجامعية: 2021/2020",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T07:39:01.912+00:00",
+  "status": "PASS"
+}

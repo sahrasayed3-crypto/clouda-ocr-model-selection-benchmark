@@ -1,0 +1,32 @@
+model_id: amad-iq/amad-vlm6
+pinned_revision: 7daf90cd5e5706173e159c88ca4e6dc2475a485e
+revision_resolved_on: "2026-09-19"
+architecture: "Qwen2_5_VLForConditionalGeneration (model_type qwen2_5_vl, 7B: hidden 3584)"
+base_model:
+  - amad-iq/amad-vlm5
+  - AhmedZaky1/DIMI-Arabic-OCR-V2
+processor_class: Qwen2_5_VLProcessor
+tokenizer_class: Qwen2Tokenizer
+required_transformers_version: ">=4.56.1 (config transformers_version=4.56.1; card example uses AutoModelForVision2Seq/AutoProcessor)"
+required_custom_code: false
+recommended_dtype: bfloat16
+recommended_attention_backend: default (flash-attention-2 optional; not mandated by card)
+image_input_format: image via chat template content part; PNG supported
+documented_ocr_prompt: "Extract the text in the image. Give me the final text, nothing else."
+documented_ocr_prompt_source: model card quickstart code example
+generation_parameters:
+  max_new_tokens: 4096
+  do_sample: false
+  repetition_penalty: 1.05
+  source: model card code example
+special_stop_tokens: standard Qwen eos; output may contain <think>...</think> (plain text, not special tokens)
+expected_output_type: page transcription; thinking model - strip everything up to and including the LAST </think> before scoring
+license: apache-2.0
+license_notes: card YAML license field
+known_runtime_requirements: thinking-block post-processing (documented in card); 4096-token budget mandatory (500-token budget truncates)
+estimated_vram_class: medium (~18-20 GB bf16, 7B-class)
+notes: >
+  Thinking model. Card documents <think> handling: keep only text after the last </think>;
+  missing </think> means budget exhausted - retry with larger budget. On ~0.6% of pages
+  runaway reasoning occurs (documented). Benchmark retry policy must record such retries
+  explicitly and apply identically to all models (see docs/fairness.md).

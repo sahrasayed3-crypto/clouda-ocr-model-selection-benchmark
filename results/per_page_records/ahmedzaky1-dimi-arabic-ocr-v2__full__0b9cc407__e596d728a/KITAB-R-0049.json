@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T09:05:54.696+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2200,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.1523809523809524,
+    "cer_raw": 0.15772870662460567,
+    "wer_normalized": 0.2978723404255319,
+    "wer_raw": 0.2978723404255319
+  },
+  "model_id": "AhmedZaky1/DIMI-Arabic-OCR-V2",
+  "model_revision": "8a7a293343fc91a6427a8c7a3ce69352870ea8a1",
+  "normalized_output": "ثانيا: طريقة القيمة المضافة �� القيمة المضافة لوحدة إنتاجية معينة = قيمة الإنتاج (الخرجات) – قيمة مستلزمات الإنتاج (المدخلات) �� الناتج المحلي بطريقة القيمة المضافة = مجموع القيم المضافة لجميع الوحدات الإنتاجية العاملة في كافة قطاعات الاقتصاد المحلي خلال العام �� ١٢ drNabil.org أ.د. نبيل صلاح العربي",
+  "page_id": "KITAB-R-0049",
+  "prompt_hash": "1a01c6a2e324aea55bbe84b519f619bbd06bb6fc4e435e9f51f478712de22b7c",
+  "raw_output": "ثانيا: طريقة القيمة المضافة �� القيمة المضافة لوحدة إنتاجية معينة = قيمة الإنتاج (الخرجات) – قيمة مستلزمات الإنتاج (المدخلات) �� الناتج المحلي بطريقة القيمة المضافة = مجموع القيم المضافة لجميع الوحدات الإنتاجية العاملة في كافة قطاعات الاقتصاد المحلي خلال العام �� ١٢ drNabil.org أ.د. نبيل صلاح العربي",
+  "retry_count": 0,
+  "run_id": "ahmedzaky1-dimi-arabic-ocr-v2__full__0b9cc407__e596d728a",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T09:05:45.535+00:00",
+  "status": "PASS"
+}

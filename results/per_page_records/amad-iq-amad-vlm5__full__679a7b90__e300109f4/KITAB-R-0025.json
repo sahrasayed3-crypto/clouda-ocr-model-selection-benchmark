@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T02:24:49.629+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1500,
+    "width": 2000
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.13245033112582782,
+    "cer_raw": 0.1511879049676026,
+    "wer_normalized": 0.23943661971830985,
+    "wer_raw": 0.23943661971830985
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "الارتباط والانحدار الخطي البسيط & Correlation\nSimple Linear Regression\n\n• الإرتباط هو تعبين طبيعة وقوة العلاقة بين متغيرين\n• معامل الإرتباط correlation coeficient هو مؤشر هذه العلاقة\n• اذا كان لدينا متغيران، المتغير X وهو متغير يتم تحديده من قبل الباحث أو\nindependent variable الشخص ويسمى بالمتغير المستقل\n• يرافق المتغيرX المتغير Y ويسمى بالمتغير التابع dependent variable\nوهو متغير تابع لأن نتيجته غير محددة وتعتمد على قيم المتغير المستقل.",
+  "page_id": "KITAB-R-0025",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "الارتباط والانحدار الخطي البسيط & Correlation\nSimple Linear Regression\n\n• الإرتباط هو تعبين طبيعة وقوة العلاقة بين متغيرين\n• معامل الإرتباط correlation coeficient هو مؤشر هذه العلاقة\n• اذا كان لدينا متغيران، المتغير X وهو متغير يتم تحديده من قبل الباحث أو\nindependent variable الشخص ويسمى بالمتغير المستقل\n• يرافق المتغيرX المتغير Y ويسمى بالمتغير التابع dependent variable\nوهو متغير تابع لأن نتيجته غير محددة وتعتمد على قيم المتغير المستقل.",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T02:24:45.370+00:00",
+  "status": "PASS"
+}

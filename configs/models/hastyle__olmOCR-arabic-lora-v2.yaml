@@ -1,0 +1,32 @@
+model_id: hastyle/olmOCR-arabic-lora-v2
+pinned_revision: f436e9a0abc93fc5d31231c294fbc40c6965106f
+revision_resolved_on: "2026-09-19"
+architecture: LoRA adapter (rank 64, alpha 128) on allenai/olmOCR-2-7B-1025 (Qwen2_5_VLForConditionalGeneration, 7B)
+base_model: allenai/olmOCR-2-7B-1025
+processor_class: Qwen2_5_VLProcessor
+tokenizer_class: Qwen2Tokenizer
+required_transformers_version: "Qwen2.5-VL-capable transformers (>=4.49); card example uses Qwen2_5_VLForConditionalGeneration + PeftModel"
+required_custom_code: false
+adapter_requirements: peft; base allenai/olmOCR-2-7B-1025 must be pinned+downloaded at GPU phase
+recommended_dtype: bfloat16
+recommended_attention_backend: default (flash-attention-2 optional)
+image_input_format: image via chat template content part
+# RESOLVED 2026-09-19 (GPU phase): the adapter card documents no prompt, but its own
+# Usage section loads the adapter onto allenai/olmOCR-2-7B-1025, whose official model
+# card "Manual Prompting" section documents the invocation via
+# olmocr.prompts.build_no_anchoring_v4_yaml_prompt(). Text taken verbatim from
+# olmocr/prompts/prompts.py @ allenai/olmocr main (fetched 2026-09-19). Adapter-card
+# silence is recorded as a caveat; the smoke test verifies the adapter responds to it.
+documented_ocr_prompt: "Attached is one page of a document that you must process. Just return the plain text representation of this document as if you were reading it naturally. Convert equations to LateX and tables to HTML.\nIf there are any figures or charts, label them with the following markdown syntax ![Alt text describing the contents of the figure](page_startx_starty_width_height.png)\nReturn your output as markdown, with a front matter section on top specifying values for the primary_language, is_rotation_valid, rotation_correction, is_table, and is_diagram parameters."
+documented_ocr_prompt_source: "allenai/olmOCR-2-7B-1025 model card 'Manual Prompting' section -> build_no_anchoring_v4_yaml_prompt() in olmocr/prompts/prompts.py (allenai/olmocr repo, main branch, fetched 2026-09-19); verbatim string"
+generation_parameters:
+  temperature: 0.1
+  do_sample: true
+  source: "allenai/olmOCR-2-7B-1025 card Manual Prompting example: temperature=0.1, do_sample=True (max_new_tokens=50 in the example is demo-only; benchmark uses the protocol cap)"
+special_stop_tokens: standard Qwen eos
+expected_output_type: markdown with YAML front matter (primary_language, is_rotation_valid, rotation_correction, is_table, is_diagram) followed by the plain-text page transcription
+license: apache-2.0
+license_notes: card YAML license field
+known_runtime_requirements: PEFT adapter over base olmOCR-2-7B-1025
+estimated_vram_class: medium (~18-20 GB bf16, 7B base + adapter)
+notes: Trained 10 epochs on 1,222 full-page Arabic manuscript images; final loss ~7.2 recorded on card.

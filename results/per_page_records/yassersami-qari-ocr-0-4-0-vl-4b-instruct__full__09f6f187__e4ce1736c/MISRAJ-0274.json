@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T13:07:29.280+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1241,
+    "width": 1754
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.45571847507331376,
+    "cer_raw": 0.511823436678928,
+    "wer_normalized": 0.5973451327433629,
+    "wer_raw": 0.5973451327433629
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "البرنامج كلية برنامج ماجستير إدارة الأعمال / الإدارة Master of Business Administration/Management (MBA in Management) برنامج ماجستير إدارة الأعمال / التسويق Master of Business Administration/Marketing (MBA in Marketing) برنامج ماجستير اللغة الألمانية لغير الناطقين بها Master of Arts in German as a Foreign Language (MA Daf) برنامج ماجستير التخطيط المكاني Master of Science in Spatial Planning برنامج ماجستير الحفاظ العمراني Master of Science in Architectural Conservation برنامج ماجستير الهندسة الكهربائية وتكنولوجيا المعلومات Master of Science in Computer Engineering برنامج ماجستير الهندسة نظام المؤسسات (بالتامون مع جامعة الأمير سمية للتكولوجيا) Master of Science in Enterprise Systems Engineering برنامج ماجستير الهندسة والطباعة والتساوي Master of Science in Environmental and Renewable Energy Engineering برنامج ماجستير الماجستير في المياه والصرف الصحي والصحة العامة في القطاع الإنساني Master of Science in Humanitarian WaSH (Water, Sanitation and hygiene) برنامج ماجستير الهندسة الإدارية Master of Science in Engineering Management",
+  "page_id": "MISRAJ-0274",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "البرنامج كلية برنامج ماجستير إدارة الأعمال / الإدارة Master of Business Administration/Management (MBA in Management) برنامج ماجستير إدارة الأعمال / التسويق Master of Business Administration/Marketing (MBA in Marketing) برنامج ماجستير اللغة الألمانية لغير الناطقين بها Master of Arts in German as a Foreign Language (MA Daf) برنامج ماجستير التخطيط المكاني Master of Science in Spatial Planning برنامج ماجستير الحفاظ العمراني Master of Science in Architectural Conservation برنامج ماجستير الهندسة الكهربائية وتكنولوجيا المعلومات Master of Science in Computer Engineering برنامج ماجستير الهندسة نظام المؤسسات (بالتامون مع جامعة الأمير سمية للتكولوجيا) Master of Science in Enterprise Systems Engineering برنامج ماجستير الهندسة والطباعة والتساوي Master of Science in Environmental and Renewable Energy Engineering برنامج ماجستير الماجستير في المياه والصرف الصحي والصحة العامة في القطاع الإنساني Master of Science in Humanitarian WaSH (Water, Sanitation and hygiene) برنامج ماجستير الهندسة الإدارية Master of Science in Engineering Management",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T13:07:12.873+00:00",
+  "status": "PASS"
+}

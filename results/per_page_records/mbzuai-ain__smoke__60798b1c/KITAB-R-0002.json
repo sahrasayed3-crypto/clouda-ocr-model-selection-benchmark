@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-23T22:38:49.123+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "a198ca792653507bd43ec74c83798cf80998c2dbb139eda3659831e68c48cef5",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2334,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.7209897610921502,
+    "cer_raw": 0.721465076660988,
+    "wer_normalized": 0.7423312883435583,
+    "wer_raw": 0.7423312883435583
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "الجمهورية الجزائرية الديمقراطية الشعبية\nRépublique Algérienne Démocratique et populaire\nوزارة التعليم العالي والبحث العلمي\nMinistère de l'Enseignement Supérieur et de la Recherche Scientifique\nجامعة الشهيد حمه لخضر الوادي\nUniversité Echahid Hamma Lakhdar d'ElOued\nكلية العلوم الاقتصادية والتجارية وعلوم التسيير\nقسم علوم التسيير",
+  "page_id": "KITAB-R-0002",
+  "prompt_hash": "27dcc91f70691f21aa0617ecbffb6d3f13189d7f528dd5843ff040c32cd2a737",
+  "raw_output": "الجمهورية الجزائرية الديمقراطية الشعبية\nRépublique Algérienne Démocratique et populaire\nوزارة التعليم العالي والبحث العلمي\nMinistère de l'Enseignement Supérieur et de la Recherche Scientifique\nجامعة الشهيد حمه لخضر الوادي\nUniversité Echahid Hamma Lakhdar d'ElOued\nكلية العلوم الاقتصادية والتجارية وعلوم التسيير\nقسم علوم التسيير",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__smoke__60798b1c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-23T22:38:44.492+00:00",
+  "status": "PASS"
+}

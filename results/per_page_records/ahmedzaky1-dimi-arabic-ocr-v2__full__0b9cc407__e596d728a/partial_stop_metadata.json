@@ -1,0 +1,15 @@
+{
+  "model": "AhmedZaky1/DIMI-Arabic-OCR-V2",
+  "status": "EARLY_STOPPED_NONCOMPETITIVE",
+  "full_462_result": false,
+  "timing_class": "CONTENDED_NON_CANONICAL",
+  "successful_page_count": 132,
+  "failed_page_count": 0,
+  "cer": 0.9857162320732245,
+  "wer": 0.9265970531504129,
+  "model_revisions": [
+    "8a7a293343fc91a6427a8c7a3ce69352870ea8a1"
+  ],
+  "stop_timestamp": "2026-09-24T11:05:39.021101+00:00",
+  "raw_output_dir": "<server-root>/outputs/raw/ahmedzaky1-dimi-arabic-ocr-v2__full__0b9cc407__e596d728a"
+}

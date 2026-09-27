@@ -1,0 +1,1 @@
+Create an automatic extraction of the following image, preserving the original reading order.

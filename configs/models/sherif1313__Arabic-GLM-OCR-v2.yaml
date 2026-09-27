@@ -1,0 +1,28 @@
+model_id: sherif1313/Arabic-GLM-OCR-v2
+pinned_revision: 8c77ea85ff2b3ee29d5fb867ab2397e4418cf491
+revision_resolved_on: "2026-09-19"
+architecture: GlmOcrForConditionalGeneration (model_type glm_ocr; text LLM hidden 1536, 16 layers - small ~1-2B LLM + vision tower)
+base_model: zai-org/GLM-OCR
+processor_class: UNRESOLVED (no preprocessor_config.json fetched; card uses AutoProcessor with chat template - resolve exact class at GPU load)
+tokenizer_class: TokenizersBackend
+required_transformers_version: ">=5.1.0 (config transformers_version=5.1.0; glm_ocr model type requires recent transformers - confirm installed release)"
+required_custom_code: false (native model_type glm_ocr)
+recommended_dtype: auto (card example uses torch_dtype="auto")
+recommended_attention_backend: UNRESOLVED (not documented; confirm at smoke test)
+image_input_format: image url/path content part via chat template
+documented_ocr_prompt: "Text Recognition:"
+documented_ocr_prompt_source: model card code example (messages content text)
+generation_parameters:
+  source: "not explicitly documented; card example uses chat template + generate defaults. Benchmark will use greedy decoding and record it."
+special_stop_tokens: per tokenizer/generation config (image_end_token etc. in config.json)
+expected_output_type: text transcription; card warns model may autocorrect unless constrained
+license: apache-2.0
+license_notes: card YAML license field
+known_runtime_requirements: transformers supporting glm_ocr; AutoModelForImageTextToText
+estimated_vram_class: low (~5-8 GB bf16, small LLM + vision tower; confirm at smoke test)
+notes: >
+  Card 'Important Notes' recommends exact-copy directives such as
+  'Extract the text exactly as it is, without correction or paraphrasing.' and 'Restricted'
+  settings. The canonical documented invocation remains the card example 'Text Recognition:';
+  any additional directive must be applied as a documented, model-specific configuration and
+  reported - not silently added.

@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T04:18:04.174+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2140,
+    "width": 1326
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.2653061224489796,
+    "cer_raw": 0.2894736842105263,
+    "wer_normalized": 0.36363636363636365,
+    "wer_raw": 0.36363636363636365
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "لاف بابتس» (بالانجليزية :\nLove Bites، هي أغنية بالاد لفرقة الهارد رولك البريطانية ديف ليبارد من اليومها لعام 1987 مستعيريا. والأغنية المنفردة الوحيدة\nلديف ليبارد التي وصلت للمرتبة الأولى على لائحة بيلبورد هوت 100 حتى اليوم.\n100",
+  "page_id": "MISRAJ-0302",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "لاف بابتس» (بالانجليزية :\nLove Bites، هي أغنية بالاد لفرقة الهارد رولك البريطانية ديف ليبارد من اليومها لعام 1987 مستعيريا. والأغنية المنفردة الوحيدة\nلديف ليبارد التي وصلت للمرتبة الأولى على لائحة بيلبورد هوت 100 حتى اليوم.\n100",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T04:18:00.965+00:00",
+  "status": "PASS"
+}

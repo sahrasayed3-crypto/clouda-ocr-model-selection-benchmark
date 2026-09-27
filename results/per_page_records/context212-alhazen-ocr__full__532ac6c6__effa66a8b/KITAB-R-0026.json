@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-23T21:53:06.177+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "c731166167f7b06c0a55abc0ea7a4407b86ac433bc70041d0b88a200554385c5",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1500,
+    "width": 2000
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 3.4153846153846152,
+    "cer_raw": 3.3982494529540483,
+    "wer_normalized": 4.428571428571429,
+    "wer_raw": 4.428571428571429
+  },
+  "model_id": "context212/alhazen-ocr",
+  "model_revision": "110b461e2389c97f68a1310370afeebb4a0b381f",
+  "normalized_output": "标题: The Relationship and Simple Linear Regression\n\nالım: Correlation & Simple Linear Regression\n\nالım: We call a relationship between two variables \"correlation\" when we observe a consistent pattern in how their values change together. We use this concept to understand how variables are related in real-world data. We can use correlation to predict the value of one variable based on the value of another.\n\nWe use the term \"correlation\" to describe a relationship between two variables, where we observe a consistent pattern in how their values change. We can use this concept to predict the value of one variable based on the value of another. We can use correlation to understand how variables are related in real-world data.\n\nWe use the term \"correlation\" to describe a relationship between two variables, where we observe a consistent pattern in how their values change. We can use this concept to predict the value of one variable based on the value of another. We can use correlation to understand how variables are related in real-world data.\n\nWe use the term \"correlation\" to describe a relationship between two variables, where we observe a consistent pattern in how their values change. We can use this concept to predict the value of one variable based on the value of another. We can use correlation to understand how variables are related in real-world data.\n\nWe use the term \"correlation\" to describe a relationship between two variables, where we observe a consistent pattern in how their values change. We can use this concept to predict the value of one variable based on the value of another. We can use correlation to understand how variables are related in real-world data.",
+  "page_id": "KITAB-R-0026",
+  "prompt_hash": "631994fea519ca7a7390c2788b906e643d420ba3564ff2190dded854cce1cdc5",
+  "raw_output": "标题: The Relationship and Simple Linear Regression\n\nالım: Correlation & Simple Linear Regression\n\nالım: We call a relationship between two variables \"correlation\" when we observe a consistent pattern in how their values change together. We use this concept to understand how variables are related in real-world data. We can use correlation to predict the value of one variable based on the value of another.\n\nWe use the term \"correlation\" to describe a relationship between two variables, where we observe a consistent pattern in how their values change. We can use this concept to predict the value of one variable based on the value of another. We can use correlation to understand how variables are related in real-world data.\n\nWe use the term \"correlation\" to describe a relationship between two variables, where we observe a consistent pattern in how their values change. We can use this concept to predict the value of one variable based on the value of another. We can use correlation to understand how variables are related in real-world data.\n\nWe use the term \"correlation\" to describe a relationship between two variables, where we observe a consistent pattern in how their values change. We can use this concept to predict the value of one variable based on the value of another. We can use correlation to understand how variables are related in real-world data.\n\nWe use the term \"correlation\" to describe a relationship between two variables, where we observe a consistent pattern in how their values change. We can use this concept to predict the value of one variable based on the value of another. We can use correlation to understand how variables are related in real-world data.",
+  "retry_count": 0,
+  "run_id": "context212-alhazen-ocr__full__532ac6c6__effa66a8b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-23T21:52:42.082+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T08:10:09.989+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2200,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.43300248138957814,
+    "cer_raw": 0.47987616099071206,
+    "wer_normalized": 0.5396825396825397,
+    "wer_raw": 0.5396825396825397
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n# خطة عمل المشروع\nBusiness Plan\n\n## 4.3 القوائم المالية\n\n### 4.3.1 قائمة الدخل / الربح والخسارة\n\nمن بيانات الإيرادات والتكاليف السابق تقديريها تم إعداد قائمة الدخل التقديرية للمشروع خلال السنوات الثلاث الأولى ويبين الجدول التالي قائمة الدخل للسنوات للثلاث الاولى\n\n### قائمة الدخل سنوياً\n\n<table>\n <tr>\n <th>السنة الثالثة</th>\n <th>السنة الثانية</th>\n <th>السنة الاولى</th>\n <th>البند</th>\n </tr>\n <tr>\n <td colspan=\"4\">الإيرادات السنوي</td>\n </tr>\n <tr>\n <td></td>\n <td></td>\n <td></td>\n <td>اجمالي الإيرادات</td>\n </tr>\n <tr>\n <td colspan=\"4\">التكاليف المتغيرة</td>\n </tr>\n <tr>\n <td></td>\n <td></td>\n <td></td>\n <td>اجمالي التكاليف المتغيرة</td>\n </tr>\n <tr>\n <td colspan=\"4\">التكليف الثابتة</td>\n </tr>\n <tr>\n <td></td>\n <td></td>\n <td></td>\n <td>اجمالي التكاليف الثابتة</td>\n </tr>\n <tr>\n <td></td>\n <td></td>\n <td></td>\n <td>اجمالي التكاليف الثابتة والمتحيرة</td>\n </tr>\n <tr>\n <td></td>\n <td></td>\n <td></td>\n <td>صافي الربح</td>\n </tr>\n <tr>\n <td></td>\n <td></td>\n <td></td>\n <td>ارباح مترامية اول السنة</td>\n </tr>\n <tr>\n <td></td>\n <td></td>\n <td></td>\n <td>ارباح مترامية اخر السنة</td>\n </tr>\n</table>\n\n22\n\nتم تصميم واعداد النموذج بواسطة : أحمد عاشور\nAh.ashour232@gmail.com",
+  "page_id": "KITAB-R-0021",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n# خطة عمل المشروع\nBusiness Plan\n\n## 4.3 القوائم المالية\n\n### 4.3.1 قائمة الدخل / الربح والخسارة\n\nمن بيانات الإيرادات والتكاليف السابق تقديريها تم إعداد قائمة الدخل التقديرية للمشروع خلال السنوات الثلاث الأولى ويبين الجدول التالي قائمة الدخل للسنوات للثلاث الاولى\n\n### قائمة الدخل سنوياً\n\n<table>\n  <tr>\n    <th>السنة الثالثة</th>\n    <th>السنة الثانية</th>\n    <th>السنة الاولى</th>\n    <th>البند</th>\n  </tr>\n  <tr>\n    <td colspan=\"4\">الإيرادات السنوي</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td>اجمالي الإيرادات</td>\n  </tr>\n  <tr>\n    <td colspan=\"4\">التكاليف المتغيرة</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td>اجمالي التكاليف المتغيرة</td>\n  </tr>\n  <tr>\n    <td colspan=\"4\">التكليف الثابتة</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td>اجمالي التكاليف الثابتة</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td>اجمالي التكاليف الثابتة والمتحيرة</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td>صافي الربح</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td>ارباح مترامية اول السنة</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td>ارباح مترامية اخر السنة</td>\n  </tr>\n</table>\n\n22\n\nتم تصميم واعداد النموذج بواسطة : أحمد عاشور\nAh.ashour232@gmail.com",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T08:09:08.795+00:00",
+  "status": "PASS"
+}

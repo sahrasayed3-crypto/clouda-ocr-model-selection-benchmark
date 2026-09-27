@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T00:04:55.246+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1500,
+    "width": 2000
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.292817679558011,
+    "cer_raw": 0.29863013698630136,
+    "wer_normalized": 0.4626865671641791,
+    "wer_raw": 0.4626865671641791
+  },
+  "model_id": "amad-iq/amad-vlm6",
+  "model_revision": "7daf90cd5e5706173e159c88ca4e6dc2475a485e",
+  "normalized_output": "نظريات العرض ٢\n□ ارتفاع الأجور أو ارتفاع أسعار\nمستلزمات الإنتاج يؤدي إلى\nزيادة تكاليف الإنتاج\n□ ينتقل العرض الكلي إلى جهة\nاليسار من AS1 إلى AS2\n□ يتحقق التوازن عند النقطة\nN2 مما يترتب عليه نقص\nمستوى الناتج من Y1 إلى Y2، ومن ثم، تزداد البطالة\nويرتفع المستوى العام للأسعار\nمن P1 إلى P2 أي يزداد\nمعدل التضخم.\nالمستوى\nالعام\nللاسعار\nP\nAD\nN2\nN1\nY2\nY1\n0\nالناتج القومي\nالحقيقي Y\nAS2\nAS1\nP2\nP1\n٢٣\nأ.د. نبيل صلاح العربي drNabil.org",
+  "page_id": "KITAB-R-0045",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "نظريات العرض ٢\n□ ارتفاع الأجور أو ارتفاع أسعار\nمستلزمات الإنتاج يؤدي إلى\nزيادة تكاليف الإنتاج\n□ ينتقل العرض الكلي إلى جهة\nاليسار من AS1 إلى AS2\n□ يتحقق التوازن عند النقطة\nN2 مما يترتب عليه نقص\nمستوى الناتج من Y1 إلى Y2، ومن ثم، تزداد البطالة\nويرتفع المستوى العام للأسعار\nمن P1 إلى P2 أي يزداد\nمعدل التضخم.\nالمستوى\nالعام\nللاسعار\nP\nAD\nN2\nN1\nY2\nY1\n0\nالناتج القومي\nالحقيقي Y\nAS2\nAS1\nP2\nP1\n٢٣\nأ.د. نبيل صلاح العربي drNabil.org",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm6__full__7ae0bd41__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T00:04:49.642+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,4 @@
+Create a database table with the following structure:
+
+- Table: workSheets
+- Columns: length, close, cell, edit,locator, ım/MM issuesopy®

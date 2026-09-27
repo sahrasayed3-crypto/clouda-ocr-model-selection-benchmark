@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T06:17:50.761+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2200,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.2,
+    "cer_raw": 0.20504731861198738,
+    "wer_normalized": 0.3617021276595745,
+    "wer_raw": 0.3617021276595745
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "ثانيا: طريقة القيمة المضافة القيمة المضافة لوحدة إنتاجية معينة = قيمة الإنتاج (المخرجات) - قيمة مستلزمات الإنتاج (المدخلات) الناتج المحلي بطريقة القيمة المضافة = مجموع القيمة المضافة لجميع الوحدات الإنتاجية العاملة في كافة قطاعات الاقتصاد المحلي خلال العام",
+  "page_id": "KITAB-R-0049",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "ثانيا: طريقة القيمة المضافة القيمة المضافة لوحدة إنتاجية معينة = قيمة الإنتاج (المخرجات) - قيمة مستلزمات الإنتاج (المدخلات) الناتج المحلي بطريقة القيمة المضافة = مجموع القيمة المضافة لجميع الوحدات الإنتاجية العاملة في كافة قطاعات الاقتصاد المحلي خلال العام",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T06:17:44.237+00:00",
+  "status": "PASS"
+}

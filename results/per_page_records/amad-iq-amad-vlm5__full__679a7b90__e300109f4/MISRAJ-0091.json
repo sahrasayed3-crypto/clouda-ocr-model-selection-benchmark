@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T03:03:26.041+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1063,
+    "width": 650
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.8684782608695653,
+    "cer_raw": 0.8684782608695653,
+    "wer_normalized": 0.8181818181818182,
+    "wer_raw": 0.8181818181818182
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "كيف تجذب اهتمام وتقدير الناس\n١٣٦\nفن الاهتمام\n١١٩\nأفضل الشخصيات\n١٢١\nقيمتك محفوظة\n١٢٣\nتستحق الاحترام\n١٢٥\nنبذة عن الكاتب\n١٢٩\nالمحتويات\n١٣١\n***\n* * *",
+  "page_id": "MISRAJ-0091",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "كيف تجذب اهتمام وتقدير الناس\n١٣٦\nفن الاهتمام\n١١٩\nأفضل الشخصيات\n١٢١\nقيمتك محفوظة\n١٢٣\nتستحق الاحترام\n١٢٥\nنبذة عن الكاتب\n١٢٩\nالمحتويات\n١٣١\n***\n* * *",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T03:03:13.451+00:00",
+  "status": "PASS"
+}

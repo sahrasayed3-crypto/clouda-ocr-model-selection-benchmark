@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T09:19:12.149+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1752,
+    "width": 1240
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.5077881619937694,
+    "cer_raw": 0.5077881619937694,
+    "wer_normalized": 0.5555555555555556,
+    "wer_raw": 0.5555555555555556
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nلوحة ١٠٤ - التوافق بين الخطوط والمنحنيات الزخرفية لبرامق المشربيات الصهريجية مع الخطوط والمنحنيات المعماريه للآذن وقباب مسجدي السلطان حسن والرقاعي بميدان صلاح الدين بالقاهرة.\n\n![ لوحة ١٠٥ - منزل زينب خاتون . مشربة وشبايب القاعة الشمالية المطلة على الصحن (قبل الترميم).](page_1024_1536_1024_768.png)",
+  "page_id": "MISRAJ-0013",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nلوحة ١٠٤ - التوافق بين الخطوط والمنحنيات الزخرفية لبرامق المشربيات الصهريجية مع الخطوط والمنحنيات المعماريه للآذن وقباب مسجدي السلطان حسن والرقاعي بميدان صلاح الدين بالقاهرة.\n\n![ لوحة ١٠٥ - منزل زينب خاتون . مشربة وشبايب القاعة الشمالية المطلة على الصحن (قبل الترميم).](page_1024_1536_1024_768.png)",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T09:18:57.131+00:00",
+  "status": "PASS"
+}

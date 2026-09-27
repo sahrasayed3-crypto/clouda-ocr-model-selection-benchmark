@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T08:28:26.024+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1500,
+    "width": 2000
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.6631130063965884,
+    "cer_raw": 0.6617954070981211,
+    "wer_normalized": 0.7209302325581395,
+    "wer_raw": 0.7209302325581395
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: True\n---\nالنظرية الكينزية ٢\n\n![رسم بياني يوضح التوازن بين الطلب والعرض في الاقتصاد الكلي](page_0_0_2048_1536.png)\n\nإذا كان الاقتصاد دون مستوى\nالتوظف الكامل\n- منحنى العرض الكلي موجب الميل\n- زيادة الطلب الكلي من AD₁ إلى AD₂ ينعكس جزئياً في زيادة الناتج إلى Y₂ وجزئياً في ارتفاع مستوى الأسعار إلى P₂ ويكون التضخم جزئياً\n\nإذا كان الاقتصاد عند مستوى\nالتوظف الكامل\n- منحنى العرض الكلي رأسي\n- زيادة الطلب الكلي من AD₃ إلى AD₄ تنعكس بالكامل في ارتفاع مستوى الأسعار بنفس النسبة من الكامل إلى P₄ عند إنتاج التوظف Y*\n\nY الناتج القومي\nY الحقيقي\n0\nP₁\nP₂\nP₃\nP₄\nAD₁\nAD₂\nAD₃\nAD₄\nAS\nN₁\nN₂\nN₃\nN₄\nY₁\nY₂\nY*\nالمستوى العام للأسعار\nالعام\nP",
+  "page_id": "KITAB-R-0043",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: True\n---\nالنظرية الكينزية ٢\n\n![رسم بياني يوضح التوازن بين الطلب والعرض في الاقتصاد الكلي](page_0_0_2048_1536.png)\n\nإذا كان الاقتصاد دون مستوى\nالتوظف الكامل\n- منحنى العرض الكلي موجب الميل\n- زيادة الطلب الكلي من AD₁ إلى AD₂ ينعكس جزئياً في زيادة الناتج إلى Y₂ وجزئياً في ارتفاع مستوى الأسعار إلى P₂ ويكون التضخم جزئياً\n\nإذا كان الاقتصاد عند مستوى\nالتوظف الكامل\n- منحنى العرض الكلي رأسي\n- زيادة الطلب الكلي من AD₃ إلى AD₄ تنعكس بالكامل في ارتفاع مستوى الأسعار بنفس النسبة من الكامل إلى P₄ عند إنتاج التوظف Y*\n\nY الناتج القومي\nY الحقيقي\n0\nP₁\nP₂\nP₃\nP₄\nAD₁\nAD₂\nAD₃\nAD₄\nAS\nN₁\nN₂\nN₃\nN₄\nY₁\nY₂\nY*\nالمستوى العام للأسعار\nالعام\nP",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T08:28:02.082+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,51 @@
+---
+primary_language: ar
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+- مع الضمائر الشخصية ٧ / En تعود ال s مع الضمير tu في الأمر المثبت وتحذف عند النفي .
+Ex: Le poisson , manges – en beaucoup
+
+aller + inf.
+Dans – Demain – Ce soir – Bientot – Après - .......prochain
+وكلماته الدالة عليه : .
+
+- زمن المستقبل القريب ( المركب ) : يتكون من تصريف فعل venir + de/d’ + inf.
+il y a +
+وكلماته الدالة عليه : فترة زمنية قصيرة +
+- زمن الماضي الحديث ( القريب ) : يتكون من تصريف فعل être / avoir + participe passé
+Hier – Il y a – Ce matin - .......dernier(e) - .......passé(e)
+- جميع أفعال المساعد يتبعها حرف جر وتأخذ تفعية حسب الفاعل .
+( e – s – es )
+- أما المساعد avoir يأخذ تفعية حسب المفعول في الحالات الاتية فقط :
+ادوات الاستفهام Combien de – Quel – Quelle – Quels – Quelles لابد أن تأتي قبل الفاعل والضمائر الشخصية le – la – l’- les – nous – vous ( ضمير الوصل Que للاطلاع )
+- مع الضمير On نأخذ تفعية ( s – es ) حسب المعني اذا كان جمع مؤكر او جمع مؤنث .
+
+## الضمائر الشخصية للمفعول :
+
+أولا : المفعول المباشر ( غير مسبوق بحرف جر ) ( me – te – nous – vous )
+( le – la – l’ – les )
+الافعال aider- aimer – visiter – voir – preparer – encourager – lancer – passer :
+( en ) مسبوق بأداة نكرة – تجزئة – عدد – ظرف كمية- de ويعني ( منه – عنه ) وأهم أفعاله :
+(acheter - mettre - vouloir - prendre - manger – boire - venir )
+ثانيا : المفعول الغير مباشر ( مسبوق بحرف جر ) ( lui – leur )
+( offrir – donner – téléphoner – envoyer – prêter – écrire – parler )
+- لا تنسِ جميع الحيوانات تأخذ ( lui – leur ) مع فعل donner .
+( ي ) يحل محل مفعول غير عاقل / مكان مسبوق بأي حرف جر عدا de يأخذ en وأهم أفعاله :
+( aller - descendre - habiter - vivre - participer - arriver - assister - travailler )
+- أما حروف الجر الثابتة ( chez / avec / pour / sans / de ... ) يأتي بعدها :
+( moi – toi – lui – elle – nous – vous – eux – elles )
+
+- changer + de / d’ ____ يغير – يستبدل العملة
+
+- هذه الجمل تعبر عن الزام واجبار ( obligation )
+( يلزم ) الإسم + & Il faut + ( يجب ) المصدر +
+_ Il faut + devoir فعل ف المصدر + ( يجب )
+
+- للمقارنة :
+plus...que / moins...que / aussi/autant...que
+Mieux ... que / Pire ... que
+
+Prof. Ahmed Elsoghier - 3 - 01228762033 / 01061319140

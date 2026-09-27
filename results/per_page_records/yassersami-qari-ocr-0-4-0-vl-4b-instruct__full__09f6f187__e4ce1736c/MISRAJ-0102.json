@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T07:51:28.611+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2195,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.6487252124645893,
+    "cer_raw": 0.6487252124645893,
+    "wer_normalized": 0.7033898305084746,
+    "wer_raw": 0.7033898305084746
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "ومنى انقضت المدة يغتساون وينزعون هذه الشارات والمرأة تقبل كل طالب اعتبارا من ذلك اليوم ويتزوج الرجلان كان القيد من ازواجه أو اقاربِه ويمتقدون بالخرافات الكثيرة منها أن الجان لهم الساطة عليهم وانه لا يخالق مولود لهم الا ويخالق له جني يضره وينفعه فلهذا يستمعاون كل",
+  "page_id": "MISRAJ-0102",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "ومنى انقضت المدة يغتساون وينزعون هذه الشارات والمرأة تقبل كل طالب اعتبارا من ذلك اليوم ويتزوج الرجلان كان القيد من ازواجه أو اقاربِه ويمتقدون بالخرافات الكثيرة منها أن الجان لهم الساطة عليهم وانه لا يخالق مولود لهم الا ويخالق له جني يضره وينفعه فلهذا يستمعاون كل",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T07:51:20.652+00:00",
+  "status": "PASS"
+}

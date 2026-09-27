@@ -1,0 +1,35 @@
+{
+  "run_id": "mbzuai-ain__smoke__60798b1c",
+  "scope": "smoke",
+  "per_model": {
+    "model_id": "MBZUAI/AIN",
+    "run_id": "mbzuai-ain__smoke__60798b1c",
+    "run_state": "COMPLETE",
+    "total_pages": 5,
+    "successful_pages": 5,
+    "failed_pages": 0,
+    "failure_rate": 0,
+    "failure_breakdown": {
+      "FAIL": 0,
+      "INVALID_OUTPUT": 0,
+      "MODEL_LOAD_ERROR": 0,
+      "OOM": 0,
+      "TIMEOUT": 0
+    },
+    "mean_cer_raw": 0.7730012649005535,
+    "mean_wer_raw": 0.7829958706188641,
+    "mean_cer_normalized": 0.7601480668421268,
+    "mean_wer_normalized": 0.7785140779017773
+  },
+  "failures": {
+    "total_failures": 0,
+    "by_status": {
+      "FAIL": [],
+      "OOM": [],
+      "TIMEOUT": [],
+      "MODEL_LOAD_ERROR": [],
+      "INVALID_OUTPUT": []
+    },
+    "details": []
+  }
+}

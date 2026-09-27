@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-19T23:58:35.658+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1500,
+    "width": 2000
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.06367583212735166,
+    "cer_raw": 0.06637806637806638,
+    "wer_normalized": 0.1619047619047619,
+    "wer_raw": 0.1619047619047619
+  },
+  "model_id": "amad-iq/amad-vlm6",
+  "model_revision": "7daf90cd5e5706173e159c88ca4e6dc2475a485e",
+  "normalized_output": "أنواع التجارة الإلكترونية\n□ التوزيع المباشر Business to Consumers\nوهي تتم بين المنتج او الموزع والمستهلك النهائي للبضاعة ويتم السداد فيها من خلال كروت الائتمان او الحسابات الرقمية.\n□ التجارة بين الشركات Business to Business\nيتم التعامل فيها بين شركتين من قطاع الأعمال كما يتم السداد من خلال\nالتحويل المباشر او الحسابات الرقمية او البنوك الالكترونية.\n□ التجارة من الحكومة للأفراد Government to Consumer\nتتيح للحكومة التعامل مع المستهلك مباشرة, مثل: تجديد رخصة السيارات\n□ التجارة من الحكومة للشركات Government to Business\nتتيح للحكومة التعامل مع الشركات مثل: نظام السجل التجاري للشركات و\nاشراف الحكومة على شركات التأمين\nNetworks and Communication Department",
+  "page_id": "KITAB-R-0015",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "أنواع التجارة الإلكترونية\n□ التوزيع المباشر Business to Consumers\nوهي تتم بين المنتج او الموزع والمستهلك النهائي للبضاعة ويتم السداد فيها من خلال كروت الائتمان او الحسابات الرقمية.\n□ التجارة بين الشركات Business to Business\nيتم التعامل فيها بين شركتين من قطاع الأعمال كما يتم السداد من خلال\nالتحويل المباشر او الحسابات الرقمية او البنوك الالكترونية.\n□ التجارة من الحكومة للأفراد Government to Consumer\nتتيح للحكومة التعامل مع المستهلك مباشرة, مثل: تجديد رخصة السيارات\n□ التجارة من الحكومة للشركات Government to Business\nتتيح للحكومة التعامل مع الشركات مثل: نظام السجل التجاري للشركات و\nاشراف الحكومة على شركات التأمين\nNetworks and Communication Department",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm6__full__7ae0bd41__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-19T23:58:30.443+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,30 @@
+{
+  "config_hash": "30200dc67740d7aefe8cf472644363cf6dc725116c45b6c3fe13588e91bb722d",
+  "created_at": "2026-09-19T20:52:00.979+00:00",
+  "generation_parameters": {
+    "max_new_tokens": 8192,
+    "repetition_penalty": 1.08,
+    "temperature": 0.0,
+    "top_k": -1,
+    "top_p": 1.0
+  },
+  "is_dry_run": false,
+  "manifest_sha256": "053225b08d9e027f45085f120920b58af6d7adc4b149d74db50f0c289ca7ef40",
+  "max_retries": 0,
+  "model_id": "tencent/HunyuanOCR",
+  "model_revision": "47644ecc4fc854efa4f505155158831f36773ee4",
+  "page_ids": [
+    "MISRAJ-0166",
+    "KITAB-R-0002",
+    "MISRAJ-0084",
+    "MISRAJ-0216",
+    "MISRAJ-0185"
+  ],
+  "prompt": "提取文档图片中正文的所有信息用markdown格式表示，其中页眉、页脚部分忽略，表格用html格式表达，文档中公式用latex格式表示，按照阅读顺序组织进行解析。",
+  "retry_policy": [
+    "OOM",
+    "TIMEOUT"
+  ],
+  "run_id": "tencent-hunyuanocr__smoke__30200dc6",
+  "timeout_seconds": null
+}

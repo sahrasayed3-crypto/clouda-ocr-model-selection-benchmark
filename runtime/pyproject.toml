@@ -1,0 +1,8 @@
+[project]
+name = "clouda-ocr-benchmark"
+version = "1.0.0"
+description = "Standalone Arabic OCR benchmark (462-page holdout, 10 models)"
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

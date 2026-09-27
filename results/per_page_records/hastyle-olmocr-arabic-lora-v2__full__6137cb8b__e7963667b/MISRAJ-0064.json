@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T09:57:25.770+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1436,
+    "width": 941
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.3886986301369863,
+    "cer_raw": 0.42673107890499196,
+    "wer_normalized": 0.415929203539823,
+    "wer_raw": 0.415929203539823
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nلا يأس أن يقرأ بسم الله الرحمن الرحيم في\n\nالفريضة والنافلة\n\nلاتقرأ بفاتحة الكتاب حتى تقرأ بسم الله .. مكحول\n٢٨٩\nلا يجهز بسم الله الرحمن الرحيم\nأبو جعفر محمد بن\n\nعلي\n٢٤٦\nلا يتخفي الإمام أربعا ...\nعمر بن الخطاب\n٢٣٨\nلا يصلي خلف من لا يقرأ بسم الله ..\nعكرمة\n٢٨٩\nلقد سألني عن شيء ما سألني عنه أحد\nأنس\n٢٣٠\nما كنأ نعلم انسضام السورة إلا بنزول بسم الله ...\nابن عباس\n١٦٢\nمن ترك بسم الله الرحمن الرحيم فقد ترك آية ...\nابن شهاب\n٢٨٢\nهي أم القرآن استناها الله لأمة محمد ...\nابن عباس\n٢٧٧\nيا بني إبّاك والحدث ...\nعبد الله بن مغفل\n١٦٩\n\n٣٢٠",
+  "page_id": "MISRAJ-0064",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nلا يأس أن يقرأ بسم الله الرحمن الرحيم في\n\nالفريضة والنافلة\n\nلاتقرأ بفاتحة الكتاب حتى تقرأ بسم الله .. مكحول\n٢٨٩\nلا يجهز بسم الله الرحمن الرحيم\nأبو جعفر محمد بن\n\nعلي\n٢٤٦\nلا يتخفي الإمام أربعا ...\nعمر بن الخطاب\n٢٣٨\nلا يصلي خلف من لا يقرأ بسم الله ..\nعكرمة\n٢٨٩\nلقد سألني عن شيء ما سألني عنه أحد\nأنس\n٢٣٠\nما كنأ نعلم انسضام السورة إلا بنزول بسم الله ...\nابن عباس\n١٦٢\nمن ترك بسم الله الرحمن الرحيم فقد ترك آية ...\nابن شهاب\n٢٨٢\nهي أم القرآن استناها الله لأمة محمد ...\nابن عباس\n٢٧٧\nيا بني إبّاك والحدث ...\nعبد الله بن مغفل\n١٦٩\n\n٣٢٠",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T09:57:02.888+00:00",
+  "status": "PASS"
+}

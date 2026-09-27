@@ -1,0 +1,27 @@
+model_id: YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct
+pinned_revision: 2bd09259f868a77cdbfe35fc1dab40dc5c0a7716
+revision_resolved_on: "2026-09-19"
+architecture: Qwen3-VL 4B instruct + LoRA adapter (adapter_config.json present; PEFT repo)
+base_model: Qwen/Qwen3-VL-4B-Instruct
+processor_class: Qwen3VLProcessor
+tokenizer_class: Qwen2Tokenizer
+required_transformers_version: ">=4.57 recommended for Qwen3-VL (exact minimum not stated on card - confirm at smoke test)"
+required_custom_code: false
+adapter_requirements: peft; base model Qwen/Qwen3-VL-4B-Instruct must be downloaded at GPU phase (weights NOT fetched in preparation)
+recommended_dtype: bfloat16
+recommended_attention_backend: default (flash-attention-2 optional)
+image_input_format: image via chat template content part; PNG supported
+documented_ocr_prompt: "Free OCR."
+documented_ocr_prompt_source: "model card quickstart code example ({\"type\": \"text\", \"text\": \"Free OCR.\"})"
+generation_parameters:
+  source: "not documented on card beyond chat template; benchmark will use greedy decoding documented for the family (do_sample=false) and record it"
+special_stop_tokens: standard Qwen eos
+expected_output_type: page transcription (plain text of the page)
+license: apache-2.0
+license_notes: card YAML license field
+known_runtime_requirements: PEFT adapter loading; base model revision should also be pinned at GPU phase
+estimated_vram_class: medium-low (~10-12 GB bf16, 4B base + adapter)
+notes: >
+  Card quickstart references sibling repo id NAMAA-Space/Qari-OCR-0.4.0-VL-4B-Instruct;
+  the benchmark uses the YasserSami repository pinned above per the official model list.
+  Verify adapter/base compatibility at smoke test.

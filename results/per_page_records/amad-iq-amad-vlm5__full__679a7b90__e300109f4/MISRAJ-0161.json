@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T03:21:19.484+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2200,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.6363636363636364,
+    "cer_raw": 0.6363636363636364,
+    "wer_normalized": 0.75,
+    "wer_raw": 0.75
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "أَنتَ مَصْلُرُ فَخْرِنا",
+  "page_id": "MISRAJ-0161",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "أَنتَ مَصْلُرُ فَخْرِنا",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T03:21:17.858+00:00",
+  "status": "PASS"
+}

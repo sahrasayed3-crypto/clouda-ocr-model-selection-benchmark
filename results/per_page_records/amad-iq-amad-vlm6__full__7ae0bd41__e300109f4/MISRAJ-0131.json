@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T00:39:15.646+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 3900,
+    "width": 2759
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.2386206896551724,
+    "cer_raw": 0.2393103448275862,
+    "wer_normalized": 0.2627118644067797,
+    "wer_raw": 0.2627118644067797
+  },
+  "model_id": "amad-iq/amad-vlm6",
+  "model_revision": "7daf90cd5e5706173e159c88ca4e6dc2475a485e",
+  "normalized_output": "الفصل الدراسي الاول\nwww.zakrooly.com\nConnect\nScience : The Scientific Method\nLook and read.\nانظر واقرأ.\nHow many drops of water can you put on a pound coin ?\nكم عدد قطرات الماء التى يمكنك وضعها على جنيه معدنى ؟\nTools :\nONE POUND\nwater\ncoin\nSteps :\n1 Put a pound coin on your desk. Guess how\nmany drops of water the coin holds. Write\nthe number.\n١. ضع الجنيه المعدنى على مكتبك. خمنّ عدد قطرات الماء\nالتى ستحملها العملة المعدنية. اكتب العدد.\n2 Use your finger. Put drops of water on\nthe coin. Count the drops.\n٢. باستخدام إصبعك. ضع قطرات الماء على\nالعملة المعدنية. عدّ القطارات.\n3 When there's water on all the coin, stop.\nWrite the number of drops.\n٣. عندما تملأ المياه العملة المعدنية، توقف. اكتب عدد\nالقطارات.\n4 Dry the coin. Do the\nexperiment again.\nCheck your answer.\n٤. جفف العملة المعدنية.\nقم بأداء التجربة مرة أخرى.\nاختبار (تأكد) من إجابتك.\n• Help your child to do the experiment to know how many drops of water, he/she can put on the pound coin.\n- ساعد طفلك أن يقوم باداء التجربة ليعرف عدد القطارات من الماء التى يمكنه ان يضعها على العملة المعدنية.\n283\nهذا العمل خاص بموقع ذا كرولى التعليمى ولا يسمح بتداوله على مواقع أخرى\nالمعاصر\nموقـع ذاكـرولى التعليمى\nالصف الثالث الابتدائى\nذاكـ رولى\nwww.zakrooly.com",
+  "page_id": "MISRAJ-0131",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "الفصل الدراسي الاول\nwww.zakrooly.com\nConnect\nScience : The Scientific Method\nLook and read.\nانظر واقرأ.\nHow many drops of water can you put on a pound coin ?\nكم عدد قطرات الماء التى يمكنك وضعها على جنيه معدنى ؟\nTools :\nONE POUND\nwater\ncoin\nSteps :\n1 Put a pound coin on your desk. Guess how\nmany drops of water the coin holds. Write\nthe number.\n١. ضع الجنيه المعدنى على مكتبك. خمنّ عدد قطرات الماء\nالتى ستحملها العملة المعدنية. اكتب العدد.\n2 Use your finger. Put drops of water on\nthe coin. Count the drops.\n٢. باستخدام إصبعك. ضع قطرات الماء على\nالعملة المعدنية. عدّ القطارات.\n3 When there's water on all the coin, stop.\nWrite the number of drops.\n٣. عندما تملأ المياه العملة المعدنية، توقف. اكتب عدد\nالقطارات.\n4 Dry the coin. Do the\nexperiment again.\nCheck your answer.\n٤. جفف العملة المعدنية.\nقم بأداء التجربة مرة أخرى.\nاختبار (تأكد) من إجابتك.\n• Help your child to do the experiment to know how many drops of water, he/she can put on the pound coin.\n- ساعد طفلك أن يقوم باداء التجربة ليعرف عدد القطارات من الماء التى يمكنه ان يضعها على العملة المعدنية.\n283\nهذا العمل خاص بموقع ذا كرولى التعليمى ولا يسمح بتداوله على مواقع أخرى\nالمعاصر\nموقـع ذاكـرولى التعليمى\nالصف الثالث الابتدائى\nذاكـ رولى\nwww.zakrooly.com",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm6__full__7ae0bd41__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T00:39:01.630+00:00",
+  "status": "PASS"
+}

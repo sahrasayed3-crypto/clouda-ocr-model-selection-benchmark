@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T03:18:47.548+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2000,
+    "width": 1500
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.8054211035818006,
+    "cer_raw": 0.8054211035818006,
+    "wer_normalized": 0.7906976744186046,
+    "wer_raw": 0.7906976744186046
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "اسمي :\n.......................\nصفي : ١\n\nهيا يا صغيري لنكتب سلاسل الأعداد:\n\n1\n \n\nهيا يا صغيري عد ثم حوط العدد الصحيح :\n\nCount the pictures and circle the correct number.\n\n11 7\n8 15\n\n19 15\n16 18\n\n20 8\n12 10\n\n8 9\n20 17",
+  "page_id": "MISRAJ-0154",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "اسمي :\n.......................\nصفي : ١\n\nهيا يا صغيري لنكتب سلاسل الأعداد:\n\n1\n \n\nهيا يا صغيري عد ثم حوط العدد الصحيح :\n\nCount the pictures and circle the correct number.\n\n11 7\n8 15\n\n19 15\n16 18\n\n20 8\n12 10\n\n8 9\n20 17",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T03:18:37.057+00:00",
+  "status": "PASS"
+}

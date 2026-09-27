@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T05:53:22.377+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1500,
+    "width": 2000
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.032397408207343416,
+    "cer_raw": 0.052854122621564484,
+    "wer_normalized": 0.16,
+    "wer_raw": 0.16
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "معامل بيرسون للارتباط الخطي Pearson Linear Correlation Coefficient معامل بيرسون للارتباط الخطي من أكثر معاملات الارتباط استخدامًا خاصة في العلوم الإنسانية و الاجتماعية. ومستوى القياس المطلوب عند تطبيق معامل بيرسون للارتباط هو أن يكون كلا المتغيرين مقياس فترة أو نسبي أو بمعنى آخر أن تكون بيانات كلا المتغيرين (الظاهرتين) بيانات كمية. حساب معامل بيرسون للارتباط الخطي: يمكن حساب معامل بيرسون بدلالة القراءات لبيانات المتغيرين باستخدام الصيغة التالية:",
+  "page_id": "KITAB-R-0028",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "معامل بيرسون للارتباط الخطي Pearson Linear Correlation Coefficient معامل بيرسون للارتباط الخطي من أكثر معاملات الارتباط استخدامًا خاصة في العلوم الإنسانية و الاجتماعية. ومستوى القياس المطلوب عند تطبيق معامل بيرسون للارتباط هو أن يكون كلا المتغيرين مقياس فترة أو نسبي أو بمعنى آخر أن تكون بيانات كلا المتغيرين (الظاهرتين) بيانات كمية. حساب معامل بيرسون للارتباط الخطي: يمكن حساب معامل بيرسون بدلالة القراءات لبيانات المتغيرين باستخدام الصيغة التالية:",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T05:53:11.954+00:00",
+  "status": "PASS"
+}

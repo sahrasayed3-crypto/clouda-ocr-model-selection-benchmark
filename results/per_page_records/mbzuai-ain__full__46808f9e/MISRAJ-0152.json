@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T00:59:17.610+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2200,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.5952848722986247,
+    "cer_raw": 0.6125244618395304,
+    "wer_normalized": 0.684931506849315,
+    "wer_raw": 0.684931506849315
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "Math - 12 Advanced - Term 3\n أوراق عمل الفصل الثالث - 24-2023 - مادة الرياضيات\n الشرح والحلول على موقع الأكاديمية https://www.manasra.academy\n أوجد\n $${\\int_1^2}{\\frac{\\sqrt{x^2-4}}{x^2}}dx\\;,\\;x\\geq2$$\n $${\\int_2^3}{\\frac{2}{\\sqrt{x^2-4}}}dx\\;,\\;x\\geq2$$",
+  "page_id": "MISRAJ-0152",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "Math - 12 Advanced - Term 3\n\t\t\tأوراق عمل الفصل الثالث - 24-2023 - مادة الرياضيات\n\t\t\t\tالشرح والحلول على موقع الأكاديمية https://www.manasra.academy\n\t\tأوجد\n\t\t\t$${\\int_1^2}{\\frac{\\sqrt{x^2-4}}{x^2}}dx\\;,\\;x\\geq2$$\n\t\t\t\t$${\\int_2^3}{\\frac{2}{\\sqrt{x^2-4}}}dx\\;,\\;x\\geq2$$",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T00:59:11.769+00:00",
+  "status": "PASS"
+}

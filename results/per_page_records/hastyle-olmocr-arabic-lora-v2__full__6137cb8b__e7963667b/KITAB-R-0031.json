@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T08:21:19.675+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 786,
+    "width": 547
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.35309278350515466,
+    "cer_raw": 0.35128205128205126,
+    "wer_normalized": 0.3698630136986301,
+    "wer_raw": 0.3698630136986301
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nثم أكمل:\n\nلوكنت بتحب همنيَ فعلاً.. مت شجاع عشان حبها.. أثبت لنفسك ولها أنك بتحبها فعلاً.. ولو لقيت الكنز ده هتكون أشهر واحد في البلد دي.. لا في مصر.. لا في العلم كله.. حتى لومقتوش، كفاية إنك تحاول في سبيل حبك..\n\nثم انفض من على سريره.. وأخرج صورة لهمنيَ.. ونظر إليها وكأنه يحدها:\n\nأنا هنزل السرداب ده.. هنزل مهما حصل.. وإن كان أبووكي مجنون.. فانا أوقات كثيرة يكون الجنون نفسه..",
+  "page_id": "KITAB-R-0031",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nثم أكمل:\n\nلوكنت بتحب همنيَ فعلاً.. مت شجاع عشان حبها.. أثبت لنفسك ولها أنك بتحبها فعلاً.. ولو لقيت الكنز ده هتكون أشهر واحد في البلد دي.. لا في مصر.. لا في العلم كله.. حتى لومقتوش، كفاية إنك تحاول في سبيل حبك..\n\nثم انفض من على سريره.. وأخرج صورة لهمنيَ.. ونظر إليها وكأنه يحدها:\n\nأنا هنزل السرداب ده.. هنزل مهما حصل.. وإن كان أبووكي مجنون.. فانا أوقات كثيرة يكون الجنون نفسه..",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T08:21:04.559+00:00",
+  "status": "PASS"
+}

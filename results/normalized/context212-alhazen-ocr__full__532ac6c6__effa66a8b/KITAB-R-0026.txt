@@ -1,0 +1,13 @@
+标题: The Relationship and Simple Linear Regression
+
+الım: Correlation & Simple Linear Regression
+
+الım: We call a relationship between two variables "correlation" when we observe a consistent pattern in how their values change together. We use this concept to understand how variables are related in real-world data. We can use correlation to predict the value of one variable based on the value of another.
+
+We use the term "correlation" to describe a relationship between two variables, where we observe a consistent pattern in how their values change. We can use this concept to predict the value of one variable based on the value of another. We can use correlation to understand how variables are related in real-world data.
+
+We use the term "correlation" to describe a relationship between two variables, where we observe a consistent pattern in how their values change. We can use this concept to predict the value of one variable based on the value of another. We can use correlation to understand how variables are related in real-world data.
+
+We use the term "correlation" to describe a relationship between two variables, where we observe a consistent pattern in how their values change. We can use this concept to predict the value of one variable based on the value of another. We can use correlation to understand how variables are related in real-world data.
+
+We use the term "correlation" to describe a relationship between two variables, where we observe a consistent pattern in how their values change. We can use this concept to predict the value of one variable based on the value of another. We can use correlation to understand how variables are related in real-world data.

@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T13:59:43.554+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1650,
+    "width": 1275
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.9450884685784015,
+    "cer_raw": 0.946396664681358,
+    "wer_normalized": 0.9481481481481482,
+    "wer_raw": 0.9481481481481482
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "1. 8.2 3. 8.4 5. 6. 8.7 8.8 9. 10. 11. 8.12 13. 8.14 15. 8.16 17. 8.18 19. 8.20 21. 8.22 23. 8.24 25. 8.26",
+  "page_id": "MISRAJ-0294",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "1. 8.2 3. 8.4 5. 6. 8.7 8.8 9. 10. 11. 8.12 13. 8.14 15. 8.16 17. 8.18 19. 8.20 21. 8.22 23. 8.24 25. 8.26",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T13:59:36.254+00:00",
+  "status": "PASS"
+}

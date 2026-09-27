@@ -1,0 +1,1 @@
+Create a detailed slide from the following PDF. Find the relevant search terms in the PDF and extract all the text, preserving the original meaning and position.

@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T10:32:30.310+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2550,
+    "width": 1650
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.07547169811320754,
+    "cer_raw": 0.08149959250203749,
+    "wer_normalized": 0.15228426395939088,
+    "wer_raw": 0.15228426395939088
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "كيفية استكشاف أخطاء تنزيل متجر Google Play وإصلاحها؟ * الأجهزة كيف تمنع اللمسات العرضية على هاتف Galaxy الذكي الخاص بك؟ كيف تمنع اللمسات العرضية على هاتف Galaxy الذكي الخاص بك؟ * التطبيق كيف توصل هاتف Galaxy الذكي الخاص بك بسيارة باستخدام Android Auto؟ كيف توصل هاتف Galaxy الذكي الخاص بك بسيارة باستخدام Android Auto؟ * التطبيق كيف يمكنني نسخ البيانات احتياطياً على جهازي Galaxy تلقائياً؟ كيف يمكنني نسخ البيانات احتياطياً على جهازي Galaxy تلقائياً؟ * التطبيق ما هو Samsung Flow وكيف يتم استخدامه؟ ما هو Samsung Flow وكيف يتم استخدامه؟ * كيفية الاستخدام كيف يمكنني استخدام تطبيق Bixby؟ كيف يمكنني استخدام تطبيق Bixby؟ * كيفية الاستخدام كيف يمكنني استخدام تطبيق التقويم على هاتفي الذكي من Samsung؟ كيف يمكنني استخدام تطبيق التقويم على هاتفي الذكي من Samsung؟ * كيفية الاستخدام الاستمتاع بخاصية التحكم عن بعد (Air actions) مع قلم S Pen المحسن في هاتف Galaxy Note20 | Note20 Ultra الأسفل الأسماء المتداولة بشأنه هواتف Samsung. اكتشف المزيد حول \"الاستمتاع بخاصية التحكم عن بعد (Air actions) مع قلم S Pen المحسن في هاتف Galaxy Note20 | Note20 Ultra\" من خلال خدمة الدعم من Samsung. * كيفية الاستخدام ملاحظات جديدة من Samsung لأفضل تجربة كمابلة في هاتف Galaxy Note20 I Note20 Ultra",
+  "page_id": "MISRAJ-0233",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "كيفية استكشاف أخطاء تنزيل متجر Google Play وإصلاحها؟ * الأجهزة كيف تمنع اللمسات العرضية على هاتف Galaxy الذكي الخاص بك؟ كيف تمنع اللمسات العرضية على هاتف Galaxy الذكي الخاص بك؟ * التطبيق كيف توصل هاتف Galaxy الذكي الخاص بك بسيارة باستخدام Android Auto؟ كيف توصل هاتف Galaxy الذكي الخاص بك بسيارة باستخدام Android Auto؟ * التطبيق كيف يمكنني نسخ البيانات احتياطياً على جهازي Galaxy تلقائياً؟ كيف يمكنني نسخ البيانات احتياطياً على جهازي Galaxy تلقائياً؟ * التطبيق ما هو Samsung Flow وكيف يتم استخدامه؟ ما هو Samsung Flow وكيف يتم استخدامه؟ * كيفية الاستخدام كيف يمكنني استخدام تطبيق Bixby؟ كيف يمكنني استخدام تطبيق Bixby؟ * كيفية الاستخدام كيف يمكنني استخدام تطبيق التقويم على هاتفي الذكي من Samsung؟ كيف يمكنني استخدام تطبيق التقويم على هاتفي الذكي من Samsung؟ * كيفية الاستخدام الاستمتاع بخاصية التحكم عن بعد (Air actions) مع قلم S Pen المحسن في هاتف Galaxy Note20 | Note20 Ultra الأسفل الأسماء المتداولة بشأنه هواتف Samsung. اكتشف المزيد حول \"الاستمتاع بخاصية التحكم عن بعد (Air actions) مع قلم S Pen المحسن في هاتف Galaxy Note20 | Note20 Ultra\" من خلال خدمة الدعم من Samsung. * كيفية الاستخدام ملاحظات جديدة من Samsung لأفضل تجربة كمابلة في هاتف Galaxy Note20 I Note20 Ultra",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T10:32:06.460+00:00",
+  "status": "PASS"
+}

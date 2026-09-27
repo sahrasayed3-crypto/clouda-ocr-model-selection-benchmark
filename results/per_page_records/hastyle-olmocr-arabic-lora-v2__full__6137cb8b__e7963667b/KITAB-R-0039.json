@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T08:26:30.052+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2017,
+    "width": 1430
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.5403949730700179,
+    "cer_raw": 0.5394265232974911,
+    "wer_normalized": 0.5819672131147541,
+    "wer_raw": 0.5819672131147541
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: True\n---\nوقد استمر نظام ولاية العهد في الأندلس في عهد الإمارة بعد ذلك يسير دون\nمشاكل، فعهد الحكم بن هشام إلى ابنه عبد الرحمن بولاية العهد، فانتقلت إليه الإمارة\nدون ضجة أو معارضة. ثم تولى بعد عبد الرحمن الثاني أو الأوسط ابنه الأمير محمد بن\nعبد الرحمن الذي انتقلت الإمارة إلى اثنين من أبنائه، وهما المنذر بن محمد الذي حكم\nسنتين تقريبًا، وعبد الله بن محمد الذي حكم نحو خمس وعشرين عاماً. وعهد الأمير\nعبد الله بالحكم من بعده إلى أحد أحفاده، وهو عبد الرحمن بن محمد بن عبد الله،\nالذي حكم نحو نصف قرن، وفي عهده أعلنت الخلافة، وابتدأ عهد جديد من عهود\nالعرب في الأندلس، وفيما يأتي ثبت بأسماء الأمراء الأمويين في الأندلس:\n\n![Diagram showing the lineage and reigns of various Umayyad rulers in al-Andalus](page_1024_1536_1024_1024.png)\n\n107",
+  "page_id": "KITAB-R-0039",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: True\n---\nوقد استمر نظام ولاية العهد في الأندلس في عهد الإمارة بعد ذلك يسير دون\nمشاكل، فعهد الحكم بن هشام إلى ابنه عبد الرحمن بولاية العهد، فانتقلت إليه الإمارة\nدون ضجة أو معارضة. ثم تولى بعد عبد الرحمن الثاني أو الأوسط ابنه الأمير محمد بن\nعبد الرحمن الذي انتقلت الإمارة إلى اثنين من أبنائه، وهما المنذر بن محمد الذي حكم\nسنتين تقريبًا، وعبد الله بن محمد الذي حكم نحو خمس وعشرين عاماً. وعهد الأمير\nعبد الله بالحكم من بعده إلى أحد أحفاده، وهو عبد الرحمن بن محمد بن عبد الله،\nالذي حكم نحو نصف قرن، وفي عهده أعلنت الخلافة، وابتدأ عهد جديد من عهود\nالعرب في الأندلس، وفيما يأتي ثبت بأسماء الأمراء الأمويين في الأندلس:\n\n![Diagram showing the lineage and reigns of various Umayyad rulers in al-Andalus](page_1024_1536_1024_1024.png)\n\n107",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T08:26:04.621+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T02:25:01.692+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1500,
+    "width": 2000
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.016286644951140065,
+    "cer_raw": 0.025806451612903226,
+    "wer_normalized": 0.07058823529411765,
+    "wer_raw": 0.07058823529411765
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "الارتباط والانحدار الخطي البسيط & Correlation\nSimple Linear Regression\n\n• الجدول التالي يوضح أنواع الارتباط واتجاه العلاقة وشكل الانتشار لكل نوع\n\n<table>\n<thead>\n<tr>\n<th>قيمة معامل الارتباط</th>\n<th>المعنى</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>+1</td>\n<td>ارتباط طردي تام</td>\n</tr>\n<tr>\n<td>من 0.70 إلى 0.99</td>\n<td>ارتباط طردي قوي</td>\n</tr>\n<tr>\n<td>من 0.50 إلى 0.69</td>\n<td>ارتباط طردي متوسط</td>\n</tr>\n<tr>\n<td>من 0.01 إلى 0.49</td>\n<td>ارتباط طردي ضعيف</td>\n</tr>\n<tr>\n<td>0</td>\n<td>لا يوجد ارتباط</td>\n</tr>\n</tbody>\n</table>\n\n• وما قيل عن الارتباط الطردي ينطبق على الارتباط العكسي مع عكس الاشارة",
+  "page_id": "KITAB-R-0027",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "الارتباط والانحدار الخطي البسيط & Correlation\nSimple Linear Regression\n\n• الجدول التالي يوضح أنواع الارتباط واتجاه العلاقة وشكل الانتشار لكل نوع\n\n<table>\n<thead>\n<tr>\n<th>قيمة معامل الارتباط</th>\n<th>المعنى</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>+1</td>\n<td>ارتباط طردي تام</td>\n</tr>\n<tr>\n<td>من 0.70 إلى 0.99</td>\n<td>ارتباط طردي قوي</td>\n</tr>\n<tr>\n<td>من 0.50 إلى 0.69</td>\n<td>ارتباط طردي متوسط</td>\n</tr>\n<tr>\n<td>من 0.01 إلى 0.49</td>\n<td>ارتباط طردي ضعيف</td>\n</tr>\n<tr>\n<td>0</td>\n<td>لا يوجد ارتباط</td>\n</tr>\n</tbody>\n</table>\n\n• وما قيل عن الارتباط الطردي ينطبق على الارتباط العكسي مع عكس الاشارة",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T02:24:54.478+00:00",
+  "status": "PASS"
+}

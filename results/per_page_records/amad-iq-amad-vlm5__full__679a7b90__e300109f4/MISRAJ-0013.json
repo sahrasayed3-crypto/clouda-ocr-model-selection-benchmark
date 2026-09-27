@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T02:37:57.420+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1752,
+    "width": 1240
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.2087227414330218,
+    "cer_raw": 0.2087227414330218,
+    "wer_normalized": 0.26666666666666666,
+    "wer_raw": 0.26666666666666666
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "لوحة ١٠٤ - التوافق بين الخطوط\nوالمنحنىات الزخرفية لبرامق المشربيات\nالصهريجية مع الخطوط والمنحنيات\nالمعماربة لمآذن وقباب مسجدى\nالسلطان حسن والرفاعى بميدان صلاح\nالدين بالقاهرة.\nلوحة ١٠٥ - منزل زينب خاتون .\nمشريبة وشبابيك القاعة الشمالية المطلة\nعلى الصحن (قبل الترميم).",
+  "page_id": "MISRAJ-0013",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "لوحة ١٠٤ - التوافق بين الخطوط\nوالمنحنىات الزخرفية لبرامق المشربيات\nالصهريجية مع الخطوط والمنحنيات\nالمعماربة لمآذن وقباب مسجدى\nالسلطان حسن والرفاعى بميدان صلاح\nالدين بالقاهرة.\nلوحة ١٠٥ - منزل زينب خاتون .\nمشريبة وشبابيك القاعة الشمالية المطلة\nعلى الصحن (قبل الترميم).",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T02:37:53.916+00:00",
+  "status": "PASS"
+}

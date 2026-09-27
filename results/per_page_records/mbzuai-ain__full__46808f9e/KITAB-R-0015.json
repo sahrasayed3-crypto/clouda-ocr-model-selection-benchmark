@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-23T22:48:21.591+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1500,
+    "width": 2000
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.1316931982633864,
+    "cer_raw": 0.14862914862914864,
+    "wer_normalized": 0.23809523809523808,
+    "wer_raw": 0.23809523809523808
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "أنواع التجارة الإلكترونيةالتوزيع المباشر Business to Consumers\n وهي تتم بين المنتج أو الموزع والمستهلك النهائي للبضاعة ويتم السداد فيها من خلال\n كروت الائتمان أو الحسابات الرقمية.\n التجارة بين الشركات Business to Business\n يتم التعامل فيها بين شركتين من قطاع الأعمال كما يتم السداد من خلال التحويل المباشر\n أو الحسابات الرقمية أو البنوك الإلكترونية.\n التجارة من الحكومة للأفراد Government to Consumer\n تتيح للحكومة التعامل مع المستهلك مباشرة، مثل: تجديد رخصة السيارات\n التجارة من الحكومة للشركات Government to Business\n تتيح للحكومة التعامل مع الشركات مثل: نظام السجل التجاري للشركات و اشراف الحكومة\n على شركات التأمين.",
+  "page_id": "KITAB-R-0015",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "أنواع التجارة الإلكترونيةالتوزيع المباشر Business to Consumers\n\t\t\tوهي تتم بين المنتج أو الموزع والمستهلك النهائي للبضاعة ويتم السداد فيها من خلال\n\tكروت الائتمان أو الحسابات الرقمية.\n\t\t\t\tالتجارة بين الشركات Business to Business\n\t\t\tيتم التعامل فيها بين شركتين من قطاع الأعمال كما يتم السداد من خلال التحويل المباشر\n\tأو الحسابات الرقمية أو البنوك الإلكترونية.\n\t\t\t\tالتجارة من الحكومة للأفراد Government to Consumer\n\t\t\tتتيح للحكومة التعامل مع المستهلك مباشرة، مثل: تجديد رخصة السيارات\n\tالتجارة من الحكومة للشركات Government to Business\n\t\t\tتتيح للحكومة التعامل مع الشركات مثل: نظام السجل التجاري للشركات و اشراف الحكومة\n\tعلى شركات التأمين.",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-23T22:48:13.879+00:00",
+  "status": "PASS"
+}

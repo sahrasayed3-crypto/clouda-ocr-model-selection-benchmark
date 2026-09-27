@@ -1,0 +1,26 @@
+{"ts": "2026-09-20T18:34:18.037+00:00", "event": "run_start", "pages_total": 462, "already_complete": 0}
+{"ts": "2026-09-20T18:35:17.163+00:00", "event": "page_done", "page_id": "KITAB-R-0001", "status": "PASS", "attempts": ["PASS"], "elapsed": 53.15379}
+{"ts": "2026-09-20T18:35:24.782+00:00", "event": "page_done", "page_id": "KITAB-R-0002", "status": "PASS", "attempts": ["PASS"], "elapsed": 7.257342}
+{"ts": "2026-09-20T18:35:25.712+00:00", "event": "page_done", "page_id": "KITAB-R-0003", "status": "PASS", "attempts": ["PASS"], "elapsed": 0.922726}
+{"ts": "2026-09-20T18:42:55.691+00:00", "event": "page_done", "page_id": "KITAB-R-0004", "status": "PASS", "attempts": ["PASS"], "elapsed": 403.504336}
+{"ts": "2026-09-20T18:42:57.249+00:00", "event": "page_done", "page_id": "KITAB-R-0005", "status": "PASS", "attempts": ["PASS"], "elapsed": 1.527885}
+{"ts": "2026-09-20T18:50:00.336+00:00", "event": "page_done", "page_id": "KITAB-R-0006", "status": "PASS", "attempts": ["PASS"], "elapsed": 397.838803}
+{"ts": "2026-09-20T18:50:05.845+00:00", "event": "page_done", "page_id": "KITAB-R-0007", "status": "PASS", "attempts": ["PASS"], "elapsed": 5.338549}
+{"ts": "2026-09-20T18:50:06.533+00:00", "event": "page_done", "page_id": "KITAB-R-0008", "status": "PASS", "attempts": ["PASS"], "elapsed": 0.679711}
+{"ts": "2026-09-20T18:50:08.153+00:00", "event": "page_done", "page_id": "KITAB-R-0009", "status": "PASS", "attempts": ["PASS"], "elapsed": 1.543171}
+{"ts": "2026-09-20T18:50:09.336+00:00", "event": "page_done", "page_id": "KITAB-R-0010", "status": "PASS", "attempts": ["PASS"], "elapsed": 1.135202}
+{"ts": "2026-09-20T18:50:10.547+00:00", "event": "page_done", "page_id": "KITAB-R-0011", "status": "PASS", "attempts": ["PASS"], "elapsed": 1.181425}
+{"ts": "2026-09-20T18:50:12.730+00:00", "event": "page_done", "page_id": "KITAB-R-0012", "status": "PASS", "attempts": ["PASS"], "elapsed": 2.038843}
+{"ts": "2026-09-20T18:50:14.580+00:00", "event": "page_done", "page_id": "KITAB-R-0013", "status": "PASS", "attempts": ["PASS"], "elapsed": 1.760584}
+{"ts": "2026-09-20T18:50:15.265+00:00", "event": "page_done", "page_id": "KITAB-R-0014", "status": "PASS", "attempts": ["PASS"], "elapsed": 0.681924}
+{"ts": "2026-09-20T18:57:06.530+00:00", "event": "page_done", "page_id": "KITAB-R-0015", "status": "PASS", "attempts": ["PASS"], "elapsed": 403.03879}
+{"ts": "2026-09-20T19:04:03.837+00:00", "event": "page_done", "page_id": "KITAB-R-0016", "status": "PASS", "attempts": ["PASS"], "elapsed": 402.461352}
+{"ts": "2026-09-20T19:04:04.611+00:00", "event": "page_done", "page_id": "KITAB-R-0017", "status": "PASS", "attempts": ["PASS"], "elapsed": 0.760678}
+{"ts": "2026-09-20T19:04:05.487+00:00", "event": "page_done", "page_id": "KITAB-R-0018", "status": "PASS", "attempts": ["PASS"], "elapsed": 0.857113}
+{"ts": "2026-09-20T19:04:06.243+00:00", "event": "page_done", "page_id": "KITAB-R-0019", "status": "PASS", "attempts": ["PASS"], "elapsed": 0.731685}
+{"ts": "2026-09-20T19:04:08.309+00:00", "event": "page_done", "page_id": "KITAB-R-0020", "status": "PASS", "attempts": ["PASS"], "elapsed": 1.985457}
+{"ts": "2026-09-20T19:04:09.909+00:00", "event": "page_done", "page_id": "KITAB-R-0021", "status": "PASS", "attempts": ["PASS"], "elapsed": 1.557007}
+{"ts": "2026-09-20T19:11:29.138+00:00", "event": "page_done", "page_id": "KITAB-R-0022", "status": "PASS", "attempts": ["PASS"], "elapsed": 399.654688}
+{"ts": "2026-09-20T19:11:29.886+00:00", "event": "page_done", "page_id": "KITAB-R-0023", "status": "PASS", "attempts": ["PASS"], "elapsed": 0.720355}
+{"ts": "2026-09-20T19:11:30.992+00:00", "event": "page_done", "page_id": "KITAB-R-0024", "status": "PASS", "attempts": ["PASS"], "elapsed": 1.102812}
+{"ts": "2026-09-20T19:18:27.844+00:00", "event": "page_done", "page_id": "KITAB-R-0025", "status": "PASS", "attempts": ["PASS"], "elapsed": 408.766115}

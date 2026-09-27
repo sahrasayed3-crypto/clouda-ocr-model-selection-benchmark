@@ -1,0 +1,15 @@
+{
+  "model": "hastyle/olmOCR-arabic-lora-v2",
+  "status": "EARLY_STOPPED_NONCOMPETITIVE",
+  "full_462_result": false,
+  "timing_class": "CONTENDED_NON_CANONICAL",
+  "successful_page_count": 188,
+  "failed_page_count": 0,
+  "cer": 0.8180198694018296,
+  "wer": 1.02026765381469,
+  "model_revisions": [
+    "f436e9a0abc93fc5d31231c294fbc40c6965106f"
+  ],
+  "stop_timestamp": "2026-09-24T11:05:39.021101+00:00",
+  "raw_output_dir": "<server-root>/outputs/raw/hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b"
+}

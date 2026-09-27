@@ -1,0 +1,13 @@
+Math - 12 Advanced - Term 3
+
+أوراق عمل الفصل الثالث 2023-24 مادة الرياضيات
+
+Evaluate
+
+$$ \int\frac{\sqrt{x^{2}-4}}{x^{2}}dx,x\geq2 $$
+
+Q158
+
+Evaluate
+
+$$ \int\frac{2}{\sqrt{x^{2}-4}}dx,x\geq2 $$

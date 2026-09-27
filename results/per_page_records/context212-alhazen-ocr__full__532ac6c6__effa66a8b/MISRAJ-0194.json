@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T04:26:02.553+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "c731166167f7b06c0a55abc0ea7a4407b86ac433bc70041d0b88a200554385c5",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2263,
+    "width": 1600
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.9140108238123873,
+    "cer_raw": 0.9139150943396226,
+    "wer_normalized": 1,
+    "wer_raw": 1
+  },
+  "model_id": "context212/alhazen-ocr",
+  "model_revision": "110b461e2389c97f68a1310370afeebb4a0b381f",
+  "normalized_output": "Create a study card for biological Immunology. The header shows \"Solid Lenses\" with summary information in the header. We'll extract the text from the slide, preserving the original wording. We'll identify the keywords and extract the text, reconstructing it in order. We'll extract all text, preserving appearance data like raw position and text wrapping. We'll add metadata like hasal create it check, workcom, cellio, 造金 limitations, close friends, 5% tax, 造金 limitations, ® 造金 limitations® Software® mobile equipment limit.com®®",
+  "page_id": "MISRAJ-0194",
+  "prompt_hash": "631994fea519ca7a7390c2788b906e643d420ba3564ff2190dded854cce1cdc5",
+  "raw_output": "Create a study card for biological Immunology. The header shows \"Solid Lenses\" with summary information in the header. We'll extract the text from the slide, preserving the original wording. We'll identify the keywords and extract the text, reconstructing it in order. We'll extract all text, preserving appearance data like raw position and text wrapping. We'll add metadata like hasal create it check, workcom, cellio, 造金 limitations, close friends,  5% tax,  造金 limitations,  ®  造金 limitations® Software® mobile equipment limit.com®®",
+  "retry_count": 0,
+  "run_id": "context212-alhazen-ocr__full__532ac6c6__effa66a8b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T04:25:51.223+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,83 @@
+---
+primary_language: en
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+Burn lecture 3
+
+Definition:
+- Coagulative necrosis of tissues due to physical or chemical agents.
+
+Etiology:
+1. Physical:
+ A. Thermal
+ 1. Direct: flame
+ 2. Indirect: scald
+ B. Electrical
+ C. Radiation
+2. Chemical:
+ A. Alkalis
+ B. Acids
+
+N.B. cold burn
+
+Classification of burn:
+A. According to extent
+ - Minor: < 10%
+ - Intermediate: 10 – 30%
+ - Major: > 30%
+
+B. According to depth
+ - First degree: epidermis only
+ - Second degree: epidermis part of dermis
+ - Third degree: all skin
+
+How does burn harm the body?
+1. Increased Capillary permeability
+2. Evaporation of water → severe dehydration
+
+Complications:
+A. Systemic:
+1. Respiratory:
+ - Asphyxia, laryngospasm, bronchospasm, type 2 Respiratory failure
+2. C.V.S.
+ - Shock hypovolemic
+
+The definition:
+- Nerve (nerve) (death) for the tissue due to physical or chemical agents.
+- The cause:
+ 1. Physical – physiological:
+ a. Heat
+ 1. Direct: flame
+ 2. Indirect: scald
+ b. Electrical
+ c. Radiation
+ 2. Chemical:
+ a. Alkalis
+ b. Acids
+
+N.B. cold burn
+
+Classification of burn:
+A. According to extent
+ - Minor: < 10%
+ - Intermediate: 10 – 30%
+ - Major: > 30%
+
+B. According to depth
+ - First degree: epidermis only
+ - Second degree: epidermis part of dermis
+ - Third degree: all skin
+
+How does burn harm the body?
+1. Increased Capillary permeability
+2. Evaporation of water → severe dehydration
+
+Complications:
+A. Systemic:
+1. Respiratory:
+ - Asphyxia, laryngospasm, bronchospasm, type 2 Respiratory failure
+2. C.V.S.
+ - Shock hypovolemic

@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T10:45:31.355+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1653,
+    "width": 1167
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.21489001692047377,
+    "cer_raw": 0.22613065326633167,
+    "wer_normalized": 0.1783783783783784,
+    "wer_raw": 0.1837837837837838
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: en\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nin days of calamity,\n means, consecutive days.\n\nseven nights and eight days in succession, (69:7)\n\nThis is like the Ayah:\n\non a day of calamity, continuous, (54:19)\n\ni.e., the punishment began on a day which was of evil omen for them, and this evil omen continued for them,\n\nseven nights and eight days in succession, (69:7)\n\nuntil they were destroyed, every last one of them, and their humiliation in this world was joined to their punishment in the Hereafter.\n\nAllah says:\n\n... لِنُذِيقَهُمْ عَذَابَ الْخِزْرِي فِي الْحَيَاةِ الدُّنْيَا وَلِعَذَابِ الْآخِرَةِ أَخْزَى ...\n\nthat We might give them a taste of disgracing torment in this present worldly life. But surely the torment of the Hereafter will be more disgracing.\n\nmeaning, more humiliating for them.\n\n... وَهُمْ لَا يُنصَرُونَ (١٦)\n\nand they will never be helped.\n\nmeans, in the Hereafter, just as they were never helped in this world, and they had no one who could protect them from Allah or save them from His punishment.\n\n22",
+  "page_id": "MISRAJ-0101",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: en\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nin days of calamity,\n    means, consecutive days.\n\nseven nights and eight days in succession, (69:7)\n\nThis is like the Ayah:\n\non a day of calamity, continuous, (54:19)\n\ni.e., the punishment began on a day which was of evil omen for them, and this evil omen continued for them,\n\nseven nights and eight days in succession, (69:7)\n\nuntil they were destroyed, every last one of them, and their humiliation in this world was joined to their punishment in the Hereafter.\n\nAllah says:\n\n... لِنُذِيقَهُمْ عَذَابَ الْخِزْرِي فِي الْحَيَاةِ الدُّنْيَا وَلِعَذَابِ الْآخِرَةِ أَخْزَى ...\n\nthat We might give them a taste of disgracing torment in this present worldly life. But surely the torment of the Hereafter will be more disgracing.\n\nmeaning, more humiliating for them.\n\n... وَهُمْ لَا يُنصَرُونَ (١٦)\n\nand they will never be helped.\n\nmeans, in the Hereafter, just as they were never helped in this world, and they had no one who could protect them from Allah or save them from His punishment.\n\n22",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T10:44:59.794+00:00",
+  "status": "PASS"
+}

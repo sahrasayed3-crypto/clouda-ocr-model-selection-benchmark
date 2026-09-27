@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T01:31:58.084+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "c731166167f7b06c0a55abc0ea7a4407b86ac433bc70041d0b88a200554385c5",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2039,
+    "width": 1484
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 3.10896309314587,
+    "cer_raw": 3.10896309314587,
+    "wer_normalized": 3.4705882352941178,
+    "wer_raw": 3.4705882352941178
+  },
+  "model_id": "context212/alhazen-ocr",
+  "model_revision": "110b461e2389c97f68a1310370afeebb4a0b381f",
+  "normalized_output": "Create an annotation snapshot of the original slide, preserving the image's layout. We'll extract the text from the source, maintaining the original reading order and positioning.\n\nWe'll work from the top of the page, reading line by line, and extract the text, placing it in a structured format. We'll extract all the text, preserving the original meaning and context, and reconstruct it in a readable format.\n\n1. We'll identify the main headings from the image, which appear to be the title and the contents. We'll extract the text from the headings and delimiters.\n2. We'll extract the text from the image, preserving the original reading order. We'll use text-alignment to reconstruct the layout.\n\nWe'll now process the image, extracting the text in order.\n\n- We'll extract the text from the image, preserving the original reading order.\n- We'll identify the main headings, which are the titles of the sections.\n- We'll extract the text from the sidebars, which are notes or captions.\n\nWe'll process the image, extracting the text in order. We'll extract the text from the image, preserving the original reading order. We'll extract the text from the sidebars, which are notes or captions.\n\n- Rtl celloparodey®® cell-Climar® cell造 issues造 issues造® close deltsbotyemi® car Limited® bio-floody issues®造 issues造® soft® lightopyx] car Limited® bio-floody® play design® close Cario cell造 issues造® play design® bio-flood® soft® light cell造® soft® house Limited® close delturn® soft® issues® play design® play ط\\Bridge® play 造 issues造® play 造 issues造® play 造 issues造® soft® cell\\Component® close Cario cell造® close delturn® soft® house Limited®.com® bio-flood® close delturn® soft® light建设 cell造® play 造 issues造® bio-feyond® play ط issues造® play 造 issues造® soft® issues造® soft® house Limited® close delturn® play soft® issues造® Playbot cell car cell car cell car soft® issues造® play ط issues造® light建设® play SM.com®.com®",
+  "page_id": "MISRAJ-0108",
+  "prompt_hash": "631994fea519ca7a7390c2788b906e643d420ba3564ff2190dded854cce1cdc5",
+  "raw_output": "Create an annotation snapshot of the original slide, preserving the image's layout. We'll extract the text from the source, maintaining the original reading order and positioning.\n\nWe'll work from the top of the page, reading line by line, and extract the text, placing it in a structured format. We'll extract all the text, preserving the original meaning and context, and reconstruct it in a readable format.\n\n1. We'll identify the main headings from the image, which appear to be the title and the contents. We'll extract the text from the headings and delimiters.\n2. We'll extract the text from the image, preserving the original reading order. We'll use text-alignment to reconstruct the layout.\n\nWe'll now process the image, extracting the text in order.\n\n- We'll extract the text from the image, preserving the original reading order.\n- We'll identify the main headings, which are the titles of the sections.\n- We'll extract the text from the sidebars, which are notes or captions.\n\nWe'll process the image, extracting the text in order. We'll extract the text from the image, preserving the original reading order. We'll extract the text from the sidebars, which are notes or captions.\n\n- Rtl celloparodey®® cell-Climar® cell造 issues造 issues造® close deltsbotyemi® car Limited® bio-floody issues®造 issues造® soft® lightopyx] car Limited® bio-floody® play design® close Cario cell造 issues造® play design® bio-flood® soft® light cell造® soft® house Limited® close delturn® soft® issues® play design® play ط\\Bridge® play 造 issues造® play 造 issues造® play 造 issues造® soft® cell\\Component® close Cario cell造® close delturn® soft® house Limited®.com® bio-flood® close delturn® soft® light建设 cell造® play 造 issues造® bio-feyond® play ط issues造® play 造 issues造® soft® issues造® soft® house Limited® close delturn® play soft® issues造® Playbot cell car cell car cell car soft® issues造® play ط issues造® light建设® play SM.com®.com®",
+  "retry_count": 0,
+  "run_id": "context212-alhazen-ocr__full__532ac6c6__effa66a8b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T01:31:17.700+00:00",
+  "status": "PASS"
+}

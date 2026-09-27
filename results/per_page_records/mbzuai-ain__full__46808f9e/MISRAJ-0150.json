@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T00:59:09.737+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1654
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.6799580272822665,
+    "cer_raw": 0.6799580272822665,
+    "wer_normalized": 0.638095238095238,
+    "wer_raw": 0.638095238095238
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "Harvest Private School\nP.O.BOX : 4328\nRas Al Khaimah , United Arab Emirates\nVision of the school :To be the best choice for any parent who seeks to achieve the best educational service for his/ her children\nClaasse: -------------------\nSubject: -------------------\nLesson: -------------------\nالسؤال الخامس\nصنف كل من الظواهر الجغرافية الآتية وفق للجدول : (ليوا – الدواسر – الحجاز – نجد – الحميض )\nنبات طبيعي\nواحات\nأودية\nهضاب\nجبال\nالحميض\nليوا\nالدواسر\nنجد\nالحجاز\nالمناهج الإماراتية\nCambridge International School\nCambridge International Examinations",
+  "page_id": "MISRAJ-0150",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "Harvest Private School\nP.O.BOX : 4328\nRas Al Khaimah , United Arab Emirates\nVision of the school :To be the best choice for any parent who seeks to achieve the best educational service for his/ her children\nClaasse: -------------------\nSubject: -------------------\nLesson: -------------------\nالسؤال الخامس\nصنف كل من الظواهر الجغرافية الآتية وفق للجدول : (ليوا – الدواسر – الحجاز – نجد – الحميض )\nنبات طبيعي\nواحات\nأودية\nهضاب\nجبال\nالحميض\nليوا\nالدواسر\nنجد\nالحجاز\nالمناهج الإماراتية\nCambridge International School\nCambridge International Examinations",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T00:59:02.726+00:00",
+  "status": "PASS"
+}

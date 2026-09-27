@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T07:46:03.272+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1654
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.3212809917355372,
+    "cer_raw": 0.39060887512899894,
+    "wer_normalized": 0.47715736040609136,
+    "wer_raw": 0.47715736040609136
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nالشكل رقم (3): عدد العاملين في قطاع التجارة والخدمات 2011-2015 (بالألاف عامل)\n\n![Graph showing the number of workers in the trade and services sector from 2011 to 2015, in thousands.](page_0_0_2048_1638.png)\n\nالمصدر: دائرة الإحصاءات العامة، مسح الاستخدام، 2015.\n\nوعلى صعيد توزيع العاملين بحسب القطاعات الفرعية للقطاع التجاري والخدمي، يستحوذ قطاع تجارة الجملة والتجزئة على ما يقارب 58% من إجمالي العاملين في القطاع، حيث يوظف حوالي 240.6 ألف عامل وعاملة، بليه قطاع الفنادق والمطاعم الذي يستحوذ على ما يقارب 13% من إجمالي العاملين في القطاع حيث يوظف ما يقارب 53 ألف عامل وعاملة، ويوضح الجدول رقم (1) توزيع العاملين بحسب القطاعات الفرعية المتبقية.\n\nجدول رقم (1): عدد العاملين في القطاع التجاري والخدمي بحسب القطاعات الفرعية\n\n<table>\n <tr>\n <th>القطاع الفرعي</th>\n <th>2015</th>\n <th>2014</th>\n <th>2013</th>\n <th>2012</th>\n <th>2011</th>\n </tr>\n <tr>\n <td>الإنشاءات</td>\n <td>37.223</td>\n <td>39.952</td>\n <td>38.569</td>\n <td>48.799</td>\n <td>50.130</td>\n </tr>\n <tr>\n <td>تجارة الجملة والتجزئة</td>\n <td>240.624</td>\n <td>239.349</td>\n <td>232.123</td>\n <td>219.091</td>\n <td>214.079</td>\n </tr>\n <tr>\n <td>النقل والتخزين</td>\n <td>23.114</td>\n <td>21.455</td>\n <td>22.481</td>\n <td>22.997</td>\n <td>22.251</td>\n </tr>\n <tr>\n <td>الفنادق والمطاعم</td>\n <td>53.018</td>\n <td>50.713</td>\n <td>48.986</td>\n <td>46.856</td>\n <td>44.917</td>\n </tr>\n <tr>\n <td>المعلومات والاتصالات</td>\n <td>18.414</td>\n <td>17.620</td>\n <td>16.459</td>\n <td>16.375</td>\n <td>15.817</td>\n </tr>\n <tr>\n <td>أنشطة المالية والتأمين</td>\n <td>35.649</td>\n <td>33.200</td>\n <td>32.360</td>\n <td>31.450</td>\n <td>31.282</td>\n </tr>\n <tr>\n <td>الأنشطة العقارية</td>\n <td>6.762</td>\n <td>5.484</td>\n <td>6.110</td>\n <td>5.522</td>\n <td>6.795</td>\n </tr>\n <tr>\n <td>المجموع</td>\n <td>414.804</td>\n <td>407.773</td>\n <td>397.088</td>\n <td>391.090</td>\n <td>385.271</td>\n </tr>\n</table>\n\nالمصدر: دائرة الإحصاءات العامة، مسح الاستخدام، أعداد مختلفة.",
+  "page_id": "KITAB-R-0008",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nالشكل رقم (3): عدد العاملين في قطاع التجارة والخدمات 2011-2015 (بالألاف عامل)\n\n![Graph showing the number of workers in the trade and services sector from 2011 to 2015, in thousands.](page_0_0_2048_1638.png)\n\nالمصدر: دائرة الإحصاءات العامة، مسح الاستخدام، 2015.\n\nوعلى صعيد توزيع العاملين بحسب القطاعات الفرعية للقطاع التجاري والخدمي، يستحوذ قطاع تجارة الجملة والتجزئة على ما يقارب 58% من إجمالي العاملين في القطاع، حيث يوظف حوالي 240.6 ألف عامل وعاملة، بليه قطاع الفنادق والمطاعم الذي يستحوذ على ما يقارب 13% من إجمالي العاملين في القطاع حيث يوظف ما يقارب 53 ألف عامل وعاملة، ويوضح الجدول رقم (1) توزيع العاملين بحسب القطاعات الفرعية المتبقية.\n\nجدول رقم (1): عدد العاملين في القطاع التجاري والخدمي بحسب القطاعات الفرعية\n\n<table>\n  <tr>\n    <th>القطاع الفرعي</th>\n    <th>2015</th>\n    <th>2014</th>\n    <th>2013</th>\n    <th>2012</th>\n    <th>2011</th>\n  </tr>\n  <tr>\n    <td>الإنشاءات</td>\n    <td>37.223</td>\n    <td>39.952</td>\n    <td>38.569</td>\n    <td>48.799</td>\n    <td>50.130</td>\n  </tr>\n  <tr>\n    <td>تجارة الجملة والتجزئة</td>\n    <td>240.624</td>\n    <td>239.349</td>\n    <td>232.123</td>\n    <td>219.091</td>\n    <td>214.079</td>\n  </tr>\n  <tr>\n    <td>النقل والتخزين</td>\n    <td>23.114</td>\n    <td>21.455</td>\n    <td>22.481</td>\n    <td>22.997</td>\n    <td>22.251</td>\n  </tr>\n  <tr>\n    <td>الفنادق والمطاعم</td>\n    <td>53.018</td>\n    <td>50.713</td>\n    <td>48.986</td>\n    <td>46.856</td>\n    <td>44.917</td>\n  </tr>\n  <tr>\n    <td>المعلومات والاتصالات</td>\n    <td>18.414</td>\n    <td>17.620</td>\n    <td>16.459</td>\n    <td>16.375</td>\n    <td>15.817</td>\n  </tr>\n  <tr>\n    <td>أنشطة المالية والتأمين</td>\n    <td>35.649</td>\n    <td>33.200</td>\n    <td>32.360</td>\n    <td>31.450</td>\n    <td>31.282</td>\n  </tr>\n  <tr>\n    <td>الأنشطة العقارية</td>\n    <td>6.762</td>\n    <td>5.484</td>\n    <td>6.110</td>\n    <td>5.522</td>\n    <td>6.795</td>\n  </tr>\n  <tr>\n    <td>المجموع</td>\n    <td>414.804</td>\n    <td>407.773</td>\n    <td>397.088</td>\n    <td>391.090</td>\n    <td>385.271</td>\n  </tr>\n</table>\n\nالمصدر: دائرة الإحصاءات العامة، مسح الاستخدام، أعداد مختلفة.",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T07:44:38.079+00:00",
+  "status": "PASS"
+}

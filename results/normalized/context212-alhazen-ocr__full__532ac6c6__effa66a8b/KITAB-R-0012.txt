@@ -1,0 +1,1 @@
+Create a search algorithm design chart. Create a decision tree for an e-commerce application. We need to determine the acceptable user behavior in e-commerce systems.

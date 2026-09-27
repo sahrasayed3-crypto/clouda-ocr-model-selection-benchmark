@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T16:04:56.513+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 875,
+    "width": 1241
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.14646464646464646,
+    "cer_raw": 0.1507537688442211,
+    "wer_normalized": 0.31313131313131315,
+    "wer_raw": 0.31313131313131315
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "الأسئلة المتداولة بشأن الأجهزة المحمولة. معرفة المزيد حول الطبقة الرقيقة الواقعية في هاتفي Galaxy Samsung مع دعم Galaxy Z Fold4 و Z Flip4. * كيفية الاستخدام ما الاختلافات بين هاتفي Galaxy Z Fold4 و Galaxy Z Fold3؟ الأسئلة المتداولة بشأن الأجهزة المحمولة. معرفة المزيد عن الاختلافات بين هاتفي Galaxy Z Fold3 و Galaxy Z Fold4. * كيفية الاستخدام كيف أستخدم S Pen Pro على هاتف Galaxy Z Fold4 الأسئلة المتداولة بشأن الأجهزة المحمولة. معرفة المزيد حول كيف أستخدم S Pen Pro على هاتف Galaxy Z Fold4. * كيفية الاستخدام كيفية استخدام شريطا مهام Galaxy Z Fold4",
+  "page_id": "MISRAJ-0350",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "الأسئلة المتداولة بشأن الأجهزة المحمولة. معرفة المزيد حول الطبقة الرقيقة الواقعية في هاتفي Galaxy Samsung مع دعم Galaxy Z Fold4 و Z Flip4. * كيفية الاستخدام ما الاختلافات بين هاتفي Galaxy Z Fold4 و Galaxy Z Fold3؟ الأسئلة المتداولة بشأن الأجهزة المحمولة. معرفة المزيد عن الاختلافات بين هاتفي Galaxy Z Fold3 و Galaxy Z Fold4. * كيفية الاستخدام كيف أستخدم S Pen Pro على هاتف Galaxy Z Fold4 الأسئلة المتداولة بشأن الأجهزة المحمولة. معرفة المزيد حول كيف أستخدم S Pen Pro على هاتف Galaxy Z Fold4. * كيفية الاستخدام كيفية استخدام شريطا مهام Galaxy Z Fold4",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T16:04:45.485+00:00",
+  "status": "PASS"
+}

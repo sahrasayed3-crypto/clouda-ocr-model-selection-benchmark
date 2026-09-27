@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-23T23:11:10.199+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1654
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.7719038817005546,
+    "cer_raw": 0.7720724048762467,
+    "wer_normalized": 0.9067055393586005,
+    "wer_raw": 0.9067055393586005
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "1- First Aid\n1- Move\n2- Airway\n3- Breathing\n4- Circulation\n5- Drugs\n6- Exposure\n7- Flouding of water\n2- Treatment of burn:\n- Minor\n- Major\n1. M&R (Resuscitation & Monitoring)\n2. Fluid therapy\n☠️ Resuscitation (4 tubes):\n1. Two wide bore peripheral cannula\n2. Foley’s catheter\n3. Central line\n4. Nasogastric tube\n☠️ Monitoring (4 values):\n1. Vital signs\n2. Urine output\n3. CVP\n4. Consciousness\n☠️ Dressing of burn:\n- Open method\n- Occlusive method\n☠️ Fluid therapy:\n1. Type of fluid ringer lactate or normal saline\n2. Amount (parkland formula)\n(4ml × body weight × percent of burn )+\n2000 glucose 5%\n3. Adequacy by monitoring\n3- Treatment of complications:\n1. Eschar\n2. Grafting\n3. Contracture\n1- الإسعافات الأولية\n1) نقل\n2) مجرى الهواء\n3) التنفس\n4) الدوران\n5) الادوات\n6) مكشاف\n7) رش بالمياه\n2- علاج الحروق:\nصغير\n كبير\n1. الانعاش والمراقبة\n2. العلاج بالسوائل (إعطاء محلول)\n☠️ الإنعاش (٤ أنابيب): ☠️\n1. اثنين كانيولا واسعة تتحمل حفرة الطرفية\n2. قسطرة فولي\n3. الخط المركزي (يتم تركيبها في الرقبة)\n4. أنبوب انفي معدي\n☠️ المراقبة (٤ قيم): ☠️\n1. علامات حيوية\n2. خروج البول\n3. الضغط الوريدي المركزي\n4. الوعي\n☠️ ضمامة للحرق: ☠️\n- بطريقة مفتوحة\n- بطريقة حصر (مغلقة)\n☠️ علاج السوائل: ☠️\n1. نوع من السائل إما محلول رينجر لاكتات او محلول ملح الطبيعي\n2. الكفاية عن طريق الرصد\n3- علاج المضاعفات:\n1. معالجة الندبة (علامة الحرق بعد فترة كبيرة)\n2. التطعيم\n3. معالجة الانكماش (مثل انكماش الاصابع)\nThank you\nhttps://egynursology.blogspot.com\n لا تنسونى من صالح الدعاء .... علاء احمد",
+  "page_id": "KITAB-R-0054",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "1- First Aid\n1- Move\n2- Airway\n3- Breathing\n4- Circulation\n5- Drugs\n6- Exposure\n7- Flouding of water\n2- Treatment of burn:\n- Minor\n- Major\n1. M&R (Resuscitation & Monitoring)\n2. Fluid therapy\n☠️ Resuscitation (4 tubes):\n1. Two wide bore peripheral cannula\n2. Foley’s catheter\n3. Central line\n4. Nasogastric tube\n☠️ Monitoring (4 values):\n1. Vital signs\n2. Urine output\n3. CVP\n4. Consciousness\n☠️ Dressing of burn:\n- Open method\n- Occlusive method\n☠️ Fluid therapy:\n1. Type of fluid ringer lactate or normal saline\n2. Amount (parkland formula)\n(4ml × body weight × percent of burn )+\n2000 glucose 5%\n3. Adequacy by monitoring\n3- Treatment of complications:\n1. Eschar\n2. Grafting\n3. Contracture\n1- الإسعافات الأولية\n1) نقل\n2) مجرى الهواء\n3) التنفس\n4) الدوران\n5) الادوات\n6) مكشاف\n7) رش بالمياه\n2- علاج الحروق:\nصغير\n كبير\n1. الانعاش والمراقبة\n2. العلاج بالسوائل (إعطاء محلول)\n☠️ الإنعاش (٤ أنابيب): ☠️\n1. اثنين كانيولا واسعة تتحمل حفرة الطرفية\n2. قسطرة فولي\n3. الخط المركزي (يتم تركيبها في الرقبة)\n4. أنبوب انفي معدي\n☠️ المراقبة (٤ قيم): ☠️\n1. علامات حيوية\n2. خروج البول\n3. الضغط الوريدي المركزي\n4. الوعي\n☠️ ضمامة للحرق: ☠️\n- بطريقة مفتوحة\n- بطريقة حصر (مغلقة)\n☠️ علاج السوائل: ☠️\n1. نوع من السائل إما محلول رينجر لاكتات او محلول ملح الطبيعي\n2. الكفاية عن طريق الرصد\n3- علاج المضاعفات:\n1. معالجة الندبة (علامة الحرق بعد فترة كبيرة)\n2. التطعيم\n3. معالجة الانكماش (مثل انكماش الاصابع)\nThank you\nhttps://egynursology.blogspot.com\n لا تنسونى من صالح الدعاء .... علاء احمد",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-23T23:10:46.995+00:00",
+  "status": "PASS"
+}

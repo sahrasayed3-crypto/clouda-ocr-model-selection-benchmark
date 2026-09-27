@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-23T23:42:45.403+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "c731166167f7b06c0a55abc0ea7a4407b86ac433bc70041d0b88a200554385c5",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1600,
+    "width": 1144
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.9316466932978251,
+    "cer_raw": 0.918572735590119,
+    "wer_normalized": 1,
+    "wer_raw": 1
+  },
+  "model_id": "context212/alhazen-ocr",
+  "model_revision": "110b461e2389c97f68a1310370afeebb4a0b381f",
+  "normalized_output": "Create a structured extract of the rFsbocomy®، seeking solutions. We work show Complete®® Complete®® Complete®® cell, seeking golden issues issues造®® Complete®® cell issues issues issues issues造®® Seeking®® cell issues issues issues issues issues issues issues issues issues issues McMahon issues issues issues issues issues造 issues ®Close-fario®® Complete®® cell issues issues issues issues lickside issues issues issues lickside issues 为什么 issues ®Close-fioy issues issues ®Close-fio®® bioFi issues lightbotoff®® cell issues issues 金金 limitations® close-fturn®® bioFi issues lightof®® cell issues 金金 issues lightof®® cell issues ® bioFi issues 金金 issues lightof®® cell issues lightof®® cell issues lightof®UNE issues 金 limits issues 金 issues Seeking lightsoft Playbot'» cell issues incomplete» cellUNE issues ¹فى issues 造金 issues Why ® bioFi issues Complete®® cell cellUNE issues http://search.com/softchecklickopy® close-fturn® bioFi issues http://search.com/softcheckinglickopy® bioFi issues 金 limits BIO issues ¹فى issues bioFi issues Seeking golden issues Cobiune issues",
+  "page_id": "MISRAJ-0061",
+  "prompt_hash": "631994fea519ca7a7390c2788b906e643d420ba3564ff2190dded854cce1cdc5",
+  "raw_output": "Create a structured extract of the rFsbocomy®، seeking solutions. We work show Complete®® Complete®® Complete®® cell, seeking golden issues issues造®® Complete®® cell issues issues issues issues造®® Seeking®® cell issues issues issues issues issues issues issues issues issues issues  McMahon issues issues issues issues issues造 issues ®Close-fario®® Complete®® cell issues issues issues issues lickside issues issues issues lickside issues 为什么 issues ®Close-fioy issues  issues ®Close-fio®® bioFi issues  lightbotoff®® cell issues  issues  金金 limitations® close-fturn®® bioFi issues  lightof®® cell issues  金金 issues  lightof®® cell issues ® bioFi issues  金金 issues  lightof®® cell issues  lightof®® cell issues  lightof®UNE issues  金 limits issues  金 issues  Seeking lightsoft Playbot'» cell issues  incomplete» cellUNE issues  ¹فى issues  造金 issues  Why ® bioFi issues  Complete®® cell cellUNE issues  http://search.com/softchecklickopy® close-fturn® bioFi issues  http://search.com/softcheckinglickopy® bioFi issues  金 limits BIO issues  ¹فى issues  bioFi issues  Seeking golden issues  Cobiune issues",
+  "retry_count": 0,
+  "run_id": "context212-alhazen-ocr__full__532ac6c6__effa66a8b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-23T23:42:20.118+00:00",
+  "status": "PASS"
+}

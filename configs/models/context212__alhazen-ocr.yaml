@@ -1,0 +1,25 @@
+model_id: context212/alhazen-ocr
+pinned_revision: 110b461e2389c97f68a1310370afeebb4a0b381f
+revision_resolved_on: "2026-09-19"
+architecture: QLoRA adapter on unsloth/Qwen3-VL-2B-Instruct (2B VLM)
+base_model: unsloth/Qwen3-VL-2B-Instruct
+processor_class: UNRESOLVED (no preprocessor_config.json in adapter repo; use base model processor - Qwen3-VL family)
+tokenizer_class: Qwen2Tokenizer
+required_transformers_version: "Qwen3-VL-capable transformers (>=4.57); exact minimum not stated on card"
+required_custom_code: false
+adapter_requirements: "peft or vLLM --enable-lora (card documents vLLM serving: --lora-modules alhazen=context212/alhazen-ocr)"
+recommended_dtype: bfloat16
+recommended_attention_backend: vLLM documented on card; transformers default acceptable
+image_input_format: image via chat template content part
+documented_ocr_prompt: "Extract all the text from this image, preserving the original reading order."
+documented_ocr_prompt_source: model card 'Prompt:' section
+generation_parameters:
+  temperature: 0.0
+  source: "model card: 'Keep temperature=0 for transcription.'"
+special_stop_tokens: standard Qwen eos
+expected_output_type: full-text transcription preserving reading order
+license: apache-2.0
+license_notes: card YAML license field
+known_runtime_requirements: base model unsloth/Qwen3-VL-2B-Instruct must be pinned+downloaded at GPU phase
+estimated_vram_class: low (~6-8 GB bf16, 2B base + adapter)
+notes: Tuned for Arabic institutional paperwork / printed forms + handwriting mix (khattmix); card warns KHATT-style handwriting remains hard.

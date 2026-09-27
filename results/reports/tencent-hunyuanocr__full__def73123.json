@@ -1,0 +1,35 @@
+{
+  "run_id": "tencent-hunyuanocr__full__def73123",
+  "scope": "full",
+  "per_model": {
+    "model_id": "tencent/HunyuanOCR",
+    "run_id": "tencent-hunyuanocr__full__def73123",
+    "run_state": "COMPLETE",
+    "total_pages": 462,
+    "successful_pages": 462,
+    "failed_pages": 0,
+    "failure_rate": 0,
+    "failure_breakdown": {
+      "FAIL": 0,
+      "INVALID_OUTPUT": 0,
+      "MODEL_LOAD_ERROR": 0,
+      "OOM": 0,
+      "TIMEOUT": 0
+    },
+    "mean_cer_raw": 0.4381310755205088,
+    "mean_wer_raw": 0.517423880685302,
+    "mean_cer_normalized": 0.4346484837089509,
+    "mean_wer_normalized": 0.5172209723250519
+  },
+  "failures": {
+    "total_failures": 0,
+    "by_status": {
+      "FAIL": [],
+      "OOM": [],
+      "TIMEOUT": [],
+      "MODEL_LOAD_ERROR": [],
+      "INVALID_OUTPUT": []
+    },
+    "details": []
+  }
+}

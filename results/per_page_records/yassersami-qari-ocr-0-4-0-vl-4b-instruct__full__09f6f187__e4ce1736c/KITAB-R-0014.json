@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T05:28:45.011+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1500,
+    "width": 2000
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.2748091603053435,
+    "cer_raw": 0.2803030303030303,
+    "wer_normalized": 0.3333333333333333,
+    "wer_raw": 0.3333333333333333
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "الأسواق الإلكترونية الأسواق الإلكترونية ليست بنايه او ما شابه بل هو محل شبكي يحوي تعاملات تجارية والمحل الإلكترونية هو كل منصة الكترونية يمكن للناجر من خلالها عرض سلعة وتقديم خدماته او بيعها.",
+  "page_id": "KITAB-R-0014",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "الأسواق الإلكترونية الأسواق الإلكترونية ليست بنايه او ما شابه بل هو محل شبكي يحوي تعاملات تجارية والمحل الإلكترونية هو كل منصة الكترونية يمكن للناجر من خلالها عرض سلعة وتقديم خدماته او بيعها.",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T05:28:40.060+00:00",
+  "status": "PASS"
+}

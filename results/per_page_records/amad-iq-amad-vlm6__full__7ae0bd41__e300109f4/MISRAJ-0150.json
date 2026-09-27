@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T00:47:50.553+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1654
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.6096537250786989,
+    "cer_raw": 0.6096537250786989,
+    "wer_normalized": 0.6,
+    "wer_raw": 0.6
+  },
+  "model_id": "amad-iq/amad-vlm6",
+  "model_revision": "7daf90cd5e5706173e159c88ca4e6dc2475a485e",
+  "normalized_output": "HARVEST PRIVATE SCHOOL\nP.O.BOX : 4328\nRas Al Khaimah , United Arab Emirates\nVision of the school:To be the best choice for any parent who seeks to achieve the best educational service for his/ her children\nClasse : ------------------صف خامس-----------------\nSubject:-------------------تربية وطنية-------------------\nLesson-------------------الدرس الأول-------------------\nالسؤال الخامس\nصنف كل من الظواهر الجغرافية الآتية وفق للجدول :\n(ليوا – الدواسر – الحجاز - نجد – الحميض )\nجبال\nهضاب\nأودية\nواحات\nنبات طبيعي\nالحميض\nليوا\nالدواسر\nنجد\nالحجاز\nتم تحميل هذا الملف من\nموقـع المناهج الإماراتية\nalManahj.com/ae\nCAMBRIDGE\nInternational Examinations\nCambridge International School\nHPS",
+  "page_id": "MISRAJ-0150",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "HARVEST PRIVATE SCHOOL\nP.O.BOX : 4328\nRas Al Khaimah , United Arab Emirates\nVision of the school:To be the best choice for any parent who seeks to achieve the best educational service for his/ her children\nClasse : ------------------صف خامس-----------------\nSubject:-------------------تربية وطنية-------------------\nLesson-------------------الدرس الأول-------------------\nالسؤال الخامس\nصنف كل من الظواهر الجغرافية الآتية وفق للجدول :\n(ليوا – الدواسر – الحجاز - نجد – الحميض )\nجبال\nهضاب\nأودية\nواحات\nنبات طبيعي\nالحميض\nليوا\nالدواسر\nنجد\nالحجاز\nتم تحميل هذا الملف من\nموقـع المناهج الإماراتية\nalManahj.com/ae\nCAMBRIDGE\nInternational Examinations\nCambridge International School\nHPS",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm6__full__7ae0bd41__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T00:47:44.434+00:00",
+  "status": "PASS"
+}

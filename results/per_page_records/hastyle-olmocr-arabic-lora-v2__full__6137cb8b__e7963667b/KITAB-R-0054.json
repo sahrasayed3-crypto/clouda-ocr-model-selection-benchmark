@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T08:33:06.314+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1654
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.7781885397412199,
+    "cer_raw": 0.7783524196527521,
+    "wer_normalized": 0.9008746355685131,
+    "wer_raw": 0.9008746355685131
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: en\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n1- First Aid\n\n1- Move\n2- Airway\n3- Breathing\n4- Circulation\n5- Drugs\n6- Exposure\n7- Flousing of water\n\n2- Treatment of burn:\n- Minor\n- Major\n1. M&R (Resuscitation & Monitoring)\n2. Fluid therapy\n\n💀 Resuscitation (4 tubes):\n1. Two wide bore peripheral cannula\n2. Foley’s catheter\n3. Central line\n4. Nasogastric tube\n\n💀 Monitoring (4 values):\n1. Vital signs\n2. Urine output\n3. CVP\n4. Consciousness\n\n💀 Dressing of burn:\n- Open method\n- Occlusive method\n\n💀 Fluid therapy:\n1. Type of fluid ringer lactate or normal saline\n2. Amount (parkland formula)\n (4ml × body weight × percent of burn )+\n 2000 glucose 5%.\n3. Adequacy by monitoring\n\n3- Treatment of complications:\n1. Eschar\n2. Grafting\n3. Contracture\n\n---\n\n### 1- الإسعافات الأولية\n\n1. نقل\n2. مجرى الهواء\n3. التنفس\n4. الدوران\n5. الأدواء\n6. مكشوف\n7. رش بالمياه\n\n### 2- علاج الحروق:\n\n- صغير\n- كبير\n1. الانعاش والمراقبة\n2. العلاج بالسوائل (إعطاء محلول)\n\n🩸 لإنشاع (4 أنابيب):\n1. اثنين كانيولا واسعة تتحمل حفرة الطرفية\n2. قسطرة فولي\n3. الخط المركزي (يتم تركيبها في الرقبة)\n4. أنبوب انفي معدي\n\n🩸 المراقبة (4 قيم):\n1. علامات حيوية\n2. خروج البول\n3. الضغط الوريدي المركزي\n4. الوعي\n\n🩸 ضمامة للحرق:\n- بطريقة مفتوحة\n- بطريقة حصر (مغلقة)\n\n🩸 علاج السوائل:\n1. نوع من السائل إما محلول رينجر لاحتكات أو محلول ملح الطبيعي\n2. الكمية (تقدير كمية السائل البديلة)\n (4 مل × وزن الجسم × نسبة الحرق) + 2000 جلوكوز 5%\n3. الكفاية عن طريق الرصد\n\n### 3- علاج المضاعفات:\n\n1. معالجة الندبة (علامة الحرق بعد فترة كبيرة)\n2. التطعيم\n3. معالجة الانكماش (مثل انكماش الاصابع)\n\nThank you",
+  "page_id": "KITAB-R-0054",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: en\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n1- First Aid\n\n1- Move\n2- Airway\n3- Breathing\n4- Circulation\n5- Drugs\n6- Exposure\n7- Flousing of water\n\n2- Treatment of burn:\n- Minor\n- Major\n1. M&R (Resuscitation & Monitoring)\n2. Fluid therapy\n\n💀 Resuscitation (4 tubes):\n1. Two wide bore peripheral cannula\n2. Foley’s catheter\n3. Central line\n4. Nasogastric tube\n\n💀 Monitoring (4 values):\n1. Vital signs\n2. Urine output\n3. CVP\n4. Consciousness\n\n💀 Dressing of burn:\n- Open method\n- Occlusive method\n\n💀 Fluid therapy:\n1. Type of fluid ringer lactate or normal saline\n2. Amount (parkland formula)\n   (4ml × body weight × percent of burn )+\n   2000 glucose 5%.\n3. Adequacy by monitoring\n\n3- Treatment of complications:\n1. Eschar\n2. Grafting\n3. Contracture\n\n---\n\n### 1- الإسعافات الأولية\n\n1. نقل\n2. مجرى الهواء\n3. التنفس\n4. الدوران\n5. الأدواء\n6. مكشوف\n7. رش بالمياه\n\n### 2- علاج الحروق:\n\n- صغير\n- كبير\n1. الانعاش والمراقبة\n2. العلاج بالسوائل (إعطاء محلول)\n\n🩸 لإنشاع (4 أنابيب):\n1. اثنين كانيولا واسعة تتحمل حفرة الطرفية\n2. قسطرة فولي\n3. الخط المركزي (يتم تركيبها في الرقبة)\n4. أنبوب انفي معدي\n\n🩸 المراقبة (4 قيم):\n1. علامات حيوية\n2. خروج البول\n3. الضغط الوريدي المركزي\n4. الوعي\n\n🩸 ضمامة للحرق:\n- بطريقة مفتوحة\n- بطريقة حصر (مغلقة)\n\n🩸 علاج السوائل:\n1. نوع من السائل إما محلول رينجر لاحتكات أو محلول ملح الطبيعي\n2. الكمية (تقدير كمية السائل البديلة)\n   (4 مل × وزن الجسم × نسبة الحرق) + 2000 جلوكوز 5%\n3. الكفاية عن طريق الرصد\n\n### 3- علاج المضاعفات:\n\n1. معالجة الندبة (علامة الحرق بعد فترة كبيرة)\n2. التطعيم\n3. معالجة الانكماش (مثل انكماش الاصابع)\n\nThank you",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T08:32:16.602+00:00",
+  "status": "PASS"
+}

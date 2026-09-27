@@ -1,0 +1,5 @@
+Create a table with the following details, extracting the primary content from the original page. Extract all the text from this image, preserving the original reading order. We'll analyze the page, reconstruct it, and extract the text in order.
+
+We can see a table with the following structure: `Table Header` and `field` columns. We'll work through this page, reading it line by line, to extract all the text.
+
+1. **The Rtl-Calofy''**we convert's» workio.com'» ım®

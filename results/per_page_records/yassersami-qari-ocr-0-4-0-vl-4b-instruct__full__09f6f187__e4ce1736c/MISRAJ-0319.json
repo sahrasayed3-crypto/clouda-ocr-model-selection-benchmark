@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T14:38:46.154+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1241,
+    "width": 1754
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.5414165666266506,
+    "cer_raw": 0.6004162330905307,
+    "wer_normalized": 0.7107438016528925,
+    "wer_raw": 0.7107438016528925
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "Der Kongreß tanzt رقصات الكونفرس (بالألمانية: وبطولة جوانا مانز ورودولف براك وهاتيلور بولمان، يعتبر الفليم إعادة إنتاج لفيلم عام 1930 رقصات الكونفرس، تدور أحداث الفيلم حول قصة حب وقعت خلال مؤتمر فبينا عام 1814. الصنف الفني Wikidata كوميديا رومانسية - فيلم موسبيقي عدل القيمة على تاريخ الإنتاج 19 ديسمبر 1955 (1955-12-19) تاريخ الصدور Wikidata * 1955 عدل القيمة على مدة العرض 105 دقيقة اللغة الأصلية اللغة الألمانية البلد النمسا",
+  "page_id": "MISRAJ-0319",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "Der Kongreß tanzt رقصات الكونفرس (بالألمانية: وبطولة جوانا مانز ورودولف براك وهاتيلور بولمان، يعتبر الفليم إعادة إنتاج لفيلم عام 1930 رقصات الكونفرس، تدور أحداث الفيلم حول قصة حب وقعت خلال مؤتمر فبينا عام 1814. الصنف الفني Wikidata كوميديا رومانسية - فيلم موسبيقي عدل القيمة على تاريخ الإنتاج 19 ديسمبر 1955 (1955-12-19) تاريخ الصدور Wikidata * 1955 عدل القيمة على مدة العرض 105 دقيقة اللغة الأصلية اللغة الألمانية البلد النمسا",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T14:38:33.902+00:00",
+  "status": "PASS"
+}

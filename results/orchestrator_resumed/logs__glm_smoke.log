@@ -1,0 +1,5 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+run_id: sherif1313-arabic-glm-ocr-v2__smoke__089fb60a
+model:  sherif1313/Arabic-GLM-OCR-v2 @ 8c77ea85ff2b3ee29d5fb867ab2397e4418cf491
+prompt: Text Recognition:
+Loading weights:   0%|          | 0/510 [00:00<?, ?it/s]Loading weights:  10%|█         | 52/510 [00:00<00:00, 517.96it/s]Loading weights:  25%|██▍       | 126/510 [00:00<00:00, 648.07it/s]Loading weights:  52%|█████▏    | 267/510 [00:00<00:00, 990.54it/s]Loading weights:  85%|████████▌ | 435/510 [00:00<00:00, 1258.23it/s]Loading weights: 100%|██████████| 510/510 [00:00<00:00, 1116.09it/s]

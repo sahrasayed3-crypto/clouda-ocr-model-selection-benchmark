@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T03:35:16.462+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 875,
+    "width": 1241
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.13963963963963963,
+    "cer_raw": 0.14477611940298507,
+    "wer_normalized": 0.1574074074074074,
+    "wer_raw": 0.1574074074074074
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "FAQ for Samsung Watches to find more about how use google maps on your watch البطارية * نصائح لتمديد عمر بطارية ساعة Samsung الذكية الخاصة بك الأسئلة الشائعة للتعرف على نصائح حول لمساعدة بطارية على الاستمرار لفترة أطول * كيفية الاستخدام أوامر لوحة اللمس على سماعات الأذن الخاصة بك من سامسونج أسئلة شائعة عن أوامر لوحة اللمس على سماعات الأذن من سامسونج الخاصة بك. كيفية الاستخدام * ما العمل إذا كانت حافظة الشحن لا تغلق أثناء وجود سماعات Galaxy Buds داخلها؟ أسئلة شائعة عن كيفية إصلاح عدم إمكانية إغلاق حافظة الشحن * كيفية الاستخدام منع حرق الشاشة على ساعة سامسونج الذكية الخاصة بك",
+  "page_id": "MISRAJ-0330",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "FAQ for Samsung Watches to find more about how use google maps on your watch البطارية * نصائح لتمديد عمر بطارية ساعة Samsung الذكية الخاصة بك الأسئلة الشائعة للتعرف على نصائح حول لمساعدة بطارية على الاستمرار لفترة أطول * كيفية الاستخدام أوامر لوحة اللمس على سماعات الأذن الخاصة بك من سامسونج أسئلة شائعة عن أوامر لوحة اللمس على سماعات الأذن من سامسونج الخاصة بك. كيفية الاستخدام * ما العمل إذا كانت حافظة الشحن لا تغلق أثناء وجود سماعات Galaxy Buds داخلها؟ أسئلة شائعة عن كيفية إصلاح عدم إمكانية إغلاق حافظة الشحن * كيفية الاستخدام منع حرق الشاشة على ساعة سامسونج الذكية الخاصة بك",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T03:35:09.065+00:00",
+  "status": "PASS"
+}

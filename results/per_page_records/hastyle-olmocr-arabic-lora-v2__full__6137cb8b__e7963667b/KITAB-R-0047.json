@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T08:29:36.526+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2200,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.4358288770053476,
+    "cer_raw": 0.43351063829787234,
+    "wer_normalized": 0.41935483870967744,
+    "wer_raw": 0.41935483870967744
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n# تفسير ظاهرة المضاعف\n\n## زيادة الاستثمار بمقدار ١٠٠ وحدة نقدية → الإنفاق على شراء الآلات والمعدات ← زيادة دخول منتجي المعدات الرأسمالية فيزداد إنفاقهم الاستهلاكي فتزداد الدخول مرة أخرى في المجتمع\n\nتحدث دورات متتالية من زيادة الإنفاق والدخل ويعتمد ذلك على الميل الحدي للاستهلاك تصل الزيادة التراكمية في الدخل إلى ٥٠٠ وحدة\n\n↑ الإنفاق الاستهلاكي\n\n↑ الدخل",
+  "page_id": "KITAB-R-0047",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n# تفسير ظاهرة المضاعف\n\n## زيادة الاستثمار بمقدار ١٠٠ وحدة نقدية → الإنفاق على شراء الآلات والمعدات ← زيادة دخول منتجي المعدات الرأسمالية فيزداد إنفاقهم الاستهلاكي فتزداد الدخول مرة أخرى في المجتمع\n\nتحدث دورات متتالية من زيادة الإنفاق والدخل ويعتمد ذلك على الميل الحدي للاستهلاك تصل الزيادة التراكمية في الدخل إلى ٥٠٠ وحدة\n\n↑ الإنفاق الاستهلاكي\n\n↑ الدخل",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T08:29:21.679+00:00",
+  "status": "PASS"
+}

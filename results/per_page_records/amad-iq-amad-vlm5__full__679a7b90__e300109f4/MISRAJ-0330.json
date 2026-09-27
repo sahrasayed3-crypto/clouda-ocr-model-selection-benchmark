@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T04:28:29.320+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 875,
+    "width": 1241
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.25225225225225223,
+    "cer_raw": 0.25671641791044775,
+    "wer_normalized": 0.25,
+    "wer_raw": 0.25
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "FAQ for Samsung Watches to find more about\nhow use google maps on your watch\nنصائح لتمديد عمر بطارية ساعة\n* البطارية\nالذكية الخاصة بك\nSamsung\nلمساعدہ بطاربة\nGalaxy Watch\nالأسئلة الشائعة للتعرف على نصائح حول\nعلى الاستمرار لفترة أطول\nSmartwatch\n* كيفية الاستخدام\nأوامر لوحة اللمس على سماعات الأذن الخاصة بك من سامسونج\nأسئلة شائعة عن أوامر لوحة اللمس على سماعات الأذن من سامسونج الخاصة بك.\n* كيفية الاستخدام\nما العمل إذا كانت حافظة الشحن لا تغلق أثناء وجود سماعات\nداخلها؟\nGalaxy Buds\nأسئلة شائعة عن كيفية إصلاح عدم إمكانية إغلاق حافظة الشحن\n* كيفية الاستخدام\nمنع حرق الشاشة على ساعه سامسونج الذكية الخاصة بك\n11",
+  "page_id": "MISRAJ-0330",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "FAQ for Samsung Watches to find more about\nhow use google maps on your watch\nنصائح لتمديد عمر بطارية ساعة\n* البطارية\nالذكية الخاصة بك\nSamsung\nلمساعدہ بطاربة\nGalaxy Watch\nالأسئلة الشائعة للتعرف على نصائح حول\nعلى الاستمرار لفترة أطول\nSmartwatch\n* كيفية الاستخدام\nأوامر لوحة اللمس على سماعات الأذن الخاصة بك من سامسونج\nأسئلة شائعة عن أوامر لوحة اللمس على سماعات الأذن من سامسونج الخاصة بك.\n* كيفية الاستخدام\nما العمل إذا كانت حافظة الشحن لا تغلق أثناء وجود سماعات\nداخلها؟\nGalaxy Buds\nأسئلة شائعة عن كيفية إصلاح عدم إمكانية إغلاق حافظة الشحن\n* كيفية الاستخدام\nمنع حرق الشاشة على ساعه سامسونج الذكية الخاصة بك\n11",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T04:28:23.934+00:00",
+  "status": "PASS"
+}

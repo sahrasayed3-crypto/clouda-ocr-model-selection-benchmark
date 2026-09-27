@@ -1,0 +1,73 @@
+{
+  "run_id": "sherif1313-arabic-glm-ocr-v2__smoke__089fb60a",
+  "scope": "smoke",
+  "per_model": {
+    "model_id": "sherif1313/Arabic-GLM-OCR-v2",
+    "run_id": "sherif1313-arabic-glm-ocr-v2__smoke__089fb60a",
+    "run_state": "COMPLETE",
+    "total_pages": 5,
+    "successful_pages": 0,
+    "failed_pages": 5,
+    "failure_rate": 1,
+    "failure_breakdown": {
+      "FAIL": 5,
+      "INVALID_OUTPUT": 0,
+      "MODEL_LOAD_ERROR": 0,
+      "OOM": 0,
+      "TIMEOUT": 0
+    }
+  },
+  "failures": {
+    "total_failures": 5,
+    "by_status": {
+      "FAIL": [
+        "KITAB-R-0002",
+        "MISRAJ-0084",
+        "MISRAJ-0166",
+        "MISRAJ-0185",
+        "MISRAJ-0216"
+      ],
+      "OOM": [],
+      "TIMEOUT": [],
+      "MODEL_LOAD_ERROR": [],
+      "INVALID_OUTPUT": []
+    },
+    "details": [
+      {
+        "page_id": "KITAB-R-0002",
+        "status": "FAIL",
+        "exception_type": "FileNotFoundError",
+        "exception_message": "[Errno 2] No such file or directory: 'data/images/KITAB_pdf_to_markdown_reviewed/KITAB-R-0002.png'",
+        "retry_count": 0
+      },
+      {
+        "page_id": "MISRAJ-0084",
+        "status": "FAIL",
+        "exception_type": "FileNotFoundError",
+        "exception_message": "[Errno 2] No such file or directory: 'data/images/Misraj-DocOCR/MISRAJ-0084.png'",
+        "retry_count": 0
+      },
+      {
+        "page_id": "MISRAJ-0166",
+        "status": "FAIL",
+        "exception_type": "FileNotFoundError",
+        "exception_message": "[Errno 2] No such file or directory: 'data/images/Misraj-DocOCR/MISRAJ-0166.png'",
+        "retry_count": 0
+      },
+      {
+        "page_id": "MISRAJ-0185",
+        "status": "FAIL",
+        "exception_type": "FileNotFoundError",
+        "exception_message": "[Errno 2] No such file or directory: 'data/images/Misraj-DocOCR/MISRAJ-0185.png'",
+        "retry_count": 0
+      },
+      {
+        "page_id": "MISRAJ-0216",
+        "status": "FAIL",
+        "exception_type": "FileNotFoundError",
+        "exception_message": "[Errno 2] No such file or directory: 'data/images/Misraj-DocOCR/MISRAJ-0216.png'",
+        "retry_count": 0
+      }
+    ]
+  }
+}

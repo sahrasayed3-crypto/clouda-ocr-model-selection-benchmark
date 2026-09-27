@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T00:01:52.459+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1500,
+    "width": 2000
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.4218241042345277,
+    "cer_raw": 0.4274193548387097,
+    "wer_normalized": 0.5647058823529412,
+    "wer_raw": 0.5647058823529412
+  },
+  "model_id": "amad-iq/amad-vlm6",
+  "model_revision": "7daf90cd5e5706173e159c88ca4e6dc2475a485e",
+  "normalized_output": "الارتباط والانحدار الخطي البسيط & Correlation\nSimple Linear Regression\n• الجدول التالي يوضح أنواع الارتباط واتجاه العلاقة وشكل الانتشار لكل نوع\nقيمة معامل الارتباط\nالمعنى\n+1\nارتباط طردي تام\n0.99 إلى 0.70\nارتباط طردي قوي\n0.69 إلى 0.50\nارتباط طردي متوسط\n0.49 إلى 0.01\nارتباط طردي ضعيف\n0\nلا يوجد ارتباط\n• وما قيل عن الارتباط الطردي ينطبق على الارتباط العكسي مع عكس الاشارة",
+  "page_id": "KITAB-R-0027",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "الارتباط والانحدار الخطي البسيط & Correlation\nSimple Linear Regression\n• الجدول التالي يوضح أنواع الارتباط واتجاه العلاقة وشكل الانتشار لكل نوع\nقيمة معامل الارتباط\nالمعنى\n+1\nارتباط طردي تام\n0.99 إلى 0.70\nارتباط طردي قوي\n0.69 إلى 0.50\nارتباط طردي متوسط\n0.49 إلى 0.01\nارتباط طردي ضعيف\n0\nلا يوجد ارتباط\n• وما قيل عن الارتباط الطردي ينطبق على الارتباط العكسي مع عكس الاشارة",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm6__full__7ae0bd41__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T00:01:47.548+00:00",
+  "status": "PASS"
+}

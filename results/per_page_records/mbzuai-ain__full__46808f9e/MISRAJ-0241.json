@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T02:10:34.818+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 875,
+    "width": 1241
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.0972644376899696,
+    "cer_raw": 0.14201183431952663,
+    "wer_normalized": 0.22641509433962265,
+    "wer_raw": 0.22641509433962265
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "العام والظهور والأهداف حسب المنتخب\n المباريات في الدوري الأوروبي\n ١. ثلاث مباريات وهدفين في دوري أبطال أوروبا، مباراتين المباريات الدوري الأوروبي\n ٢. المباريات في دوري أبطال أوروبا\n ٣. المباريات في تصفيات دوري البطولة الإنجليزية\n ٤. المباراة في كأس السوبر الألماني\n العام والظهور والأهداف حسب المنتخب الوطني",
+  "page_id": "MISRAJ-0241",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "العام والظهور والأهداف حسب المنتخب\n\t\t\tالمباريات في الدوري الأوروبي\n\t\t\t\t١. ثلاث مباريات وهدفين في دوري أبطال أوروبا، مباراتين المباريات الدوري الأوروبي\n\t\t\t\t٢. المباريات في دوري أبطال أوروبا\n\t\t\t\t٣. المباريات في تصفيات دوري البطولة الإنجليزية\n\t\t\t\t٤. المباراة في كأس السوبر الألماني\n\t\t\tالعام والظهور والأهداف حسب المنتخب الوطني",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T02:10:30.093+00:00",
+  "status": "PASS"
+}

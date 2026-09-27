@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T13:08:01.885+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2100,
+    "width": 1275
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.2737226277372263,
+    "cer_raw": 0.2841726618705036,
+    "wer_normalized": 0.28846153846153844,
+    "wer_raw": 0.28846153846153844
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "1998 كانت سنه بسيطه فى التقويم الحيرجورى . 1 احداث 2 مناسبات وأعياد 3 مواليد 4 وفيات 5 جوايز نويل 6 مصادر كاس العالم لكورة القدم فى فرنسا 98 و كسبت به فرنسا فى النهائى على البرازيل بنتيجه 3 0 مناسبات وأعياد",
+  "page_id": "MISRAJ-0276",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "1998 كانت سنه بسيطه فى التقويم الحيرجورى . 1 احداث 2 مناسبات وأعياد 3 مواليد 4 وفيات 5 جوايز نويل 6 مصادر كاس العالم لكورة القدم فى فرنسا 98 و كسبت به فرنسا فى النهائى على البرازيل بنتيجه 3 0 مناسبات وأعياد",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T13:07:54.543+00:00",
+  "status": "PASS"
+}

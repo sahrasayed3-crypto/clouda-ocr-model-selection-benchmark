@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T08:30:51.504+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2200,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.4089775561097257,
+    "cer_raw": 0.4763681592039801,
+    "wer_normalized": 0.49056603773584906,
+    "wer_raw": 0.49056603773584906
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n# طريقة القيمة المضافة (تابع)\n\nمثال: بافتراض مجتمع صغير لديه 3 وحدات إنتاجية فقط. الجدول التالي يوضح الناتج المحتمل في كل وحدة خلال العام الماضي. ما قيمة الناتج المحلي بطريقة القيمة المضافة؟\n\n<table>\n <tr>\n <th>القيمة المضافة</th>\n <th>الوحدة الإنتاجية</th>\n <th>قيمة الإنتاج</th>\n </tr>\n <tr>\n <td>مزرعة القطن</td>\n <td></td>\n <td>١٠</td>\n </tr>\n <tr>\n <td>مصنع النسيج</td>\n <td></td>\n <td>٤٠</td>\n </tr>\n <tr>\n <td>مصنع الملابس</td>\n <td></td>\n <td>٨٠</td>\n </tr>\n <tr>\n <td>إجمالي</td>\n <td></td>\n <td>١٣٠</td>\n </tr>\n <tr>\n <td>١٣٠</td>\n <td></td>\n <td></td>\n </tr>\n</table>\n\nلحسب أولا القيمة المضافة في كل مرحلة ثم لحسب مجموع القيم المضافة من كافة المراحل. يلاحظ تطابق قيمة الناتج المحلي بطريقة الناتج النهائي مع قيمة الناتج المحلي بطريقة القيمة المضافة.\n\n١٣\ndrNabil.org\nأ.د. نبيل صلاح العربي",
+  "page_id": "KITAB-R-0050",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n# طريقة القيمة المضافة (تابع)\n\nمثال: بافتراض مجتمع صغير لديه 3 وحدات إنتاجية فقط. الجدول التالي يوضح الناتج المحتمل في كل وحدة خلال العام الماضي. ما قيمة الناتج المحلي بطريقة القيمة المضافة؟\n\n<table>\n  <tr>\n    <th>القيمة المضافة</th>\n    <th>الوحدة الإنتاجية</th>\n    <th>قيمة الإنتاج</th>\n  </tr>\n  <tr>\n    <td>مزرعة القطن</td>\n    <td></td>\n    <td>١٠</td>\n  </tr>\n  <tr>\n    <td>مصنع النسيج</td>\n    <td></td>\n    <td>٤٠</td>\n  </tr>\n  <tr>\n    <td>مصنع الملابس</td>\n    <td></td>\n    <td>٨٠</td>\n  </tr>\n  <tr>\n    <td>إجمالي</td>\n    <td></td>\n    <td>١٣٠</td>\n  </tr>\n  <tr>\n    <td>١٣٠</td>\n    <td></td>\n    <td></td>\n  </tr>\n</table>\n\nلحسب أولا القيمة المضافة في كل مرحلة ثم لحسب مجموع القيم المضافة من كافة المراحل. يلاحظ تطابق قيمة الناتج المحلي بطريقة الناتج النهائي مع قيمة الناتج المحلي بطريقة القيمة المضافة.\n\n١٣\ndrNabil.org\nأ.د. نبيل صلاح العربي",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T08:30:19.375+00:00",
+  "status": "PASS"
+}

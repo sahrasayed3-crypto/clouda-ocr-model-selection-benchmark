@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T03:15:42.996+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2373,
+    "width": 1671
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 1.51131221719457,
+    "cer_raw": 1.5045045045045045,
+    "wer_normalized": 2.3043478260869565,
+    "wer_raw": 2.3043478260869565
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "أوقاف\nالإدارة العامة للأوقاف\nGeneral Directorate of Endowments\nمحجوز\nReserved\nوزارة الثقافة والفنون والتعرف\nعلى النهج الدالى\nيغذي مراكز قطر بكل ما\nومر اتك على عل كل هام\nوالخطيب منارة للعالم\nالجمعية القطعية لتأهيل\nQatar society For Rehabilitation of Special Needs\nالجمعية القطرية لتأهيل\nQatar society\nFor Rehabilitation of Specia\n20\nالعدد الثالث عشر | محرم 1434هـ / نوفمبر 2012م\nأوقافنا",
+  "page_id": "MISRAJ-0139",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "أوقاف\nالإدارة العامة للأوقاف\nGeneral Directorate of Endowments\nمحجوز\nReserved\nوزارة الثقافة والفنون والتعرف\nعلى النهج الدالى\nيغذي مراكز قطر بكل ما\nومر اتك على عل كل هام\nوالخطيب منارة للعالم\nالجمعية القطعية لتأهيل\nQatar society For Rehabilitation of Special Needs\nالجمعية القطرية لتأهيل\nQatar society\nFor Rehabilitation of Specia\n20\nالعدد الثالث عشر | محرم 1434هـ / نوفمبر 2012م\nأوقافنا",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T03:15:38.414+00:00",
+  "status": "PASS"
+}

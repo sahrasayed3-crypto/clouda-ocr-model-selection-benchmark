@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T10:27:24.316+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1009,
+    "width": 715
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.13392857142857142,
+    "cer_raw": 0.13864306784660768,
+    "wer_normalized": 0.14285714285714285,
+    "wer_raw": 0.14285714285714285
+  },
+  "model_id": "AhmedZaky1/DIMI-Arabic-OCR-V2",
+  "model_revision": "8a7a293343fc91a6427a8c7a3ce69352870ea8a1",
+  "normalized_output": "حنيفة وأصحابه ، وأسقطها عبد الله بن عمر وجابر وعائشة وأسماء بنتا أبي بكر، ومالك وأحمد ، وكان الشافعي يقول بالإسقاط وهو بالعراق ، ثم عدل عنه بمصر . [الفقه على المذاهب الأربعة ص ٤٨٢ والفتاوى الإسلامية الجلد الخامس ص ١٧٧٩ والترغيب والترهيب للحافظ المنذري ج ١ ص ٦ – ٢١٨ وفقه السنة ج ١ ص ٣٤١ ، ٣٤٢ ] * * * ٦.",
+  "page_id": "MISRAJ-0053",
+  "prompt_hash": "1a01c6a2e324aea55bbe84b519f619bbd06bb6fc4e435e9f51f478712de22b7c",
+  "raw_output": "حنيفة وأصحابه ، وأسقطها عبد الله بن عمر وجابر وعائشة وأسماء بنتا أبي بكر، ومالك وأحمد ، وكان الشافعي يقول بالإسقاط وهو بالعراق ، ثم عدل عنه بمصر . [الفقه على المذاهب الأربعة ص ٤٨٢ والفتاوى الإسلامية الجلد الخامس ص ١٧٧٩ والترغيب والترهيب للحافظ المنذري ج ١ ص ٦ – ٢١٨ وفقه السنة ج ١ ص ٣٤١ ، ٣٤٢ ] * * * ٦.",
+  "retry_count": 0,
+  "run_id": "ahmedzaky1-dimi-arabic-ocr-v2__full__0b9cc407__e596d728a",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T10:27:10.811+00:00",
+  "status": "PASS"
+}

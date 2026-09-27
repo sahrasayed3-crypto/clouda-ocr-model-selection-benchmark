@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-23T21:54:17.651+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "c731166167f7b06c0a55abc0ea7a4407b86ac433bc70041d0b88a200554385c5",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2200,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 1.9119669876203575,
+    "cer_raw": 1.9094650205761317,
+    "wer_normalized": 1.0465116279069768,
+    "wer_raw": 1.0465116279069768
+  },
+  "model_id": "context212/alhazen-ocr",
+  "model_revision": "110b461e2389c97f68a1310370afeebb4a0b381f",
+  "normalized_output": "ال金 issues issues issues issues issues issues issues http://jsiifyى® issues BIOx.com issues issues issues http://biodev® cell生物® close close++ioy issues issues``jeei endeelif®」 playboty® issues issues``ioy issues issues``io issues``io cellUNE issues issues issues``io cellUNE issues issues``io issues``io issues friendsbotune issues issues``io issues``io issues``io issues``io issues``io issues friends BIO issues issues``io cellUNE issues some® close issues issues``io issues``io issues``io issues``io issues``io issues``iohttpاب® cell issues issues``io issues``io issues``io issues``io issues``io issues``io」有 issues BIO issues issues``io issues``io issues``io issues``io issues``io issues``io」有金 issues BIO issues issues issues issues``io issues issues``io issues issues``io issues issues``io issues生物 issues BIO issues issues``io issues issues``io issues生物 issues issues issues``io issues生物 issues BIO issues``io issues issues``io issues BIO issues 」有金 issues BIO issues issues``io issues issues``io issues issues``io issues BIOhttpاب issues BIOhttpاب issues someحلbot issues issues``io issues issues``io issues issues``io issues BIOhttpاب issues BIO issues issues``io issues issues``io issues BIOhttpバ® close issues issues``io issues issues``io issues BIOhttpاب issues issues``io issues issues``io issues BIOhttpバ® issues造 issues BIOhttpاب issues issues``io issues issues``io issues issues``io issues BIOhttpاب issues BIO issues someحل issues造 issues造.metUNE issues issues``io issues issues``io issues issues``io issues BIOhttpاب issues造 issues造 issues",
+  "page_id": "KITAB-R-0034",
+  "prompt_hash": "631994fea519ca7a7390c2788b906e643d420ba3564ff2190dded854cce1cdc5",
+  "raw_output": "ال金 issues issues issues issues issues issues issues http://jsiifyى® issues BIOx.com issues issues issues http://biodev® cell生物® close close++ioy issues issues``jeei endeelif®」 playboty® issues issues``ioy issues issues``io issues``io cellUNE issues issues issues``io cellUNE issues issues``io issues``io issues friendsbotune issues issues``io issues``io issues``io issues``io issues``io issues friends BIO issues issues``io cellUNE issues some® close issues issues``io issues``io issues``io issues``io issues``io issues``iohttpاب® cell issues issues``io issues``io issues``io issues``io issues``io issues``io」有 issues BIO issues issues``io issues``io issues``io issues``io issues``io issues``io」有金 issues BIO issues issues issues issues``io issues issues``io issues issues``io issues issues``io issues生物 issues BIO issues issues``io issues issues``io issues生物 issues  issues  issues``io issues生物 issues BIO issues``io issues issues``io issues BIO issues 」有金 issues BIO issues issues``io issues issues``io issues issues``io issues BIOhttpاب issues BIOhttpاب issues someحلbot issues issues``io issues issues``io issues issues``io issues BIOhttpاب issues BIO issues issues``io issues issues``io issues BIOhttpバ® close issues issues``io issues issues``io issues BIOhttpاب issues issues``io issues issues``io issues BIOhttpバ® issues造 issues BIOhttpاب issues issues``io issues issues``io issues issues``io issues BIOhttpاب issues BIO issues someحل issues造 issues造.metUNE issues issues``io issues issues``io issues issues``io issues BIOhttpاب issues造 issues造 issues",
+  "retry_count": 0,
+  "run_id": "context212-alhazen-ocr__full__532ac6c6__effa66a8b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-23T21:53:52.274+00:00",
+  "status": "PASS"
+}

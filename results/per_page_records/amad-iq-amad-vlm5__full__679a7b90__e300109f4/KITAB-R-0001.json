@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T02:17:37.410+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1653
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.1096938775510204,
+    "cer_raw": 0.11421319796954314,
+    "wer_normalized": 0.23214285714285715,
+    "wer_raw": 0.23214285714285715
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "وزارة التعليم العالي والبحث العلمي\nجامعة الشهيد حمه لخضر - الوادي\nكلية العلوم الاقتصادية والتجارية وعلوم التسيير\nجامعة الشهيد حمه لخضر – الوادي\nUniversité Echahid Hamma Lakhdar – El-Oued\nمطبوعة بعنوان:\nمحاضرات في مقياس تاريخ الفكر\nالاقتصادي\nمقدمة لطلبة سنة ثانية علوم اقتصادية شعبة العلوم الاقتصادية\nإعداد الدكتور: بالي حمزة\nالسنة الجامعية: 2021/2020",
+  "page_id": "KITAB-R-0001",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "وزارة التعليم العالي والبحث العلمي\nجامعة الشهيد حمه لخضر - الوادي\nكلية العلوم الاقتصادية والتجارية وعلوم التسيير\nجامعة الشهيد حمه لخضر – الوادي\nUniversité Echahid Hamma Lakhdar – El-Oued\nمطبوعة بعنوان:\nمحاضرات في مقياس تاريخ الفكر\nالاقتصادي\nمقدمة لطلبة سنة ثانية علوم اقتصادية شعبة العلوم الاقتصادية\nإعداد الدكتور: بالي حمزة\nالسنة الجامعية: 2021/2020",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T02:17:32.476+00:00",
+  "status": "PASS"
+}

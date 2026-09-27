@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T03:01:01.961+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1039,
+    "width": 692
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.12254901960784313,
+    "cer_raw": 0.12254901960784313,
+    "wer_normalized": 0.09375,
+    "wer_raw": 0.09375
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "البروفسور تشارلز إيتتش تاونز، المدير التنفيذي في قسم الفيزياء في جامعة\nكولومبيا، يشاهد واقفاً إلى جانب الساعة الذرية في قسم الفيزياء في الجامعة.\nتاريخ نشر الصورة: 25 كانون ثاني، 1955",
+  "page_id": "MISRAJ-0081",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "البروفسور تشارلز إيتتش تاونز، المدير التنفيذي في قسم الفيزياء في جامعة\nكولومبيا، يشاهد واقفاً إلى جانب الساعة الذرية في قسم الفيزياء في الجامعة.\nتاريخ نشر الصورة: 25 كانون ثاني، 1955",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T03:01:00.019+00:00",
+  "status": "PASS"
+}

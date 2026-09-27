@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T09:25:01.777+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1600,
+    "width": 1236
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.28330522765598654,
+    "cer_raw": 0.28330522765598654,
+    "wer_normalized": 0.3247863247863248,
+    "wer_raw": 0.3247863247863248
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n(١٥٨)\n\nالثاني :\n\nيجب عليه ، هذا الذي اختاره الشيخ النووي .\n\nالأدلة :\n\nاحتج أصحاب القول الأول بالآتي :\n\nفقالوا : لا يلزم الاستئجار ، لأن الماشى على خطر ، وفي بذل المال في\n\nأجرته تغريب به (١).\n\nواحتج أصحاب القول الثانى بالآتي :\n\nقالوا : يلزم الاستئجار ، لأنه لامشقة عليه فى المشى الذى تحمله\n\nالأجير (٢).\n\nالترجيح :\n\nبعد النظر فى حجة كل من القولين تبين أن الراجح هو ما اختاره\n\nالشيخ النووي ، لما سبق من أنه لامشقة عليه فى مشى الأجير .\n\nكما أن الأجير قد رضى بذلك مع علمه بالمشقة .\n\nوالله أعلم .\n\n(١) المرجع السابق .\n\n(٢) المجموع ، ج ٧ ، ص ٩٥ .",
+  "page_id": "MISRAJ-0026",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n(١٥٨)\n\nالثاني :\n\nيجب عليه ، هذا الذي اختاره الشيخ النووي .\n\nالأدلة :\n\nاحتج أصحاب القول الأول بالآتي :\n\nفقالوا : لا يلزم الاستئجار ، لأن الماشى على خطر ، وفي بذل المال في\n\nأجرته تغريب به (١).\n\nواحتج أصحاب القول الثانى بالآتي :\n\nقالوا : يلزم الاستئجار ، لأنه لامشقة عليه فى المشى الذى تحمله\n\nالأجير (٢).\n\nالترجيح :\n\nبعد النظر فى حجة كل من القولين تبين أن الراجح هو ما اختاره\n\nالشيخ النووي ، لما سبق من أنه لامشقة عليه فى مشى الأجير .\n\nكما أن الأجير قد رضى بذلك مع علمه بالمشقة .\n\nوالله أعلم .\n\n(١) المرجع السابق .\n\n(٢) المجموع ، ج ٧ ، ص ٩٥ .",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T09:24:42.933+00:00",
+  "status": "PASS"
+}

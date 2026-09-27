@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T03:21:15.150+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2126,
+    "width": 1572
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 1.5060893098782138,
+    "cer_raw": 1.4980026631158456,
+    "wer_normalized": 1.5775862068965518,
+    "wer_raw": 1.5775862068965518
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "محطة الفضاء الدولية:\n• محطة الفضاء الدولية كبيرة بحجم ملعب كرة قدم. معظم المساحة تشغله الألواح الشمسية\nوالتى هي طويلة جدًّا حوالي (110) متر.\n• المحطة تكمل دورة كاملة حول الأرض كل (90) دقيقة، لذا فان رواد الفضاء في المحطة يرون\n(16) شروق و غروب للشمس في اليوم الواحد.\n• تبلغ سرعة دوران المحطة (28,000) كم في الساعة.\n• وزن المحطة: (420,000) .Kg\n• بعد المحطة عن الأرض: (390) Km.\n• تم بناء محطة الفضاء الدولية سنة 1998م، بموجب تعاون دولي بقيادة الولايات المتحدة\nوجمهورية روسيا الاتحادية، وهم الشريكيين الرئيسيين، وبتمويل من كندا واليابان و(10) دول\nأوربية، وبلغت تكلفتها (100) مليار يورو.\n\nInternational Space Station (ISS).\nRussian modules:\nUS modules:\n1 Docking port\nUnity Module\n2 Docking- and cargo port\nQuasi Airlock\n3 Zarya Control Module\nHarmony Node\n4 Multi-purpose Laboratory Module\n5 Zvezda Service Module\nStructure\n6 Pirs Docking Port\nSolar Panels\nCanadian module:\nEuropean module:\n7 Canada-Canada-2,\nmobile servicing system\nJapanese modules:\nKibo Research Module\nKibo Outer Research\nPlatform\nCrew Sleep\nCompartment\nGaleye table\nAirflow vent\nWaste Management\nCompartment\nThis module was the first fully Russian\nmodule on the ISS. The module provided\nthe Station's early living quarters, electrical\ndocking system, and communication\nsystem. This module houses the size member\ncrew on its around 60 square meters.\nZvezda Service Module\nSmoke\ndetector\nCamera, Servicis\n* Vela Eupometer\nDocking\nport\n* Caution and Warning panel\nClock and Meters\n101\n150 orbits around Earth.\nIt orbits at an altitude of\napproximately 350 kilometers\nabove the surface of the\nEarth, traveling at an average\nspeed of 28,000 kilometers\nper hour, completing\n15.7 orbits per day.\nمتوق الطبع © مسقطلة لوزارة التربية والتعليم - دولة الإمارات العربية المتحدة\n143",
+  "page_id": "MISRAJ-0159",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "محطة الفضاء الدولية:\n• محطة الفضاء الدولية كبيرة بحجم ملعب كرة قدم. معظم المساحة تشغله الألواح الشمسية\nوالتى هي طويلة جدًّا حوالي (110) متر.\n• المحطة تكمل دورة كاملة حول الأرض كل (90) دقيقة، لذا فان رواد الفضاء في المحطة يرون\n(16) شروق و غروب للشمس في اليوم الواحد.\n• تبلغ سرعة دوران المحطة (28,000) كم في الساعة.\n• وزن المحطة: (420,000) .Kg\n• بعد المحطة عن الأرض: (390) Km.\n• تم بناء محطة الفضاء الدولية سنة 1998م، بموجب تعاون دولي بقيادة الولايات المتحدة\nوجمهورية روسيا الاتحادية، وهم الشريكيين الرئيسيين، وبتمويل من كندا واليابان و(10) دول\nأوربية، وبلغت تكلفتها (100) مليار يورو.\n\nInternational Space Station (ISS).\nRussian modules:\nUS modules:\n1 Docking port\nUnity Module\n2 Docking- and cargo port\nQuasi Airlock\n3 Zarya Control Module\nHarmony Node\n4 Multi-purpose Laboratory Module\n5 Zvezda Service Module\nStructure\n6 Pirs Docking Port\nSolar Panels\nCanadian module:\nEuropean module:\n7 Canada-Canada-2,\nmobile servicing system\nJapanese modules:\nKibo Research Module\nKibo Outer Research\nPlatform\nCrew Sleep\nCompartment\nGaleye table\nAirflow vent\nWaste Management\nCompartment\nThis module was the first fully Russian\nmodule on the ISS. The module provided\nthe Station's early living quarters, electrical\ndocking system, and communication\nsystem. This module houses the size member\ncrew on its around 60 square meters.\nZvezda Service Module\nSmoke\ndetector\nCamera, Servicis\n* Vela Eupometer\nDocking\nport\n* Caution and Warning panel\nClock and Meters\n101\n150 orbits around Earth.\nIt orbits at an altitude of\napproximately 350 kilometers\nabove the surface of the\nEarth, traveling at an average\nspeed of 28,000 kilometers\nper hour, completing\n15.7 orbits per day.\nمتوق الطبع © مسقطلة لوزارة التربية والتعليم - دولة الإمارات العربية المتحدة\n143",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T03:21:01.274+00:00",
+  "status": "PASS"
+}

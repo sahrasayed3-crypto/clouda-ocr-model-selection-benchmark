@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T03:18:28.634+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2200,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.5383104125736738,
+    "cer_raw": 0.5401174168297456,
+    "wer_normalized": 0.589041095890411,
+    "wer_raw": 0.589041095890411
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "Math - 12 Advanced - Term 3\nأوراق عمل الفصل الثالث - 24-2023 - مادة الرياضيات\nالشرح والحلول على موقع الأكاديمية\nhttps://www.manasra.academy\nQ158\nEvaluate\nأوجد\n∫\n√x²−4\nx²\ndx\n, x ≥ 2\nQ159\nEvaluate\nأوجد\n∫\n2\n√x²−4\ndx\n, x ≥ 2\nContact us at: +971 55 857 0980\nP a g e | 1 7 5\nتقریم واعداد الأستاذ: محمود مناصرة\nLearn more at: https://www.manasra.academy\nManasra Academy",
+  "page_id": "MISRAJ-0152",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "Math - 12 Advanced - Term 3\nأوراق عمل الفصل الثالث - 24-2023 - مادة الرياضيات\nالشرح والحلول على موقع الأكاديمية\nhttps://www.manasra.academy\nQ158\nEvaluate\nأوجد\n∫\n√x²−4\nx²\ndx\n, x ≥ 2\nQ159\nEvaluate\nأوجد\n∫\n2\n√x²−4\ndx\n, x ≥ 2\nContact us at: +971 55 857 0980\nP a g e | 1 7 5\nتقریم واعداد الأستاذ: محمود مناصرة\nLearn more at: https://www.manasra.academy\nManasra Academy",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T03:18:23.268+00:00",
+  "status": "PASS"
+}

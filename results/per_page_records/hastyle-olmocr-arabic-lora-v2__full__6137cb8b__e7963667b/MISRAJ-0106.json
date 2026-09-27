@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T10:47:55.209+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 3556,
+    "width": 2178
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.3308270676691729,
+    "cer_raw": 0.34268833087149186,
+    "wer_normalized": 0.4453125,
+    "wer_raw": 0.4453125
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nالعفتا، من قبائل عدنان، وقحطان\n\n١٤ - الحجاج: ومن مشايخهم متعب الحدب.\n\n١٥ - آل مهيدي: وكبيرهم محمد آل حسين الكويس.\n\n١٦ - آل زويل: وكبيرهم حزام الزويل وابنه جميل بن حزام.\n\n١٧ - آل غريب ومنهم:\n\nأ- آل شريف.\n\nب- آل حوافظ.\n\nج- آل عبد عمه.\n\nد- آل سبتي.\n\nهـ- آل عبيد.\n\nو- آل الخضيران.\n\nز- آل رومي ومنهم:\n\n(١) آل سالم.\n\n(٢) آل حليو.\n\n(٣) آل دده.\n\n(٤) آل خليف.\n\n(٥) الكبوش.\n\n(٦) آل غريباوي.\n\n١٨ - ومن الفضول:\n\n١ - الخلوف: يسكنون في محافظة ديالي.\n\n٢ - الحربات: ومنهم من يسكنون مع (زوبع) في ناحية أبي غريب.\n\n٣ - آل صرحة: يسكنون في بدده و جصان وزرباطية.\n\n٢٧٤",
+  "page_id": "MISRAJ-0106",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nالعفتا، من قبائل عدنان، وقحطان\n\n١٤ - الحجاج: ومن مشايخهم متعب الحدب.\n\n١٥ - آل مهيدي: وكبيرهم محمد آل حسين الكويس.\n\n١٦ - آل زويل: وكبيرهم حزام الزويل وابنه جميل بن حزام.\n\n١٧ - آل غريب ومنهم:\n\nأ- آل شريف.\n\nب- آل حوافظ.\n\nج- آل عبد عمه.\n\nد- آل سبتي.\n\nهـ- آل عبيد.\n\nو- آل الخضيران.\n\nز- آل رومي ومنهم:\n\n(١) آل سالم.\n\n(٢) آل حليو.\n\n(٣) آل دده.\n\n(٤) آل خليف.\n\n(٥) الكبوش.\n\n(٦) آل غريباوي.\n\n١٨ - ومن الفضول:\n\n١ - الخلوف: يسكنون في محافظة ديالي.\n\n٢ - الحربات: ومنهم من يسكنون مع (زوبع) في ناحية أبي غريب.\n\n٣ - آل صرحة: يسكنون في بدده و جصان وزرباطية.\n\n٢٧٤",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T10:47:24.428+00:00",
+  "status": "PASS"
+}

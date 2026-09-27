@@ -1,0 +1,33 @@
+model_id: tencent/HunyuanOCR
+pinned_revision: 47644ecc4fc854efa4f505155158831f36773ee4
+revision_resolved_on: "2026-09-19"
+checkpoint_layout: root = HunyuanOCR-1.5 target base weights; DFlash speculative draft under dflash/; HunyuanOCR-1.0 archived under v1.0/. Official benchmark uses the root 1.5 target weights WITHOUT speculative decoding.
+architecture: "HunYuanVLForConditionalGeneration (model_type hunyuan_vl; ~1B LLM: hidden 1024, 24 layers, context 128K)"
+base_model: null  # root checkpoint IS the base target model (not an adapter)
+processor_class: HunYuanVLProcessor
+tokenizer_class: PreTrainedTokenizerFast
+required_transformers_version: ">=5.15.0.dev0 (config.json transformers_version=5.15.0.dev0; hunyuan_vl support is very recent - confirm the installed release supports model_type hunyuan_vl, else use the official Tencent-Hunyuan/HunyuanOCR GitHub inference stack)"
+required_custom_code: false  # native model_type in recent transformers; verify at smoke test
+recommended_dtype: bfloat16
+recommended_attention_backend: UNRESOLVED (card mentions vLLM and llama.cpp deployments; flash-attention-2 typical for transformers - confirm at smoke test)
+image_input_format: PNG/RGB via HunYuanVLProcessor (max resolution extended to 4K in 1.5)
+documented_ocr_prompt: "提取文档图片中正文的所有信息用markdown格式表示，其中页眉、页脚部分忽略，表格用html格式表达，文档中公式用latex格式表示，按照阅读顺序组织进行解析。"
+documented_ocr_prompt_source: model card code example; equals the locked task-type `doc_parse` prompt from --list-tasks
+documented_ocr_prompt_translation: "Extract all body-text information from the document image in markdown; ignore header/footer; tables in HTML; formulas in LaTeX; preserve reading order."
+generation_parameters:
+  temperature: 0.0
+  top_p: 1.0
+  top_k: -1
+  repetition_penalty: 1.08
+  source: "model card: 'same task-type prompts + sampling (temperature=0.0, top_p=1.0, top_k=-1, repetition_penalty=1.08)'"
+special_stop_tokens: eos/eod per tokenizer config (verify at load)
+expected_output_type: markdown document parse (tables as HTML, formulas as LaTeX, reading order preserved)
+license: "Tencent Hunyuan Community License Agreement (card YAML license: other; LICENSE file saved under benchmark/models/meta/tencent__HunyuanOCR/LICENSE)"
+license_notes: "CUSTOM LICENSE - does NOT apply in EU, UK, South Korea (territorial restriction). Review before any commercial use."
+known_runtime_requirements: transformers with hunyuan_vl support OR official GitHub stack; vLLM/llama.cpp also documented; no GPU driver specials recorded
+estimated_vram_class: low (~4-8 GB bf16, ~1B-class VLM)
+notes: >
+  Official OCR task prompt is locked via --task-type; doc_parse selected for this benchmark
+  (full-page document parse). Root weights only for the official run; DFlash is an inference
+  acceleration that preserves output distribution but is excluded from the official
+  configuration to keep the timing comparison conservative.

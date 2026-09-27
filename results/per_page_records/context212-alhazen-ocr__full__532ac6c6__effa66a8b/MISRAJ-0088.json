@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T00:43:57.090+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "c731166167f7b06c0a55abc0ea7a4407b86ac433bc70041d0b88a200554385c5",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1800,
+    "width": 1152
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.9852164730728616,
+    "cer_raw": 0.9852164730728616,
+    "wer_normalized": 1.0858895705521472,
+    "wer_raw": 1.0858895705521472
+  },
+  "model_id": "context212/alhazen-ocr",
+  "model_revision": "110b461e2389c97f68a1310370afeebb4a0b381f",
+  "normalized_output": "Create a slide from a presentation about a computer network. We know the title is \"The Computer Network\" and we can see some details about it, such as the creation method, storage, and transmission technologies. We also find some original text in the slide, which we'll use to answer questions about the content. We'll work with this information to extract all the text from the image, preserving the original reading order. We'll go through the slide, extracting the text in order, and then convert it to a structured format. We'll extract all the text, preserving the original meaning and formatting, and then convert it to a readable format. We'll output it in ARth, working from top to bottom, left to right, in paragraphs, as we read it. We'll extract all the text, preserving the original reading order, and create a structured text. We'll output it in ARth, working from top to bottom, left to right, in paragraphs, as we read it. We'll extract all the text, preserving the original reading order, and create a structured text.\nweelturn®",
+  "page_id": "MISRAJ-0088",
+  "prompt_hash": "631994fea519ca7a7390c2788b906e643d420ba3564ff2190dded854cce1cdc5",
+  "raw_output": "Create a slide from a presentation about a computer network. We know the title is \"The Computer Network\" and we can see some details about it, such as the creation method, storage, and transmission technologies. We also find some original text in the slide, which we'll use to answer questions about the content. We'll work with this information to extract all the text from the image, preserving the original reading order. We'll go through the slide, extracting the text in order, and then convert it to a structured format. We'll extract all the text, preserving the original meaning and formatting, and then convert it to a readable format. We'll output it in ARth, working from top to bottom, left to right, in paragraphs, as we read it. We'll extract all the text, preserving the original reading order, and create a structured text. We'll output it in ARth, working from top to bottom, left to right, in paragraphs, as we read it. We'll extract all the text, preserving the original reading order, and create a structured text.\nweelturn®",
+  "retry_count": 0,
+  "run_id": "context212-alhazen-ocr__full__532ac6c6__effa66a8b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T00:43:37.874+00:00",
+  "status": "PASS"
+}

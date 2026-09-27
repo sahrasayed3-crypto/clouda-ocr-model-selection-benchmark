@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T08:20:30.505+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 3900,
+    "width": 2759
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.24,
+    "cer_raw": 0.24068965517241378,
+    "wer_normalized": 0.23728813559322035,
+    "wer_raw": 0.23728813559322035
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "Lesson 5 Science : The Scientific Method Look and read. انظر واقرأ. How many drops of water can you put on a pound coin ? كم عدد قطرات الماء التى يمكنك وضعها على جنبه معدنى ؟ Tools : water coin Steps : 1 Put a pound coin on your desk. Guess how many drops of water the coin holds. Write the number. ١. ضع الجنيه المعدنى على مكتبك. خمنّ عدد قطرات الماء التى ستتحملها العملة المعدنية. اكتب العدد. 2 Use your finger. Put drops of water on the coin. Count the drops. ٢. باستخدام إصبعك، ضع قطرات الماء على العملة المعدنية. عدّ القطرات. 3 When there's water on all the coin, stop. Write the number of drops. ٣. عندما تملأ المياه العملة المعدنية، توقف. اكتب عدد القطرات. 4 Dry the coin. Do the experiment again. Check your answer. ٤. جفف العملة المعدنية. قم بأداء التجربة مرة أخرى. اختر (تأكد) من إجابتك. Help your child to do the experiment to know how many drops of water, he/she can put on the pound coin. - ساعد طفلك أن يقوم بأداء التجربة ليعرف عدد القطرات من الماء التى يمكنه أن يضعها على العملة المعدنية. ٢٨٣ هذا العمل خاص بموقع دَاكرولى التعليمى ولا يسمح بتداوله على مواقع أخرى المعاصر موقع دَاكرولى التعليمى الصف الثالث الابتدائى",
+  "page_id": "MISRAJ-0131",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "Lesson 5 Science : The Scientific Method Look and read. انظر واقرأ. How many drops of water can you put on a pound coin ? كم عدد قطرات الماء التى يمكنك وضعها على جنبه معدنى ؟ Tools : water coin Steps : 1 Put a pound coin on your desk. Guess how many drops of water the coin holds. Write the number. ١. ضع الجنيه المعدنى على مكتبك. خمنّ عدد قطرات الماء التى ستتحملها العملة المعدنية. اكتب العدد. 2 Use your finger. Put drops of water on the coin. Count the drops. ٢. باستخدام إصبعك، ضع قطرات الماء على العملة المعدنية. عدّ القطرات. 3 When there's water on all the coin, stop. Write the number of drops. ٣. عندما تملأ المياه العملة المعدنية، توقف. اكتب عدد القطرات. 4 Dry the coin. Do the experiment again. Check your answer. ٤. جفف العملة المعدنية. قم بأداء التجربة مرة أخرى. اختر (تأكد) من إجابتك. Help your child to do the experiment to know how many drops of water, he/she can put on the pound coin. - ساعد طفلك أن يقوم بأداء التجربة ليعرف عدد القطرات من الماء التى يمكنه أن يضعها على العملة المعدنية. ٢٨٣ هذا العمل خاص بموقع دَاكرولى التعليمى ولا يسمح بتداوله على مواقع أخرى المعاصر موقع دَاكرولى التعليمى الصف الثالث الابتدائى",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T08:20:03.331+00:00",
+  "status": "PASS"
+}

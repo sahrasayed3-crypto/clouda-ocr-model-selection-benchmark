@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T06:23:47.226+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1654
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.3487964989059081,
+    "cer_raw": 0.3493659816353301,
+    "wer_normalized": 0.5772357723577236,
+    "wer_raw": 0.5772357723577236
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "- مع الضمائر الشخصية En / Y تعود إلى s مع الضمير في الأمر المثبت وتحذف عند النفي. Ex: Le poisson, manges - en beaucoup aller + inf. - زمن المستقبل القريب (المركب): ي تكون من تصريف فعل وكلماته الدالة عليه: prochain - Après - Bientot - Ce soir - Demain - Dans - زمن الماضي الحديث (القريب): ي تكون من تصريف فعل وكلماته الدالة عليه: ftrre زمنية قصيرة + a y il - زمن الماضي المركب: ي تكون من تصريف فعلي etre / avoir + participe passé وكلماته الدالة عليه: (e) dernier - (e) passé - Ce matin - Il y a - Hier - جميع أفعال المساعد être يتبعها حرف جر وتأخذ تبعية حسب الفاعل (es - s - e) - أما المساعد avoir يأخذ تبعية حسب المفعول في الحالات الانتية فقط: أدوات الاستفهام Quelles - Quels - Quelle - Quel - Combien de لابد أن تأتي قبل الفاعل والضمائر الشخصية vous - nous - les - l' - la - le و(ضمير الوصل Que للإطلاع) - مع الضمير On نأخذ تبعية (es - s) حسب المعنى إذا كان جمع مذكر أو جمع مؤنث. - الضمائر الشخصية للمفعول: أولا: المفعول المباشر (غير مسبوق بحرف جر) (me - te - nous - vous) (les - l' - la - le) تحل محل مفعول مسبوق بأداة معرفة - صفة إشارة - صفة ملكية - وأهم الأفعال: passer - lancer - encourager - preparer - voir - visiter - aider - aimer (en) مسبوق بأداة نكرة - تجزئة - عدد - ظرف كمية - de ويعني (منه - عنه) وأهم أفعاله: (venir - boire - manger - prendre - vouloir - acheter - mettre) ثانيا: المفعول الغير مباشر (مسبوق بحرف جر) (leur - lui) تحل محل مفعول غير مباشر عاقل ويعني (إليه - إليها - إليهم) وأهم أفعاله: (parler - écrire - prêter - envoyer - téléphoner - donner - offrir) - لا تنسى جميع الحيوانات تأخذ (leur - lui) مع فعل donner. (y) يحل محل مفعول غير عاقل / مكان مسبوق بأي حرف جر عدا de يأخذ en وأهم أفعاله: (travailler - assister - arriver - participer - vivre - habiter - descendre - aller) - أما حروف الجر الثابتة (..... de / sans / pour / avec / chez) يأتي بعدها: (elles - eux - vous - nous - elle - lui - toi - moi) - يغير - يستبدل العملة changer + de / d' - هذه الجمل تعتبر عن الزام وإجبار (obligation) (يلزم) الإسم Il faut + المصدر (يجب) & Il faut + فعل ف المصدر (يجب) + devoir - للمقارنة: plus....que / moins....que / aussi/autant....que Mieux ... que / Pire .... que Prof. Ahmed Elsoghier 01228762033 / 01061319140",
+  "page_id": "KITAB-R-0060",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "- مع الضمائر الشخصية En / Y تعود إلى s مع الضمير في الأمر المثبت وتحذف عند النفي. Ex: Le poisson, manges - en beaucoup aller + inf. - زمن المستقبل القريب (المركب): ي تكون من تصريف فعل وكلماته الدالة عليه: prochain - Après - Bientot - Ce soir - Demain - Dans - زمن الماضي الحديث (القريب): ي تكون من تصريف فعل وكلماته الدالة عليه: ftrre زمنية قصيرة + a y il - زمن الماضي المركب: ي تكون من تصريف فعلي etre / avoir + participe passé وكلماته الدالة عليه: (e) dernier - (e) passé - Ce matin - Il y a - Hier - جميع أفعال المساعد être يتبعها حرف جر وتأخذ تبعية حسب الفاعل (es - s - e) - أما المساعد avoir يأخذ تبعية حسب المفعول في الحالات الانتية فقط: أدوات الاستفهام Quelles - Quels - Quelle - Quel - Combien de لابد أن تأتي قبل الفاعل والضمائر الشخصية vous - nous - les - l' - la - le و(ضمير الوصل Que للإطلاع) - مع الضمير On نأخذ تبعية (es - s) حسب المعنى إذا كان جمع مذكر أو جمع مؤنث. - الضمائر الشخصية للمفعول: أولا: المفعول المباشر (غير مسبوق بحرف جر) (me - te - nous - vous) (les - l' - la - le) تحل محل مفعول مسبوق بأداة معرفة - صفة إشارة - صفة ملكية - وأهم الأفعال: passer - lancer - encourager - preparer - voir - visiter - aider - aimer (en) مسبوق بأداة نكرة - تجزئة - عدد - ظرف كمية - de ويعني (منه - عنه) وأهم أفعاله: (venir - boire - manger - prendre - vouloir - acheter - mettre) ثانيا: المفعول الغير مباشر (مسبوق بحرف جر) (leur - lui) تحل محل مفعول غير مباشر عاقل ويعني (إليه - إليها - إليهم) وأهم أفعاله: (parler - écrire - prêter - envoyer - téléphoner - donner - offrir) - لا تنسى جميع الحيوانات تأخذ (leur - lui) مع فعل donner. (y) يحل محل مفعول غير عاقل / مكان مسبوق بأي حرف جر عدا de يأخذ en وأهم أفعاله: (travailler - assister - arriver - participer - vivre - habiter - descendre - aller) - أما حروف الجر الثابتة (..... de / sans / pour / avec / chez) يأتي بعدها: (elles - eux - vous - nous - elle - lui - toi - moi) - يغير - يستبدل العملة changer + de / d' - هذه الجمل تعتبر عن الزام وإجبار (obligation) (يلزم) الإسم Il faut + المصدر (يجب) & Il faut + فعل ف المصدر (يجب) + devoir - للمقارنة: plus....que / moins....que / aussi/autant....que Mieux ... que / Pire .... que Prof. Ahmed Elsoghier 01228762033 / 01061319140",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T06:22:56.067+00:00",
+  "status": "PASS"
+}

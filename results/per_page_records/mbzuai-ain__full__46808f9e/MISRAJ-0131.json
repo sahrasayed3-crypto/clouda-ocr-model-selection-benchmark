@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T00:45:39.631+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 3900,
+    "width": 2759
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.7972413793103448,
+    "cer_raw": 0.8082758620689655,
+    "wer_normalized": 0.8220338983050848,
+    "wer_raw": 0.8220338983050848
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "Connect\n Science: The Scientific Method\n • How many drops of water can you put on a pound coin?\n انظر واقرأ.\n • كم عدد قطرات الماء التي يمكنك وضعها على جنيه معدني؟\n Tools:\n 1.\n 2.\n 3.\n 4.\n Help your child to do the experiment to know how many drops of water, he/she can\n put on the pound coin.\n مَعَاصر\n الصف الثالث الابتدائي",
+  "page_id": "MISRAJ-0131",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "Connect\n\t\t\t\t\tScience: The Scientific Method\n\t\t•\tHow many drops of water can you put on a pound coin?\n\t\t\t انظر واقرأ.\n\t\t•\tكم عدد قطرات الماء التي يمكنك وضعها على جنيه معدني؟\n\t\t\tTools:\n\t\t1.\n\t\t\t2.\n\t\t\t\t3.\n\t\t\t\t\t4.\n\t\t\t\t\t\tHelp your child to do the experiment to know how many drops of water, he/she can\n\t\tput on the pound coin.\n\t\t\tمَعَاصر\n\t\t\t\t\tالصف الثالث الابتدائي",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T00:45:30.964+00:00",
+  "status": "PASS"
+}

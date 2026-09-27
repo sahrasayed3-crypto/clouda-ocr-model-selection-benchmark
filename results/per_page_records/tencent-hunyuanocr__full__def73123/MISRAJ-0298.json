@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-19T22:55:50.143+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "d91de23a12429d2f406f5d90fb243b53851241d203ac77544ed263a17d33fc96",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1241,
+    "width": 1754
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.5715028601144045,
+    "cer_raw": 0.5620381174640218,
+    "wer_normalized": 0.9893238434163701,
+    "wer_raw": 0.9893238434163701
+  },
+  "model_id": "tencent/HunyuanOCR",
+  "model_revision": "47644ecc4fc854efa4f505155158831f36773ee4",
+  "normalized_output": "<table><tr><td>9</td><td>مخيم الغوار</td><td>2</td><td>2</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>المجموع</td><td></td><td>70</td><td>5</td><td>11</td><td>39</td><td>3</td><td>12</td></tr></table>\n\n<table><tr><td>الرقم</td><td>البلدة / المخيم</td><td>إجمالي الاغلاقات</td><td>نوع الإغلاق</td><td>مكعبات إسمنية</td><td>برج مراقبة</td><td>سدة ترابية</td><td>0</td><td>2</td></tr><tr><td>حاجز عسكري</td><td>بوابة حديدية</td><td>4</td><td>1</td><td>1</td><td>0</td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td>1</td><td>مخيم العروب</td><td>4</td><td>1</td><td>1</td><td>0</td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td>2</td><td>بلدة دورا</td><td>25</td><td>3</td><td>21</td><td>1</td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td>3</td><td>بلدة بيت أمر</td><td>8</td><td>1</td><td>5</td><td>1</td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td>4</td><td>بلدة سعير</td><td>3</td><td>2</td><td>0</td><td>1</td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td>4</td><td>بلدة السموع</td><td>1</td><td>1</td><td></td><td></td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td>5</td><td>بلدة حلحول</td><td>10</td><td>2</td><td>3</td><td>5</td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td>6</td><td>بلدة بني نعيم</td><td>3</td><td>3</td><td></td><td></td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td>7</td><td>بلدة يطا</td><td>3</td><td>1</td><td>2</td><td></td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td>8</td><td>مدينة الخليل</td><td>11</td><td>2</td><td>3</td><td>2</td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr></table>",
+  "page_id": "MISRAJ-0298",
+  "prompt_hash": "16f15a15a1eb51817cd30c2dbf607e77a9f67eec41448526aab5aeb87f2311d4",
+  "raw_output": "<table><tr><td>9</td><td>مخيم الغوار</td><td>2</td><td>2</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>المجموع</td><td></td><td>70</td><td>5</td><td>11</td><td>39</td><td>3</td><td>12</td></tr></table>\n\n<table><tr><td>الرقم</td><td>البلدة / المخيم</td><td>إجمالي الاغلاقات</td><td>نوع الإغلاق</td><td>مكعبات إسمنية</td><td>برج مراقبة</td><td>سدة ترابية</td><td>0</td><td>2</td></tr><tr><td>حاجز عسكري</td><td>بوابة حديدية</td><td>4</td><td>1</td><td>1</td><td>0</td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td>1</td><td>مخيم العروب</td><td>4</td><td>1</td><td>1</td><td>0</td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td>2</td><td>بلدة دورا</td><td>25</td><td>3</td><td>21</td><td>1</td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td>3</td><td>بلدة بيت أمر</td><td>8</td><td>1</td><td>5</td><td>1</td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td>4</td><td>بلدة سعير</td><td>3</td><td>2</td><td>0</td><td>1</td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td>4</td><td>بلدة السموع</td><td>1</td><td>1</td><td></td><td></td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td>5</td><td>بلدة حلحول</td><td>10</td><td>2</td><td>3</td><td>5</td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td>6</td><td>بلدة بني نعيم</td><td>3</td><td>3</td><td></td><td></td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td>7</td><td>بلدة يطا</td><td>3</td><td>1</td><td>2</td><td></td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td>8</td><td>مدينة الخليل</td><td>11</td><td>2</td><td>3</td><td>2</td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>25</td><td>3</td><td>21</td><td>1</td><td>1</td><td>8</td><td>1</td><td>3</td></tr></table>",
+  "retry_count": 0,
+  "run_id": "tencent-hunyuanocr__full__def73123",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-19T22:55:23.395+00:00",
+  "status": "PASS"
+}

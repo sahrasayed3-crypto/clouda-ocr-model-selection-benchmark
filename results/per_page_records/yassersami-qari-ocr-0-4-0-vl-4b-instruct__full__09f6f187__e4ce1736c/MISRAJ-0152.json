@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T08:55:58.506+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2200,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.6620825147347741,
+    "cer_raw": 0.6634050880626223,
+    "wer_normalized": 0.726027397260274,
+    "wer_raw": 0.726027397260274
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "Math - 12 Advanced - Term 3 الشرح والحلول على موقع الأكاديمية https://www.manasra.academy أوراق عمل الفصل الثالث - 2023-24 - مادة الرياضيات Q158 Evaluate أوجد ∫ (√(x² - 4) / x²) dx , x ≥ 2 Q159 Evaluate أوجد ∫ (2 / √(x² - 4)) dx , x ≥ 2 Contact us at: +971 55 857 0980 Learn more at: https://www.manasra.academy تقدم واعداد الأستاذ: محمود مناصرة",
+  "page_id": "MISRAJ-0152",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "Math - 12 Advanced - Term 3 الشرح والحلول على موقع الأكاديمية https://www.manasra.academy أوراق عمل الفصل الثالث - 2023-24 - مادة الرياضيات Q158 Evaluate  أوجد  ∫ (√(x² - 4) / x²) dx , x ≥ 2 Q159 Evaluate  أوجد  ∫ (2 / √(x² - 4)) dx , x ≥ 2 Contact us at: +971 55 857 0980 Learn more at: https://www.manasra.academy تقدم واعداد الأستاذ: محمود مناصرة",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T08:55:47.605+00:00",
+  "status": "PASS"
+}

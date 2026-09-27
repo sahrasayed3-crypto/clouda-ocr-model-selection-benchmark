@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T03:07:26.190+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1837,
+    "width": 3000
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.6033333333333334,
+    "cer_raw": 0.6033333333333334,
+    "wer_normalized": 0.5,
+    "wer_raw": 0.5
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "You might find your best\nfriend right in\nyour own family!\nBest friends are people who like us very much\nand treat us nicely. They laugh when we are funny.\nThey like to see us do well. They try never to hurt us.\nWho is your\nbest friend?\n23\n22",
+  "page_id": "MISRAJ-0109",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "You might find your best\nfriend right in\nyour own family!\nBest friends are people who like us very much\nand treat us nicely. They laugh when we are funny.\nThey like to see us do well. They try never to hurt us.\nWho is your\nbest friend?\n23\n22",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T03:07:22.860+00:00",
+  "status": "PASS"
+}

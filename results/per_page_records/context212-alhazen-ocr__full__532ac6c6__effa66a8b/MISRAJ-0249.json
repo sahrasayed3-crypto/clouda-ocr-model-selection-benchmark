@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T05:27:20.918+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "c731166167f7b06c0a55abc0ea7a4407b86ac433bc70041d0b88a200554385c5",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2100,
+    "width": 1275
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.997907949790795,
+    "cer_raw": 0.9979238754325259,
+    "wer_normalized": 1,
+    "wer_raw": 1
+  },
+  "model_id": "context212/alhazen-ocr",
+  "model_revision": "110b461e2389c97f68a1310370afeebb4a0b381f",
+  "normalized_output": "Locator.com®®",
+  "page_id": "MISRAJ-0249",
+  "prompt_hash": "631994fea519ca7a7390c2788b906e643d420ba3564ff2190dded854cce1cdc5",
+  "raw_output": "Locator.com®®",
+  "retry_count": 0,
+  "run_id": "context212-alhazen-ocr__full__532ac6c6__effa66a8b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T05:27:20.400+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,25 @@
+model_id: MBZUAI/AIN
+pinned_revision: 20fc39f8c3cf97afea0ee8e47f43702239edb70d
+revision_resolved_on: "2026-09-19"
+architecture: Qwen2VLForConditionalGeneration-family Arabic/English bilingual VLM (AIN-7B; processor Qwen2VLProcessor)
+base_model: qwen2-VL-7B (per card metadata)
+processor_class: Qwen2VLProcessor
+tokenizer_class: Qwen2Tokenizer
+required_transformers_version: ">=4.46.1 (config transformers_version=4.46.1)"
+required_custom_code: false
+recommended_dtype: bfloat16
+recommended_attention_backend: default (flash-attention-2 optional)
+image_input_format: image via chat template content part (multi-image supported)
+documented_ocr_prompt: "UNRESOLVED"
+documented_ocr_prompt_source: "model card documents general VLM usage examples (image captioning/description e.g. 'Describe this image in Arabic.') but NO dedicated OCR invocation. RESOLUTION ATTEMPTED 2026-09-19 (GPU phase): (1) full HF model card re-read - no OCR prompt; (2) official GitHub repo mbzuai-oryx/AIN listed in full - 33 files, no evaluation/inference code, assets only; (3) CAMEL-Bench repo mbzuai-oryx/Camel-Bench (the benchmark behind the card's OCR claims) scripts inspected - scoring utilities only, no model prompts. Official OCR prompt does not exist in any official channel. Per benchmark prompt rule no prompt is invented; an explicit prompt-configuration decision by the benchmark owner is required before any official run."
+generation_parameters:
+  source: "not documented on card for OCR"
+special_stop_tokens: standard Qwen eos
+expected_output_type: UNRESOLVED for OCR (general image-text-to-text)
+license: mit
+license_notes: card YAML license field
+known_runtime_requirements: none recorded beyond transformers
+estimated_vram_class: medium-high (~16-20 GB bf16, 7B) - TREATED AS THE HEAVIER SEPARATE CASE per protocol; do NOT assume L40S sufficiency; measure actual peak VRAM in the 5-page smoke test before selecting hardware
+notes: >
+  General bilingual VLM rather than OCR specialist; include only via its documented OCR
+  invocation once resolved. 35% authentic Arabic data within its Arabic subset (card).

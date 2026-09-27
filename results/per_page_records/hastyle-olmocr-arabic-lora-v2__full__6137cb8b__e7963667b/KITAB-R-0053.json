@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T08:32:15.646+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1654
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.553386211104332,
+    "cer_raw": 0.5563380281690141,
+    "wer_normalized": 0.7086614173228346,
+    "wer_raw": 0.7086614173228346
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: en\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nBurn lecture 3\n\nDefinition:\n- Coagulative necrosis of tissues due to physical or chemical agents.\n\nEtiology:\n1. Physical:\n A. Thermal\n 1. Direct: flame\n 2. Indirect: scald\n B. Electrical\n C. Radiation\n2. Chemical:\n A. Alkalis\n B. Acids\n\nN.B. cold burn\n\nClassification of burn:\nA. According to extent\n - Minor: < 10%\n - Intermediate: 10 – 30%\n - Major: > 30%\n\nB. According to depth\n - First degree: epidermis only\n - Second degree: epidermis part of dermis\n - Third degree: all skin\n\nHow does burn harm the body?\n1. Increased Capillary permeability\n2. Evaporation of water → severe dehydration\n\nComplications:\nA. Systemic:\n1. Respiratory:\n - Asphyxia, laryngospasm, bronchospasm, type 2 Respiratory failure\n2. C.V.S.\n - Shock hypovolemic\n\nThe definition:\n- Nerve (nerve) (death) for the tissue due to physical or chemical agents.\n- The cause:\n 1. Physical – physiological:\n a. Heat\n 1. Direct: flame\n 2. Indirect: scald\n b. Electrical\n c. Radiation\n 2. Chemical:\n a. Alkalis\n b. Acids\n\nN.B. cold burn\n\nClassification of burn:\nA. According to extent\n - Minor: < 10%\n - Intermediate: 10 – 30%\n - Major: > 30%\n\nB. According to depth\n - First degree: epidermis only\n - Second degree: epidermis part of dermis\n - Third degree: all skin\n\nHow does burn harm the body?\n1. Increased Capillary permeability\n2. Evaporation of water → severe dehydration\n\nComplications:\nA. Systemic:\n1. Respiratory:\n - Asphyxia, laryngospasm, bronchospasm, type 2 Respiratory failure\n2. C.V.S.\n - Shock hypovolemic",
+  "page_id": "KITAB-R-0053",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: en\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nBurn lecture 3\n\nDefinition:\n- Coagulative necrosis of tissues due to physical or chemical agents.\n\nEtiology:\n1. Physical:\n   A. Thermal\n      1. Direct: flame\n      2. Indirect: scald\n   B. Electrical\n   C. Radiation\n2. Chemical:\n   A. Alkalis\n   B. Acids\n\nN.B. cold burn\n\nClassification of burn:\nA. According to extent\n   - Minor: < 10%\n   - Intermediate: 10 – 30%\n   - Major: > 30%\n\nB. According to depth\n   - First degree: epidermis only\n   - Second degree: epidermis part of dermis\n   - Third degree: all skin\n\nHow does burn harm the body?\n1. Increased Capillary permeability\n2. Evaporation of water → severe dehydration\n\nComplications:\nA. Systemic:\n1. Respiratory:\n   - Asphyxia, laryngospasm, bronchospasm, type 2 Respiratory failure\n2. C.V.S.\n   - Shock hypovolemic\n\nThe definition:\n- Nerve (nerve) (death) for the tissue due to physical or chemical agents.\n- The cause:\n  1. Physical – physiological:\n     a. Heat\n        1. Direct: flame\n        2. Indirect: scald\n     b. Electrical\n     c. Radiation\n  2. Chemical:\n     a. Alkalis\n     b. Acids\n\nN.B. cold burn\n\nClassification of burn:\nA. According to extent\n   - Minor: < 10%\n   - Intermediate: 10 – 30%\n   - Major: > 30%\n\nB. According to depth\n   - First degree: epidermis only\n   - Second degree: epidermis part of dermis\n   - Third degree: all skin\n\nHow does burn harm the body?\n1. Increased Capillary permeability\n2. Evaporation of water → severe dehydration\n\nComplications:\nA. Systemic:\n1. Respiratory:\n   - Asphyxia, laryngospasm, bronchospasm, type 2 Respiratory failure\n2. C.V.S.\n   - Shock hypovolemic",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T08:31:35.400+00:00",
+  "status": "PASS"
+}

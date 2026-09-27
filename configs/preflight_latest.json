@@ -1,0 +1,85 @@
+{
+  "overall": "PASS",
+  "checks": [
+    {
+      "check": "462-page manifest complete",
+      "status": "PASS",
+      "detail": "total=462 problems=[]"
+    },
+    {
+      "check": "dataset hashes valid",
+      "status": "PASS",
+      "detail": "warnings=['MISRAJ-0109: no Arabic characters in ground truth']"
+    },
+    {
+      "check": "manifest sha256 recorded",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "ground truth readable",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "model registry complete",
+      "status": "PASS",
+      "detail": "entries=10 problems=[]"
+    },
+    {
+      "check": "model revisions recorded",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "documented prompts available or explicitly unresolved",
+      "status": "PASS",
+      "detail": "UNRESOLVED for: MBZUAI/AIN, hastyle/olmOCR-arabic-lora-v2"
+    },
+    {
+      "check": "adapter/config modules import",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "output directories writable",
+      "status": "PASS",
+      "detail": "outputs/, dry_runs/, configs/"
+    },
+    {
+      "check": "manifest loads for scheduling",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "fixed smoke set frozen",
+      "status": "PASS",
+      "detail": "smoke=['MISRAJ-0166', 'KITAB-R-0002', 'MISRAJ-0084', 'MISRAJ-0216', 'MISRAJ-0185']"
+    },
+    {
+      "check": "resume state healthy (dry-run namespace)",
+      "status": "PASS",
+      "detail": "0 dry-run state files, all is_dry_run=true"
+    },
+    {
+      "check": "metrics tests pass",
+      "status": "PASS",
+      "detail": "16 passed in 0.03s"
+    },
+    {
+      "check": "dry-run namespace isolated",
+      "status": "PASS",
+      "detail": "no DRYRUN__ artifacts under outputs/"
+    },
+    {
+      "check": "no large model weights required",
+      "status": "PASS",
+      "detail": "none present"
+    },
+    {
+      "check": "GPU absence acceptable in preparation mode",
+      "status": "PASS",
+      "detail": "torch not installed - fine for CPU preparation phase"
+    }
+  ]
+}

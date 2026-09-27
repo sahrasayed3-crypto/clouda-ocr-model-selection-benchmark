@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T04:45:34.947+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1241,
+    "width": 875
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.12942779291553133,
+    "cer_raw": 0.13297150610583447,
+    "wer_normalized": 0.19298245614035087,
+    "wer_raw": 0.19298245614035087
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "الأسئلة الشائعة حول أجهزة Samsung المحمولة. تعرف\nعلى المزيد حول كيفية النحقق من بطاقة SIM عند عدم إتاحة\nالمكالمات الهاتفية والبيانات الخلوية مع\nSupport\n* النسخ الاحتياطي والاسترداد\nكيفية نقل البيانات ونسخها احتياطياً باستخدام\nGalaxy Smart Switch على هاتف\nالأسئلة الشائعة لأجهزة Samsung المحمولة. تعرف على\nالمزيد حول كيفية نقل البيانات ونسخها احتياطياً باستخدام\nGalaxy Smart Switch على هاتف\nSamsung Support دعم\nكيفية الاستخدام\nهل سيعمل NFC بالجهاز إذا كان مزوداً بغطاء\nLED\nالأسئلة الشائعة حول أجهزة Samsung المحمولة. اكتشف\nالمزيد حول هل سيعمل الجهاز NFC إذا كان مزوداً بغطاء\nSamsung Support LED مع\nكيفية الاستخدام\nكيفية استكشاف أخطاء ميكروفون هاتف Galaxy وإصلاحها عندما لا يتعرف على الصوت جيداً",
+  "page_id": "MISRAJ-0379",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "الأسئلة الشائعة حول أجهزة Samsung المحمولة. تعرف\nعلى المزيد حول كيفية النحقق من بطاقة SIM عند عدم إتاحة\nالمكالمات الهاتفية والبيانات الخلوية مع\nSupport\n* النسخ الاحتياطي والاسترداد\nكيفية نقل البيانات ونسخها احتياطياً باستخدام\nGalaxy Smart Switch على هاتف\nالأسئلة الشائعة لأجهزة Samsung المحمولة. تعرف على\nالمزيد حول كيفية نقل البيانات ونسخها احتياطياً باستخدام\nGalaxy Smart Switch على هاتف\nSamsung Support دعم\nكيفية الاستخدام\nهل سيعمل NFC بالجهاز إذا كان مزوداً بغطاء\nLED\nالأسئلة الشائعة حول أجهزة Samsung المحمولة. اكتشف\nالمزيد حول هل سيعمل الجهاز NFC إذا كان مزوداً بغطاء\nSamsung Support LED مع\nكيفية الاستخدام\nكيفية استكشاف أخطاء ميكروفون هاتف Galaxy وإصلاحها عندما لا يتعرف على الصوت جيداً",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T04:45:19.708+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T09:19:29.576+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 761,
+    "width": 588
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.6782945736434108,
+    "cer_raw": 0.6782945736434108,
+    "wer_normalized": 0.7631578947368421,
+    "wer_raw": 0.7631578947368421
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nحشوة منطقة من مادة الفاشي الأزرق في أعلى بوابة جامع سان باشا من المهندس\nالتشي في ساحة باب الجبنة دمشق، وهي مرخمة بالأعشاب والنباتات.\n\n(بعدسة المؤلف صيف عام 1996م)\n\n٢٥٧ - رزهرف الصدرا الاسلامية - ١٧",
+  "page_id": "MISRAJ-0015",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nحشوة منطقة من مادة الفاشي الأزرق في أعلى بوابة جامع سان باشا من المهندس\nالتشي في ساحة باب الجبنة دمشق، وهي مرخمة بالأعشاب والنباتات.\n\n(بعدسة المؤلف صيف عام 1996م)\n\n٢٥٧ - رزهرف الصدرا الاسلامية - ١٧",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T09:19:19.136+00:00",
+  "status": "PASS"
+}

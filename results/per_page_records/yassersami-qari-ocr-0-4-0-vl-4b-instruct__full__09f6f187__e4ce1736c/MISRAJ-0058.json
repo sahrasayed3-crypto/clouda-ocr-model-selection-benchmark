@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T07:12:18.401+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1383,
+    "width": 969
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.14084507042253522,
+    "cer_raw": 0.1557632398753894,
+    "wer_normalized": 0.08771929824561403,
+    "wer_raw": 0.09803921568627451
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "وصف لهم بالبخل وقلة المنفعة للناس، ومن لا ينفع الناس لا ينفعه الله، والماعون هو الزكاة، وقيل: المال وقيل: كل ما يتعاطاه الناس بينهم، كالآنية والفأس والدلو والمقص. وقد سئل الرسول صلى الله عليه وسلم: ما الشيء الذي لا يحل منعه؟ فقال صلى الله عليه وسلم: الماء والنار والملح، وفي بعض الروايات: الإبرة والخميرة.",
+  "page_id": "MISRAJ-0058",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "وصف لهم بالبخل وقلة المنفعة للناس، ومن لا ينفع الناس لا ينفعه الله، والماعون هو الزكاة، وقيل: المال وقيل: كل ما يتعاطاه الناس بينهم، كالآنية والفأس والدلو والمقص. وقد سئل الرسول ﷺ: ما الشيء الذي لا يحل منعه؟ فقال ﷺ: الماء والنار والملح، وفي بعض الروايات: الإبرة والخميرة.",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T07:12:10.939+00:00",
+  "status": "PASS"
+}

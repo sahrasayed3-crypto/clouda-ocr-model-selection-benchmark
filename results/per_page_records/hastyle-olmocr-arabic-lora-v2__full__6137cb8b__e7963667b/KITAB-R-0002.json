@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T07:39:44.059+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2334,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.4598976109215017,
+    "cer_raw": 0.45911413969335607,
+    "wer_normalized": 0.5030674846625767,
+    "wer_raw": 0.5030674846625767
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nالجمهورية الجزائرية الديمقراطية الشعبية\nRépublique Algérienne Démocratique et populaire\nوزارة التعليم العالي والبحث العلمي\nMinistère de l'Enseignement Supérieur et de la Recherche Scientifique\nجامعة الشهيد حمه لخضر الوادي\nUniversité Echahid Hamma Lakhdar d'ElOued\n\nFaculté des Sciences\nEconomiques, Commerciales et des Sciences de Gestion\nDépartement des sciences de gestion\n\nكلية العلوم الاقتصادية والتجارية وعلوم التسيير\nقسم علوم التسيير\n\nالرقم: 2021/06/01 الوادي في: 29 .../ل ع ق ت/ق ع ت/ك ع إق ت ع ت\n\n# شهادة إدارية\n\nيشهد السيد رئيس اللجنة العلمية لقسم علوم التسيير، بأن الدكتور: بالي حمزة، قدم أمام اللجنة العلمية المنعقده بتاريخ 2020/11/11، مطبوعة بعنوان \"محاضرات في مقياس تاريخ الفكر الاقتصادي\"؛ مقدمة لطلبة السنة الثانية علوم اقتصادية؛ عدد صفحاتها 122 صفحة؛ وقد تم اعتمادها بتاريخ 2021/05/27 وفق التقارير الإيجابية لأعضاء لجنة الخبرة.\n\nرئيس اللجنة العلمية لقسم علوم التسيير\nد. محمد الباي",
+  "page_id": "KITAB-R-0002",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nالجمهورية الجزائرية الديمقراطية الشعبية\nRépublique Algérienne Démocratique et populaire\nوزارة التعليم العالي والبحث العلمي\nMinistère de l'Enseignement Supérieur et de la Recherche Scientifique\nجامعة الشهيد حمه لخضر الوادي\nUniversité Echahid Hamma Lakhdar d'ElOued\n\nFaculté des Sciences\nEconomiques, Commerciales et des Sciences de Gestion\nDépartement des sciences de gestion\n\nكلية العلوم الاقتصادية والتجارية وعلوم التسيير\nقسم علوم التسيير\n\nالرقم: 2021/06/01 الوادي في: 29 .../ل ع ق ت/ق ع ت/ك ع إق ت ع ت\n\n# شهادة إدارية\n\nيشهد السيد رئيس اللجنة العلمية لقسم علوم التسيير، بأن الدكتور: بالي حمزة، قدم أمام اللجنة العلمية المنعقده بتاريخ 2020/11/11، مطبوعة بعنوان \"محاضرات في مقياس تاريخ الفكر الاقتصادي\"؛ مقدمة لطلبة السنة الثانية علوم اقتصادية؛ عدد صفحاتها 122 صفحة؛ وقد تم اعتمادها بتاريخ 2021/05/27 وفق التقارير الإيجابية لأعضاء لجنة الخبرة.\n\nرئيس اللجنة العلمية لقسم علوم التسيير\nد. محمد الباي",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T07:39:15.581+00:00",
+  "status": "PASS"
+}

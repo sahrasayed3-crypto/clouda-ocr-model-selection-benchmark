@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T04:36:33.746+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 875,
+    "width": 1241
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.3468013468013468,
+    "cer_raw": 0.34338358458961477,
+    "wer_normalized": 0.5050505050505051,
+    "wer_raw": 0.5050505050505051
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "Galaxy\nالأسئلة المتداولة بشأن الأجهزة المحمولة. معرفة المزيد حول الطبقة الرقيقة الواقية في هاتفِي\n.Samsung مع دعم Galaxy Z Fold4 وZ Flip4\n* كيفية الاستخدام\nما الاختلافات بين هاتفَي ؟Galaxy Z Fold4, Galaxy Z Fold3\n\nGalaxy Z Fold3\nالأسئلة المتداولة بشأن الأجهزة المحمولة. معرفة المزيد عن الاختلافات بين هاتفِي\n.Samsung مع دعم Galaxy Z Fold4 و\n* كيفية الاستخدام\nGalaxy Z Fold4 على هاتف S Pen Pro\nكيف أستخدم\n\nS Pen Pro على هاتف\nالأسئلة المتداولة بشأن الأجهزة المحمولة. معرفة المزيد حول كيف أستخدم\n.Samsung مع دعم Galaxy Z Fold4\n* كيفية الاستخدام\nGalaxy Z Fold4\nكيفية استخدام شريط مهام",
+  "page_id": "MISRAJ-0350",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "Galaxy\nالأسئلة المتداولة بشأن الأجهزة المحمولة. معرفة المزيد حول الطبقة الرقيقة الواقية في هاتفِي\n.Samsung مع دعم Galaxy Z Fold4 وZ Flip4\n* كيفية الاستخدام\nما الاختلافات بين هاتفَي ؟Galaxy Z Fold4, Galaxy Z Fold3\n\nGalaxy Z Fold3\nالأسئلة المتداولة بشأن الأجهزة المحمولة. معرفة المزيد عن الاختلافات بين هاتفِي\n.Samsung مع دعم Galaxy Z Fold4 و\n* كيفية الاستخدام\nGalaxy Z Fold4 على هاتف S Pen Pro\nكيف أستخدم\n\nS Pen Pro على هاتف\nالأسئلة المتداولة بشأن الأجهزة المحمولة. معرفة المزيد حول كيف أستخدم\n.Samsung مع دعم Galaxy Z Fold4\n* كيفية الاستخدام\nGalaxy Z Fold4\nكيفية استخدام شريط مهام",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T04:36:28.814+00:00",
+  "status": "PASS"
+}

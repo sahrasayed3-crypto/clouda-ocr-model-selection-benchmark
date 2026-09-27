@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T04:15:48.116+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1241,
+    "width": 1754
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.3031721268850754,
+    "cer_raw": 0.3395565927654609,
+    "wer_normalized": 0.896797153024911,
+    "wer_raw": 0.896797153024911
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "<table>\n <tr>\n <td>9</td>\n <td>مخيم الفوار</td>\n <td>2</td>\n <td>2</td>\n <td></td>\n <td></td>\n <td></td>\n <td></td>\n </tr>\n <tr>\n <td>المجموع</td>\n <td></td>\n <td>70</td>\n <td>5</td>\n <td>11</td>\n <td>39</td>\n <td>3</td>\n <td>12</td>\n </tr>\n <tr>\n <td></td>\n <td></td>\n <td></td>\n <td></td>\n <td></td>\n <td></td>\n <td></td>\n <td></td>\n </tr>\n <tr>\n <th>الرقم</th>\n <th>البلدة /<br>المخيم</th>\n <th>إجمالي<br>الاغلاقات</th>\n <th>نوع<br>الإغلاق</th>\n <th></th>\n <td></td>\n <td></td>\n <td></td>\n </tr>\n <tr>\n <td>حاجز<br>عسكري</td>\n <td>بوابة<br>حديدية</td>\n <td>سدة توابية</td>\n <td>برج مراقبة</td>\n <td>مكعبات<br>إسمنتية</td>\n <td></td>\n <td></td>\n <td></td>\n </tr>\n <tr>\n <td>1</td>\n <td>مخيم<br>العروب</td>\n <td>4</td>\n <td>1</td>\n <td>1</td>\n <td>0</td>\n <td>2</td>\n <td></td>\n </tr>\n <tr>\n <td>2</td>\n <td>بلدة دورا</td>\n <td>25</td>\n <td>3</td>\n <td>21</td>\n <td>1</td>\n <td></td>\n <td></td>\n </tr>\n <tr>\n <td>3</td>\n <td>بلدة بيت<br>أمر</td>\n <td>8</td>\n <td>1</td>\n <td>5</td>\n <td>1</td>\n <td>1</td>\n <td></td>\n </tr>\n <tr>\n <td>4</td>\n <td>بلدة سعير</td>\n <td>3</td>\n <td>2</td>\n <td>0</td>\n <td>1</td>\n <td></td>\n <td></td>\n </tr>\n <tr>\n <td>4</td>\n <td>بلدة<br>السموع</td>\n <td>1</td>\n <td>1</td>\n <td></td>\n <td></td>\n <td></td>\n <td></td>\n </tr>\n <tr>\n <td>5</td>\n <td>بلدة حلحلول</td>\n <td>10</td>\n <td>2</td>\n <td>3</td>\n <td>5</td>\n <td></td>\n <td></td>\n </tr>\n <tr>\n <td>6</td>\n <td>بلدة بني<br>نعيم</td>\n <td>3</td>\n <td>3</td>\n <td></td>\n <td></td>\n <td></td>\n <td></td>\n </tr>\n <tr>\n <td>7</td>\n <td>بلدة يطا</td>\n <td>3</td>\n <td>1</td>\n <td>2</td>\n <td></td>\n <td></td>\n <td></td>\n </tr>\n <tr>\n <td>8</td>\n <td>مدينة<br>الخليل</td>\n <td>11</td>\n <td>2</td>\n <td>3</td>\n <td>2</td>\n <td>1</td>\n <td>3</td>\n </tr>\n <tr>\n <td></td>\n <td></td>\n <td></td>\n <td></td>\n <td></td>\n <td></td>\n <td></td>\n <td></td>\n </tr>\n</table>",
+  "page_id": "MISRAJ-0298",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "<table>\n  <tr>\n    <td>9</td>\n    <td>مخيم الفوار</td>\n    <td>2</td>\n    <td>2</td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>المجموع</td>\n    <td></td>\n    <td>70</td>\n    <td>5</td>\n    <td>11</td>\n    <td>39</td>\n    <td>3</td>\n    <td>12</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <th>الرقم</th>\n    <th>البلدة /<br>المخيم</th>\n    <th>إجمالي<br>الاغلاقات</th>\n    <th>نوع<br>الإغلاق</th>\n    <th></th>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>حاجز<br>عسكري</td>\n    <td>بوابة<br>حديدية</td>\n    <td>سدة توابية</td>\n    <td>برج مراقبة</td>\n    <td>مكعبات<br>إسمنتية</td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>1</td>\n    <td>مخيم<br>العروب</td>\n    <td>4</td>\n    <td>1</td>\n    <td>1</td>\n    <td>0</td>\n    <td>2</td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>2</td>\n    <td>بلدة دورا</td>\n    <td>25</td>\n    <td>3</td>\n    <td>21</td>\n    <td>1</td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>3</td>\n    <td>بلدة بيت<br>أمر</td>\n    <td>8</td>\n    <td>1</td>\n    <td>5</td>\n    <td>1</td>\n    <td>1</td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>4</td>\n    <td>بلدة سعير</td>\n    <td>3</td>\n    <td>2</td>\n    <td>0</td>\n    <td>1</td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>4</td>\n    <td>بلدة<br>السموع</td>\n    <td>1</td>\n    <td>1</td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>5</td>\n    <td>بلدة حلحلول</td>\n    <td>10</td>\n    <td>2</td>\n    <td>3</td>\n    <td>5</td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>6</td>\n    <td>بلدة بني<br>نعيم</td>\n    <td>3</td>\n    <td>3</td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>7</td>\n    <td>بلدة يطا</td>\n    <td>3</td>\n    <td>1</td>\n    <td>2</td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>8</td>\n    <td>مدينة<br>الخليل</td>\n    <td>11</td>\n    <td>2</td>\n    <td>3</td>\n    <td>2</td>\n    <td>1</td>\n    <td>3</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n</table>",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T04:15:21.686+00:00",
+  "status": "PASS"
+}

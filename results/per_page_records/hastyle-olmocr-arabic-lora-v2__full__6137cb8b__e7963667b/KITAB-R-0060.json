@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T08:49:09.929+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1654
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.35929978118161926,
+    "cer_raw": 0.3589855706165282,
+    "wer_normalized": 0.4613821138211382,
+    "wer_raw": 0.4613821138211382
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n- مع الضمائر الشخصية ٧ / En تعود ال s مع الضمير tu في الأمر المثبت وتحذف عند النفي .\nEx: Le poisson , manges – en beaucoup\n\naller + inf.\nDans – Demain – Ce soir – Bientot – Après - .......prochain\nوكلماته الدالة عليه : .\n\n- زمن المستقبل القريب ( المركب ) : يتكون من تصريف فعل venir + de/d’ + inf.\nil y a +\nوكلماته الدالة عليه : فترة زمنية قصيرة +\n- زمن الماضي الحديث ( القريب ) : يتكون من تصريف فعل être / avoir + participe passé\nHier – Il y a – Ce matin - .......dernier(e) - .......passé(e)\n- جميع أفعال المساعد يتبعها حرف جر وتأخذ تفعية حسب الفاعل .\n( e – s – es )\n- أما المساعد avoir يأخذ تفعية حسب المفعول في الحالات الاتية فقط :\nادوات الاستفهام Combien de – Quel – Quelle – Quels – Quelles لابد أن تأتي قبل الفاعل والضمائر الشخصية le – la – l’- les – nous – vous ( ضمير الوصل Que للاطلاع )\n- مع الضمير On نأخذ تفعية ( s – es ) حسب المعني اذا كان جمع مؤكر او جمع مؤنث .\n\n## الضمائر الشخصية للمفعول :\n\nأولا : المفعول المباشر ( غير مسبوق بحرف جر ) ( me – te – nous – vous )\n( le – la – l’ – les )\nالافعال aider- aimer – visiter – voir – preparer – encourager – lancer – passer :\n( en ) مسبوق بأداة نكرة – تجزئة – عدد – ظرف كمية- de ويعني ( منه – عنه ) وأهم أفعاله :\n(acheter - mettre - vouloir - prendre - manger – boire - venir )\nثانيا : المفعول الغير مباشر ( مسبوق بحرف جر ) ( lui – leur )\n( offrir – donner – téléphoner – envoyer – prêter – écrire – parler )\n- لا تنسِ جميع الحيوانات تأخذ ( lui – leur ) مع فعل donner .\n( ي ) يحل محل مفعول غير عاقل / مكان مسبوق بأي حرف جر عدا de يأخذ en وأهم أفعاله :\n( aller - descendre - habiter - vivre - participer - arriver - assister - travailler )\n- أما حروف الجر الثابتة ( chez / avec / pour / sans / de ... ) يأتي بعدها :\n( moi – toi – lui – elle – nous – vous – eux – elles )\n\n- changer + de / d’ ____ يغير – يستبدل العملة\n\n- هذه الجمل تعبر عن الزام واجبار ( obligation )\n( يلزم ) الإسم + & Il faut + ( يجب ) المصدر +\n_ Il faut + devoir فعل ف المصدر + ( يجب )\n\n- للمقارنة :\nplus...que / moins...que / aussi/autant...que\nMieux ... que / Pire ... que\n\nProf. Ahmed Elsoghier - 3 - 01228762033 / 01061319140",
+  "page_id": "KITAB-R-0060",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n- مع الضمائر الشخصية ٧ / En تعود ال s مع الضمير tu في الأمر المثبت وتحذف عند النفي .\nEx: Le poisson , manges – en beaucoup\n\naller + inf.\nDans – Demain – Ce soir – Bientot – Après - .......prochain\nوكلماته الدالة عليه : .\n\n- زمن المستقبل القريب ( المركب ) : يتكون من تصريف فعل venir + de/d’ + inf.\nil y a +\nوكلماته الدالة عليه : فترة زمنية قصيرة +\n- زمن الماضي الحديث ( القريب ) : يتكون من تصريف فعل être / avoir + participe passé\nHier – Il y a – Ce matin - .......dernier(e) - .......passé(e)\n- جميع أفعال المساعد يتبعها حرف جر وتأخذ تفعية حسب الفاعل .\n( e – s – es )\n- أما المساعد avoir يأخذ تفعية حسب المفعول في الحالات الاتية فقط :\nادوات الاستفهام Combien de – Quel – Quelle – Quels – Quelles لابد أن تأتي قبل الفاعل والضمائر الشخصية le – la – l’- les – nous – vous ( ضمير الوصل Que للاطلاع )\n- مع الضمير On نأخذ تفعية ( s – es ) حسب المعني اذا كان جمع مؤكر او جمع مؤنث .\n\n## الضمائر الشخصية للمفعول :\n\nأولا : المفعول المباشر ( غير مسبوق بحرف جر ) ( me – te – nous – vous )\n( le – la – l’ – les )\nالافعال aider- aimer – visiter – voir – preparer – encourager – lancer – passer :\n( en ) مسبوق بأداة نكرة – تجزئة – عدد – ظرف كمية- de ويعني ( منه – عنه ) وأهم أفعاله :\n(acheter - mettre - vouloir - prendre - manger – boire - venir )\nثانيا : المفعول الغير مباشر ( مسبوق بحرف جر ) ( lui – leur )\n( offrir – donner – téléphoner – envoyer – prêter – écrire – parler )\n- لا تنسِ جميع الحيوانات تأخذ ( lui – leur ) مع فعل donner .\n( ي ) يحل محل مفعول غير عاقل / مكان مسبوق بأي حرف جر عدا de يأخذ en وأهم أفعاله :\n( aller - descendre - habiter - vivre - participer - arriver - assister - travailler )\n- أما حروف الجر الثابتة ( chez / avec / pour / sans / de ... ) يأتي بعدها :\n( moi – toi – lui – elle – nous – vous – eux – elles )\n\n- changer + de / d’ ____ يغير – يستبدل العملة\n\n- هذه الجمل تعبر عن الزام واجبار ( obligation )\n( يلزم ) الإسم + & Il faut + ( يجب ) المصدر +\n_ Il faut + devoir فعل ف المصدر + ( يجب )\n\n- للمقارنة :\nplus...que / moins...que / aussi/autant...que\nMieux ... que / Pire ... que\n\nProf. Ahmed Elsoghier - 3 - 01228762033 / 01061319140",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T08:48:10.505+00:00",
+  "status": "PASS"
+}

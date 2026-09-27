@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T05:12:36.851+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2334,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.3165529010238908,
+    "cer_raw": 0.31771720613287907,
+    "wer_normalized": 0.4294478527607362,
+    "wer_raw": 0.4294478527607362
+  },
+  "model_id": "YasserSami/Qari-OCR-0.4.0-VL-4B-Instruct",
+  "model_revision": "2bd09259f868a77cdbfe35fc1dab40dc5c0a7716",
+  "normalized_output": "الجمهورية الجزائرية الديمقراطية الشعبية République Algérienne Démocratique et populaire وزارة التعليم العالي والبحث العلمي Ministère de l'Enseignement Supérieur et de la Recherche Scientifique جامعه الشهيد حمه لخضر الوادي Université Echahid Hamma Lakhdar d'ElOued Faculté des Sciences Economiques, Commerciales et des Sciences de Gestion Département des sciences de gestion كلية العلوم الاقتصادية والتجارية وعلوم التسسير قسم علوم التسسير جامعة الشهيد حمه لخضر - الوادي Université Echahid Hamma Lakhdar - El Oued الرقم: 9/....../ال/ع ق/ت ع/ت/ك ع/ت ع/ت 2021/06/01 الوادي في: شهادة إدارية يشهد السيد رئيس اللجنة العلمية لقسم علوم التسسير، بأن المكتور: بالي حمزة، قدم أمام اللجنة العلمية المنعقدة بتاريخ 2020/11/11، مطبوعة بعنوان \"محاضرات في مقياس تاريخ الفكر الاقتصادي\"؛ مقدمة لطلبة السنة الثانية علوم اقتصادية؛ عدد صفحاتها 122 صفحة؛ وقد تم اعتمادها بتاريخ 2021/05/27 وفق التقارير الإيجابية لأعضاء لجنة الخبرة. رئيس اللجنة العلمية لقسم علوم التسسير لقسم علوم التسسير د. محمد البابي B.P.789, 39000, El Oued, Algérie, Tél/Fax: 032120768 / 032120768 scgestioneloued@gmail.com",
+  "page_id": "KITAB-R-0002",
+  "prompt_hash": "984f546c666f69026a5277aad8b42a2c72258003bad817cf412ccd445494b6ae",
+  "raw_output": "الجمهورية الجزائرية الديمقراطية الشعبية République Algérienne Démocratique et populaire وزارة التعليم العالي والبحث العلمي Ministère de l'Enseignement Supérieur et de la Recherche Scientifique جامعه الشهيد حمه لخضر الوادي Université Echahid Hamma Lakhdar d'ElOued Faculté des Sciences Economiques, Commerciales et des Sciences de Gestion Département des sciences de gestion كلية العلوم الاقتصادية والتجارية وعلوم التسسير قسم علوم التسسير جامعة الشهيد حمه لخضر - الوادي Université Echahid Hamma Lakhdar - El Oued الرقم: 9/....../ال/ع ق/ت ع/ت/ك ع/ت ع/ت 2021/06/01 الوادي في: شهادة إدارية يشهد السيد رئيس اللجنة العلمية لقسم علوم التسسير، بأن المكتور: بالي حمزة، قدم أمام اللجنة العلمية المنعقدة بتاريخ 2020/11/11، مطبوعة بعنوان \"محاضرات في مقياس تاريخ الفكر الاقتصادي\"؛ مقدمة لطلبة السنة الثانية علوم اقتصادية؛ عدد صفحاتها 122 صفحة؛ وقد تم اعتمادها بتاريخ 2021/05/27 وفق التقارير الإيجابية لأعضاء لجنة الخبرة. رئيس اللجنة العلمية لقسم علوم التسسير لقسم علوم التسسير د. محمد البابي B.P.789, 39000, El Oued, Algérie, Tél/Fax: 032120768 / 032120768 scgestioneloued@gmail.com",
+  "retry_count": 0,
+  "run_id": "yassersami-qari-ocr-0-4-0-vl-4b-instruct__full__09f6f187__e4ce1736c",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T05:12:10.614+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,5 @@
+Create a PDF from the following image. Extract all the content, preserving the original meaning and structure. We have extracted the text from the slide, preserving the original order. Here is the cleaned result with identified sections and preserved context.
+
+# Table of Contents
+
+1. Limited Car Unit IMIM® Limited Limited®

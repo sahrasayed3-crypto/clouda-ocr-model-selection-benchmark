@@ -1,0 +1,35 @@
+{
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "scope": "full",
+  "per_model": {
+    "model_id": "MBZUAI/AIN",
+    "run_id": "mbzuai-ain__full__46808f9e",
+    "run_state": "COMPLETE",
+    "total_pages": 462,
+    "successful_pages": 462,
+    "failed_pages": 0,
+    "failure_rate": 0,
+    "failure_breakdown": {
+      "FAIL": 0,
+      "INVALID_OUTPUT": 0,
+      "MODEL_LOAD_ERROR": 0,
+      "OOM": 0,
+      "TIMEOUT": 0
+    },
+    "mean_cer_raw": 2.500256276881422,
+    "mean_wer_raw": 2.4561183249239984,
+    "mean_cer_normalized": 2.1768700515299,
+    "mean_wer_normalized": 2.453322028908786
+  },
+  "failures": {
+    "total_failures": 0,
+    "by_status": {
+      "FAIL": [],
+      "OOM": [],
+      "TIMEOUT": [],
+      "MODEL_LOAD_ERROR": [],
+      "INVALID_OUTPUT": []
+    },
+    "details": []
+  }
+}

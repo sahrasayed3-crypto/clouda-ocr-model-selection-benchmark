@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T00:24:18.117+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1653,
+    "width": 1167
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.12690355329949238,
+    "cer_raw": 0.2051926298157454,
+    "wer_normalized": 0.17297297297297298,
+    "wer_raw": 0.1945945945945946
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "فِي أَيَّامٍ نَحْسَاتٍ …\n \n }\n \n in days of calamity,\n \n means, consecutive days.\n \n سبْعَ لَيالِ وَتَمَنِّيَة أَيَّامٍ حُسُوما\n seven nights and eight days in succession, (69: 7)\n This is like the Ayah:\n \n فِي يَوْمٍ نَحْسٍ مُسْتَمِرٍّ\n on a day of calamity, continuous, (54: 19)\n i.e., the punishment began on a day which was of evil omen for them, and this\n evil omen continued for them,\n \n سبْعَ لَيالِ وَتَمَنِّيَة أَيَّامٍ حُسُوماً\n seven nights and eight days in succession, (69: 7)\n until they were destroyed, every last one of them, and their humiliation in\n this world was joined to their punishment in the Hereafter.\n \n Allah says:\n \n لِتُذِيقَهُمْ عَذَابَ الْخَزِيْ فِي الْحَياةِ الدُّنْيَا وَلِعَذَابُ الْآخِرَةِ\n أَخْرَى …\n \n that We might give them a taste of disgracing torment in this present worldly\n life. But surely the torment of the Hereafter will be more disgracing.\n \n وَهُمْ لَا يُنصَرُونَ (١٦)\n \n and they will never be helped.\n \n means, in the Hereafter, just as they were never helped in this world, and\n they had no one who could protect them from Allah or save them from His\n punishment.",
+  "page_id": "MISRAJ-0101",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "فِي أَيَّامٍ نَحْسَاتٍ …\n\t\t\t\t\n\t\t\t}\n\t\t\t\t\n\t\tin days of calamity,\n\t\t\t\t\n\t\t\tmeans, consecutive days.\n\t\t\t\t\n\t\t\tسبْعَ لَيالِ وَتَمَنِّيَة أَيَّامٍ حُسُوما\n\t\t\t\tseven nights and eight days in succession, (69: 7)\n\t\t\tThis is like the Ayah:\n\t\t\t\t\n\t\t\tفِي يَوْمٍ نَحْسٍ مُسْتَمِرٍّ\n\t\t\t\ton a day of calamity, continuous, (54: 19)\n\t\t\ti.e., the punishment began on a day which was of evil omen for them, and this\n\tevil omen continued for them,\n\t\t\t\t\n\t\t\tسبْعَ لَيالِ وَتَمَنِّيَة أَيَّامٍ حُسُوماً\n\t\t\t\tseven nights and eight days in succession, (69: 7)\n\t\t\tuntil they were destroyed, every last one of them, and their humiliation in\n\tthis world was joined to their punishment in the Hereafter.\n\t\t\t\t\n\t\t\tAllah says:\n\t\t\t\t\n\t\t\tلِتُذِيقَهُمْ عَذَابَ الْخَزِيْ فِي الْحَياةِ الدُّنْيَا وَلِعَذَابُ الْآخِرَةِ\n\tأَخْرَى …\n\t\t\t\t\n\t\t\tthat We might give them a taste of disgracing torment in this present worldly\n\tlife. But surely the torment of the Hereafter will be more disgracing.\n\t\t\t\t\n\t\t\tوَهُمْ لَا يُنصَرُونَ (١٦)\n\t\t\t\t\n\t\t\tand they will never be helped.\n\t\t\t\t\n\t\t\tmeans, in the Hereafter, just as they were never helped in this world, and\n\tthey had no one who could protect them from Allah or save them from His\n\tpunishment.",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T00:23:58.835+00:00",
+  "status": "PASS"
+}

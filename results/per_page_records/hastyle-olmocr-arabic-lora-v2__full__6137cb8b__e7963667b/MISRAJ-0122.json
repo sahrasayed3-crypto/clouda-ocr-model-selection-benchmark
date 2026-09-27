@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T10:57:32.044+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 3809,
+    "width": 2500
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.6685499058380414,
+    "cer_raw": 0.6685499058380414,
+    "wer_normalized": 0.6022727272727273,
+    "wer_raw": 0.6022727272727273
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nسيناريو ورسوم\nدُوله\n\nاكتشف «بومبا» ان المهراجا مشارك في\nمصابة النمور الخضر .. وناد الأهالي واندفعوا\nالى قصر المهراجا.\n\nوكن كانت الجميع قد هربوا .. وسقط المهراجا مغشيا عليه ...\n\n![image-0.png](page_0_0_2048_1536.png)\n\nأسرعوا ايها الشعور .. يبدو\nأن الشعب عرف الحقيقة !\nولكن كيف\nعرفون؟\n\n![image-1.png](page_0_1536_2048_1536.png)\n\nوكعادة العصابات الأمريكية .. كانت هناك طائرة\nهربت بها الأمريكية وأعوانها ...\nإلى الطائرة\nالأمريكية !\n\n![image-2.png](page_0_3072_2048_1536.png)\n\nولم تعد هناك نمور\nخضراء أو ممرابها\nفانك .. وعاشت\nبلدتنا في سعادة\nمنذ ذلك الوقت ..\nتحت",
+  "page_id": "MISRAJ-0122",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nسيناريو ورسوم\nدُوله\n\nاكتشف «بومبا» ان المهراجا مشارك في\nمصابة النمور الخضر .. وناد الأهالي واندفعوا\nالى قصر المهراجا.\n\nوكن كانت الجميع قد هربوا .. وسقط المهراجا مغشيا عليه ...\n\n![image-0.png](page_0_0_2048_1536.png)\n\nأسرعوا ايها الشعور .. يبدو\nأن الشعب عرف الحقيقة !\nولكن كيف\nعرفون؟\n\n![image-1.png](page_0_1536_2048_1536.png)\n\nوكعادة العصابات الأمريكية .. كانت هناك طائرة\nهربت بها الأمريكية وأعوانها ...\nإلى الطائرة\nالأمريكية !\n\n![image-2.png](page_0_3072_2048_1536.png)\n\nولم تعد هناك نمور\nخضراء أو ممرابها\nفانك .. وعاشت\nبلدتنا في سعادة\nمنذ ذلك الوقت ..\nتحت",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T10:57:04.129+00:00",
+  "status": "PASS"
+}

@@ -1,0 +1,78 @@
+<table>
+ <thead>
+ <tr>
+ <th></th>
+ <th></th>
+ <th></th>
+ <th></th>
+ <th></th>
+ </tr>
+ <tr>
+ <th>الموضوع</th>
+ <th>كاتب الموضوع</th>
+ <th>المنتدى</th>
+ <th>مشاركات</th>
+ <th>آخر مشاركة</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td>الى رحمة الله " علي سعيد<br>معيض ال عطاء القرني"<br>في مدينة تبوك</td>
+ <td>علي بن قحمان القرني</td>
+ <td>قسم الوفيات والتعازي</td>
+ <td>1</td>
+ <td>01:36 02-18-2021<br><b>PM</b></td>
+ </tr>
+ <tr>
+ <td>الى رحمة الله والدة "<br>محمد صيف الله علي ال<br>سعيد القرني" في مدينة<br>نبلون</td>
+ <td>علي بن قحمان القرني</td>
+ <td>قسم الوفيات والتعازي</td>
+ <td>1</td>
+ <td>04:51 10-18-2020<br><b>PM</b></td>
+ </tr>
+ <tr>
+ <td>الى رحمة الله " احمد<br>عبدالله القرني " بن<br>عبثان" في مدينة الرياض</td>
+ <td>علي بن قحمان القرني</td>
+ <td>قسم الوفيات والتعازي</td>
+ <td>1</td>
+ <td>10:14 09-13-2020<br><b>PM</b></td>
+ </tr>
+ <tr>
+ <td>الى رحمة الله "جودالله بن<br>حامد بن طيبان القرني "<br>في مدينة تبوك</td>
+ <td>علي بن قحمان القرني</td>
+ <td>قسم الوفيات والتعازي</td>
+ <td>1</td>
+ <td>07:00 12-28-2019<br><b>AM</b></td>
+ </tr>
+ <tr>
+ <td>الى رحمة الله "عوض بن<br>عبدالله القرني "بن عبثان<br>" في مدينة الرياض</td>
+ <td>علي بن قحمان القرني</td>
+ <td>قسم الوفيات والتعازي</td>
+ <td>1</td>
+ <td>09:31 07-01-2018<br><b>PM</b></td>
+ </tr>
+ </tbody>
+</table>
+
+<table>
+ <tbody>
+ <tr>
+ <td colspan="2"></td>
+ </tr>
+ <tr>
+ <td colspan="2"><b>LinkBack</b></td>
+ </tr>
+ <tr>
+ <td colspan="2"><b>LinkBack URL</b> LinkBack URL</td>
+ </tr>
+ <tr>
+ <td colspan="2"><b>About LinkBacks</b> About LinkBacks</td>
+ </tr>
+ <tr>
+ <td colspan="2"><b>Bookmark &amp; Share</b></td>
+ </tr>
+ <tr>
+ <td colspan="2"><b>Tweet this thread</b> Tweet this thread</td>
+ </tr>
+ </tbody>
+</table>

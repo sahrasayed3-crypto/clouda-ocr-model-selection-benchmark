@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T01:58:33.221+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2550,
+    "width": 1650
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.391304347826087,
+    "cer_raw": 0.43765281173594134,
+    "wer_normalized": 0.5025380710659898,
+    "wer_raw": 0.5025380710659898
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "كيفية استكشاف أخطاء تنزيل متجر Google Play وإصلاحها؟\n \n *الأجهزة Galaxy\n كيف تمتع اللبسات العرضية على هاتف Galaxy الذكي الخاص بك؟\n \n *التطبيقات Galaxy\n كيف توصل هاتف Galaxy الذكي الخاص بك بسيارة باستخدام Android Auto؟\n \n *التطبيقات Android Auto\n كيف يمكنني نسخ البيانات احتياطيًّا على جهازي Galaxy تلقائيًّا؟\n \n *التطبيقات\n ما هو Samsung Flow وما هو وكيف يتم استخدامه؟\n \n *كيفية الاستخدام\n كيف يمكنني استخدام تطبيق Bixby؟\n \n *كيفية الاستخدام\n كيف يمكنني استخدام تطبيق التقويم على هاتفي الذكي من Samsung؟\n \n *كيفية الاستخدام\n الاستمتاع بخاصية التحكم عن بعد (Air actions) مع قلم S Pen المُحسَّن في هاتف\n Samsung Galaxy Note20 | Note20 Ultra. اكتشف المزيد حول \"الاستمتاع بخاصية التحكم\n عن بعد (Air actions) مع قلم S Pen\" من خلال خدمة الدعم من Samsung Galaxy Note20 |\n Note20 Ultra. ملاحظات جديدة من Samsung Galaxy Note20 | Note20 Ultra لأفضل تجربة\n كتابة في هاتف Galaxy Note20 | Note20 Ultra.",
+  "page_id": "MISRAJ-0233",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "كيفية استكشاف أخطاء تنزيل متجر Google Play وإصلاحها؟\n\t\t\t\t\n\t\t\t\t\t*الأجهزة Galaxy\n\t\t\tكيف تمتع اللبسات العرضية على هاتف Galaxy الذكي الخاص بك؟\n\t\t\t\t\n\t\t\t\t\t*التطبيقات Galaxy\n\t\t\tكيف توصل هاتف Galaxy الذكي الخاص بك بسيارة باستخدام Android Auto؟\n\t\t\t\t\n\t\t\t\t\t*التطبيقات Android Auto\n\t\t\tكيف يمكنني نسخ البيانات احتياطيًّا على جهازي Galaxy تلقائيًّا؟\n\t\t\t\t\n\t\t\t\t\t*التطبيقات\n\t\t\tما هو Samsung Flow وما هو وكيف يتم استخدامه؟\n\t\t\t\t\n\t\t\t\t\t*كيفية الاستخدام\n\t\t\tكيف يمكنني استخدام تطبيق Bixby؟\n\t\t\t\t\n\t\t\t\t\t*كيفية الاستخدام\n\t\t\tكيف يمكنني استخدام تطبيق التقويم على هاتفي الذكي من Samsung؟\n\t\t\t\t\n\t\t\t\t\t*كيفية الاستخدام\n\t\t\t\tالاستمتاع بخاصية التحكم عن بعد (Air actions) مع قلم S Pen المُحسَّن في هاتف\n\t\t\t\t\tSamsung Galaxy Note20 | Note20 Ultra. اكتشف المزيد حول \"الاستمتاع بخاصية التحكم\n\t\t\t\t\tعن بعد (Air actions) مع قلم S Pen\" من خلال خدمة الدعم من Samsung Galaxy Note20 |\n\t\t\t\t\tNote20 Ultra. ملاحظات جديدة من Samsung Galaxy Note20 | Note20 Ultra لأفضل تجربة\n\t\t\t\t\tكتابة في هاتف Galaxy Note20 | Note20 Ultra.",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T01:58:19.490+00:00",
+  "status": "PASS"
+}

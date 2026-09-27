@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T00:06:06.624+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1654
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.8070240295748614,
+    "cer_raw": 0.8071666050978944,
+    "wer_normalized": 0.9446064139941691,
+    "wer_raw": 0.9446064139941691
+  },
+  "model_id": "amad-iq/amad-vlm6",
+  "model_revision": "7daf90cd5e5706173e159c88ca4e6dc2475a485e",
+  "normalized_output": "١- الإسعافات الأولية\n١) نقل\n٢) مجرى الهواء\n٣) التنفس\n٤) الدوران\n٥) الادوات\n٦) مكشاف\n٧) رش بالمياه\n٢- علاج الحروق:\n• صغير\n• كبير\n١. الانعاش والمراقبة\n٢. العلاج بالسوائل (إعطاء محلول)\n﴿ لإنعاش (٤ أنابيب): ١. اثنين كانيولا واسعة تتحمل حفرة الطرفية\n٢. قسطرة فولي\n٣. الخط المركزي (يتم تركيبها في الرقبة)\n٤. أنبوب انفي معدي\n﴿ المراقبة (٤ قيم): ١. علامات حيوية\n٢. خروج البول\n٣. الضغط الوريدي المركزي\n٤. الوعي\n﴿ ضمامة للحرق: -بطريقة مفتوحة\n-بطريقة حصر(مغلقة)\n﴿ علاج السوائل: ١. نوع من السائل إما محلول رينجر لاكتات او محلول\nملح الطبيعي\n٢. الكمية (تقدير كمية السائل البديلة)\n(٤ مل × وزن الجسم × نسبة الحروق) + ٢٠٠٠ جلوكوزه.%.\n٣. الكفاية عن طريق الرصد\n٣- علاج المضاعفات :\n١. معالجة الندبة (علامة الحرق بعد فترة كبيرة)\n٢. التطعيم\n٣. معالجة الانكماش (مثل انكماش الاصابع)\nThank you\nلا تنسونى من صالح الدعاء ....\nعلاء أحمد\nhttps://egynursology.blogspot.com\n1- First Aid\n1- Move\n2- Airway\n3- Breathing\n4- Circulation\n5- Drugs\n6- Exposure\n7- Flouding of water\n2- Treatment of burn:\n- Minor\n- Major\n1. M&R (Resuscitation & Monitoring)\n2. Fluid therapy\n☠ Resuscitation (4 tubes):\n1. Two wide bore peripheral cannula\n2. Foley's catheter\n3. Central line\n4. Nasogastric tube\n☠ Monitoring (4 values):\n1. Vital signs\n2. Urine output\n3. CVP\n4. Consciousness\n☠ Dressing of burn:\n- Open method\n- Occlusive method\n☠ Fluid therapy:\n1. Type of fluid ringer lactate or normal saline\n2. Amount (parkland formula)\n(4ml × body weight × percent of burn )+\n2000 glucose 5%.\n3. Adequacy by monitoring\n3- Treatment of complications:\n1. Eschar\n2. Grafting\n3. Contracture",
+  "page_id": "KITAB-R-0054",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "١- الإسعافات الأولية\n١) نقل\n٢) مجرى الهواء\n٣) التنفس\n٤) الدوران\n٥) الادوات\n٦) مكشاف\n٧) رش بالمياه\n٢- علاج الحروق:\n• صغير\n• كبير\n١. الانعاش والمراقبة\n٢. العلاج بالسوائل (إعطاء محلول)\n﴿ لإنعاش (٤ أنابيب): ١. اثنين كانيولا واسعة تتحمل حفرة الطرفية\n٢. قسطرة فولي\n٣. الخط المركزي (يتم تركيبها في الرقبة)\n٤. أنبوب انفي معدي\n﴿ المراقبة (٤ قيم): ١. علامات حيوية\n٢. خروج البول\n٣. الضغط الوريدي المركزي\n٤. الوعي\n﴿ ضمامة للحرق: -بطريقة مفتوحة\n-بطريقة حصر(مغلقة)\n﴿ علاج السوائل: ١. نوع من السائل إما محلول رينجر لاكتات او محلول\nملح الطبيعي\n٢. الكمية (تقدير كمية السائل البديلة)\n(٤ مل × وزن الجسم × نسبة الحروق) + ٢٠٠٠ جلوكوزه.%.\n٣. الكفاية عن طريق الرصد\n٣- علاج المضاعفات :\n١. معالجة الندبة (علامة الحرق بعد فترة كبيرة)\n٢. التطعيم\n٣. معالجة الانكماش (مثل انكماش الاصابع)\nThank you\nلا تنسونى من صالح الدعاء ....\nعلاء أحمد\nhttps://egynursology.blogspot.com\n1- First Aid\n1- Move\n2- Airway\n3- Breathing\n4- Circulation\n5- Drugs\n6- Exposure\n7- Flouding of water\n2- Treatment of burn:\n- Minor\n- Major\n1. M&R (Resuscitation & Monitoring)\n2. Fluid therapy\n☠ Resuscitation (4 tubes):\n1. Two wide bore peripheral cannula\n2. Foley's catheter\n3. Central line\n4. Nasogastric tube\n☠ Monitoring (4 values):\n1. Vital signs\n2. Urine output\n3. CVP\n4. Consciousness\n☠ Dressing of burn:\n- Open method\n- Occlusive method\n☠ Fluid therapy:\n1. Type of fluid ringer lactate or normal saline\n2. Amount (parkland formula)\n(4ml × body weight × percent of burn )+\n2000 glucose 5%.\n3. Adequacy by monitoring\n3- Treatment of complications:\n1. Eschar\n2. Grafting\n3. Contracture",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm6__full__7ae0bd41__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T00:05:49.899+00:00",
+  "status": "PASS"
+}

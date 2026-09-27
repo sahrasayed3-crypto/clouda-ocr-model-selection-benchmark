@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T03:40:48.616+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 875,
+    "width": 1241
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.37910447761194027,
+    "cer_raw": 0.38095238095238093,
+    "wer_normalized": 0.4583333333333333,
+    "wer_raw": 0.4583333333333333
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "اليَحِثْ عَن مَنْتَجَاتٍ\nمجموعة مناشف للحمام 2 قطعة\n4 صفقات بقيمة 7.25 رس/شهرياً بدون رسوم تأخير متوافقة مع الشريعة\nالخامسة: بوليستر/بولي أميد\nالتسلسل المتوقع بين -\nمجموعة مناشف للحمام 2 قطعة\n• أخضر\n• بيج\n• بنفسجي\n• أزرق\nقد يعجبك أيضاً\n147",
+  "page_id": "MISRAJ-0208",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "اليَحِثْ عَن مَنْتَجَاتٍ\nمجموعة مناشف للحمام 2 قطعة\n4 صفقات بقيمة 7.25 رس/شهرياً بدون رسوم تأخير متوافقة مع الشريعة\nالخامسة: بوليستر/بولي أميد\nالتسلسل المتوقع بين -\nمجموعة مناشف للحمام 2 قطعة\n• أخضر\n• بيج\n• بنفسجي\n• أزرق\nقد يعجبك أيضاً\n147",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T03:40:31.395+00:00",
+  "status": "PASS"
+}

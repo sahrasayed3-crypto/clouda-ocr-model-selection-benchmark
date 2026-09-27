@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T08:31:10.217+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2339,
+    "width": 1653
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.7711468604047743,
+    "cer_raw": 0.7736815156169995,
+    "wer_normalized": 0.42452830188679247,
+    "wer_raw": 0.42452830188679247
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n# مدرسة\n\n- اسم الطالب\n- المادة\n- الفصل\n- الترم\n- اسم المدرس\n\n## جملة البحث\n- تاريخ استلام البحث\n- تاريخ تسليم البحث\n\n## خطوات البحث\n\n1- ماذا أعرف؟\n2- ما أحتاج إلى معرفته؟\n3- أين أجد إجابات اسئلتي؟\n4- ماذا سأفعل مع المصادر؟\n5- هل أنهمت البحث؟\n6- كيف سأعرض المعلومات التي جمعتها؟\n\n- يقدم البحث مطبوع للمدرس باليد\n- طباعة البحث م نسختين (نسخة للطالب واخري للمدرس)\n- هذا النموذج استرشادي يمكن للمدرس التعديل بالحذف او الإضافة\n- يجب ان يضم البحث الخرائط والاشكال البيانية التي تفيد بحثك",
+  "page_id": "KITAB-R-0051",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n# مدرسة\n\n- اسم الطالب\n- المادة\n- الفصل\n- الترم\n- اسم المدرس\n\n## جملة البحث\n- تاريخ استلام البحث\n- تاريخ تسليم البحث\n\n## خطوات البحث\n\n1- ماذا أعرف؟\n2- ما أحتاج إلى معرفته؟\n3- أين أجد إجابات اسئلتي؟\n4- ماذا سأفعل مع المصادر؟\n5- هل أنهمت البحث؟\n6- كيف سأعرض المعلومات التي جمعتها؟\n\n- يقدم البحث مطبوع للمدرس باليد\n- طباعة البحث م نسختين (نسخة للطالب واخري للمدرس)\n- هذا النموذج استرشادي يمكن للمدرس التعديل بالحذف او الإضافة\n- يجب ان يضم البحث الخرائط والاشكال البيانية التي تفيد بحثك",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T08:30:51.772+00:00",
+  "status": "PASS"
+}

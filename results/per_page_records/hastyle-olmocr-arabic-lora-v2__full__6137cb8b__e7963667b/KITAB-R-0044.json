@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T08:28:38.569+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1500,
+    "width": 2000
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.44505494505494503,
+    "cer_raw": 0.446524064171123,
+    "wer_normalized": 0.48333333333333334,
+    "wer_raw": 0.48333333333333334
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n# نظريات العرض (نظرية دفع النفقة)\n\n## يرجع التضخم وفقا لهذه النظرية إلى الزيادة في تكاليف الإنتاج، مما يتربّب عليها انخفاض أرباح رجال الأعمال، وبالتالي، نقص العرض الكلي\n\n- ومن أهم العوامل التي يتربّب عليها زيادة تكاليف الإنتاج:\n - زيادة الأجور والمرتبات بمعدلات تفوق معدلات الزيادة في الإنتاجية.\n - زيادة أسعار مستلزمات الإنتاج",
+  "page_id": "KITAB-R-0044",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n# نظريات العرض (نظرية دفع النفقة)\n\n## يرجع التضخم وفقا لهذه النظرية إلى الزيادة في تكاليف الإنتاج، مما يتربّب عليها انخفاض أرباح رجال الأعمال، وبالتالي، نقص العرض الكلي\n\n- ومن أهم العوامل التي يتربّب عليها زيادة تكاليف الإنتاج:\n  - زيادة الأجور والمرتبات بمعدلات تفوق معدلات الزيادة في الإنتاجية.\n  - زيادة أسعار مستلزمات الإنتاج",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T08:28:26.147+00:00",
+  "status": "PASS"
+}

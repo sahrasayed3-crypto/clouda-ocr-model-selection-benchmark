@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T08:27:00.434+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1500,
+    "width": 2000
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.210989010989011,
+    "cer_raw": 0.21444201312910285,
+    "wer_normalized": 0.4603174603174603,
+    "wer_raw": 0.4603174603174603
+  },
+  "model_id": "AhmedZaky1/DIMI-Arabic-OCR-V2",
+  "model_revision": "8a7a293343fc91a6427a8c7a3ce69352870ea8a1",
+  "normalized_output": "الارتباط والانحدار الخطي البسيط & Correlation Simple Linear Regression أنواع الارتباط الارتباط الموجب (الطردي) Positive correlation : إذا تغير أحد المتغيرين X أو Y فإن المتغير الآخر يتتبعه بنفس الاتجاه. الارتباط السالب (العكسي) Negative correlation : إذا تغير أحد المتغيرين X أو Y فإن المتغير الآخر يتتبعه بالاتجاه المضاد. شكل الانتشار الخاص بالارتباط السالب (العكسي) شكل الانتشار الخاص بالارتباط الموجب (الطردي)",
+  "page_id": "KITAB-R-0026",
+  "prompt_hash": "1a01c6a2e324aea55bbe84b519f619bbd06bb6fc4e435e9f51f478712de22b7c",
+  "raw_output": "الارتباط والانحدار الخطي البسيط & Correlation Simple Linear Regression أنواع الارتباط الارتباط الموجب (الطردي) Positive correlation : إذا تغير أحد المتغيرين X أو Y فإن المتغير الآخر يتتبعه بنفس الاتجاه. الارتباط السالب (العكسي) Negative correlation : إذا تغير أحد المتغيرين X أو Y فإن المتغير الآخر يتتبعه بالاتجاه المضاد. شكل الانتشار الخاص بالارتباط السالب (العكسي) شكل الانتشار الخاص بالارتباط الموجب (الطردي)",
+  "retry_count": 0,
+  "run_id": "ahmedzaky1-dimi-arabic-ocr-v2__full__0b9cc407__e596d728a",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T08:26:49.520+00:00",
+  "status": "PASS"
+}

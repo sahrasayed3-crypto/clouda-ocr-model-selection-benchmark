@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-19T20:53:19.979+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "d91de23a12429d2f406f5d90fb243b53851241d203ac77544ed263a17d33fc96",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2481,
+    "width": 1754
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.3965149359886202,
+    "cer_raw": 0.5369713506139154,
+    "wer_normalized": 0.9014423076923077,
+    "wer_raw": 0.9014423076923077
+  },
+  "model_id": "tencent/HunyuanOCR",
+  "model_revision": "47644ecc4fc854efa4f505155158831f36773ee4",
+  "normalized_output": "<table><tr><td>1</td><td>الأهلى</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>2</td><td>الإسماعيلى</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>3</td><td>الاتحاد</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>4</td><td>البنك الاهلى</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>5</td><td>الجونة</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>6</td><td>الزمالك</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>7</td><td>المصري</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>8</td><td>انبي</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table>\n\n<table><caption>1 عبد الرحمن مجدي</caption><tr><td>2</td><td>محمد الدسوقي</td><td>4</td><td>4</td></tr><tr><td>3</td><td>عمر الساعي</td><td>4</td><td>0</td></tr><tr><td>4</td><td>ياو أنور</td><td>3</td><td>0</td></tr><tr><td>5</td><td>عماد حمدى</td><td>2</td><td>0</td></tr></table>\n\nالأكثر حصولاً على الكروت\n\n<table><caption>1 محمد الدسوقي</caption><tr><td>2</td><td>محمد نصر</td><td>6</td><td>1</td></tr><tr><td>3</td><td>عمر الساعي</td><td>6</td><td>0</td></tr><tr><td>4</td><td>محمد مخلوف</td><td>5</td><td>0</td></tr><tr><td>5</td><td>محمد بيومي</td><td>4</td><td>0</td></tr></table>\n\n<table><caption>1 عبد الرحمن مجدي</caption><tr><td>2</td><td>محمد الدسوقي</td><td>30</td><td>2349</td></tr><tr><td>3</td><td>عمر الساعي</td><td>29</td><td>2291</td></tr><tr><td>4</td><td>محمد نصر</td><td>24</td><td>1967</td></tr><tr><td>5</td><td>نادر فرج</td><td>30</td><td>1906</td></tr></table>\n\nالاسماعيلي يوجه الشكر لحارسه\n\nعاجل الاسماعيلي يستغني عن ثلاث لاعبين\n\nباهر المحمدي يعتذر لجماهير الاسماعيلي\n\nغضب في الاسماعيلية من حسام حسن\n\nحمزة الجمل: أغلقنا صفحة سبراميكا و بدأنا التركيز على اللقاء القادم .. لم نكتفي بعد",
+  "page_id": "MISRAJ-0216",
+  "prompt_hash": "16f15a15a1eb51817cd30c2dbf607e77a9f67eec41448526aab5aeb87f2311d4",
+  "raw_output": "<table><tr><td>1</td><td>الأهلى</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>2</td><td>الإسماعيلى</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>3</td><td>الاتحاد</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>4</td><td>البنك الاهلى</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>5</td><td>الجونة</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>6</td><td>الزمالك</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>7</td><td>المصري</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>8</td><td>انبي</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table>\n\n<table><caption>1 عبد الرحمن مجدي</caption><tr><td>2</td><td>محمد الدسوقي</td><td>4</td><td>4</td></tr><tr><td>3</td><td>عمر الساعي</td><td>4</td><td>0</td></tr><tr><td>4</td><td>ياو أنور</td><td>3</td><td>0</td></tr><tr><td>5</td><td>عماد حمدى</td><td>2</td><td>0</td></tr></table>\n\nالأكثر حصولاً على الكروت\n\n<table><caption>1 محمد الدسوقي</caption><tr><td>2</td><td>محمد نصر</td><td>6</td><td>1</td></tr><tr><td>3</td><td>عمر الساعي</td><td>6</td><td>0</td></tr><tr><td>4</td><td>محمد مخلوف</td><td>5</td><td>0</td></tr><tr><td>5</td><td>محمد بيومي</td><td>4</td><td>0</td></tr></table>\n\n<table><caption>1 عبد الرحمن مجدي</caption><tr><td>2</td><td>محمد الدسوقي</td><td>30</td><td>2349</td></tr><tr><td>3</td><td>عمر الساعي</td><td>29</td><td>2291</td></tr><tr><td>4</td><td>محمد نصر</td><td>24</td><td>1967</td></tr><tr><td>5</td><td>نادر فرج</td><td>30</td><td>1906</td></tr></table>\n\nالاسماعيلي يوجه الشكر لحارسه\n\nعاجل الاسماعيلي يستغني عن ثلاث لاعبين\n\nباهر المحمدي يعتذر لجماهير الاسماعيلي\n\nغضب في الاسماعيلية من حسام حسن\n\nحمزة الجمل: أغلقنا صفحة سبراميكا و بدأنا التركيز على اللقاء القادم .. لم نكتفي بعد",
+  "retry_count": 0,
+  "run_id": "tencent-hunyuanocr__smoke__30200dc6",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-19T20:52:58.807+00:00",
+  "status": "PASS"
+}

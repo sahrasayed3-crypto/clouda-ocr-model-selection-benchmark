@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T02:18:01.912+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2334,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.2819548872180451,
+    "cer_raw": 0.28142589118198874,
+    "wer_normalized": 0.3836477987421384,
+    "wer_raw": 0.3836477987421384
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "الجمهورية الجزائرية الديمقراطية الشعبية\nRépublique Algérienne Démocratique et Populaire\nوزارة التعليم العالي والبحث العلمي\nMinistère de l'Enseignement Supérieur et de la Recherche Scientifique\nجامعة الشهيد حمّه لخضر - الوادي\nUniversité Echahid Hamma Lakhdar-El oued\nكلية العلوم الاقتصادية والتجارية وعلوم التسيير\nالمجلس العلمي الكلية\nجامعة الشهيد حمّة نغضير - الوادي\nDaborsité Echahid Hamma Lakhdar - El-Goud\nFaculté des sciences économiques, commerciales\net sciences de gestion\nالرقم: 295 / م ع/ ك ع اق ت وع ت/ 2021\nالوادي في : 2021/06/02\nشهادة اعتماد مطبوعة بهـ\nيشهد رئيس المجلس العلمي لكلية العلوم الاقتصادية والتجارية وعلوم التسيير\nبجامعة الشهيد حمة لخضر الوادي على أن:\nد/ حمزة بالي .................................. أستاذ محاضر أ\nقدم للمجلس العلمي للكلية عن طريق اللجنة العلمية لقسم علوم التسيير\nمطبوعة علمية بعنوان: محاضرات في مقياس تاريخ الفكر الاقتصادي موجهة لطلبة\nالسنة الثانية علوم اقتصادية.\nوبعد التقارير الايجابية المقدمة من طرف لجنة القراءة والتحكيم، فإنه يتم اعتماد\nالمطبوعة وتعتبر محكمة علميا.\nجامعة الشهيد حمه لحضر - الوادى\nUniversité Echahid Hamma Lakhdar - El-Oued\nرئيس المجلس العلمي\nنائب رئيس المجلس العلمي للكليات العلوم\nالاقتصادية والتجارية وعلوم التسيير\nرئيس الجامعة\nالجمهورية الوادي",
+  "page_id": "KITAB-R-0003",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "الجمهورية الجزائرية الديمقراطية الشعبية\nRépublique Algérienne Démocratique et Populaire\nوزارة التعليم العالي والبحث العلمي\nMinistère de l'Enseignement Supérieur et de la Recherche Scientifique\nجامعة الشهيد حمّه لخضر - الوادي\nUniversité Echahid Hamma Lakhdar-El oued\nكلية العلوم الاقتصادية والتجارية وعلوم التسيير\nالمجلس العلمي الكلية\nجامعة الشهيد حمّة نغضير - الوادي\nDaborsité Echahid Hamma Lakhdar - El-Goud\nFaculté des sciences économiques, commerciales\net sciences de gestion\nالرقم: 295 / م ع/ ك ع اق ت وع ت/ 2021\nالوادي في : 2021/06/02\nشهادة اعتماد مطبوعة بهـ\nيشهد رئيس المجلس العلمي لكلية العلوم الاقتصادية والتجارية وعلوم التسيير\nبجامعة الشهيد حمة لخضر الوادي على أن:\nد/ حمزة بالي .................................. أستاذ محاضر أ\nقدم للمجلس العلمي للكلية عن طريق اللجنة العلمية لقسم علوم التسيير\nمطبوعة علمية بعنوان: محاضرات في مقياس تاريخ الفكر الاقتصادي موجهة لطلبة\nالسنة الثانية علوم اقتصادية.\nوبعد التقارير الايجابية المقدمة من طرف لجنة القراءة والتحكيم، فإنه يتم اعتماد\nالمطبوعة وتعتبر محكمة علميا.\nجامعة الشهيد حمه لحضر - الوادى\nUniversité Echahid Hamma Lakhdar - El-Oued\nرئيس المجلس العلمي\nنائب رئيس المجلس العلمي للكليات العلوم\nالاقتصادية والتجارية وعلوم التسيير\nرئيس الجامعة\nالجمهورية الوادي",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T02:17:50.345+00:00",
+  "status": "PASS"
+}

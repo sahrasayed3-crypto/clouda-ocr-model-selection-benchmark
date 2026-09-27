@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-23T23:27:44.042+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "3f2b04c98d44e778d8c2a7157b3eec102503d1d09e87f0d53693bc10ca880ee3",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 905,
+    "width": 650
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.8633333333333333,
+    "cer_raw": 0.8896969696969697,
+    "wer_normalized": 0.35294117647058826,
+    "wer_raw": 0.35294117647058826
+  },
+  "model_id": "MBZUAI/AIN",
+  "model_revision": "20fc39f8c3cf97afea0ee8e47f43702239edb70d",
+  "normalized_output": "الصحابة والصحبة وشبهات حول عدالة الصحابة وضبطهم عرض ونقد\n ١٢٧٦\n سيديو\n ٣١٦\n طه حسين\n ٢٧٤\n عبد الرحمن بن ملجم\n ٢٣٥\n عبدالغني بن سعيد الأزدي\n ٤٣٢\n عبد الله بن إياض\n ٢٣١\n عبد الله بن الزبير\n ٥٢٩\n عبد الله بن الصفَّار\n ٢٣٠\n عبد الله بن حمزة\n ٢٥٩\n عبد الله بن حميد السالمي\n ٢٣٧\n علي بن إبراهيم القمي\n ٦٢١\n علي بن محمد بن أبي القاسم\n ٢٦٤\n عمرو بن بحر الجاحظ\n ٢٥٠\n غوستاف لوبون\n ٣٢٦\n فنسنك\n ٣١٨\n قاسم أمين\n ٢٧٥\n كارل بروكليان\n ٣٢٤\n كزانوفا بول\n ٣٢٣\n كلود كاهين\n ٣٢٣\n اللورد كرومر\n ٢٧٣\n محمد أسد\n ٧١٥\n محمد الأمين الشنقيطي\n ٢٠٥\n محمد الحسن بن دريد",
+  "page_id": "MISRAJ-0023",
+  "prompt_hash": "6a3a6abb9b87409c810ae1ac498bfedfb78686295d5c00d7be0050dd149737eb",
+  "raw_output": "الصحابة والصحبة وشبهات حول عدالة الصحابة وضبطهم عرض ونقد\n\t\t\t\t\t\t\t١٢٧٦\n\t\t\tسيديو\n\t\t\t\t٣١٦\n\t\t\t\t\tطه حسين\n\t\t\t\t٢٧٤\n\t\t\t\t\tعبد الرحمن بن ملجم\n\t\t\t\t٢٣٥\n\t\t\t\t\tعبدالغني بن سعيد الأزدي\n\t\t\t\t٤٣٢\n\t\t\t\t\tعبد الله بن إياض\n\t\t\t\t٢٣١\n\t\t\t\t\tعبد الله بن الزبير\n\t\t\t\t٥٢٩\n\t\t\t\t\tعبد الله بن الصفَّار\n\t\t\t\t٢٣٠\n\t\t\t\t\tعبد الله بن حمزة\n\t\t\t\t٢٥٩\n\t\t\t\t\tعبد الله بن حميد السالمي\n\t\t\t\t٢٣٧\n\t\t\t\t\tعلي بن إبراهيم القمي\n\t\t\t\t٦٢١\n\t\t\t\t\tعلي بن محمد بن أبي القاسم\n\t\t\t\t٢٦٤\n\t\t\t\t\tعمرو بن بحر الجاحظ\n\t\t\t\t٢٥٠\n\t\t\t\t\tغوستاف لوبون\n\t\t\t\t٣٢٦\n\t\t\t\t\tفنسنك\n\t\t\t\t٣١٨\n\t\t\t\t\tقاسم أمين\n\t\t\t\t٢٧٥\n\t\t\t\t\tكارل بروكليان\n\t\t\t\t٣٢٤\n\t\t\t\t\tكزانوفا بول\n\t\t\t\t٣٢٣\n\t\t\t\t\tكلود كاهين\n\t\t\t\t٣٢٣\n\t\t\t\t\tاللورد كرومر\n\t\t\t\t٢٧٣\n\t\t\t\t\tمحمد أسد\n\t\t\t\t٧١٥\n\t\t\t\t\tمحمد الأمين الشنقيطي\n\t\t\t\t٢٠٥\n\t\t\t\t\tمحمد الحسن بن دريد",
+  "retry_count": 0,
+  "run_id": "mbzuai-ain__full__46808f9e",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-23T23:27:28.026+00:00",
+  "status": "PASS"
+}

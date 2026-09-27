@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-23T22:28:53.649+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "c731166167f7b06c0a55abc0ea7a4407b86ac433bc70041d0b88a200554385c5",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1396,
+    "width": 825
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.9505591524426134,
+    "cer_raw": 0.9523539421440727,
+    "wer_normalized": 1,
+    "wer_raw": 1
+  },
+  "model_id": "context212/alhazen-ocr",
+  "model_revision": "110b461e2389c97f68a1310370afeebb4a0b381f",
+  "normalized_output": "Create a search-and-extract operation on the page, identifying the primary and supporting texts. I have extracted the text from the page, preserving the original reading order. Here is the extracted information, processed and presented in a structured format:\nSee R+soft®® cell, Limited®® cell Playopy® cell, Limited® Limited® finance.com® close,造金® issues造® close, cell-Climar® close-falcon® close, cell-Climar® bio-flood® close. We have some processing limitations limits, close-fario® bio-flood® playbot® issue issues issues issues issues issues issues. We work.com®",
+  "page_id": "MISRAJ-0020",
+  "prompt_hash": "631994fea519ca7a7390c2788b906e643d420ba3564ff2190dded854cce1cdc5",
+  "raw_output": "Create a search-and-extract operation on the page, identifying the primary and supporting texts. I have extracted the text from the page, preserving the original reading order. Here is the extracted information, processed and presented in a structured format:\nSee R+soft®® cell, Limited®® cell Playopy® cell, Limited® Limited® finance.com® close,造金® issues造® close, cell-Climar® close-falcon® close, cell-Climar® bio-flood® close. We have some processing limitations limits, close-fario® bio-flood® playbot® issue issues issues issues issues issues issues. We work.com®",
+  "retry_count": 0,
+  "run_id": "context212-alhazen-ocr__full__532ac6c6__effa66a8b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-23T22:28:44.488+00:00",
+  "status": "PASS"
+}

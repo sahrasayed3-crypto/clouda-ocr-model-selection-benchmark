@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T09:50:50.934+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 1512,
+    "width": 1072
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.3920335429769392,
+    "cer_raw": 0.3920335429769392,
+    "wer_normalized": 0.3333333333333333,
+    "wer_raw": 0.3333333333333333
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nدنيوية مع اهتمام رغباته بالواقعية بطريقة لا تبدو فيها آية حادثة مبتذلة وعادية. أما بالنسبة للمواضيع الدينية فقد عرض هذا الفن تمسكاً بالشكليات لم يسمح معها للإنسان بمواجهة الآلهة وجهًا لوجه بل سمح له بتادية الطقوس الدينية أمام تماثيل هذه الآلهة وشعاراتها»(٢٣١).\n\n![Image 1](page_0_0_1583_2048.png)\n\nالشكل رقم ١٢٩ : مدح تركزيتي - نينورتا الأول ١٢٤٤ - ١٢٠٨ قبل الميلاد من آشور. ونلاحظ الرسم النافر فيه طقس تقديم الولاء والطاعة للآلهة نوسكو. الارتفاع ٥٣ سم.\n\n٢٥٣",
+  "page_id": "MISRAJ-0054",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\nدنيوية مع اهتمام رغباته بالواقعية بطريقة لا تبدو فيها آية حادثة مبتذلة وعادية. أما بالنسبة للمواضيع الدينية فقد عرض هذا الفن تمسكاً بالشكليات لم يسمح معها للإنسان بمواجهة الآلهة وجهًا لوجه بل سمح له بتادية الطقوس الدينية أمام تماثيل هذه الآلهة وشعاراتها»(٢٣١).\n\n![Image 1](page_0_0_1583_2048.png)\n\nالشكل رقم ١٢٩ : مدح تركزيتي - نينورتا الأول ١٢٤٤ - ١٢٠٨ قبل الميلاد من آشور. ونلاحظ الرسم النافر فيه طقس تقديم الولاء والطاعة للآلهة نوسكو. الارتفاع ٥٣ سم.\n\n٢٥٣",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T09:50:31.398+00:00",
+  "status": "PASS"
+}

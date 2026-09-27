@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-24T08:23:36.271+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "dd19a3c2ea71b7318e5ca0374b2a2ca00bc784aeb05f196cdf6635a01e8f4ce0",
+  "gpu_name": "NVIDIA H200",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2200,
+    "width": 1700
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.24177631578947367,
+    "cer_raw": 0.24098360655737705,
+    "wer_normalized": 0.42657342657342656,
+    "wer_raw": 0.42657342657342656
+  },
+  "model_id": "hastyle/olmOCR-arabic-lora-v2",
+  "model_revision": "f436e9a0abc93fc5d31231c294fbc40c6965106f",
+  "normalized_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n- اعتذرى ..\n\n- سيادتك كنت وعدت الأسطى عبد العال إنك حتحضرى كتب كتاب بنته الللى بتشتغل عندنا في العاشر من رمضان ..\n\n- إيوه صحيح .. مفيش مانع .. إيه الهدية المناسبة في الحالات اللي زى دى ..\n\n- فلوس في ظرف ..\n\n- قد إيه ياكاميليا ..\n\n- زى سيادتك ماتشوف يا أفندهم ..\n\n- قد إيه يعنى ؟\n\n- مرتب شهر ..\n\n- شهر ؟ بس ؟ وأنا اهز طولى لحد آخر إمبابه علشان مائة جنيه ولا مائتين .. طيب متشكرة ياكاميليا .. إذا كان فيه حاجة هامة جدًا اتصللى بي .\n\n- تخرج السكرتيرة ..\n\nوعلى السلالم تقابل ابنها الدكتور حسان الذى يقبل خديها ورأسها .. وكلمة منه وكلمة منها .. وتدخل سيارتها ويظل واقفًا حتى تختفى ويصعد إلى مكتبه ..",
+  "page_id": "KITAB-R-0036",
+  "prompt_hash": "c12f21aca8c6c5599cea6176edd974b7ea6a05cf451497abd6370dd449db3979",
+  "raw_output": "---\nprimary_language: ar\nis_rotation_valid: True\nrotation_correction: 0\nis_table: False\nis_diagram: False\n---\n- اعتذرى ..\n\n- سيادتك كنت وعدت الأسطى عبد العال إنك حتحضرى كتب كتاب بنته الللى بتشتغل عندنا في العاشر من رمضان ..\n\n- إيوه صحيح .. مفيش مانع .. إيه الهدية المناسبة في الحالات اللي زى دى ..\n\n- فلوس في ظرف ..\n\n- قد إيه ياكاميليا ..\n\n- زى سيادتك ماتشوف يا أفندهم ..\n\n- قد إيه يعنى ؟\n\n- مرتب شهر ..\n\n- شهر ؟ بس ؟ وأنا اهز طولى لحد آخر إمبابه علشان مائة جنيه ولا مائتين .. طيب متشكرة ياكاميليا .. إذا كان فيه حاجة هامة جدًا اتصللى بي .\n\n- تخرج السكرتيرة ..\n\nوعلى السلالم تقابل ابنها الدكتور حسان الذى يقبل خديها ورأسها .. وكلمة منه وكلمة منها .. وتدخل سيارتها ويظل واقفًا حتى تختفى ويصعد إلى مكتبه ..",
+  "retry_count": 0,
+  "run_id": "hastyle-olmocr-arabic-lora-v2__full__6137cb8b__e7963667b",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-24T08:23:14.480+00:00",
+  "status": "PASS"
+}

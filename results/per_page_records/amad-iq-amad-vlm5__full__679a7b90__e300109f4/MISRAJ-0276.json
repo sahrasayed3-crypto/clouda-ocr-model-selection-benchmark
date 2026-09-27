@@ -1,0 +1,31 @@
+{
+  "completed_at": "2026-09-20T04:08:13.793+00:00",
+  "dtype": "bfloat16",
+  "exception_message": null,
+  "exception_type": null,
+  "generation_config_hash": "ec4823624c6492043351500274af37f528b247b45eb7f7f76133cd9c3660e87a",
+  "gpu_name": "NVIDIA L40S",
+  "gpu_uuid_if_available": null,
+  "input_dimensions": {
+    "height": 2100,
+    "width": 1275
+  },
+  "is_dry_run": false,
+  "metrics": {
+    "cer_normalized": 0.24817518248175183,
+    "cer_raw": 0.2589928057553957,
+    "wer_normalized": 0.4230769230769231,
+    "wer_raw": 0.4230769230769231
+  },
+  "model_id": "amad-iq/amad-vlm5",
+  "model_revision": "bb481308f8776cb7e6e5a12f2cca448ab528b89c",
+  "normalized_output": "1998 كانت سنه بسيطه فى التقويم الجريجورى .\n• ١ احداث\n• ٢ مناسبات وأعياد\n• ٣ مواليد\n• ٤ وفيات\n• ٥ جوايز نوبل\n• ٦ مصادر\nكاس العالم لكورة القدم فى فرنسا 98\nو كسبت به فرنسا فى النهائي على البرازيل بنتيجه 0 3\nمناسبات وأعياد\n60",
+  "page_id": "MISRAJ-0276",
+  "prompt_hash": "d115998f461653258d4dc338c009ccb95ebe6d37e4bfa8f93d4f12cece01e7c9",
+  "raw_output": "1998 كانت سنه بسيطه فى التقويم الجريجورى .\n• ١ احداث\n• ٢ مناسبات وأعياد\n• ٣ مواليد\n• ٤ وفيات\n• ٥ جوايز نوبل\n• ٦ مصادر\nكاس العالم لكورة القدم فى فرنسا 98\nو كسبت به فرنسا فى النهائي على البرازيل بنتيجه 0 3\nمناسبات وأعياد\n60",
+  "retry_count": 0,
+  "run_id": "amad-iq-amad-vlm5__full__679a7b90__e300109f4",
+  "schema_version": "1.0.0",
+  "started_at": "2026-09-20T04:08:10.212+00:00",
+  "status": "PASS"
+}
