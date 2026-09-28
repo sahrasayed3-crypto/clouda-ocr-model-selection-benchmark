@@ -2,7 +2,7 @@
 
 Version 1.0 — protocol frozen 2026-09-19 before any full-run inference; run window **2026-09-19 → 2026-09-24 UTC**, across two sessions on two servers (session 1: NVIDIA L40S with sequential single-model execution; session 2 (resumed): NVIDIA H200).
 
-This document describes the exact protocol of the Clouda OCR model-selection benchmark: a direct, frozen evaluation of existing OCR/VLM models on 462 Arabic document pages, run to compare Arabic OCR quality, robustness, and speed for model selection.
+This document describes the exact protocol of the Clouda OCR model-selection benchmark: a direct, frozen evaluation of existing OCR/VLM models on 462 Arabic document pages, run to compare Arabic OCR quality and robustness for model selection.
 
 ## 1. Corpus construction
 
