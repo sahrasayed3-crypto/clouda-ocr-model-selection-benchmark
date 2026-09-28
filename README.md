@@ -1,6 +1,6 @@
 # Clouda OCR — Arabic OCR Model Selection Benchmark
 
-**Clouda OCR evaluated existing OCR/VLM models to compare Arabic OCR quality, robustness, and speed for model selection.**
+**Clouda OCR evaluated existing OCR/VLM models to compare Arabic OCR quality and robustness for model selection.**
 
 This repository publishes that evaluation in full: the frozen 462-page benchmark corpus (manifest, ground truth, and checksums), the complete per-page records for every completed run, the exact scorer and runner code, the pinned model revisions and prompts, and a full provenance/licensing record for reproducibility.
 
